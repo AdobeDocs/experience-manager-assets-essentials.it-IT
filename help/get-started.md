@@ -2,10 +2,10 @@
 title: Introduzione a [!DNL Assets Essentials]
 description: Come accedere, accedere a esperienze di, casi di utilizzo supportati e problemi noti di [!DNL Assets Essentials].
 role: Business Practitioner, Leader
-source-git-commit: 825297959b19361260121949c99ede37dced9a9c
+source-git-commit: 4a7fe369485db5cae843694c68f84133c9118337
 workflow-type: tm+mt
-source-wordcount: '441'
-ht-degree: 2%
+source-wordcount: '451'
+ht-degree: 1%
 
 ---
 
@@ -49,7 +49,7 @@ When logging in, after providing the credentials, you can be prompted to select 
 ![Select an account to login](assets/do-not-localize/login-experience.gif)
 -->
 
-## [!DNL Assets Essentials] casi d&#39;uso  {#use-cases}
+## [!DNL Assets Essentials] casi d&#39;uso {#use-cases}
 
 Di seguito sono elencate le varie attività di gestione delle risorse digitali (DAM) che puoi eseguire utilizzando [!DNL Assets Essentials] .
 
@@ -69,13 +69,16 @@ Di seguito sono elencate le varie attività di gestione delle risorse digitali (
 | How do I collaborate with others and get my assets reviewed | <ul> <li>Share for review</li> <li>Provide comments. Resolve and filter comments</li> <li>Annotations on images</li> <li>Assign tasks to specific users and prioritize</li> </ul> |
 -->
 
-## ![icona ](assets/do-not-localize/feedback-icon.png) di feedbackFornire feedback sul prodotto  {#provide-feedback}
+## ![icona ](assets/do-not-localize/feedback-icon.png) di feedbackFornire feedback sul prodotto {#provide-feedback}
 
 L&#39;Adobe accoglie con favore il feedback sulla soluzione. Per fornire un feedback senza nemmeno cambiare l&#39;applicazione di lavoro, utilizza l&#39;opzione [!UICONTROL Feedback] nell&#39;interfaccia utente. Permette inoltre di allegare file come le schermate o la registrazione video di un problema.
 
 ![opzione di feedback nell’interfaccia](assets/feedback-panel.png)
 
-Per fornire feedback per la documentazione, fai clic su Modifica questa pagina ![modifica la pagina](assets/do-not-localize/edit-page.png) o Segnala un problema ![crea un problema GitHub](assets/do-not-localize/github-issue.png) dal margine destro. Effettua gli aggiornamenti dei contenuti e invia una richiesta di pull GitHub o crea un problema o un ticket in GitHub.
+Per fornire un feedback per la documentazione, fai clic su [!UICONTROL Edit this page] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Log an issue] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) dalla barra laterale destra. Puoi effettuare una delle seguenti operazioni:
+
+* Effettua gli aggiornamenti dei contenuti e invia una richiesta di pull GitHub.
+* Crea un problema o un ticket in GitHub. Quando crei un problema, mantieni il nome dell’articolo popolato automaticamente.
 
 >[!MORELIKETHIS]
 >
