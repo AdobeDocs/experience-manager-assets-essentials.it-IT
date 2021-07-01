@@ -2,15 +2,15 @@
 title: Caricare risorse nell’archivio
 description: Carica le risorse in [!DNL Assets Essentials], visualizza gli stati di caricamento e risolvi i problemi di caricamento.
 role: Business Practitioner
-source-git-commit: 3389908e3ba085362b48a18cd3c106e658484a96
+source-git-commit: e54cdf9b8ecb5d9ddc5b90a3ca82549c61b35074
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
 
 
-# Caricare risorse {#add-assets}
+# Caricare le risorse {#add-assets}
 
 Per aggiungere nuove risorse con cui lavorare, carica alcune risorse dal file system locale. <!-- TBD: Many of the [common file formats are supported](/help/supported-file-formats.md). -->
 
@@ -32,6 +32,10 @@ Una volta messi in coda tutti i file, fai clic su **[!UICONTROL Upload]**.
 
 *Figura: Prima di caricare le risorse selezionate, potete aggiungere o rimuovere le risorse dalla coda.*
 
+>[!CAUTION]
+>
+>Utilizza risorse prive di spazio vuoto nei nomi dei file. Le risposte ai commenti non funzionano per tali risorse.
+
 ## Visualizza stato e avanzamento del caricamento {#upload-progress}
 
 Quando carichi molte risorse o cartelle nidificate in [!DNL Assets Essentials], il caricamento di alcune risorse può non riuscire per vari motivi, ad esempio per problemi di risorse duplicate e di rete.
@@ -44,13 +48,13 @@ Per visualizzare un sottoinsieme di risorse in base all’avanzamento o allo sta
 
 *Figura: Filtra le risorse che hai tentato di caricare in base al loro stato di caricamento o all’avanzamento del caricamento.*
 
-Immediatamente dopo il caricamento delle risorse, Assets Essentials elabora le risorse per generare miniature ed elaborare metadati. Per molte risorse, l’elaborazione richiede un po’ di tempo. Se non visualizzi una miniatura e vedi un messaggio di elaborazione sulla miniatura del segnaposto, controlla nuovamente la cartella dopo alcuni minuti.
+Immediatamente dopo il caricamento delle risorse, [!DNL Assets Essentials] elabora le risorse per generare miniature ed elaborare metadati. Per molte risorse, l’elaborazione richiede un po’ di tempo. Se non visualizzi una miniatura e vedi un messaggio di elaborazione sulla miniatura del segnaposto, controlla nuovamente la cartella dopo alcuni minuti.
 
 ![Elaborazione al caricamento](assets/upload-processing.png)
 
 ## Rendering delle risorse {#renditions}
 
-Assets Essentials elabora le risorse caricate in tempo quasi reale e per molti tipi di file supportati genera rappresentazioni. Creati per le immagini, i rendering sono versioni ridimensionate dell&#39;immagine caricata. Puoi scaricare non solo la risorsa, ma anche le rappresentazioni per utilizzare una versione appropriata. Puoi visualizzare tutte le rappresentazioni di una risorsa quando [visualizzi l&#39;anteprima di una risorsa](/help/navigate-view.md#preview-assets).
+[!DNL Assets Essentials] elabora le risorse caricate in tempo quasi reale e per molti tipi di file supportati genera rappresentazioni. Creati per le immagini, i rendering sono versioni ridimensionate dell&#39;immagine caricata. Puoi scaricare non solo la risorsa, ma anche le rappresentazioni per utilizzare una versione appropriata. Puoi visualizzare tutte le rappresentazioni di una risorsa quando [visualizzi l&#39;anteprima di una risorsa](/help/navigate-view.md#preview-assets).
 
 ![Rappresentazioni](assets/renditions-view-download.png)
 
