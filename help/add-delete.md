@@ -2,9 +2,9 @@
 title: Caricare risorse nell’archivio
 description: Carica le risorse in [!DNL Assets Essentials], visualizza gli stati di caricamento e risolvi i problemi di caricamento.
 role: Business Practitioner
-source-git-commit: e54cdf9b8ecb5d9ddc5b90a3ca82549c61b35074
+source-git-commit: 6e482854e7cec3d8bc2fed786a2c6a685b3f8eed
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '729'
 ht-degree: 0%
 
 ---
@@ -48,15 +48,19 @@ Per visualizzare un sottoinsieme di risorse in base all’avanzamento o allo sta
 
 *Figura: Filtra le risorse che hai tentato di caricare in base al loro stato di caricamento o all’avanzamento del caricamento.*
 
-Immediatamente dopo il caricamento delle risorse, [!DNL Assets Essentials] elabora le risorse per generare miniature ed elaborare metadati. Per molte risorse, l’elaborazione richiede un po’ di tempo. Se non visualizzi una miniatura e vedi un messaggio di elaborazione sulla miniatura del segnaposto, controlla nuovamente la cartella dopo alcuni minuti.
+Immediatamente dopo il caricamento delle risorse, [!DNL Assets Essentials] elabora le risorse per generare miniature ed elaborare metadati. Per molte risorse, l’elaborazione richiede un po’ di tempo. Se non visualizzi una miniatura e vedi un messaggio di elaborazione sulla miniatura del segnaposto, controlla nuovamente la cartella dopo alcuni minuti. Durante l’elaborazione, tra l’altro, [!DNL Assets Essentials] genera le rappresentazioni, aggiunge tag avanzati e indicizza i dettagli delle risorse per la ricerca.
 
-![Elaborazione al caricamento](assets/upload-processing.png)
+![Le risorse sono processi al momento del caricamento e la tessera visualizza l’elaborazione](assets/upload-processing.png)
+
+*Figura: Le risorse caricate mostrano l’elaborazione sulla tessera che vengono elaborate.*
 
 ## Rendering delle risorse {#renditions}
 
 [!DNL Assets Essentials] elabora le risorse caricate in tempo quasi reale e per molti tipi di file supportati genera rappresentazioni. Creati per le immagini, i rendering sono versioni ridimensionate dell&#39;immagine caricata. Puoi scaricare non solo la risorsa, ma anche le rappresentazioni per utilizzare una versione appropriata. Puoi visualizzare tutte le rappresentazioni di una risorsa quando [visualizzi l&#39;anteprima di una risorsa](/help/navigate-view.md#preview-assets).
 
 ![Rappresentazioni](assets/renditions-view-download.png)
+
+*Figura: Visualizza e scarica le rappresentazioni.*
 
 ## Gestire i caricamenti non riusciti {#resolve-upload-fails}
 
@@ -87,5 +91,7 @@ Gli utenti possono eliminare singole risorse o cartelle che non sono più necess
 * Utilizza l’opzione disponibile sulla miniatura di una risorsa o di una cartella.
 
    ![Opzioni sulla miniatura della risorsa per gestire una risorsa](assets/options-on-thumbnail.png)
+
+   *Figura: Le azioni per file e cartelle sono disponibili nel riquadro della risorsa o della cartella.*
 
 * Seleziona una risorsa o una cartella e fai clic su **[!UICONTROL Delete]** ![Elimina icona](assets/do-not-localize/delete-icon.png) nella barra degli strumenti.
