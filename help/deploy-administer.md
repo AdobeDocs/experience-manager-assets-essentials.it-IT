@@ -2,9 +2,9 @@
 title: Distribuzione e gestione degli utenti
 description: Casi di utilizzo dell'amministrazione, ad esempio la distribuzione e la gestione degli utenti in [!DNL Assets Essentials].
 role: Administrator
-source-git-commit: e54cdf9b8ecb5d9ddc5b90a3ca82549c61b35074
+source-git-commit: 6e482854e7cec3d8bc2fed786a2c6a685b3f8eed
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '834'
 ht-degree: 2%
 
 ---
@@ -30,11 +30,15 @@ Dopo il provisioning, l’adesione [!DNL Assets Essentials] viene aggiunta all�
 
    ![[!DNL Assets Essentials] ingresso scheda  [!DNL Admin Console]](assets/essentials-in-admin-console.png)
 
+   *Figura:  [!DNL Assets Essentials] scheda in  [!DNL Admin Console].*
+
 1. Aggiungi te stesso come amministratore al prodotto `AEM Assets Essentials - Cloud Manager` in [!DNL Cloud Manager]. Puoi aggiungere un altro membro dell’organizzazione oppure più amministratori.
 
 1. Fai clic su ![aggiungi icona](assets/do-not-localize/add-icon.svg) a [!UICONTROL Select product profiles], quindi seleziona [!UICONTROL Deployment Manager - Assets Essentials] come **[!UICONTROL product profile]**. L’utente aggiunto in questo passaggio riceve un’e-mail dall’Adobe con accesso a [!DNL Cloud Manager] e può eseguire la distribuzione.
 
    ![Aggiungi un amministratore e seleziona un profilo di prodotto in  [!DNL Admin Console]](assets/adminconsole-user1.png)
+
+   *Figura: Aggiungi un amministratore e seleziona un profilo di prodotto in  [!DNL Admin Console].*
 
 1. Per accedere a [!DNL Cloud Manager], fai clic sul collegamento nell’e-mail con accesso a [!DNL Cloud Manager]. In alternativa, accedi a `https://experience.adobe.com/#/cloud-manager/` nel browser.
 
@@ -48,9 +52,13 @@ Dopo il provisioning, l’adesione [!DNL Assets Essentials] viene aggiunta all�
 
    ![Aggiungi un ambiente in  [!DNL Cloud Manager]](assets/cloudmanager-add-environment-for-essentials.png)
 
+   *Figura: Aggiungi un ambiente in  [!DNL Cloud Manager] per iniziare a utilizzare  [!DNL Assets Essentials].*
+
 1. Quando l’ambiente viene creato correttamente, puoi accedere alla soluzione [!DNL Admin Console] e aggiungere gli utenti dell’organizzazione alla soluzione [!DNL Assets Essentials]. Fare clic sull&#39;icona ![opzioni](assets/do-not-localize/options-ellipses-icon.png) e selezionare l&#39;opzione **[!UICONTROL Manage Access]**.
 
    ![Ambiente pronto in  [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
+
+   *Figura: Un ambiente in  [!DNL Cloud Manager] che è pronto per essere utilizzato.*
 
 ## Gestione degli utenti {#add-users-to-essentials}
 
@@ -65,9 +73,13 @@ In [!DNL Admin Console], questi due tipi di accesso sono rappresentati da due [!
 
    ![Due profili per due tipi di utenti](assets/adminconsole-user-types.png)
 
+   *Figura: Sono disponibili due profili per aggiungere i due tipi di utenti.*
+
 1. Per aggiungere un utente a un gruppo, fare clic sul gruppo, selezionare **[!UICONTROL Add User]**, fornire i dettagli utente e fare clic su **[!UICONTROL Save]**. Quando aggiungi un utente, questo riceve un invito e-mail per iniziare. Puoi disattivare gli inviti e-mail nelle impostazioni del profilo di prodotto in [!DNL Admin Console].
 
    ![Aggiungi un utente a  [!DNL Assets Essentials]](assets/adminconsole-add-user.png)
+
+   *Figura: Aggiungi un utente a  [!DNL Assets Essentials] da  [!DNL Admin Console].*
 
 1. Per rimuovere un utente da un gruppo, fare clic sul gruppo, selezionare un utente esistente e selezionare **[!UICONTROL Remove User]**.
 
@@ -81,11 +93,15 @@ Dopo il provisioning, gli amministratori distribuiscono [!DNL Assets Essentials]
 
 1. Quando gli utenti segnalano dei problemi, controlla lo stato del servizio di [!DNL Assets Essentials] nell&#39;interfaccia di **[!UICONTROL Program Overview]**. Durante il normale funzionamento della soluzione, lo stato è `Running`. Se [!DNL Cloud Manager] visualizza qualsiasi altro stato, crea un ticket di supporto nella sezione relativa al supporto [!DNL Admin Console].
 
-   ![Stato in esecuzione di  [!DNL Assets Essentials] in  [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
+   ![Lo stato di  [!DNL Assets Essentials] in  [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
+
+   *Figura: Lo stato normale di  [!DNL Assets Essentials] in  [!DNL Cloud Manager] è  `Running`.*
 
 1. Per scaricare i registri di accesso recenti, fai clic sull&#39;icona ![opzioni](assets/do-not-localize/options-ellipses-icon.png), seleziona **[!UICONTROL Download Logs]** e segui le istruzioni sullo schermo. Puoi controllare le richieste di accesso HTTPS utilizzando i registri.
 
-   ![Opzione dei registri di download](assets/cloudmanager-download-logs.png)
+   ![ Opzione per scaricare i registri di accesso](assets/cloudmanager-download-logs.png)
+
+   *Figura: Opzione per scaricare i registri di accesso.*
 
 >[!MORELIKETHIS]
 >
