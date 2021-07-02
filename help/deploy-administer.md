@@ -2,9 +2,9 @@
 title: Distribuzione e gestione degli utenti
 description: Casi di utilizzo dell'amministrazione, ad esempio la distribuzione e la gestione degli utenti in [!DNL Assets Essentials].
 role: Administrator
-source-git-commit: 6e482854e7cec3d8bc2fed786a2c6a685b3f8eed
+source-git-commit: a9dfa9cc9e971faf24e5275c843fb1d0247d18c9
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '855'
 ht-degree: 2%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Distribuire [!DNL Assets Essentials] e aggiungere utenti {#administer}
 
-[!DNL Adobe Experience Manager Assets Essentials] è fornito per Adobe per i suoi clienti. Come parte del provisioning, [!DNL Assets Essentials] viene aggiunto all&#39;organizzazione di un cliente (organizzazione Adobe). Il cliente ha anche accesso a [!DNL Experience Manager Cloud Manager] come strumento di distribuzione e a [!DNL Admin Console] come strumento di gestione degli utenti.
+[!DNL Adobe Experience Manager Assets Essentials] è fornito per Adobe per i suoi clienti. Come parte del provisioning, [!DNL Assets Essentials] viene aggiunto all&#39;organizzazione di un cliente in [!DNL Adobe Admin Console]. I clienti possono inoltre accedere a [!DNL Experience Manager Cloud Manager] come strumento di distribuzione e a [!DNL Admin Console] per gestire le adesioni degli utenti alla soluzione [!DNL Assets Essentials].
 
 Gli amministratori eseguono le seguenti attività:
 
@@ -22,9 +22,7 @@ Gli amministratori eseguono le seguenti attività:
 
 ## Implementa [!DNL Assets Essentials] {#deploy-essentials}
 
-Dopo il provisioning, l’adesione [!DNL Assets Essentials] viene aggiunta all’organizzazione Adobe e l’amministratore di un’organizzazione la distribuisce. Gli amministratori dell&#39;organizzazione eseguono una distribuzione una tantum utilizzando l&#39;interfaccia utente [!DNL Cloud Manager]. Dopo la distribuzione iniziale, Adobe esegue la manutenzione e gli aggiornamenti del servizio. Per distribuire, segui questi passaggi:
-
-1. Assicurati che l’amministratore riceva un’e-mail dall’Adobe. L’e-mail contiene un messaggio di benvenuto e un collegamento per iniziare.
+Dopo il provisioning, l’adesione [!DNL Assets Essentials] viene aggiunta all’organizzazione in [!DNL Admin Console]. Prima che la soluzione sia disponibile per l&#39;utente, un amministratore dell&#39;organizzazione deve distribuirla. L&#39;amministratore esegue una distribuzione una tantum utilizzando l&#39;interfaccia utente [!DNL Cloud Manager]. Dopo la distribuzione iniziale, Adobe esegue la manutenzione e gli aggiornamenti del servizio. Dopo il provisioning della soluzione, l’amministratore riceve un’e-mail da Adobe. L’e-mail contiene un messaggio di benvenuto e un collegamento per iniziare. Per distribuire, segui questi passaggi:
 
 1. Dal collegamento nell&#39;e-mail, accedi e accedi a [Admin Console](https://adminconsole.adobe.com). Se disponi dell&#39;accesso dell&#39;amministratore a più account organizzazione, seleziona l&#39;organizzazione appropriata o passa a tale organizzazione utilizzando il commutatore nella barra superiore. La scheda prodotto per [!DNL Assets Essentials] è visibile in [!DNL Admin Console].
 
@@ -32,7 +30,7 @@ Dopo il provisioning, l’adesione [!DNL Assets Essentials] viene aggiunta all�
 
    *Figura:  [!DNL Assets Essentials] scheda in  [!DNL Admin Console].*
 
-1. Aggiungi te stesso come amministratore al prodotto `AEM Assets Essentials - Cloud Manager` in [!DNL Cloud Manager]. Puoi aggiungere un altro membro dell’organizzazione oppure più amministratori.
+1. Aggiungi te stesso come amministratore al profilo di prodotto `AEM Assets Essentials - Cloud Manager` nel [!DNL Admin Console]. Puoi aggiungere un altro membro dell’organizzazione oppure più amministratori.
 
 1. Fai clic su ![aggiungi icona](assets/do-not-localize/add-icon.svg) a [!UICONTROL Select product profiles], quindi seleziona [!UICONTROL Deployment Manager - Assets Essentials] come **[!UICONTROL product profile]**. L’utente aggiunto in questo passaggio riceve un’e-mail dall’Adobe con accesso a [!DNL Cloud Manager] e può eseguire la distribuzione.
 
@@ -40,7 +38,7 @@ Dopo il provisioning, l’adesione [!DNL Assets Essentials] viene aggiunta all�
 
    *Figura: Aggiungi un amministratore e seleziona un profilo di prodotto in  [!DNL Admin Console].*
 
-1. Per accedere a [!DNL Cloud Manager], fai clic sul collegamento nell’e-mail con accesso a [!DNL Cloud Manager]. In alternativa, accedi a `https://experience.adobe.com/#/cloud-manager/` nel browser.
+1. Per accedere a [!DNL Cloud Manager], fai clic sul collegamento nell’e-mail con accesso a [!DNL Cloud Manager]. In alternativa, accedi a [https://experience.adobe.com/#/cloud-manager/](https://experience.adobe.com/#/cloud-manager/) nel browser.
 
 1. Nell’interfaccia utente di Cloud Manager, fai clic su **[!UICONTROL Add Program]** nell’angolo in alto a destra.
 
@@ -54,7 +52,7 @@ Dopo il provisioning, l’adesione [!DNL Assets Essentials] viene aggiunta all�
 
    *Figura: Aggiungi un ambiente in  [!DNL Cloud Manager] per iniziare a utilizzare  [!DNL Assets Essentials].*
 
-1. Quando l’ambiente viene creato correttamente, puoi accedere alla soluzione [!DNL Admin Console] e aggiungere gli utenti dell’organizzazione alla soluzione [!DNL Assets Essentials]. Fare clic sull&#39;icona ![opzioni](assets/do-not-localize/options-ellipses-icon.png) e selezionare l&#39;opzione **[!UICONTROL Manage Access]**.
+1. Dopo alcuni minuti, quando l’ambiente viene creato correttamente, puoi accedere alla soluzione [!DNL Admin Console] e aggiungere gli utenti della tua organizzazione alla soluzione [!DNL Assets Essentials] . Fare clic sull&#39;icona ![opzioni](assets/do-not-localize/options-ellipses-icon.png) e selezionare l&#39;opzione **[!UICONTROL Manage Access]**.
 
    ![Ambiente pronto in  [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
 
