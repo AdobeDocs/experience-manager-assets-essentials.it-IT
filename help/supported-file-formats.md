@@ -3,7 +3,7 @@ title: Formati di file supportati
 description: Formati di file supportati per i vari casi d'uso di [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: a1dc66213f602bce5b5a2ec0ba99084c7f7b1ee1
+source-git-commit: e791ef4ffdfdad907b5e868b3f3eab0c597ae4cd
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 26%
@@ -35,15 +35,15 @@ I vari tipi di file supportano diversi livelli di supporto per i casi d’uso e 
 -->
 
 | Tipo risorsa | Sfoglia | Copia | Carica | Crea | Elimina | Dettagli | Zoom immagine | Visualizzato di recente |
-|---------------|----------|------|----------|----------|----------|----------|------------|-----------------|
-| Immagini raster | . |  | . | - | . | . | . | . |
-| Cartelle | . |  | . | . | . | . | - | - |
-| Video | . |  | . | - | . | * | - | . |
-| Librerie CC | . |  | . | . | . | . | - | - |
-| PDF | . |  | . | - | . | . | - | . |
-| PSD | . |  | . | - | . | * | - | . |
-| AI | . |  | . | - | . | * | - | . |
-| INDD | . |  | . | - | . | * | - | . |
+|---------------|----------|----------|----------|----------|----------|----------|------------|-----------------|
+| Immagini raster | . | . | . | - | . | . | . | . |
+| Cartelle | . | . | . | . | . | . | - | - |
+| Video | . | . | . | - | . | * | - | . |
+| Librerie CC | . | - | . | . | . | . | - | - |
+| PDF | . | . | . | - | . | . | - | . |
+| PSD | . | . | . | - | . | * | - | . |
+| AI | . | . | . | - | . | * | - | . |
+| INDD | . | . | . | - | . | * | - | . |
 
 ## Cercare, utilizzare e modificare le risorse {#support-to-search-use-edit}
 
