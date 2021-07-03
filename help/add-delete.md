@@ -1,8 +1,8 @@
 ---
 title: Caricare risorse nell’archivio
 description: Carica le risorse in [!DNL Assets Essentials], visualizza gli stati di caricamento e risolvi i problemi di caricamento.
-role: Business Practitioner
-source-git-commit: 6e482854e7cec3d8bc2fed786a2c6a685b3f8eed
+role: User
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '729'
 ht-degree: 0%
