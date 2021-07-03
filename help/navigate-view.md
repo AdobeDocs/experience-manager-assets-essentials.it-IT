@@ -1,8 +1,8 @@
 ---
 title: '[!DNL Assets Essentials] interfaccia utente'
 description: Comprendere l'interfaccia utente di e la navigazione in [!DNL Assets Essentials].
-role: Business Practitioner
-source-git-commit: 3389908e3ba085362b48a18cd3c106e658484a96
+role: User
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '534'
 ht-degree: 0%
@@ -10,13 +10,13 @@ ht-degree: 0%
 ---
 
 
-# Passa a file e cartelle e visualizza le risorse {#view-assets-and-details}
+# Spostarsi su file e cartelle e visualizzare le risorse {#view-assets-and-details}
 
 <!-- TBD: Give screenshots of all views with many assets. Zoom out to showcase how the thumbnails/tiles flow on the UI in different views. -->
 
 <!-- TBD: The options in left sidebar may change. Shared with me and Shared by me are missing for now. Update this section as UI is updated. -->
 
-## Comprendere l’ [!DNL Assets Essentials] interfaccia utente {#understand-interface-navigation}
+## Comprendere l’interfaccia utente [!DNL Assets Essentials] {#understand-interface-navigation}
 
 [!DNL Assets Essentials] offre un’interfaccia utente intuitiva e intuitiva. L’interfaccia pulita rende le risorse e le relative informazioni facili da trovare e ricordare.
 
@@ -38,7 +38,7 @@ Quando accedi a [!DNL Assets Essentials], viene visualizzata la seguente interfa
 
 <!-- TBD: Need an embedded video here with narration. It has to be hosted on MPC to be embeddable. -->
 
-## Sfoglia e visualizza risorse e cartelle {#browse-repository}
+## Cercare e visualizzare risorse e cartelle {#browse-repository}
 
 È possibile sfogliare i file o le cartelle richiesti dall&#39;interfaccia utente principale o dalla barra laterale sinistra. Durante la navigazione, puoi utilizzare l’interfaccia per visualizzare le miniature delle risorse per sfogliare visivamente l’archivio o visualizzare i dettagli delle risorse per trovare rapidamente la risorsa desiderata. Le opzioni disponibili nella barra laterale sinistra sono:
 
