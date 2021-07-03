@@ -1,8 +1,8 @@
 ---
 title: Distribuzione e gestione degli utenti
 description: Casi di utilizzo dell'amministrazione, ad esempio la distribuzione e la gestione degli utenti in [!DNL Assets Essentials].
-role: Administrator
-source-git-commit: a9dfa9cc9e971faf24e5275c843fb1d0247d18c9
+role: Admin
+source-git-commit: a1dc66213f602bce5b5a2ec0ba99084c7f7b1ee1
 workflow-type: tm+mt
 source-wordcount: '855'
 ht-degree: 2%
