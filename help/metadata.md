@@ -1,9 +1,9 @@
 ---
 title: Gestire i metadati
 description: Gestire i metadati delle risorse in [!DNL Assets Essentials]
-role: Business Practitioner,Leader,Administrator,Architect,Developer
+role: User,Leader,Administrator,Architect,Developer
 contentOwner: AG
-source-git-commit: 3389908e3ba085362b48a18cd3c106e658484a96
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Per visualizzare i metadati di una risorsa, cerca la risorsa o la risorsa, selez
 
 I metadati di base come titolo, descrizione e data di caricamento sono disponibili nella scheda [!UICONTROL Basic] . La scheda [!UICONTROL Advanced] contiene metadati più avanzati, ad esempio il modello di fotocamera, i dettagli dell&#39;obiettivo e i geotag. La scheda [!UICONTROL Tags] contiene tag applicati automaticamente in base al contenuto dell’immagine.
 
-## Aggiorna metadati {#update-metadata}
+## Aggiornare i metadati {#update-metadata}
 
 Puoi aggiornare manualmente alcuni campi di metadati. I campi includono [!UICONTROL Title], [!UICONTROL Description], [!UICONTROL Author] e [!UICONTROL Keywords].
 
