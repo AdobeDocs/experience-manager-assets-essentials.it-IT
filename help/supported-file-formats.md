@@ -3,10 +3,10 @@ title: Formati di file supportati
 description: Formati di file supportati per i vari casi d'uso di [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: e791ef4ffdfdad907b5e868b3f3eab0c597ae4cd
+source-git-commit: c63e9ab1054398dc055643f0dca6631bae881047
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 26%
+source-wordcount: '206'
+ht-degree: 24%
 
 ---
 
@@ -22,32 +22,31 @@ ht-degree: 26%
 I vari tipi di file supportano diversi livelli di supporto per i casi d’uso e le funzioni come descritto di seguito. Utilizza la legenda per comprendere il livello di supporto.
 
 | Livello di supporto | Descrizione |
-|---------------|-------------------------|
+|-------------------|-------------------------|
 | . | Supportata |
-| * | Supportato condizionatamente |
+| guscio | Supportato condizionatamente |
 | - | Non applicabile |
-
-* Altre attività di gestione delle risorse:
 
 ## Aggiungere, caricare e visualizzare le risorse {#support-to-upload-view}
 
 <!-- TBD: For AEM, AI files require the PDF option to be selected when saving the AI file.
 -->
 
-| Tipo risorsa | Sfoglia | Copia | Carica | Crea | Elimina | Dettagli | Zoom immagine | Visualizzato di recente |
-|---------------|----------|----------|----------|----------|----------|----------|------------|-----------------|
+| Tipo risorsa | [Sfoglia](/help/navigate-view.md) | Copia | [Carica](/help/add-delete.md) | Crea | [Elimina](/help/add-delete.md#delete-assets) | Dettagli | Zoom immagine | [Visualizzato di recente](/help/navigate-view.md) |
+|-------------------|----------|----------|----------|----------|----------|-------------------|------------|-----------------|
 | Immagini raster | . | . | . | - | . | . | . | . |
 | Cartelle | . | . | . | . | . | . | - | - |
-| Video | . | . | . | - | . | * | - | . |
-| Librerie CC | . | - | . | . | . | . | - | - |
+| Video MP4 | . | . | . | - | . | guscio | - | . |
 | PDF | . | . | . | - | . | . | - | . |
-| PSD | . | . | . | - | . | * | - | . |
-| AI | . | . | . | - | . | * | - | . |
-| INDD | . | . | . | - | . | * | - | . |
+| PSD, AI e INDD | . | . | . | - | . | guscio | - | . |
+
+<!-- Hiding CC Libraries (considered beta) as per PM feedback.
+| CC Libraries  | &#10003; | &minus;  | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
+-->
 
 ## Cercare, utilizzare e modificare le risorse {#support-to-search-use-edit}
 
-| Tipo risorsa | Scarica | Inserimento tramite trascinamento | Editor immagini | Ricerca | Tag avanzati | Rinomina | Versioni |
+| Tipo risorsa | [Scarica](/help/manage-organize.md#download) | Inserimento tramite trascinamento | [Editor immagini](/help/edit-images.md) | [Ricerca](/help/search.md) | [Tag avanzati](/help/metadata.md#tags) | [Rinomina](/help/manage-organize.md) | [Versioni](/help/manage-organize.md#versions-of-assets) |
 |---------------|----------|---------------|--------------|----------|------------|----------|----------|
 | Immagini raster | . | . | . | . | . | . | . |
 | Cartelle | . | . | - | . | - | . | - |
@@ -73,18 +72,20 @@ I vari tipi di file supportano diversi livelli di supporto per i casi d’uso e 
 
 ## Altre attività di gestione delle risorse {#support-to-manage-assets}
 
-| Tipo risorsa | Metadati | Rappresentazioni | Cestino | Copia | Sposta | [!DNL Adobe Asset Link] check-in |
-|---------------|----------|------------|----------|----------|----------|----------------------------------|
-| Immagini raster | * | . | . | . | . | . |
-| Cartelle | * | - | . | . | . | - |
-| Video | * | - | . | . | . | - |
-| Librerie CC | * | - | - | - | - | - |
-| PDF | * | - | . | . | . | - |
-| PSD | * | - | . | . | . | - |
-| AI | * | - | . | . | . | - |
-| INDD | * | - | . | . | . | - |
+| Tipo risorsa | [Metadati](/help/metadata.md) | [Rappresentazioni](/help/add-delete.md#renditions) | [Cestino](/help/add-delete.md#delete-assets) | Copia | Sposta |
+|---------------|-------------------|------------|----------|----------|----------|
+| Immagini raster | . | . | . | . | . |
+| Cartelle | . | - | . | . | . |
+| Video | . | - | . | . | . |
+| Librerie CC | . | - | - | - | - |
+| PDF | . | - | . | . | . |
+| PSD | . | - | . | . | . |
+| AI | . | - | . | . | . |
+| INDD | . | - | . | . | . |
 
-<!-- TBD: Saving template table separately.
+Gli utenti di [!DNL Adobe Asset Link] possono archiviare le immagini raster nell&#39;archivio [!DNL Assets Essentials] dalle applicazioni [!DNL Adobe Creative Cloud] desktop supportate.
+
+<!-- TBD: Saving the template table separately for later use.
 | Asset type    | Features |
 |---------------|----------|
 | Raster images |          |
