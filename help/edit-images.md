@@ -1,8 +1,8 @@
 ---
 title: Modificare le immagini
 description: Modifica le immagini utilizzando le opzioni disponibili [!DNL Adobe Photoshop Express] e salva le immagini aggiornate come versioni.
-role: Business Practitioner
-source-git-commit: b3fea5209fb29409b3aae5970fa30505f8b5c22c
+role: User
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Dopo aver modificato un’immagine, puoi salvarla come nuova versione. Se necess
 
 *Figura: Le opzioni per la modifica delle immagini sono fornite da  [!DNL Adobe Photoshop Express].*
 
-## Immagini di correzione spot {#spot-heal-images}
+## Immagini di correzione a punti {#spot-heal-images}
 
 Se in un’immagine sono presenti punti minori o oggetti di piccole dimensioni, è possibile modificare e rimuovere tali punti utilizzando la funzione di correzione delle aree fornita da Adobe Photoshop.
 
