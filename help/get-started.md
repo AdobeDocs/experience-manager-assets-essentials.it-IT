@@ -2,9 +2,9 @@
 title: Introduzione a [!DNL Assets Essentials]
 description: Come accedere, accedere a esperienze di, casi di utilizzo supportati e problemi noti di [!DNL Assets Essentials].
 role: User, Leader
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
+source-git-commit: 6c050d55aadeffa59c989f5b8ff6fe67da0d4d86
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '456'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ La gestione delle risorse digitali tramite [!DNL Assets Essentials] richiede sol
 * **Passaggio 2**:  [](/help/search.md) Ricerca e  [](/help/manage-organize.md#download) download delle risorse.
 * **Passaggio 3**:  [Gestire e ](/help/manage-organize.md) organizzare le risorse.
 
-Per utilizzare [!DNL Assets Essentials], accedi a [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets). Per ricevere l’accesso, contatta l’amministratore della tua organizzazione.
+Per utilizzare [!DNL Assets Essentials], accedi a [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets). Al momento dell’accesso, seleziona `Company or School Account`. Per ricevere l’accesso, contatta l’amministratore della tua organizzazione.
 
 Inoltre, ulteriori informazioni di riferimento che possono essere utili sono [informazioni sull&#39;interfaccia utente](/help/navigate-view.md), [elenco di casi d&#39;uso](#use-cases), <!-- TBD: [supported file types](/help/supported-file-formats.md), --> e [problemi noti](/help/release-notes.md#known-issues).
 
@@ -56,11 +56,11 @@ Di seguito sono elencate le varie attività di gestione delle risorse digitali (
 | Attività utente | Funzionalità e informazioni pratiche |
 |-----|------|
 | Come si aggiunge una risorsa? | <ul> <li> [Caricare le risorse](/help/add-delete.md) </li> <li> [Rappresentazioni](/help/add-delete.md#renditions) </li> </ul> |
-| Come posso aggiornare le risorse o le informazioni correlate? | <ul> <li>Modificare una risorsa esistente</li> <li>[Creare ](/help/manage-organize.md#create-versions) versioni e  [visualizzare versioni](/help/navigate-view.md#view-versions)</li> <li>[Modificare le immagini](/help/edit-images.md)</li> </ul> |
-| Come posso scoprire le risorse? | <ul> <li>[Sfoglia archivio](/help/navigate-view.md#view-assets-and-details) </li> <li> [Anteprima ](/help/navigate-view.md#preview-assets) delle risorse e  [download delle risorse](/help/manage-organize.md) </li> <li>[Visualizzare metadati dettagliati](/help/metadata.md) </li> <li>[Cercare risorse](/help/search.md)</li></ul> |
-| Come si modificano le risorse nell’archivio? | <ul> <li>[Modifiche nel browser tramite Adobe Photoshop Express](/help/edit-images.md)</li> <li>[Ritaglio per un profilo social media](/help/edit-images.md#crop-straighten-images)</li> <li>[Visualizzare e gestire le versioni](/help/manage-organize.md#create-versions)</li> <li>Utilizza [Adobe Asset Link](/help/integration.md#integrations)</ul></ul> |
-| Come si cercano le risorse nell’archivio? | <ul> <li>[Ricerca in una cartella specifica](/help/search.md)</li> <li>[Ricerche salvate](/help/search.md)</li> <li>[Cercare le risorse visualizzate di recente](/help/search.md)</li> <li>[Ricerca testuale](/help/search.md) |
-| Come si aggiungono nuove risorse? | <ul> <li>[Caricare nuove risorse e cartelle](/help/add-delete.md#add-assets)</li> <li>[Monitorare l’avanzamento del caricamento e gestire i caricamenti](/help/add-delete.md)</li> <li>[Risolvere i duplicati](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
+| Come posso aggiornare le risorse o le informazioni correlate? | <ul> <li>Modificare una risorsa esistente</li> <li>[Creare ](/help/manage-organize.md#create-versions) versioni e  [visualizzare versioni](/help/manage-organize.md#view-versions)</li> <li>[Modificare le immagini](/help/edit-images.md)</li> </ul> |
+| Come posso scoprire le risorse? | <ul> <li>[Sfoglia archivio](/help/navigate-view.md#view-assets-and-details) </li> <li> [Anteprima ](/help/navigate-view.md#preview-assets) delle risorse e  [download delle risorse](/help/manage-organize.md#download) </li> <li>[Visualizzare metadati dettagliati](/help/metadata.md) </li> <li>[Cercare risorse](/help/search.md)</li></ul> |
+| Come si modificano le risorse nell’archivio? | <ul> <li>[Modifiche nel browser tramite Adobe Photoshop Express](/help/edit-images.md)</li> <li>[Ritaglio per un profilo social media](/help/edit-images.md#crop-straighten-images)</li> <li>[Visualizzare e gestire le versioni](/help/manage-organize.md#view-versions)</li> <li>Utilizza [Adobe Asset Link](/help/integration.md#integrations)</ul></ul> |
+| Come si cercano le risorse nell’archivio? | <ul> <li>[Ricerca in una cartella specifica](/help/search.md#refine-search-results)</li> <li>[Ricerche salvate](/help/search.md#saved-search)</li> <li>[Cercare le risorse visualizzate di recente](/help/search.md)</li> <li>[Ricerca testuale](/help/search.md) |
+| Come si aggiungono nuove risorse? | <ul> <li>[Caricare nuove risorse e cartelle](/help/add-delete.md#add-assets)</li> <li>[Monitorare l’avanzamento del caricamento e gestire i caricamenti](/help/add-delete.md#upload-progress)</li> <li>[Risolvere i duplicati](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
 | [!DNL Assets Essentials] può integrarsi con altre soluzioni? | <ul> <li>[Utilizza il selettore risorse in [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] per [!DNL Creative Cloud]](/help/integration.md)</li> <li>Integrazione con le librerie [!DNL Creative Cloud Team]</li> </ul> |
 
 <!--TBD: Merge in above table when these use cases are documented/available.
