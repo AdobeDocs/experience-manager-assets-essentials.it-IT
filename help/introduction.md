@@ -2,9 +2,9 @@
 title: Introduzione a [!DNL Assets Essentials]
 description: Panoramica e descrizione della soluzione Assets Essentials
 role: User,Leader
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
+source-git-commit: 6c050d55aadeffa59c989f5b8ff6fe67da0d4d86
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Per gli amministratori, offre una configurazione e un&#39;amministrazione più s
 Per gli utenti, la gestione delle risorse digitali con [!DNL Assets Essentials] è semplice quanto i 3 passaggi seguenti. Consulta [guida introduttiva all&#39;utilizzo di [!DNL Assets Essentials]](/help/get-started.md).
 
 * **Passaggio 1**: Carica e visualizza le risorse.
-* **Passaggio 2**: Cerca e scarica le risorse richieste.
+* **Passaggio 2**: Cercare e scaricare le risorse.
 * **Passaggio 3**: Gestione e organizzazione delle risorse.
 
 >[!MORELIKETHIS]
