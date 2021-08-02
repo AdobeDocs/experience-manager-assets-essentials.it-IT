@@ -3,9 +3,9 @@ title: Gestire i metadati
 description: Gestire i metadati delle risorse in [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: a1dc66213f602bce5b5a2ec0ba99084c7f7b1ee1
+source-git-commit: a176769247bcafcc0497f2480cdec86c5753f218
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '931'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,49 @@ I tag avanzati contengono anche un punteggio di affidabilità in percentuale. In
 Puoi aggiungere più tag alle risorse, oltre ai tag avanzati che vengono aggiunti automaticamente utilizzando il servizio [!DNL Adobe Sensei] avanzato . Apri una risorsa per l’anteprima, fai clic su [!UICONTROL Tags] e digita le parole chiave desiderate nel campo [!UICONTROL Keywords] . Per aggiungere il tag, premere Invio. [!DNL Assets Essentials] indicizza la parola chiave in tempo quasi reale e il tuo team può presto cercare le risorse aggiornate utilizzando le nuove parole chiave.
 
 Puoi anche rimuovere i tag dalla sezione [!UICONTROL Smart Tags] che vengono aggiunti automaticamente da [!DNL Assets Essentials] a tutte le risorse caricate.
+
+## Moduli metadati {#metadata-forms}
+
+Per impostazione predefinita, Assets Essentials fornisce molti campi di metadati standard. Le organizzazioni hanno esigenze aggiuntive in termini di metadati e necessitano di più campi di metadati per aggiungere metadati specifici per le aziende. I moduli metadati consentono alle aziende di aggiungere campi di metadati personalizzati alla pagina [!UICONTROL Details] di una risorsa. I metadati specifici per l&#39;azienda migliorano la governance e il rilevamento delle risorse.
+
+Puoi configurare i moduli di metadati per diversi tipi di risorse (diversi tipi MIME). Utilizza lo stesso nome del modulo del tipo MIME del file. Le funzioni di base corrispondono automaticamente al nome del modulo le risorse caricate. Ad esempio, se esiste un modulo di metadati con il nome `PDF` o `pdf`, i documenti PDF caricati contengono campi di metadati come definito nel modulo. È possibile creare moduli da zero o riutilizzarli.
+
+>[!IMPORTANT]
+>
+>Il nuovo modulo metadati per un tipo di file specifico sostituisce completamente il modulo metadati predefinito fornito da [!DNL Assets Essentials]. Se elimini o rinomini un modulo di metadati, i campi di metadati predefiniti sono nuovamente disponibili per le nuove risorse.
+
+Per creare un modulo di metadati, effettua le seguenti operazioni:
+
+1. Nella barra a sinistra, fai clic su **[!UICONTROL Settings]** > **[!UICONTROL Metadata Forms]**.
+
+   ![opzione moduli metadati nella barra laterale sinistra](assets/metadata-forms-sidebar.png)
+
+1. Fai clic su **[!UICONTROL Create]** nell’area in alto a destra dell’interfaccia utente.
+1. Specifica un nome per il modulo e fai clic su **[!UICONTROL Create]**.
+1. Immetti un nome per la scheda in **[!UICONTROL Settings]** nella barra a destra.
+1. Dalla barra a sinistra **[!UICONTROL Components]** disponibile, trascina i componenti richiesti su una scheda del modulo. Trascina i componenti nella sequenza desiderata.
+
+   ![opzione moduli metadati nella barra laterale sinistra](assets/metadata-form-new.png)
+
+   *Figura: Interfaccia per la creazione di moduli con metadati, con opzioni per l’aggiunta di componenti e opzioni per l’anteprima del modulo.*
+
+1. Per ogni componente, nella , fornisci un nome nella barra **[!UICONTROL Settings]** a destra, fornisci una mappatura con le proprietà supportate.
+1. Facoltativamente, per un componente, seleziona **[!UICONTROL Required]** per rendere obbligatorio il campo di metadati e seleziona **[!UICONTROL Read-Only]** per rendere il campo non modificabile nella pagina della risorsa [!UICONTROL Details].
+1. Facoltativamente, fare clic su **[!UICONTROL Preview]** per visualizzare in anteprima il modulo che si sta creando.
+1. Facoltativamente, aggiungi più schede e i componenti richiesti in ogni scheda.
+1. Una volta completato il modulo, fare clic su **[!UICONTROL Save]**.
+
+Una volta creato il modulo, questo viene applicato automaticamente quando gli utenti caricano una risorsa del tipo MIME corrispondente.
+
+Per riutilizzare un modulo esistente per creare un nuovo modulo, selezionare un modulo di metadati, fare clic su **[!UICONTROL Copy]** nella barra degli strumenti, specificare un nome e fare clic su **[!UICONTROL Confirm]**. È possibile modificare un modulo di metadati per modificarlo. Quando si modifica un modulo, questo viene utilizzato per le risorse caricate dopo la modifica. Non vengono modificate le risorse esistenti.
+
+<!-- TBD: Cannot create a form using the second option. Documenting only the first option for now.
+To reuse an existing form to create a new form, do one of these:
+
+* Select a metadata form and click **[!UICONTROL Copy]** from the toolbar, provide a name, and click **[!UICONTROL Confirm]**.
+
+* Click **[!UICONTROL Create]**, select **[!UICONTROL Use existing form structure as template]** option, and select an existing form. 
+-->
 
 <!-- TBD: Queries for PM and engg.
 
