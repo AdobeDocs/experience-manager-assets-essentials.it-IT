@@ -3,9 +3,9 @@ title: Gestire le risorse digitali
 description: Sposta, elimina, copia, rinomina, aggiorna e aggiorna le risorse in [!DNL Assets Essentials].
 role: User,Leader
 contentOwner: AG
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
+source-git-commit: 9bff6e8570ca05f60844cfd84ef3e695e07ae27b
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '598'
 ht-degree: 0%
 
 ---
@@ -25,14 +25,11 @@ Utilizza [!DNL Assets Essentials] per eseguire le seguenti attività di gestione
 * ![icona dei dettagli](assets/do-not-localize/edit-in-icon.png) Fai clic su per visualizzare in anteprima una risorsa e visualizzare i metadati dettagliati. Quando visualizzi l’anteprima, puoi visualizzare le versioni e modificare un’immagine.
 * ![scarica ](assets/do-not-localize/download-icon.png) iconaScarica la risorsa selezionata nel file system locale.
 * ![Elimina ](assets/do-not-localize/delete-icon.png) iconaElimina la risorsa o la cartella selezionata.
-* 
-
-   <!-- ![checkout icon](assets/do-not-localize/checkout-icon.png) --> Checkout an asset.
+* Pagamento di una risorsa. <!-- ![checkout icon](assets/do-not-localize/checkout-icon.png) -->
 * ![copia ](assets/do-not-localize/copy-icon.png) iconaCopia il file o la cartella selezionati.
 * ![sposta ](assets/do-not-localize/move-icon.png) iconaSposta la risorsa o la cartella selezionata in una posizione diversa nella gerarchia del repository.
 * ![rinomina ](assets/do-not-localize/rename-icon.png) iconaRinomina la risorsa o la cartella selezionata. In caso contrario, la ridenominazione non riesce e viene visualizzato un avviso. Riprova con un nuovo nome.
-* 
-   <!-- ![assign task icon](assets/do-not-localize/assign-task-icon.png) --> Assign tasks to other users to collaborate on an asset.
+* Assegna attività ad altri utenti per collaborare a una risorsa. <!-- ![assign task icon](assets/do-not-localize/assign-task-icon.png) -->
 
 Puoi visualizzare le stesse opzioni sulle miniature delle risorse.
 
