@@ -2,10 +2,10 @@
 title: Introduzione a [!DNL Assets Essentials]
 description: Come accedere, accedere a esperienze di, casi di utilizzo supportati e problemi noti di [!DNL Assets Essentials].
 role: User, Leader
-source-git-commit: 135832e18bdf7ae66f29638cf548088a83daee8d
+source-git-commit: eda2ba0d271310d0e87f904dc7622583a80d002e
 workflow-type: tm+mt
-source-wordcount: '462'
-ht-degree: 1%
+source-wordcount: '447'
+ht-degree: 2%
 
 ---
 
@@ -55,19 +55,21 @@ Di seguito sono elencate le varie attività di gestione delle risorse digitali (
 
 | Attività utente | Funzionalità e informazioni pratiche |
 |-----|------|
-| Come si aggiunge una risorsa? | <ul> <li> [Caricare le risorse](/help/add-delete.md) </li> <li> [Rappresentazioni](/help/add-delete.md#renditions) </li> </ul> |
-| Come posso aggiornare le risorse o le informazioni correlate? | <ul> <li>Modificare una risorsa esistente</li> <li>[Creare ](/help/manage-organize.md#create-versions) versioni e  [visualizzare versioni](/help/manage-organize.md#view-versions)</li> <li>[Modificare le immagini](/help/edit-images.md)</li> </ul> |
-| Come posso scoprire le risorse? | <ul> <li>[Sfoglia archivio](/help/navigate-view.md#view-assets-and-details) </li> <li> [Anteprima ](/help/navigate-view.md#preview-assets) delle risorse e  [download delle risorse](/help/manage-organize.md#download) </li> <li>[Cercare risorse](/help/search.md)</li></ul> |
-| Come si modificano le risorse nell’archivio? | <ul> <li>[Modifiche nel browser tramite Adobe Photoshop Express](/help/edit-images.md)</li> <li>[Ritaglio per un profilo social media](/help/edit-images.md#crop-straighten-images)</li> <li>[Visualizzare e gestire le versioni](/help/manage-organize.md#view-versions)</li> <li>Utilizza [Adobe Asset Link](/help/integration.md#integrations)</ul></ul> |
-| Come si cercano le risorse nell’archivio? | <ul> <li>[Ricerca in una cartella specifica](/help/search.md#refine-search-results)</li> <li>[Ricerche salvate](/help/search.md#saved-search)</li> <li>[Cercare le risorse visualizzate di recente](/help/search.md)</li> <li>[Ricerca testuale](/help/search.md) |
-| Come si aggiungono nuove risorse? | <ul> <li>[Caricare nuove risorse e cartelle](/help/add-delete.md#add-assets)</li> <li>[Monitorare l’avanzamento del caricamento e gestire i caricamenti](/help/add-delete.md#upload-progress)</li> <li>[Risolvere i duplicati](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
-| Operazioni metadati | <ul> <li>[Visualizzare metadati dettagliati](/help/metadata.md) </li> <li> [Crea nuovo modulo metadati](/help/metadata.md#metadata-forms) </li> </ul> |
-| [!DNL Assets Essentials] può integrarsi con altre soluzioni? | <ul> <li>[Utilizza il selettore risorse in [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] per [!DNL Creative Cloud]](/help/integration.md)</li> <li>Integrazione con le librerie [!DNL Creative Cloud Team]</li> </ul> |
+| Navigare e visualizzare le risorse | <ul> <li>[Sfoglia il repository](/help/navigate-view.md#view-assets-and-details) </li> <li> [Visualizzare un&#39;anteprima di una risorsa](/help/navigate-view.md#preview-assets) <li> [Visualizzare le rappresentazioni di una risorsa](/help/add-delete.md#renditions) </li> <li>[Visualizzare le versioni di una risorsa](/help/manage-organize.md#view-versions)</li></ul> |
+| Aggiungi nuove risorse | <ul> <li>[Caricare nuove risorse e cartelle](/help/add-delete.md#add-assets)</li> <li>[Monitorare l’avanzamento del caricamento e gestire i caricamenti](/help/add-delete.md#upload-progress)</li> <li>[Risolvere i duplicati](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
+| Aggiornare risorse o informazioni correlate | <ul> <li>[Modificare le immagini](/help/edit-images.md)</li> <li>[Creare ](/help/manage-organize.md#create-versions) versioni e  [visualizzare versioni](/help/manage-organize.md#view-versions)</li> <li>[Modificare le immagini](/help/edit-images.md)</li> </ul> |
+| Modifica delle risorse | <ul> <li>[Modifiche nel browser tramite Adobe Photoshop Express](/help/edit-images.md)</li> <li>[Ritaglio per un profilo social media](/help/edit-images.md#crop-straighten-images)</li> <li>[Visualizzare e gestire le versioni](/help/manage-organize.md#view-versions)</li> <li>[Utilizzo [!DNL Adobe Asset Link]](/help/integration.md#integrations)</ul></ul> |
+| Cercare risorse nell’archivio | <ul> <li>[Ricerca in una cartella specifica](/help/search.md#refine-search-results)</li> <li>[Ricerche salvate](/help/search.md#saved-search)</li> <li>[Cercare le risorse visualizzate di recente](/help/search.md)</li> <li>[Ricerca testuale](/help/search.md) |
+| Scaricare le risorse | <ul> <li> [Anteprima risorsa](/help/navigate-view.md#preview-assets) </li> <li> [Scaricare le risorse](/help/manage-organize.md#download) <li> [Download di rappresentazioni](/help/add-delete.md#renditions) </li></ul> |
+| Operazioni metadati | <ul> <li>[Visualizzare metadati dettagliati](/help/metadata.md) </li> <li> [Aggiornare i metadati](/help/metadata.md#update-metadata)</li> <li> [Crea nuovo modulo metadati](/help/metadata.md#metadata-forms) </li> </ul> |
+| Integrazione con altre soluzioni | <ul> <li>[Utilizza il selettore risorse in [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] per [!DNL Creative Cloud]](/help/integration.md)</li> <li>[Integrazione con [!DNL Adobe Workfront]](/help/integration.md)</li> </ul> |
 
-<!--TBD: Merge in above table when these use cases are documented/available.
+<!--TBD: Merge the below rows in the table when the use cases are documented/available.
+
 | How do I delete assets? | <ul> <li>[Delete assets](/help/manage-organize.md)</li> <li>Recover deleted assets</li> <li>Permanently delete assets</li> </ul> |
 | How do I share assets or find shared assets? | <ul> <li>Shared by me</li> <li>Shared with me</li> <li>Share for comments and review</li> <li>Unshare assets</li> </ul> |
 | How do I collaborate with others and get my assets reviewed | <ul> <li>Share for review</li> <li>Provide comments. Resolve and filter comments</li> <li>Annotations on images</li> <li>Assign tasks to specific users and prioritize</li> </ul> |
+
 -->
 
 ## ![icona ](assets/do-not-localize/feedback-icon.png) di feedbackFornire feedback sul prodotto {#provide-feedback}
