@@ -3,9 +3,9 @@ title: Note sulla versione
 description: Note sulla versione e problemi noti di [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: eda2ba0d271310d0e87f904dc7622583a80d002e
+source-git-commit: 574ac781fc5c5dfdba0640b1032a50268947875d
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '301'
 ht-degree: 1%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-La versione corrente di [!DNL Assets Essentials] viene rilasciata il 30 agosto 2021. Fornisce integrazioni con [!DNL Adobe Workfront] che consentono agli utenti [!DNL Workfront] di gestire le risorse digitali nel contesto della gestione del loro lavoro. Consulta [integrazioni con altre soluzioni Adobe](/help/integration.md).
+La versione corrente di [!DNL Assets Essentials] viene rilasciata il 30 agosto 2021. Fornisce integrazioni con [!DNL Adobe Workfront] che consentono agli utenti [!DNL Workfront] di gestire le risorse digitali nel contesto della gestione del loro lavoro. Per ulteriori informazioni, consulta [integrazioni con altre soluzioni di Adobe](/help/integration.md).
 
 Per ulteriori informazioni sulla soluzione, consulta l’ [introduzione a [!DNL Assets Essentials]](introduction.md). Per iniziare a utilizzare le funzioni, consulta [guida introduttiva](/help/get-started.md).
 
@@ -46,4 +46,4 @@ La prima versione di [!DNL Assets Essentials], resa disponibile il 21 giugno 202
 * Carica e aggiungi le risorse, comprese le cartelle nidificate. Visualizzare l&#39;anteprima delle risorse e delle versioni.
 * Ricerca full-text, filtri di ricerca sfumati e ricerche salvate per individuare rapidamente le risorse.
 * Operazioni di base per la gestione delle risorse, come l’aggiornamento, l’eliminazione, il download e la gestione dei metadati.
-* [!DNL Assets Essentials] è disponibile per  [[!DNL Adobe Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html).
+* [!DNL Assets Essentials] è disponibile agli  [!DNL Adobe Journey Optimizer] utenti per gestire le risorse durante la creazione dei messaggi. Per ulteriori informazioni, consulta [integrazioni con altre soluzioni di Adobe](/help/integration.md).
