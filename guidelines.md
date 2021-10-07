@@ -1,8 +1,8 @@
 ---
-source-git-commit: 0dd6f278a75668c3ceafa2ad8d9d232bcecd56ba
+source-git-commit: 15070ea99308741242b43206ed69cf1dbddca890
 workflow-type: tm+mt
 source-wordcount: '719'
-ht-degree: 53%
+ht-degree: 50%
 
 ---
 # Linee guida per contribuire alla documentazione di [!DNL Adobe Experience Manager]
@@ -37,9 +37,9 @@ Le eccezioni a questa regola si applicano alle note sulla versione in cui i prob
 
 Qualsiasi idea sia necessaria per migliorare la documentazione di [!DNL Experience Manager] è gradita come contributo. Tuttavia, commenti, problemi e richieste sono intesi solo come *contributi*. Non sono destinati a rispondere a domande su come utilizzare [!DNL Experience Manager], implementare il progetto [!DNL Experience Manager] o risolvere problemi tecnici.
 
-Qualsiasi domanda sull&#39;utilizzo di [!DNL Experience Manager] o sugli errori tecnici che potresti riscontrare deve essere segnalata attraverso il normale processo di supporto tramite il [[!DNL Experience Cloud] portale di supporto](https://experienceleague.adobe.com/?support-solution=Experience+Manager#support) o discussa nella [community di Experienci Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
+Qualsiasi domanda sull&#39;utilizzo di [!DNL Experience Manager] o sugli errori tecnici che potresti riscontrare deve essere segnalata attraverso il normale processo di supporto tramite il [[!DNL Experience Manager] portale di supporto](https://experienceleague.adobe.com/?support-solution=Experience+Manager#support) o discussa nella [community di Experienci Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
 
-***[!DNL Experience Manager]I contributi alla documentazione di non sostituiscono l’Assistenza clienti di Adobe***. Pertanto, verranno rifiutati tutti i contributi che richiedono risposte a domande correlate al supporto.
+***[!DNL Experience Manager]i contributi alla documentazione non sostituiscono ad Adobe l’*** Assistenza clienti e tutti i contributi che richiedono risposte a domande correlate al supporto verranno rifiutati.
 
 ### I contributi devono fare riferimento in modo chiaro alle pagine della documentazione interessate.
 
