@@ -3,7 +3,7 @@ title: '[!DNL Assets Essentials] interfaccia utente'
 description: Comprendere l’interfaccia utente di e la navigazione in [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 94467e029615514942f429069c0eb7248f44bab5
+source-git-commit: fdfbe04b41c6b164007591855c4dd37b6fe3dfa7
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Quando si accede a [!DNL Assets Essentials], viene visualizzata la seguente inte
 
 ![[!DNL Assets Essentials] interfaccia utente](assets/essentials-interface1.png)
 
-*Figura: Prima schermata di accesso e dove trovare le caratteristiche salienti.*
+*Figura: Prima schermata dopo l&#39;accesso e la posizione delle caratteristiche salienti.*
     *R: Barra laterale sinistra per sfogliare l’archivio e fornisce l’accesso ad alcune altre opzioni.*
     *B: Visualizza o comprime la barra laterale sinistra per aumentare l’area di visualizzazione delle risorse.*
     *C: Filtrare i risultati della ricerca.*
