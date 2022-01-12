@@ -4,9 +4,9 @@ description: Note sulla versione e problemi noti di [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 0c849c92562f9102819aaea627f5945030b27a1e
+source-git-commit: 01814dace83fec64851d7ccf97a0f4bb22519ee3
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '364'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Per ulteriori informazioni sulla soluzione, consulta la sezione [introduzione a 
 
 Elenco dei problemi noti di [!DNL Assets Essentials] l&#39;offerta viene rivista e aggiornata su base continuativa:
 
-* Le singole risorse non possono essere caricate nella cartella superiore (Risorse), ma solo in una sottocartella del sistema. <!-- CQ-4337638 -->
+* Nessuno
 
 In caso di problemi o richieste di miglioramenti, [fornire feedback](#provide-feedback) alla squadra.
 
