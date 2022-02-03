@@ -2,16 +2,16 @@
 cloud: Experience Cloud
 product: adobe experience manager
 audience: end-user
-user-guide-title: Guida ad Experience Manager Assets Essentials
+user-guide-title: Guida di Experience Manager Assets Essentials
 breadcrumb-title: Guida di Assets Essentials
 user-guide-description: Assets Essentials è una soluzione leggera per la gestione delle risorse che funziona da altre applicazioni Experience Cloud.
 feature-set: Experience Manager Assets,Experience Manager
-feature: Gestione risorse
+feature: Asset Management
 role: User,Leader
-source-git-commit: de379a71d5e5cbd62b42ce3618c67d3d7a6fd941
+source-git-commit: 2288978e148f26b7020e5792cba00b91ba180e55
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 3%
+source-wordcount: '68'
+ht-degree: 8%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 3%
 + [Panoramica della soluzione](introduction.md)
 + [Note sulla versione](release-notes.md)
 + [Distribuzione e aggiunta di utenti](deploy-administer.md)
-+ [Introduzione a [!DNL Assets Essentials]](get-started.md)
++ [Introduzione all&#39;utilizzo [!DNL Assets Essentials]](get-started.md)
 + [Tipi di file supportati e casi d’uso](supported-file-formats.md)
 + [Visualizzare le risorse](navigate-view.md)
 + [Caricare e aggiungere risorse](add-delete.md)
@@ -29,4 +29,5 @@ ht-degree: 3%
 + [Attività di gestione risorse](manage-organize.md)
 + [Modificare le immagini](edit-images.md)
 + [Gestire i metadati delle risorse](metadata.md)
++ [Condividere collegamenti per le risorse](share-links-for-assets.md)
 + [Integrazione con altre soluzioni](integration.md)
