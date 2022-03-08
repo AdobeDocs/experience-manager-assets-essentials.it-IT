@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiornare le risorse in [!DNL Assets Essentials] {#update-assets}
+# Aggiorna le risorse in [!DNL Assets Essentials] {#update-assets}
 
 Puoi aggiornare le risorse esistenti caricando una nuova versione o modificando le immagini in [!DNL Assets Essentials].
 
@@ -24,6 +24,6 @@ Link to versioning once an asset is updated.
 >[!MORELIKETHIS]
 >
 >* [Modificare le immagini](edit-images.md)
-* [Visualizzare le versioni di una risorsa](navigate-view.md#view-versions)
-* [Eliminare una risorsa](manage-organize.md#delete-assets)
+>* [Visualizzare le versioni di una risorsa](navigate-view.md#view-versions)
+>* [Eliminare una risorsa](manage-organize.md#delete-assets)
 

@@ -6,7 +6,7 @@ contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: eb6822a1e813b6c7687ba3d797e4f43b3c1ef2a0
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '364'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 L&#39;attuale versione di [!DNL Assets Essentials] rilasciato il 3 febbraio 2022. Questa versione fornisce:
 
-* Miglioramenti delle prestazioni per [!UICONTROL Create Folder] funzionamento. <!-- CQ-4338818 -->
+* Miglioramenti delle prestazioni per [!UICONTROL Crea cartella] funzionamento. <!-- CQ-4338818 -->
 
 ## Problemi noti {#known-issues}
 
@@ -45,7 +45,7 @@ In caso di problemi o richieste di miglioramenti, [fornire feedback](#provide-fe
 
 [!DNL Assets Essentials] 2021.7.0 è rilasciato il 29 luglio 2021 con i seguenti aggiornamenti:
 
-* Puoi creare e gestire moduli di metadati personalizzati da utilizzare per visualizzare le proprietà dei metadati agli utenti nella schermata di dettaglio delle risorse in [!UICONTROL Metadata Forms] opzione sotto [!DNL Settings]. Vedi [moduli metadati](metadata.md#metadata-forms).
+* Puoi creare e gestire moduli di metadati personalizzati da utilizzare per visualizzare le proprietà dei metadati agli utenti nella schermata di dettaglio delle risorse in [!UICONTROL Forms metadati] opzione sotto [!DNL Settings]. Vedi [moduli metadati](metadata.md#metadata-forms).
 * Varie correzioni di bug e miglioramenti al prodotto, tra cui prestazioni migliori durante il caricamento di una cartella nidificata con molte sottocartelle.
 
 ### Versione 2021.6.0 {#june2021}

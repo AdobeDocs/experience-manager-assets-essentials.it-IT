@@ -5,7 +5,7 @@ role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: 0a0f520b0c023120995b3af327661212604fac0d
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '539'
 ht-degree: 0%
 
 ---
@@ -57,10 +57,10 @@ Puoi aprire o comprimere la barra laterale sinistra per aumentare l’area di vi
 
 In [!DNL Assets Essentials], puoi visualizzare risorse, cartelle e risultati di ricerca in quattro diversi tipi di layout.
 
-* ![icona a forma di elenco](assets/do-not-localize/list-view.png) [!UICONTROL List View]
-* ![icona della vista a griglia](assets/do-not-localize/grid-view.png) [!UICONTROL Grid View]
-* ![icona a forma di galleria](assets/do-not-localize/gallery-view.png) [!UICONTROL Gallery View]
-* ![icona della vista a cascata](assets/do-not-localize/waterfall-view.png) [!UICONTROL Waterfall View]
+* ![icona a forma di elenco](assets/do-not-localize/list-view.png) [!UICONTROL Vista a elenco]
+* ![icona della vista a griglia](assets/do-not-localize/grid-view.png) [!UICONTROL Vista a griglia]
+* ![icona a forma di galleria](assets/do-not-localize/gallery-view.png) [!UICONTROL Vista a Galleria]
+* ![icona della vista a cascata](assets/do-not-localize/waterfall-view.png) [!UICONTROL Vista a cascata]
 
 Per individuare una risorsa, puoi ordinare le risorse in ordine crescente o decrescente di `Name`, `Relevancy`, `Size`, `Modified`e `Created`.
 
@@ -74,7 +74,7 @@ Per passare a una cartella, fai doppio clic sulle miniature della cartella oppur
 
 Prima di utilizzare, condividere o scaricare una risorsa, puoi visualizzarla più da vicino. La funzione di anteprima consente di visualizzare non solo le immagini ma anche alcuni altri tipi di risorse supportati.
 
-Per visualizzare in anteprima una risorsa, selezionala e fai clic su [!UICONTROL Details] ![icona dettagli](assets/do-not-localize/edit-in-icon.png) dalla barra degli strumenti nella parte superiore. Puoi non solo visualizzare la risorsa, ma anche visualizzarne i metadati dettagliati e intraprendere altre azioni.
+Per visualizzare in anteprima una risorsa, selezionala e fai clic su [!UICONTROL Dettagli] ![icona dettagli](assets/do-not-localize/edit-in-icon.png) dalla barra degli strumenti nella parte superiore. Puoi non solo visualizzare la risorsa, ma anche visualizzarne i metadati dettagliati e intraprendere altre azioni.
 
 ![Visualizzare un&#39;anteprima di una risorsa](assets/preview-asset.png)
 
