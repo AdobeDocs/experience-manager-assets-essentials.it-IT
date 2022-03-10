@@ -4,7 +4,7 @@ description: Note sulla versione e problemi noti di [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 211233202b667f9d25713491c8ae59e002139777
+source-git-commit: 4cced7aba92fd0f041842e5ef78d02f0a4f7ffe0
 workflow-type: tm+mt
 source-wordcount: '549'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-L&#39;attuale versione di [!DNL Assets Essentials] rilasciato il 3 marzo 2022. Questa versione fornisce:
+L&#39;attuale versione di [!DNL Assets Essentials] rilasciato il 09 marzo 2022. Questa versione fornisce:
 
 * [!DNL Assets Essentials] ora consente di [generare un collegamento e condividere risorse con soggetti esterni](share-links-for-assets.md), che non hanno accesso al [!DNL Assets Essentials] applicazione. Puoi definire una data di scadenza del collegamento e condividerlo con altri utilizzando il metodo di comunicazione preferito, ad esempio e-mail o servizi di messaggistica. I destinatari del collegamento possono visualizzare in anteprima le risorse e scaricarle.
 
@@ -23,7 +23,7 @@ L&#39;attuale versione di [!DNL Assets Essentials] rilasciato il 3 marzo 2022. Q
 
 * Miglioramenti e correzioni di bug in base al feedback ricevuto dai clienti.
 
-Inoltre, [!DNL Adobe Asset Link] estensione per Creative Cloud (Photoshop, Illustrator e InDesign) rilasciata un [nuova versione 3.2.0](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html), con miglioramenti delle prestazioni nel tempo di avvio del pannello e nella velocità di download.
+Inoltre, [!DNL Adobe Asset Link] estensione per Creative Cloud (Photoshop, Illustrator e InDesign) rilasciata un [nuova versione 3.2](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html), con miglioramenti delle prestazioni nel tempo di avvio del pannello e nella velocità di download.
 
 
 ## Problemi noti {#known-issues}
