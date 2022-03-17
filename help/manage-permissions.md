@@ -2,7 +2,7 @@
 title: Come gestire le autorizzazioni per le cartelle in AEM Assets Essentials?
 description: Assets Essentials consente agli amministratori di gestire i livelli di accesso per le cartelle disponibili nell’archivio. Crea gruppi di utenti e assegna le autorizzazioni a tali gruppi per gestire i livelli di accesso. In qualità di amministratore, puoi anche delegare i privilegi di gestione delle autorizzazioni ai gruppi di utenti a livello di cartella.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: 94435a9fc17ab02c6872bb165a4cb697b56d5602
+source-git-commit: 424517e7961bcc39cd3048ebc750fe1b4b06f659
 workflow-type: tm+mt
 source-wordcount: '1580'
 ht-degree: 0%
@@ -93,13 +93,13 @@ Ad esempio, se assegni il `Can View` autorizzazioni per una cartella a un super 
 
 Se devi fornire le autorizzazioni di modifica al `Marketing` solo al reparto marketing della tua organizzazione e visualizza le autorizzazioni ad altri, assegna `Can View` autorizzazioni per super gruppo `All Authenticated Users` e `Can Edit` autorizzazioni per il sottogruppo `Marketing`.
 
-![Assegnare le autorizzazioni](assets/permissions-management-groups-new.png)
+![Assegnare le autorizzazioni](assets/permissions-management-groups.svg)
 
 **Ereditarietà delle autorizzazioni**
 
 Assets Essentials utilizza l’ereditarietà delle autorizzazioni, che consente di ereditare i permessi impostati per la cartella padre nella cartella figlio. Ad esempio, se la cartella principale ha `Can View` autorizzazioni per `All Authenticated Users` gruppo e la cartella figlio ha `Can Edit` autorizzazioni per `Marketing` gruppo di utenti, consente a tutti gli utenti autenticati di avere le autorizzazioni di visualizzazione per la cartella figlio e `Marketing` gruppo di utenti per disporre delle autorizzazioni di modifica per la cartella figlio. La `Marketing` gruppo di utenti dispone delle autorizzazioni di modifica per ulteriori livelli di cartelle nella cartella figlio (Marketing).
 
-![Assegnare le autorizzazioni](assets/permissions-inheritance-new.png)
+![Assegnare le autorizzazioni](assets/permissions-inheritance.svg)
 
 >[!NOTE]
 >
