@@ -2,7 +2,7 @@
 title: Come gestire le autorizzazioni per le cartelle in AEM Assets Essentials?
 description: Assets Essentials consente agli amministratori di gestire i livelli di accesso per le cartelle disponibili nell’archivio. Crea gruppi di utenti e assegna le autorizzazioni a tali gruppi per gestire i livelli di accesso. In qualità di amministratore, puoi anche delegare i privilegi di gestione delle autorizzazioni ai gruppi di utenti a livello di cartella.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: 68bfd7cb55b38e12ee0f5b8f12449c7137e02e90
+source-git-commit: 98879f59bd1bb5725f51f91bfa638f2de6759e9a
 workflow-type: tm+mt
 source-wordcount: '1580'
 ht-degree: 0%
@@ -15,7 +15,7 @@ Assets Essentials consente agli amministratori di gestire i livelli di accesso p
 
 Il diagramma di flusso di dati seguente illustra la sequenza di attività eseguite per configurare e gestire le autorizzazioni sulle cartelle disponibili nell’archivio Assets Essentials:
 
-![Opzioni della barra degli strumenti quando si seleziona una risorsa](assets/permissions-management.png)
+![Opzioni della barra degli strumenti quando si seleziona una risorsa](assets/permissions-management-updated.png)
 
 ## Prima di gestire le autorizzazioni per le cartelle {#before-managing-permissions}
 
@@ -93,7 +93,7 @@ Ad esempio, se assegni il `Can View` autorizzazioni per una cartella a un super 
 
 Se devi fornire le autorizzazioni di modifica al `Marketing` solo al reparto marketing della tua organizzazione e visualizza le autorizzazioni ad altri, assegna `Can View` autorizzazioni per super gruppo `All Authenticated Users` e `Can Edit` autorizzazioni per il sottogruppo `Marketing`.
 
-![Assegnare le autorizzazioni](assets/permissions-management-groups.png)
+![Assegnare le autorizzazioni](assets/permissions-management-groups-updated.png)
 
 **Ereditarietà delle autorizzazioni**
 
@@ -183,7 +183,7 @@ Crea i seguenti gruppi di utenti nell&#39;Admin Console:
 * Gruppo legale
 
 Il diagramma seguente illustra la gerarchia delle cartelle e le autorizzazioni assegnate a ciascun gruppo di utenti:
-![Assegnare le autorizzazioni](assets/use-case-permissions-mamagement.png)
+![Assegnare le autorizzazioni](assets/use-case-permissions-management.png)
 
 Di seguito sono riportati i livelli di accesso per tutti i gruppi di utenti nella gerarchia delle cartelle:
 
