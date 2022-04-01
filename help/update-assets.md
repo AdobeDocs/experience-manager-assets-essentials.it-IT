@@ -6,14 +6,14 @@ contentOwner: AG
 source-git-commit: a1dc66213f602bce5b5a2ec0ba99084c7f7b1ee1
 workflow-type: tm+mt
 source-wordcount: '39'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Aggiorna le risorse in [!DNL Assets Essentials] {#update-assets}
+# Aggiornare le risorse in [!DNL Assets Essentials] {#update-assets}
 
-Puoi aggiornare le risorse esistenti caricando una nuova versione o modificando le immagini in [!DNL Assets Essentials].
+Per aggiornare le risorse esistenti puoi caricare una nuova versione o modificare le immagini in [!DNL Assets Essentials].
 
 <!-- TBD: Discard this article if not too much unique content for it.
 Merge the update asset part in manage assets or upload assets.

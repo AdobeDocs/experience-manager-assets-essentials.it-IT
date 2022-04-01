@@ -11,20 +11,20 @@ role: User,Leader
 source-git-commit: be84c4c7a5e2f3220cde54f1d01007e9dacf183a
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 42%
+ht-degree: 85%
 
 ---
 
 
-# [!DNL Assets Essentials] Guida {#help}
+# Guida di [!DNL Assets Essentials] {#help}
 
 + [Panoramica della soluzione](introduction.md)
 + [Note sulla versione](release-notes.md)
-+ [Distribuzione e aggiunta di utenti](deploy-administer.md)
++ [Implementare e aggiungere utenti](deploy-administer.md)
 + Gestisci accesso alle cartelle{#folder-access}
    + [Gestisci autorizzazioni cartella](manage-permissions.md)
    + [Best practice per la gestione delle autorizzazioni](permission-management-best-practices.md)
-+ [Introduzione all&#39;utilizzo [!DNL Assets Essentials]](get-started.md)
++ [Iniziare a utilizzare [!DNL Assets Essentials]](get-started.md)
 + [Tipi di file supportati e casi d’uso](supported-file-formats.md)
 + [Visualizzare le risorse](navigate-view.md)
 + [Caricare e aggiungere risorse](add-delete.md)

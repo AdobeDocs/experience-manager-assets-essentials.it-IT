@@ -1,28 +1,28 @@
 ---
 title: Cercare e individuare le risorse in [!DNL Assets Essentials]
-description: Cercare e individuare le risorse in [!DNL Assets Essentials].
+description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
 workflow-type: tm+mt
 source-wordcount: '389'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 # Cercare risorse in [!DNL Assets Essentials] {#search-assets}
 
-[!DNL Assets Essentials] fornisce una ricerca efficace, che funziona solo per impostazione predefinita. La ricerca è completa in quanto è ricerca full-text. La potente funzionalità di ricerca consente di scoprire rapidamente la risorsa appropriata e di migliorare la velocità dei contenuti. [!DNL Assets Essentials] consente di effettuare ricerche full-text e anche tramite i metadati, quali smart tag, titolo, data di creazione e copyright.
+[!DNL Assets Essentials] fornisce una funzione di ricerca efficace e attiva per impostazione predefinita. Si tratta di una ricerca full-text completa. La potente funzionalità di ricerca consente di trovare rapidamente la risorsa appropriata e velocizza le attività relative ai contenuti. [!DNL Assets Essentials] consente di effettuare ricerche full-text, anche nei metadati, quali tag avanzati, titolo, data di creazione e copyright.
 
-Per cercare le risorse,
+Per cercare le risorse, effettua le operazioni seguenti:
 
-* Fai clic nella casella di ricerca nella parte superiore della pagina. Per impostazione predefinita, esegue la ricerca all’interno della cartella attualmente in navigazione. Effettua una delle operazioni seguenti:
+* Fai clic nella casella di ricerca nella parte superiore della pagina. Per impostazione predefinita, la ricerca viene eseguita all’interno della cartella attuale. Effettua una delle operazioni seguenti:
 
    ![casella di ricerca](assets/search-box.png)
 
-   * Cerca utilizzando una parola chiave e facoltativamente cambia la cartella. Premere Invio.
+   * Cerca utilizzando una parola chiave e, se necessario, cambia la cartella. Premi Invio.
 
-   * Inizia a lavorare con una risorsa visualizzata di recente, ricercandola direttamente. Fai clic nella casella di ricerca e seleziona una risorsa visualizzata di recente dai suggerimenti.
+   * Per iniziare a lavorare su una risorsa visualizzata di recente, fai clic nella casella di ricerca e seleziona una delle risorse visualizzate di recente che vengono proposte.
 
 ## Filtrare i risultati della ricerca {#refine-search-results}
 
@@ -30,23 +30,23 @@ Puoi filtrare i risultati della ricerca in base ai seguenti parametri.
 
 ![Filtri di ricerca](assets/filters1.png)
 
-*Figura: Filtrare le risorse ricercate in base a vari parametri.*
+*Figura: Filtrare le risorse trovate in base a vari parametri.*
 
-* Tipo di file: Filtrare i risultati della ricerca in base ai tipi di file supportati, `Images`, `Documents`e `Videos`.
-* Tipo MIME: Filtrare uno o più formati di file supportati. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
-* Dimensione immagine: Fornisci una delle dimensioni minima e massima per filtrare le immagini. Le dimensioni vengono fornite in pixel e non corrispondono alle dimensioni del file delle immagini.
-* Crea data: La data di creazione della risorsa, come specificato nei metadati. Il formato della data standard utilizzato è `yyyy-mm-dd`.
-* Data di modifica: Data dell’ultima modifica delle risorse. Il formato della data standard utilizzato è `yyyy-mm-dd`.
+* Tipo file: filtra i risultati della ricerca in base ai tipi di file supportati come `Images`, `Documents` e `Videos`.
+* Tipo MIME: filtra uno o più formati di file supportati. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
+* Dimensioni immagine: fornisci una o più dimensioni minima e massima per filtrare le immagini. Le dimensioni vengono fornite in pixel e non corrispondono alle dimensioni del file delle immagini.
+* Data di creazione: la data di creazione della risorsa, specificata nei metadati. Il formato di data standard è `yyyy-mm-dd`.
+* Data di modifica: data dell’ultima modifica delle risorse. Il formato data standard è `yyyy-mm-dd`.
 
-Puoi ordinare le risorse ricercate in ordine crescente o decrescente di `Name`, `Relevancy`, `Size`, `Modified`e `Created`.
+Puoi ordinare le risorse trovate in ordine crescente o decrescente di `Name`, `Relevancy`, `Size`, `Modified` e `Created`.
 
 ## Ricerche salvate {#saved-search}
 
-La funzionalità di ricerca è abbastanza semplice da utilizzare in [!DNL Assets Essentials]. Dall&#39;interno della casella di ricerca, non solo è possibile digitare una parola chiave e premere ritorno per visualizzare i risultati, è anche possibile cercare rapidamente di nuovo le parole chiave ricercate di recente in un solo clic.
+La funzionalità di ricerca di [!DNL Assets Essentials] è semplice. Nella casella di ricerca, puoi sia digitare una parola chiave e premere Invio per visualizzare i risultati, sia cercare rapidamente con un solo clic, richiamando parole chiave già utilizzate di recente.
 
-Puoi anche filtrare i risultati della ricerca in base a criteri specifici, in base ai metadati e al tipo di risorse. Per i filtri utilizzati di frequente, per migliorare l’esperienza di ricerca, [!DNL Assets Essentials] consente di salvare i parametri di ricerca. Puoi quindi selezionare la ricerca salvata per eseguire la ricerca e applicare il filtro con un solo clic.
+Puoi anche filtrare i risultati della ricerca in base a criteri specifici, secondo i metadati e il tipo di risorse. [!DNL Assets Essentials] consente di salvare i parametri dei filtri utilizzati di frequente, per migliorare l’esperienza di ricerca. Puoi quindi selezionare una ricerca salvata per eseguirla di nuovo applicandone il filtro con un solo clic.
 
-Per creare una ricerca salvata, cerca una risorsa, applica uno o più filtri e fai clic su [!UICONTROL Salva ricerca] in [!UICONTROL Filtri] pannello.
+Per salvare una ricerca, cerca le risorse, applica uno o più filtri e fai clic su [!UICONTROL Salva ricerca] nel pannello [!UICONTROL Filtri].
 
 ![Ricerca salvata dal pannello Filtri](assets/saved-search.png)
 
