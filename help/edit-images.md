@@ -4,9 +4,9 @@ description: Modifica le immagini utilizzando le opzioni baate su [!DNL Adobe Ph
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '497'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 65%
 
 [!DNL Assets Essentials] offre opzioni di modifica intuitive basate su [!DNL Adobe Photoshop Express]. Le azioni di modifica disponibili consentono di corregee al volo, ritagliare e raddrizzare, ridimensionare e regolare le immagini.
 
-Dopo aver modificato un’immagine, puoi salvarla come nuova versione. Se necessario, il controllo delle versioni consente di ripristinare la risorsa originale in un secondo momento. Per modificare un&#39;immagine, [apri anteprima](/help/navigate-view.md#preview-assets) e fai clic su **[!UICONTROL Modifica immagine]** ![icona modifica](assets/do-not-localize/edit-icon.png) dalla barra a destra.
+Dopo aver modificato un’immagine, puoi salvarla come nuova versione. Se necessario, il controllo delle versioni consente di ripristinare la risorsa originale in un secondo momento. Per modificare un’immagine, [apri l’anteprima](/help/navigate-view.md#preview-assets) e fai clic su **[!UICONTROL Modifica immagine]** ![icona Modifica](assets/do-not-localize/edit-icon.png) nella barra a destra.
 
 ![Opzioni per modificare un’immagine](assets/edit-image2.png)
 
@@ -35,7 +35,7 @@ For more information about how Spot Healing works in Photoshop, see [retouching 
 
 Utilizzando l’opzione di ritaglio e raddrizzamento è possibile eseguire ritaglio di base, ruotare l’immagine, capovolgerla in orizzontale o in verticale e ritagliarla con le proporzioni più adatte per i social media più popolari.
 
-Per salvare le modifiche, fai clic su **[!UICONTROL Ritaglio immagine]**. Dopo la modifica, puoi salvare la nuova immagine come versione.
+Per salvare le modifiche, fai clic su **[!UICONTROL Ritaglia immagine]**. Dopo la modifica, puoi salvare la nuova immagine come versione.
 
 ![Opzione per ritagliare e raddrizzare](assets/edit-crop-straighten.png)
 
@@ -45,7 +45,7 @@ Molte opzioni predefinite consentono di ritagliare l’immagine alle proporzioni
 
 Spesso occorre ridimensionare un’immagine a una dimensione specifica. [!DNL Assets Essentials] consente di ridimensionare rapidamente le immagini per adattarle alle dimensioni comuni delle foto, fornendo nuove risoluzioni precalcolate per dimensioni specifiche. Puoi visualizzare le dimensioni comuni delle foto in centimetri o pollici per conoscerne la grandezza. Per impostazione predefinita, il metodo di ridimensionamento mantiene le proporzioni originali. Per modificare manualmente le proporzioni, fai clic su ![](assets/do-not-localize/lock-closed-icon.png).
 
-Inserisci le dimensioni e fai clic su **[!UICONTROL Ridimensiona immagine]** per ridimensionare l’immagine. Prima di salvare le modifiche come versione, fai clic su per annullare tutte le modifiche apportate prima di salvarle [!UICONTROL Annulla] oppure puoi modificare il passaggio specifico nel processo di modifica facendo clic su [!UICONTROL Ripristina].
+Inserisci le dimensioni e fai clic su **[!UICONTROL Ridimensiona immagine]** per ridimensionare l’immagine. Prima di salvare le modifiche come versione, puoi fare clic su [!UICONTROL Annulla] per annullare tutte le modifiche apportate prima di salvarle; oppure, per modificare un passaggio di modifica specifico, fai clic su [!UICONTROL Ripristina].
 
 ![Opzioni per ridimensionre un’immagine](assets/resize-image.png)
 
@@ -53,11 +53,11 @@ Inserisci le dimensioni e fai clic su **[!UICONTROL Ridimensiona immagine]** per
 
 [!DNL Assets Essentials] consente di regolare il colore, il tono, il contrasto e molto altro con pochi clic. Fai clic su **[!UICONTROL Regola immagine]** nella finestra di modifica. Nella barra laterale a destra sono disponibili le seguenti opzioni:
 
-* **Popolare**: [!UICONTROL Contrasto e dettagli elevati], [!UICONTROL Contrasto], [!UICONTROL Foto invecchiata], [!UICONTROL Bianco e nero]e [!UICONTROL Bianco e nero tonalità seppia].
-* **Colore**: [!UICONTROL Naturale], [!UICONTROL Luminoso], [!UICONTROL Contrasto elevato], [!UICONTROL Contrasto e dettagli elevati], [!UICONTROL Vivido]e [!UICONTROL Matte].
-* **Creativo**: [!UICONTROL Contrasto], [!UICONTROL Luce fredda], [!UICONTROL Turchese e rosso], [!UICONTROL Morsa morbida], [!UICONTROL Instant Vintage], [!UICONTROL Contrasto caldo], [!UICONTROL Piatta e verde], [!UICONTROL Matte di incremento rosso], [!UICONTROL Ombre calde]e [!UICONTROL Foto invecchiata].
-* **Bianco e nero**: [!UICONTROL Orizzontale in bianco e nero], [!UICONTROL Contrasto elevato in bianco e nero], [!UICONTROL Punzonatura in bianco e nero], [!UICONTROL Contrasto basso in bianco e nero], [!UICONTROL B&amp;B piatto], [!UICONTROL Bianco e nero], [!UICONTROL Infrarossi in bianco e nero], [!UICONTROL Tonalità selenio bianco e nero], [!UICONTROL Bianco e nero tonalità seppia]e [!UICONTROL Tono diviso in bianco e nero].
-* **Vignettatura**: [!UICONTROL Nessuno], [!UICONTROL Luce], [!UICONTROL Media]e [!UICONTROL Pesante].
+* **Popolare**: [!UICONTROL Contrasto e dettagli elevati], [!UICONTROL Contrasto insaturo], [!UICONTROL Foto invecchiata], [!UICONTROL Bianco e nero morbido] e [!UICONTROL Tonalità seppia bianco e nero].
+* **Colore**: [!UICONTROL Naturale], [!UICONTROL Luminosità], [!UICONTROL Contrasto elevato], [!UICONTROL Contrasto elevato e dettagli], [!UICONTROL Vivace] e [!UICONTROL Opaco].
+* **Creativo**: [!UICONTROL Contrasto insaturo], [!UICONTROL Luce fredda], [!UICONTROL Turchese e rosso], [!UICONTROL Foschia leggera], [!UICONTROL Istante vintage], [!UICONTROL Contrasto caldo], [!UICONTROL Semplice e verde], [!UICONTROL Opacità sollevata rossa], [!UICONTROL Ombre calde] e [!UICONTROL Foto invecchiata].
+* **Bianco e nero**: [!UICONTROL Paesaggio bianco e nero], [!UICONTROL Bianco e nero con contrasto elevato], [!UICONTROL Risalto bianco e nero], [!UICONTROL Bianco e nero con contrasto ridotto], [!UICONTROL Bianco e nero semplice], [!UICONTROL Bianco e nero morbido], [!UICONTROL Bianco e nero infrarossi], [!UICONTROL Tonalità selenio bianco e nero], [!UICONTROL Tonalità seppia bianco e nero] e [!UICONTROL Divisioni toni bianco e nero].
+* **Vignettatura**: [!UICONTROL Nessuna], [!UICONTROL Chiara], [!UICONTROL Media] e [!UICONTROL Scura].
 
 ![Regolare l’immagine con modifiche](assets/adjust-image.png)
 
