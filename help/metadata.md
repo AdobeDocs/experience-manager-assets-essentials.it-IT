@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '962'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -27,39 +27,39 @@ Per questi motivi, Assets offre i mezzi giusti per creare, gestire e scambiare m
 
 ## Visualizzare i metadati {#view-metadata}
 
-Per visualizzare i metadati di una risorsa, cerca la risorsa o la risorsa, seleziona la risorsa e fai clic su **[!UICONTROL Dettagli]** nella barra degli strumenti.
+Per visualizzare i metadati di una risorsa, cerca la risorsa, selezionala e fai clic su **[!UICONTROL Dettagli]** nella barra degli strumenti.
 
 ![Visualizzare i metadati di una risorsa](assets/metadata-view1.png)
 
-*Figura: Per visualizzare una risorsa e i relativi metadati, fai clic su **[!UICONTROL Dettagli]**dalla barra degli strumenti o fai doppio clic sulla risorsa.*
+*Figura: Per visualizzare una risorsa e i relativi metadati, fai clic su **[!UICONTROL Dettagli]** nella barra degli strumenti o fai doppio clic sulla risorsa.*
 
-I metadati di base come titolo, descrizione e data di caricamento sono disponibili nella sezione [!UICONTROL Base] scheda . La [!UICONTROL Avanzate] La scheda contiene metadati più avanzati, ad esempio il modello della fotocamera, i dettagli dell&#39;obiettivo e i geotag. La [!UICONTROL Tag] contiene tag applicati automaticamente in base al contenuto dell’immagine.
+I metadati di base quali titolo, descrizione e data di caricamento sono disponibili nella scheda [!UICONTROL Base]. La scheda [!UICONTROL Avanzate] contiene metadati più avanzati, ad esempio il modello della fotocamera, i dettagli dell’obiettivo e i geotag. La scheda [!UICONTROL Tag] contiene tag applicati automaticamente in base al contenuto dell’immagine.
 
 ## Aggiornare i metadati {#update-metadata}
 
-Puoi aggiornare manualmente alcuni campi di metadati. I campi includono [!UICONTROL Titolo], [!UICONTROL Descrizione], [!UICONTROL Autore]e [!UICONTROL Parole chiave].
+Puoi aggiornare manualmente alcuni campi di metadati. I campi includono [!UICONTROL Titolo], [!UICONTROL Descrizione], [!UICONTROL Autore] e [!UICONTROL Parole chiave].
 
 ## Tag {#tags}
 
 [!DNL Assets Essentials] utilizza l’intelligenza artificiale fornita da [Adobe Sensei](https://www.adobe.com/it/sensei.html) per applicare automaticamente tag rilevanti a tutte le risorse caricate. Questi tag, o “tag avanzati”, consentono di velocizzare le attività relative ai contenuti dei progetti grazie alla possibilità di trovare rapidamente le risorse rilevanti. I tag avanzati sono un esempio di metadati non contenuti nell’immagine.
 
-I tag avanzati vengono applicati quasi in tempo reale e vengono generati in base al contenuto dell’immagine. Quando carichi una risorsa, viene visualizzata l’interfaccia utente [!UICONTROL Elaborazione] sulla miniatura della risorsa per un certo periodo di tempo. Una volta completata l’elaborazione, puoi [visualizzare i metadati](#view-metadata) e i tag avanzati.
+I tag avanzati vengono applicati quasi in tempo reale e vengono generati in base al contenuto dell’immagine. Quando carichi una risorsa, sulla sua miniatura viene inizialmente visualizzata la dicitura [!UICONTROL In elaborazione]. Una volta completata l’elaborazione, puoi [visualizzare i metadati](#view-metadata) e i tag avanzati.
 
 ![Visualizzare i tag avanzati di una risorsa](assets/metadata-view-tags.png)
 
-*Figura: Per visualizzare i tag avanzati di una risorsa, fai clic su **[!UICONTROL Dettagli]**dalla barra degli strumenti o fai doppio clic sulla risorsa.*
+*Figura: Per visualizzare i tag avanzati di una risorsa, fai clic su **[!UICONTROL Dettagli]** nella barra degli strumenti o fai doppio clic sulla risorsa.*
 
 I tag avanzati contengono anche un punteggio di affidabilità in percentuale. Indica l’affidabilità associata al tag applicato. È possibile moderare i tag avanzati applicati automaticamente.
 
 ## Aggiungere o aggiornare i tag {#manually-tag}
 
-Puoi aggiungere più tag alle risorse, oltre ai tag avanzati che vengono aggiunti automaticamente utilizzando servizio intelligente [!DNL Adobe Sensei]. Apri una risorsa per l&#39;anteprima, fai clic su [!UICONTROL Tag], e digita le parole chiave desiderate nel [!UICONTROL Parole chiave] campo . Per aggiungere il tag, premi Invio. [!DNL Assets Essentials] indicizza la parola chiave quasi in tempo reale e dopo poco il tuo team può già cercare le risorse aggiornate utilizzando le nuove parole chiave.
+Puoi aggiungere più tag alle risorse, oltre ai tag avanzati che vengono aggiunti automaticamente utilizzando servizio intelligente [!DNL Adobe Sensei]. Apri una risorsa per l’anteprima, fai clic su [!UICONTROL Tag] e digita le parole chiave desiderate nel campo [!UICONTROL Parole chiave]. Per aggiungere il tag, premi Invio. [!DNL Assets Essentials] indicizza la parola chiave quasi in tempo reale e dopo poco il tuo team può già cercare le risorse aggiornate utilizzando le nuove parole chiave.
 
-È inoltre possibile rimuovere i tag dal [!UICONTROL Tag avanzati] sezione aggiunta automaticamente da [!DNL Assets Essentials] a tutte le risorse caricate.
+Dalla sezione [!UICONTROL Tag avanzati] puoi anche rimuovere i tag aggiunti automaticamente da [!DNL Assets Essentials] a tutte le risorse caricate.
 
 ## Moduli di metadati {#metadata-forms}
 
-Per impostazione predefinita, Assets Essentials fornisce molti campi di metadati standard. Spesso le organizzazioni hanno l’esigenza di aggiungere altri metadati, specifici per l’azienda. I moduli metadati consentono alle aziende di aggiungere campi di metadati personalizzati a una risorsa [!UICONTROL Dettagli] pagina. I metadati specifici per l’azienda migliorano la governance e l’individuazione delle risorse.
+Per impostazione predefinita, Assets Essentials fornisce molti campi di metadati standard. Spesso le organizzazioni hanno l’esigenza di aggiungere altri metadati, specifici per l’azienda. I moduli di metadati consentono alle aziende di aggiungere campi di metadati personalizzati alla pagina [!UICONTROL Dettagli] di una risorsa. I metadati specifici per l’azienda migliorano la governance e l’individuazione delle risorse.
 
 Puoi configurare i moduli di metadati per diversi tipi di risorse (diversi tipi MIME). Utilizza un modulo con lo stesso nome del tipo MIME del file. Essentials abbina automaticamente le risorse caricate al nome del modulo. Ad esempio, se è presente un modulo di metadati denominato `PDF` o `pdf`, i documenti PDF caricati contengono i campi di metadati definiti in tale modulo. Puoi creare nuovi moduli o riutilizzare quelli esistenti.
 
@@ -69,28 +69,28 @@ Puoi configurare i moduli di metadati per diversi tipi di risorse (diversi tipi 
 
 Per creare un modulo di metadati, effettua le seguenti operazioni:
 
-1. Nella barra a sinistra, fai clic su **[!UICONTROL Impostazioni]** > **[!UICONTROL Forms metadati]**.
+1. Nella barra a sinistra, fai clic su **[!UICONTROL Impostazioni]** > **[!UICONTROL Moduli metadati]**.
 
    ![opzione Moduli di metadati nella barra laterale a sinistra](assets/metadata-forms-sidebar.png)
 
-1. Fai clic su **[!UICONTROL Crea]**, nell’area in alto a destra dell’interfaccia utente.
-1. Specifica un nome per il modulo e fai clic su **[!UICONTROL Crea]**.
-1. Specifica un nome per la scheda in **[!UICONTROL Impostazioni]** nella barra a destra.
+1. Fai clic su **[!UICONTROL Crea]** in alto a destra nell’interfaccia utente.
+1. Assegna un nome al modulo, quindi fai clic su **[!UICONTROL Crea]**.
+1. Nella barra a destra, specifica un nome per la scheda in **[!UICONTROL Impostazioni]**.
 1. Da **[!UICONTROL Componenti]** nella barra a sinistra, trascina i componenti richiesti su una scheda del modulo. Trascina i componenti nella sequenza desiderata.
 
    ![opzione oduli di metadati nella barra laterale a sinistra](assets/metadata-form-new.png)
 
    *Figura: Interfaccia per la creazione di moduli di metadati, con opzioni che consentono di aggiungere componenti e visualizzare l’anteprima del modulo.*
 
-1. Per ogni componente, in fornisci un nome nel **[!UICONTROL Impostazioni]** nella barra a destra, fornisci una mappatura con le proprietà supportate.
-1. Facoltativamente, per un componente, seleziona **[!UICONTROL Obbligatorio]** per rendere obbligatorio il campo metadati e selezionare **[!UICONTROL Sola lettura]** per rendere il campo non modificabile nella risorsa [!UICONTROL Dettagli] pagina.
-1. Facoltativamente, fai clic su **[!UICONTROL Anteprima]** per visualizzare in anteprima il modulo che si sta creando.
+1. Per ogni componente, specifica un nome nelle **[!UICONTROL Impostazioni]** nella barra a destra e una mappatura con le proprietà supportate.
+1. Se necessario, per un singolo componente, seleziona **[!UICONTROL Obbligatorio]** per rendere obbligatorio il campo di metadati e seleziona **[!UICONTROL Solo lettura]** per impedire la modifica del campo nella pagina [!UICONTROL Dettagli] della risorsa.
+1. Se necessario, fai clic su **[!UICONTROL Anteprima]** per visualizzare in anteprima il modulo che stai creando.
 1. Se necessario, aggiungi altre schede e i relativi componenti in ogni scheda.
-1. Fai clic su **[!UICONTROL Salva]** una volta completato il modulo.
+1. Dopo aver completato il modulo, fai clic su **[!UICONTROL Salva]**.
 
 Dopo aver creato il modulo, quest’ultimo viene applicato automaticamente quando gli utenti caricano una risorsa del tipo MIME corrispondente.
 
-Per riutilizzare un modulo esistente per creare un nuovo modulo, selezionare un modulo di metadati e fare clic su **[!UICONTROL Copia]** dalla barra degli strumenti, fornisci un nome e fai clic su **[!UICONTROL Conferma]**. A questo punto puoi modificare il modulo di metadati. Quando modifichi un modulo, quest’ultimo viene utilizzato per le risorse caricate in seguito alla modifica. L’operazione non modifica le risorse esistenti.
+Per creare un nuovo modulo riutilizzandone uno esistente, seleziona un modulo di metadati e fai clic su **[!UICONTROL Copia]** nella barra degli strumenti, specifica un nome e fai clic su **[!UICONTROL Conferma]**. A questo punto puoi modificare il modulo di metadati. Quando modifichi un modulo, quest’ultimo viene utilizzato per le risorse caricate in seguito alla modifica. L’operazione non modifica le risorse esistenti.
 
 <!-- TBD: Cannot create a form using the second option. Documenting only the first option for now.
 To reuse an existing form to create a new form, do one of these:
