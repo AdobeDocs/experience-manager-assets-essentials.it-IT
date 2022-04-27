@@ -5,7 +5,7 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
 source-git-commit: b9d333a862cca6227ef386ae8dadf431c2fb6d71
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '308'
 ht-degree: 100%
 
@@ -40,13 +40,13 @@ I vari tipi di file sono supportati per diversi casi d’uso e funzioni, come ri
 
 | Tipo risorsa | [Sfogliare](/help/navigate-view.md) | Copiare | [Caricare](/help/add-delete.md) | Creare | [Eliminare](/help/add-delete.md#delete-assets) | Dettagli | Zoom immagine | [Visualizzato di recente](/help/navigate-view.md) |
 |-------------------|----------|----------|----------|----------|----------|-------------------|------------|-----------------|
-| Immagini raster | ✓ | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
-| File non elaborati | ✓ | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
-| Cartelle | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | - |
-| Video MP4 | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
-| PDF | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
-| PSD, AI e INDD | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
-| Altri file binari | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
+| Immagini raster | ✓ | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| File non elaborati | ✓ | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| Cartelle | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | − | − |
+| Video MP4 | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
+| PDF | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
+| PSD, AI e INDD | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
+| Altri file binari | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
 
 <!-- Hiding CC Libraries (considered beta) as per PM feedback.
 | CC Libraries  | &#10003; | &minus;  | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
@@ -57,13 +57,13 @@ I vari tipi di file sono supportati per diversi casi d’uso e funzioni, come ri
 | Tipo risorsa | [Download](/help/manage-organize.md#download) | Inserimento tramite trascinamento | [Editor immagine](/help/edit-images.md) | [Ricerca](/help/search.md) | [Tag avanzati](/help/metadata.md#tags) | [Rinomina](/help/manage-organize.md) | [Versioni](/help/manage-organize.md#versions-of-assets) |
 |---------------|----------|---------------|--------------|----------|------------|----------|----------|
 | Immagini raster | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| File non elaborati | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Cartelle | ✓ | ✓ | - | ✓ | - | ✓ | ✓ |
-| Video | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
-| CC Libraries | - | - | - | - | - | ✓ | ✓ |
-| PDF | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
-| PSD, AI e INDD | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
-| Altri file binari | ✓ | ✓ | - | ✓ | - | ✓ | ✓ |
+| File non elaborati | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Cartelle | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
+| Video | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| CC Libraries | − | − | − | − | − | ✓ | ✓ |
+| PDF | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| PSD, AI e INDD | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| Altri file binari | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
 
 
 ## Rivedere le risorse e collaborare {#support-to-review-collaborate}
@@ -72,12 +72,12 @@ I vari tipi di file sono supportati per diversi casi d’uso e funzioni, come ri
 |---------------|----------|----------|-------------------------|
 | Immagini raster | ✓ | ✓ | ✓ |
 | File non elaborati | ✓ | ✓ | ✓ |
-| Cartelle | - | - | - |
-| Video | - | ✓ | ✓ |
-| Librerie CC | - | - | - |
-| PDF | - | ✓ | ✓ |
-| PSD, AI e INDD | - | ✓ | ✓ |
-| Altri file binari | - | ✓ | ✓ |
+| Cartelle | − | − | − |
+| Video | − | ✓ | ✓ |
+| CC Libraries | − | − | − |
+| PDF | − | ✓ | ✓ |
+| PSD, AI e INDD | − | ✓ | ✓ |
+| Altri file binari | − | ✓ | ✓ |
 
 ## Altre attività di gestione risorse {#support-to-manage-assets}
 
@@ -85,12 +85,12 @@ I vari tipi di file sono supportati per diversi casi d’uso e funzioni, come ri
 |---------------|-------------------|------------|----------|----------|----------|
 | Immagini raster | ✓ | ✓ | ✓ | ✓ | ✓ |
 | File non elaborati | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Cartelle | ✓ | - | ✓ | ✓ | ✓ |
-| Video | ✓ | - | ✓ | ✓ | ✓ |
-| Librerie CC | ✓ | - | - | - | - |
-| PDF | ✓ | - | ✓ | ✓ | ✓ |
-| PSD, AI e INDD | ✓ | - | ✓ | ✓ | ✓ |
-| Altri file binari | ✓ | - | ✓ | ✓ | ✓ |
+| Cartelle | ✓ | − | ✓ | ✓ | ✓ |
+| Video | ✓ | − | ✓ | ✓ | ✓ |
+| CC Libraries | ✓ | − | − | − | − |
+| PDF | ✓ | − | ✓ | ✓ | ✓ |
+| PSD, AI e INDD | ✓ | − | ✓ | ✓ | ✓ |
+| Altri file binari | ✓ | − | ✓ | ✓ | ✓ |
 
 Gli utenti di [!DNL Adobe Asset Link] possono caricare e consegnare (caricare una nuova versione) i file nell’archivio di [!DNL Assets Essentials] dalle applicazioni desktop [!DNL Adobe Creative Cloud] supportate.
 
