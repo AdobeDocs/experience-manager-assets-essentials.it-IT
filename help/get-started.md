@@ -4,9 +4,9 @@ description: Accesso, esperienza di accesso, casi di utilizzo supportati e probl
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
 source-git-commit: fdfbe04b41c6b164007591855c4dd37b6fe3dfa7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '476'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ Per aprire le preferenze, fai clic sull’avatar in alto a destra nell’interfa
 
 Se fai parte di organizzazioni diverse, puoi anche cambiare l’organizzazione e accedere ai tuoi account per le diverse organizzazioni.
 
-Per modificare il [!UICONTROL Preferenze di Experience Cloud], fai clic su [!UICONTROL Preferenze].
+Per modificare le [!UICONTROL Preferenze di Experience Cloud], fai clic su [!UICONTROL Preferenze].
 
 ![Preferenza per scegliere il tema scuro o chiaro](assets/theme-change.png)
 
@@ -65,11 +65,11 @@ Di seguito sono indicate le varie attività di gestione delle risorse digitali (
 
 ## ![icona feedback](assets/do-not-localize/feedback-icon.png) Fornire feedback sul prodotto {#provide-feedback}
 
-Adobe invita gli utenti a fornire un feedback sulla soluzione. Per fornire un feedback senza nemmeno cambiare l&#39;applicazione di lavoro, utilizza [!UICONTROL Feedback] nell’interfaccia utente di . Puoi anche allegare file come una schermata o registrazione video di un problema.
+Adobe invita gli utenti a fornire un feedback sulla soluzione. Per fornire un feedback direttamente dall’applicazione in uso, utilizza l’opzione [!UICONTROL Feedback] nell’interfaccia utente. Puoi anche allegare file come una schermata o registrazione video di un problema.
 
 ![opzione di feedback nell’interfaccia](assets/feedback-panel.png)
 
-Per fornire un feedback per la documentazione, fai clic su [!UICONTROL Modifica questa pagina] ![modificare la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![creare un problema GitHub](assets/do-not-localize/github-issue.png) dalla barra laterale destra. Puoi effettuare una delle seguenti operazioni:
+Per fornire un feedback sulla documentazione, fai clic su [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) nella barra laterale destra. Puoi effettuare una delle seguenti operazioni:
 
 * Aggiorna i contenuti e invia una richiesta pull GitHub.
 * Crea un problema o un ticket in GitHub. Quando crei un problema, mantieni il nome dell’articolo popolato automaticamente.
