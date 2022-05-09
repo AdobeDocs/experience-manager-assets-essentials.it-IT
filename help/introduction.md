@@ -4,9 +4,9 @@ description: Panoramica e descrizione della soluzione Assets Essentials
 role: User,Leader
 exl-id: 43ddf11c-36d3-4643-80c9-b7dd5d199450
 source-git-commit: c95717e9898ade023d785b9d0191f4bc20f10a39
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '243'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 90%
 
 Adobe offre una solida soluzione di gestione delle risorse digitali (DAM) che consente di trarre il massimo dalle risorse digitali. Come parte della linea di prodotti Adobe Experience Manager, Adobe offre una nuova soluzione SaaS per archiviare, gestire e individuare risorse digitali, integrata in modo nativo con altre soluzioni di Adobe.
 
-[!DNL Experience Manager Assets Essentials] è una nuova edizione più leggera di [!DNL Adobe Experience Manager Assets]. [!DNL Assets Essentials] offre funzioni per la gestione unificata delle risorse e collaborazione con un’interfaccia utente semplificata e coerente. La facilità d’uso consente ai team creativi e di marketing di archiviare, individuare e distribuire risorse digitali. Attualmente, il [!DNL Assets Essentials] experience può integrarsi con le seguenti soluzioni:
+[!DNL Experience Manager Assets Essentials] è una nuova edizione più leggera di [!DNL Adobe Experience Manager Assets]. [!DNL Assets Essentials] offre funzioni per la gestione unificata delle risorse e collaborazione con un’interfaccia utente semplificata e coerente. La facilità d’uso consente ai team creativi e di marketing di archiviare, individuare e distribuire risorse digitali. Al momento, l’esperienza [!DNL Assets Essentials] incorporata può essere integrata con le seguenti soluzioni:
 
 * Creative Cloud for enterprise
 
@@ -26,7 +26,7 @@ Adobe offre una solida soluzione di gestione delle risorse digitali (DAM) che co
 
 * Adobe Workfront
 
-Per ulteriori informazioni, consulta [Integrazione con altre soluzioni Adobe](integration.md).
+Per ulteriori informazioni, consulta [Integrazioni con altre soluzioni Adobe](integration.md).
 
 [!DNL Assets Essentials] offre un’interfaccia semplice e funzioni di ricerca e rilevamento efficienti delle risorse digitali, per ottimizzare l’utilizzo delle risorse, la governance e la coerenza del brand tra i vari team. L’esperienza dell’utente finale può essere sia tramite interfaccia web indipendente che tramite esperienza incorporata in altre soluzioni Adobe.
 
