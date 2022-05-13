@@ -2,18 +2,52 @@
 title: Note sulla versione
 description: Note sulla versione e problemi noti di [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
-contentOwner: AG
+contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 4cced7aba92fd0f041842e5ef78d02f0a4f7ffe0
-workflow-type: ht
-source-wordcount: '549'
-ht-degree: 100%
+source-git-commit: 7c4bc88e2110ff1dd7442af303bdd2c586ba5a6f
+workflow-type: tm+mt
+source-wordcount: '786'
+ht-degree: 69%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-L’attuale versione di [!DNL Assets Essentials] è stata rilasciata il 9 marzo 2022. Questa versione offre:
+L&#39;attuale versione di [!DNL Assets Essentials] rilasciato il 12 maggio 2022. Questa versione offre:
+
+* [!DNL Assets Essentials] ora supporta [creazione di raccolte](manage-collections.md). Una raccolta è un insieme di risorse in Experience Manager Assets Essentials. Utilizza le raccolte per condividere le risorse tra gli utenti. A differenza delle cartelle, una raccolta può includere risorse da posizioni diverse.
+
+* Assets Essentials ora consente anche di: [aggiungere filtri personalizzati](search.md#custom-filters) all’interfaccia utente. Puoi quindi applicare questi filtri personalizzati oltre ai filtri standard per perfezionare i risultati della ricerca.
+
+* Assets Essentials ora consente di: [imposta lo stato](manage-organize.md#set-asset-status) sulle risorse disponibili nell’archivio. Imposta lo stato di una risorsa per governare e gestire meglio il consumo a valle di risorse digitali.
+
+* Miglioramenti e correzioni di bug in base al feedback ricevuto dai clienti.
+
+## Modalità in incognito in Chrome {#incognito-mode}
+
+Con questa versione, stiamo ottimizzando le prestazioni della distribuzione dell’interfaccia utente e le funzionalità specifiche di Assets Essentials - commentando le risorse e la modifica delle immagini - a seconda che l’archiviazione locale del browser e i cookie di terze parti siano abilitati. La modalità in incognito nel browser web Chrome blocca i cookie di terze parti per impostazione predefinita - gli utenti hanno una serie di opzioni per continuare ad accedere a tutte le funzionalità:
+
+* Utilizza i profili Chrome invece della modalità Incognito, quando l&#39;utente deve separare le sessioni del browser
+
+* Spegnere `Block third-party cookies` nella schermata in modalità incognito in Chrome
+
+## Problemi noti {#known-issues}
+
+L’elenco dei problemi noti di [!DNL Assets Essentials] viene regolarmente rivisto e aggiornato:
+
+* Non è possibile filtrare le risorse utilizzando `No Status` stato della risorsa.
+
+* Non è possibile sfogliare o cercare una risorsa con un `Expired` stato. Puoi accedere alla risorsa solo utilizzando un collegamento profondo o un URL.
+
+* Assets Essentials non supporta la creazione di raccolte private.
+
+In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un feedback](#provide-feedback) al team.
+
+## Versioni precedenti {#past-release}
+
+### 2022.2.0 {#march-2022}
+
+[!DNL Assets Essentials] è rilasciato il 9 marzo 2022, con i seguenti aggiornamenti:
 
 * [!DNL Assets Essentials] ora consente di [generare un collegamento e condividere le risorse con le parti interessate](share-links-for-assets.md), che non hanno accesso all’applicazione [!DNL Assets Essentials]. Puoi definire una data di scadenza del collegamento e condividerlo con altri utilizzando il metodo di comunicazione preferito, ad esempio e-mail o servizi di messaggistica. I destinatari del collegamento possono visualizzare in anteprima le risorse e scaricarle.
 
@@ -25,16 +59,6 @@ L’attuale versione di [!DNL Assets Essentials] è stata rilasciata il 9 marzo 
 
 Inoltre, l’estensione [!DNL Adobe Asset Link] per Creative Cloud (Photoshop, Illustrator e InDesign) ha rilasciato una [nuova versione 3.2](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html), con miglioramenti delle prestazioni del tempo di avvio del pannello e nella velocità di download.
 
-
-## Problemi noti {#known-issues}
-
-L’elenco dei problemi noti di [!DNL Assets Essentials] viene regolarmente rivisto e aggiornato:
-
-* Nessuno
-
-In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un feedback](#provide-feedback) al team.
-
-## Versioni precedenti {#past-release}
 
 ### Versione 2022.1.0 {#january-2022}
 

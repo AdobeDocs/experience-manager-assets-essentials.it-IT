@@ -4,10 +4,10 @@ description: Sposta, elimina, copia, rinomina, aggiorna e crea versioni delle ri
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: ht
-source-wordcount: '614'
-ht-degree: 100%
+source-git-commit: e8bae7cb2b424fe6956247398398e86f559db67f
+workflow-type: tm+mt
+source-wordcount: '838'
+ht-degree: 79%
 
 ---
 
@@ -83,3 +83,65 @@ Puoi anche creare versioni dalla timeline delle versioni. Seleziona la versione 
 ![Visualizzare le versioni di una risorsa](assets/view-asset-versions1.png)
 
 *Figura: Visualizzare le versioni di una risorsa, ripristinare una versione precedente o caricare un’altra nuova versione.*
+
+## Gestire lo stato delle risorse {#manage-asset-status}
+
+**Autorizzazioni richieste:**  `Can Edit`, `Owner`o le autorizzazioni di amministratore per una risorsa.
+
+Assets Essentials consente di impostare lo stato delle risorse disponibili nell’archivio. Imposta lo stato di una risorsa per governare e gestire meglio il consumo a valle di risorse digitali.
+
+Puoi impostare il seguente stato sulle risorse:
+
+* Approvato
+
+* Rifiutato
+
+* Nessun stato
+
+### Imposta lo stato della risorsa {#set-asset-status}
+
+Per impostare lo stato della risorsa:
+
+1. Seleziona la risorsa e fai clic su **[!UICONTROL Dettagli]** nella barra degli strumenti.
+
+1. In **[!UICONTROL Base]** seleziona lo stato della risorsa dalla scheda **[!UICONTROL Stato]** elenco a discesa. I valori possibili sono Approvato, Rifiutato e Nessun stato (impostazione predefinita).
+
+   >[!VIDEO](https://video.tv.adobe.com/v/342495)
+
+<!--
+
+### Set asset expiration date {#set-asset-expiration-date}
+
+To set asset expiration date:
+
+1. Select the asset, and click **[!UICONTROL Details]** in the toolbar.
+
+1. In the **[!UICONTROL Basic]** tab, set the expiration date for the asset using the  **[!UICONTROL Expiration date]** field.
+
+The `Expired` asset card indicator overrides the `Approved` or `Rejected` indicator set for an asset.
+
+-->
+
+Per ulteriori informazioni, consulta [Cercare risorse in Assets Essentials](search.md).
+
+## Personalizzare i moduli di metadati per includere il campo dello stato della risorsa {#customize-asset-status-metadata-form}
+
+**Autorizzazioni richieste:** Amministratore
+
+Per impostazione predefinita, Assets Essentials fornisce molti campi di metadati standard. Spesso le organizzazioni hanno l’esigenza di aggiungere altri metadati, specifici per l’azienda. I moduli di metadati consentono alle aziende di aggiungere campi di metadati personalizzati alla pagina [!UICONTROL Dettagli] di una risorsa. I metadati specifici per l’azienda migliorano la governance e l’individuazione delle risorse.
+
+Per ulteriori informazioni su come aggiungere ulteriori campi di metadati al modulo di metadati, consulta [Forms metadati](metadata.md##metadata-forms).
+
+**Aggiungere al modulo il campo metadati Stato risorsa**
+
+Per aggiungere al modulo il campo metadati Stato risorsa, trascina **[!UICONTROL Stato risorsa]** dalla barra a sinistra al modulo. La proprietà di mappatura viene precompilata automaticamente. Salva il modulo per confermare le modifiche.
+
+<!--
+
+**Add Expiration Date metadata field to the form**
+
+To add Expiration Date metadata field to the form,  drag **[!UICONTROL Date]** component from the left rail to the form. Specify **Expiration Date** as the label and `pur:expirationDate` as the mapping property. Save the form to confirm the changes.
+
+-->
+
+
