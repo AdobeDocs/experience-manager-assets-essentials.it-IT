@@ -2,10 +2,10 @@
 title: Come gestire le autorizzazioni per le cartelle in AEM Assets Essentials?
 description: Assets Essentials consente agli amministratori di gestire i livelli di accesso per le cartelle disponibili nell’archivio. Crea gruppi di utenti e assegna le autorizzazioni a tali gruppi per gestire i livelli di accesso. In qualità di amministratore, puoi anche delegare i privilegi di gestione delle autorizzazioni ai gruppi di utenti a livello di cartella.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: c5cb27f3f660935487bb214088b4300475ef5fce
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
 workflow-type: tm+mt
-source-wordcount: '1580'
-ht-degree: 100%
+source-wordcount: '1643'
+ht-degree: 96%
 
 ---
 
@@ -202,3 +202,13 @@ Di seguito sono riportati i livelli di accesso per tutti i gruppi di utenti nell
 * /progetti/progetto-x: tutti gli utenti possono visualizzare le cartelle e le relative sottocartelle. Il gruppo utenti Team di project manager dispone delle autorizzazioni di modifica e può gestire le autorizzazioni per una cartella e le relative sottocartelle (autorizzazioni di proprietario). Il gruppo utenti del Team del progetto X dispone di autorizzazioni di modifica.
 
 * /legal: nessun utente può accedere alla cartella basata sulle autorizzazioni `Deny Access` per il gruppo `All Authenticated Users`. Il gruppo utenti del Team legale dispone di autorizzazioni di modifica.
+
+## Passaggi successivi {#next-steps}
+
+* [Guarda un video per gestire le autorizzazioni in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html)
+
+* Fornisci feedback sui prodotti utilizzando [!UICONTROL Feedback] opzione disponibile nell’interfaccia utente di Assets Essentials
+
+* Fornire feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modificare la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![creare un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
+
+* Contatto [Assistenza clienti](https://experienceleague.adobe.com/?support-solution=General#support)

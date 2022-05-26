@@ -1,10 +1,11 @@
 ---
 title: Gestire le raccolte
 description: Una raccolta è un insieme di risorse in Experience Manager Assets Essentials. Utilizza le raccolte per condividere le risorse tra gli utenti.
-source-git-commit: 6e86dc11e953423c156c3c06cb20c1700afdd59b
+exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
 workflow-type: tm+mt
-source-wordcount: '473'
-ht-degree: 9%
+source-wordcount: '520'
+ht-degree: 8%
 
 ---
 
@@ -125,3 +126,11 @@ Per eliminare una raccolta:
 1. Seleziona la raccolta da eliminare.
 
 1. Fai clic su **[!UICONTROL Elimina]**.
+
+## Passaggi successivi {#next-steps}
+
+* Fornisci feedback sui prodotti utilizzando [!UICONTROL Feedback] opzione disponibile nell’interfaccia utente di Assets Essentials
+
+* Fornire feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modificare la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![creare un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
+
+* Contatto [Assistenza clienti](https://experienceleague.adobe.com/?support-solution=General#support)

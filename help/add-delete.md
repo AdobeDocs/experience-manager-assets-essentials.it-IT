@@ -3,10 +3,10 @@ title: Caricare risorse nell’archivio
 description: Carica le risorse in [!DNL Assets Essentials], visualizza lo stato di caricamento e risolvi eventuali problemi.
 role: User
 exl-id: a85a4455-4456-48af-aee9-f05300677605
-source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: ht
-source-wordcount: '747'
-ht-degree: 100%
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '810'
+ht-degree: 92%
 
 ---
 
@@ -95,3 +95,13 @@ Gli utenti possono eliminare singole risorse o cartelle che non sono più necess
    *Figura: Le azioni per file e cartelle sono disponibili nella sezione della risorsa o cartella.*
 
 * Seleziona una risorsa o una cartella e fai clic su **[!UICONTROL Elimina]** ![icona Elimina](assets/do-not-localize/delete-icon.png) nella barra degli strumenti.
+
+## Passaggi successivi {#next-steps}
+
+* [Guarda un video per caricare le risorse in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/creating.html)
+
+* Fornisci feedback sui prodotti utilizzando [!UICONTROL Feedback] opzione disponibile nell’interfaccia utente di Assets Essentials
+
+* Fornire feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modificare la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![creare un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
+
+* Contatto [Assistenza clienti](https://experienceleague.adobe.com/?support-solution=General#support)

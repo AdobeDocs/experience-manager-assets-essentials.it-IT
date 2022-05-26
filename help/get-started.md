@@ -3,10 +3,10 @@ title: Iniziare a utilizzare [!DNL Assets Essentials]
 description: Accesso, esperienza di accesso, casi di utilizzo supportati e problemi noti di [!DNL Assets Essentials].
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
-source-git-commit: fdfbe04b41c6b164007591855c4dd37b6fe3dfa7
-workflow-type: ht
-source-wordcount: '476'
-ht-degree: 100%
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '432'
+ht-degree: 86%
 
 ---
 
@@ -55,6 +55,17 @@ Di seguito sono indicate le varie attività di gestione delle risorse digitali (
 | Operazioni relative ai metadati | <ul> <li>[Visualizzare i metadati nel dettaglio](/help/metadata.md) </li> <li> [Aggiornare i metadati](/help/metadata.md#update-metadata)</li> <li> [Creare un nuovo modulo di metadati](/help/metadata.md#metadata-forms) </li> </ul> |
 | Integrazione con altre soluzioni | <ul> <li>[Utilizzare il selettore risorse in [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] per [!DNL Creative Cloud]](/help/integration.md)</li> <li>[Integrazione con [!DNL Adobe Workfront]](/help/integration.md)</li> </ul> |
 
+## Passaggi successivi {#next-steps}
+
+* [Guarda un video per iniziare a utilizzare Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html)
+
+* Fornisci feedback sui prodotti utilizzando [!UICONTROL Feedback] opzione disponibile nell’interfaccia utente di Assets Essentials
+
+* Fornire feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modificare la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![creare un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
+
+* Contatto [Assistenza clienti](https://experienceleague.adobe.com/?support-solution=General#support)
+
+
 <!--TBD: Merge the below rows in the table when the use cases are documented/available.
 
 | How do I delete assets? | <ul> <li>[Delete assets](/help/manage-organize.md)</li> <li>Recover deleted assets</li> <li>Permanently delete assets</li> </ul> |
@@ -63,16 +74,20 @@ Di seguito sono indicate le varie attività di gestione delle risorse digitali (
 
 -->
 
-## ![icona feedback](assets/do-not-localize/feedback-icon.png) Fornire feedback sul prodotto {#provide-feedback}
+<!-- 
 
-Adobe invita gli utenti a fornire un feedback sulla soluzione. Per fornire un feedback direttamente dall’applicazione in uso, utilizza l’opzione [!UICONTROL Feedback] nell’interfaccia utente. Puoi anche allegare file come una schermata o registrazione video di un problema.
+## ![feedback icon](assets/do-not-localize/feedback-icon.png) Provide product feedback {#provide-feedback}
 
-![opzione di feedback nell’interfaccia](assets/feedback-panel.png)
+Adobe welcomes feedback about the solution. To provide feedback without even switching your working application, use the [!UICONTROL Feedback] option in the user interface. It also lets you attach files such as screenshots or video recording of an issue.
 
-Per fornire un feedback sulla documentazione, fai clic su [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) nella barra laterale destra. Puoi effettuare una delle seguenti operazioni:
+  ![feedback option in the interface](assets/feedback-panel.png)
 
-* Aggiorna i contenuti e invia una richiesta pull GitHub.
-* Crea un problema o un ticket in GitHub. Quando crei un problema, mantieni il nome dell’articolo popolato automaticamente.
+To provide feedback for documentation, click [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) from the right sidebar. You can do one of the following: 
+
+* Make the content updates and submit a GitHub pull request.
+* Create an issue or ticket in GitHub. Retain the automatically populated article name when creating an issue.
+
+-->
 
 >[!MORELIKETHIS]
 >

@@ -2,10 +2,10 @@
 title: Come si condividono i collegamenti alle risorse?
 description: Generare un collegamento e condividere le risorse con altri utenti che non hanno accesso all’applicazione [!DNL Assets Essentials] .
 exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
-source-git-commit: 98dafd932fb31dea06225f256f0e6bfe205e4d7b
-workflow-type: ht
-source-wordcount: '355'
-ht-degree: 100%
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '420'
+ht-degree: 85%
 
 ---
 
@@ -42,3 +42,13 @@ Puoi anche selezionare più risorse e fare clic su **[!UICONTROL Scarica]**. [!D
 Per scaricare tutte le risorse contemporaneamente, passa alla **[!UICONTROL Vista a elenco]**, fai clic su **[!UICONTROL Seleziona tutto]** quindi fai clic su **[!UICONTROL Scarica]**.
 
 ![Visualizzare in anteprima le risorse condivise](assets/preview-shared-assets.png)
+
+## Passaggi successivi {#next-steps}
+
+* [Guarda un video per condividere i collegamenti per le risorse in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html)
+
+* Fornisci feedback sui prodotti utilizzando [!UICONTROL Feedback] opzione disponibile nell’interfaccia utente di Assets Essentials
+
+* Fornire feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modificare la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![creare un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
+
+* Contatto [Assistenza clienti](https://experienceleague.adobe.com/?support-solution=General#support)
