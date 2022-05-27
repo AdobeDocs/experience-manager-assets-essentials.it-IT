@@ -1,17 +1,17 @@
 ---
 title: Gestire le raccolte
-description: Una raccolta è un insieme di risorse in Experience Manager Assets Essentials. Utilizza le raccolte per condividere le risorse tra gli utenti.
+description: Una raccolta è un insieme di risorse in Experience Manager Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
 workflow-type: tm+mt
 source-wordcount: '520'
-ht-degree: 8%
+ht-degree: 91%
 
 ---
 
 # Gestire le raccolte {#manage-collections}
 
-Una raccolta è un insieme di risorse in Experience Manager Assets Essentials. Utilizza le raccolte per condividere le risorse tra gli utenti.
+Una raccolta è un insieme di risorse in Experience Manager Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti.
 
 A differenza delle cartelle, una raccolta può includere risorse da posizioni diverse.
 
@@ -19,7 +19,7 @@ A differenza delle cartelle, una raccolta può includere risorse da posizioni di
 You can share collections with various users that are assigned different levels of privileges, including viewing, editing, and so on.
 -->
 
-Puoi condividere più raccolte con un utente. Ogni raccolta contiene riferimenti alle risorse. L’integrità referenziale delle risorse viene mantenuta tra le raccolte.
+Puoi condividere più raccolte con un utente. Ogni raccolta contiene riferimenti alle risorse. L’integrità dei riferimenti alle risorse viene mantenuta tra le varie raccolte.
 
 Per gestire e utilizzare le raccolte, puoi eseguire le seguenti attività:
 
@@ -29,9 +29,9 @@ Per gestire e utilizzare le raccolte, puoi eseguire le seguenti attività:
 
 * [Rimuovere le risorse da una raccolta](#remove-assets-from-collection)
 
-* [Visualizzare e modificare i metadati della raccolta](#view-edit-collection-metadata)
+* [Visualizzare e modificare i metadati di una raccolta](#view-edit-collection-metadata)
 
-* [Scaricare gli elementi della raccolta](#download-collection-elements)
+* [Scaricare gli elementi di una raccolta](#download-collection-elements)
 
 * [Eliminare una raccolta](#delete-collection)
 
@@ -53,11 +53,11 @@ Per aggiungere risorse a una raccolta:
 
 1. Fai clic su **[!UICONTROL Aggiungi alla raccolta]**.
 
-1. Sulla [!UICONTROL Raccolte] selezionate le raccolte da aggiungere alle risorse selezionate.
+1. Nella finestra di dialogo [!UICONTROL Raccolte] seleziona le raccolte a cui aggiungere le risorse selezionate.
 
 1. Fai clic su **[!UICONTROL Aggiungi]** per aggiungere la risorsa alle raccolte selezionate.
 
-Per aggiungere risorse alla raccolta, puoi anche fare clic su **[!UICONTROL Raccolte]** nella barra a sinistra, fai clic sulla raccolta a cui aggiungere le risorse, quindi fai clic su **[!UICONTROL Aggiungi alla raccolta]**, seleziona le risorse e fai clic su **[!UICONTROL Seleziona]**.
+Per aggiungere risorse a una raccolta, puoi anche fare clic su **[!UICONTROL Raccolte]** nella barra a sinistra, poi clic sulla raccolta a cui aggiungere le risorse, quindi **[!UICONTROL Aggiungi alla raccolta]**, seleziona le risorse e fai clic su **[!UICONTROL Seleziona]**.
 
 ## Rimuovere risorse da una raccolta {#remove-assets-from-collection}
 
@@ -65,7 +65,7 @@ Per rimuovere le risorse da una raccolta:
 
 1. Fai clic su **[!UICONTROL Raccolte]** nella barra a sinistra per visualizzare l’elenco delle raccolte.
 
-1. Fai clic sulla raccolta e seleziona le risorse da rimuovere dalla raccolta.
+1. Fai clic sulla raccolta e seleziona le risorse da rimuovere.
 
 1. Fate clic su **[!UICONTROL Rimuovi]**.
 
@@ -87,25 +87,25 @@ Click **[!UICONTROL Collections]** in the left rail and use the Search box to sp
 
 -->
 
-## Visualizzare e modificare i metadati della raccolta {#view-edit-collection-metadata}
+## Visualizzare e modificare i metadati di una raccolta {#view-edit-collection-metadata}
 
-I metadati della raccolta includono dati sulla raccolta, ad esempio titolo e descrizione.
+I metadati di una raccolta includono dati sulla raccolta, come titolo e descrizione.
 
-Per visualizzare e modificare i metadati della raccolta:
+Per visualizzare e modificare i metadati di una raccolta:
 
 1. Fai clic su **[!UICONTROL Raccolte]** nella barra a sinistra, seleziona una raccolta e fai clic su **[!UICONTROL Dettagli]**.
-1. Visualizza i metadati della raccolta utilizzando **[!UICONTROL Base]** scheda .
-1. Se necessario, modifica i campi di metadati. Puoi modificare la [!UICONTROL Titolo], [!UICONTROL Descrizione]e [!UICONTROL Autore] campi.
+1. Visualizza i metadati della raccolta utilizzando la scheda **[!UICONTROL Base]**.
+1. Se necessario, modifica i campi di metadati. Puoi modificare i campi [!UICONTROL Titolo], [!UICONTROL Descrizione] e [!UICONTROL Autore].
 
 ## Condividere collegamenti per le raccolte {#share-collection-links}
 
-[!DNL Assets Essentials] consente di generare un collegamento e condividere raccolte e risorse all’interno delle raccolte con soggetti esterni che non hanno accesso al [!DNL Assets Essentials] applicazione. Puoi definire una data di scadenza del collegamento e condividerlo con altri utilizzando il metodo di comunicazione preferito, ad esempio e-mail o servizi di messaggistica. I destinatari del collegamento possono visualizzare in anteprima le risorse e scaricarle.
+[!DNL Assets Essentials] consente di generare un collegamento e di condividere raccolte e risorse al loro interno con le parti interessate che non hanno accesso all’applicazione [!DNL Assets Essentials]. Puoi definire una data di scadenza del collegamento e condividerlo con altri utilizzando il metodo di comunicazione preferito, ad esempio e-mail o servizi di messaggistica. I destinatari del collegamento possono visualizzare in anteprima le risorse e scaricarle.
 
-Per ulteriori informazioni su come condividere i collegamenti di raccolta con soggetti esterni, consulta [Condividere collegamenti per le risorse](share-links-for-assets.md).
+Per ulteriori informazioni su come condividere i collegamenti di raccolte con soggetti esterni, consulta [Condividere collegamenti per le risorse](share-links-for-assets.md).
 
-## Scaricare gli elementi della raccolta {#download-collection-elements}
+## Scaricare gli elementi di una raccolta {#download-collection-elements}
 
-Per scaricare gli elementi della raccolta:
+Per scaricare gli elementi di una raccolta:
 
 1. Fai clic su **[!UICONTROL Raccolte]** nella barra a sinistra.
 
@@ -113,7 +113,7 @@ Per scaricare gli elementi della raccolta:
 
 1. Fai clic su **[!UICONTROL Scarica]**.
 
-1. Sulla [!UICONTROL Scarica risorsa] finestra di dialogo, fai clic su **[!UICONTROL OK]**.
+1. Nella finestra di dialogo [!UICONTROL Scarica risorsa] fai clic su **[!UICONTROL OK]**.
 
 Gli elementi della raccolta selezionati vengono scaricati come file .ZIP sul computer locale.
 

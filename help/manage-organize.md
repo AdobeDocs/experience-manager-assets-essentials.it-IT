@@ -7,7 +7,7 @@ exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
 workflow-type: tm+mt
 source-wordcount: '901'
-ht-degree: 73%
+ht-degree: 93%
 
 ---
 
@@ -86,25 +86,25 @@ Puoi anche creare versioni dalla timeline delle versioni. Seleziona la versione 
 
 ## Gestire lo stato delle risorse {#manage-asset-status}
 
-**Autorizzazioni richieste:**  `Can Edit`, `Owner`o le autorizzazioni di amministratore per una risorsa.
+**Autorizzazioni richieste:** `Can Edit`, `Owner` o le autorizzazioni di amministratore per una risorsa.
 
-Assets Essentials consente di impostare lo stato delle risorse disponibili nell’archivio. Imposta lo stato di una risorsa per governare e gestire meglio il consumo a valle di risorse digitali.
+Assets Essentials consente di impostare lo stato delle risorse disponibili nell’archivio. Imposta lo stato di una risorsa per gestire meglio il consumo a valle di risorse digitali.
 
-Puoi impostare il seguente stato sulle risorse:
+Puoi assegnare alle risorse i seguenti stati:
 
 * Approvato
 
 * Rifiutato
 
-* Nessun stato
+* Nessuno stato
 
-### Imposta lo stato della risorsa {#set-asset-status}
+### Impostare lo stato di una risorsa {#set-asset-status}
 
-Per impostare lo stato della risorsa:
+Per impostare lo stato di una risorsa:
 
 1. Seleziona la risorsa e fai clic su **[!UICONTROL Dettagli]** nella barra degli strumenti.
 
-1. In **[!UICONTROL Base]** seleziona lo stato della risorsa dalla scheda **[!UICONTROL Stato]** elenco a discesa. I valori possibili sono Approvato, Rifiutato e Nessun stato (impostazione predefinita).
+1. Nella scheda **[!UICONTROL Base]** seleziona lo stato della risorsa dall’elenco a discesa **[!UICONTROL Stato]**. I valori possibili sono Approvato, Rifiutato e Nessuno stato (impostazione predefinita).
 
    >[!VIDEO](https://video.tv.adobe.com/v/342495)
 
@@ -124,17 +124,17 @@ The `Expired` asset card indicator overrides the `Approved` or `Rejected` indica
 
 Per ulteriori informazioni, consulta [Cercare risorse in Assets Essentials](search.md).
 
-## Personalizzare i moduli di metadati per includere il campo dello stato della risorsa {#customize-asset-status-metadata-form}
+## Personalizzare i moduli di metadati per includere il campo dello stato delle risorse {#customize-asset-status-metadata-form}
 
 **Autorizzazioni richieste:** Amministratore
 
 Per impostazione predefinita, Assets Essentials fornisce molti campi di metadati standard. Spesso le organizzazioni hanno l’esigenza di aggiungere altri metadati, specifici per l’azienda. I moduli di metadati consentono alle aziende di aggiungere campi di metadati personalizzati alla pagina [!UICONTROL Dettagli] di una risorsa. I metadati specifici per l’azienda migliorano la governance e l’individuazione delle risorse.
 
-Per ulteriori informazioni su come aggiungere ulteriori campi di metadati al modulo di metadati, consulta [Forms metadati](metadata.md##metadata-forms).
+Per ulteriori informazioni su come aggiungere ulteriori campi di metadati al modulo, consulta [Moduli di metadati](metadata.md##metadata-forms).
 
-**Aggiungere al modulo il campo metadati Stato risorsa**
+**Aggiungere al modulo il campo di metadati Stato risorsa**
 
-Per aggiungere al modulo il campo metadati Stato risorsa, trascina **[!UICONTROL Stato risorsa]** dalla barra a sinistra al modulo. La proprietà di mappatura viene precompilata automaticamente. Salva il modulo per confermare le modifiche.
+Per aggiungere al modulo il campo di metadati Stato risorsa, trascina al suo interno il componente **[!UICONTROL Stato risorsa]** dalla barra a sinistra. La proprietà di mappatura viene precompilata automaticamente. Salva il modulo per confermare le modifiche.
 
 <!--
 

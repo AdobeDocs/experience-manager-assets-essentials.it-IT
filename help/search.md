@@ -6,7 +6,7 @@ exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
 workflow-type: tm+mt
 source-wordcount: '749'
-ht-degree: 52%
+ht-degree: 91%
 
 ---
 
@@ -32,21 +32,21 @@ Puoi filtrare i risultati della ricerca in base ai seguenti parametri.
 
 *Figura: Filtrare le risorse trovate in base a vari parametri.*
 
-* Stato risorsa: Filtrare i risultati della ricerca utilizzando un’ `Approved` o `Rejected` stato della risorsa.
+* Stato risorsa: filtra i risultati della ricerca utilizzando uno stato della risorsa `Approved` o `Rejected`.
 
 * Tipo file: filtra i risultati della ricerca in base ai tipi di file supportati come `Images`, `Documents` e `Videos`.
 * Tipo MIME: filtra uno o più formati di file supportati. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
 * Dimensioni immagine: fornisci una o più dimensioni minima e massima per filtrare le immagini. Le dimensioni vengono fornite in pixel e non corrispondono alle dimensioni del file delle immagini.
 * Data di creazione: la data di creazione della risorsa, specificata nei metadati. Il formato di data standard è `yyyy-mm-dd`.
-* Data di modifica: data dell’ultima modifica delle risorse. Il formato data standard è `yyyy-mm-dd`.
+* Data di modifica: data dell’ultima modifica delle risorse. Il formato di data standard è `yyyy-mm-dd`.
 
-Puoi ordinare le risorse trovate in ordine crescente o decrescente di `Name`, `Relevancy`, `Size`, `Modified` e `Created`.
+Puoi ordinare le risorse trovate in ordine crescente o decrescente per `Name`, `Relevancy`, `Size`, `Modified` e `Created`.
 
 ## Gestire i filtri personalizzati {#custom-filters}
 
-**Autorizzazioni richieste:**  `Can Edit`, `Owner`o Amministratore.
+**Autorizzazioni richieste:** `Can Edit`, `Owner` o Amministratore.
 
-Assets Essentials consente inoltre di aggiungere filtri personalizzati all’interfaccia utente. Puoi quindi applicare tali filtri personalizzati in aggiunta al [filtri standard](#refine-search-results) per perfezionare i risultati della ricerca.
+Assets Essentials consente inoltre di aggiungere filtri personalizzati all’interfaccia utente. Puoi applicare i filtri personalizzati in aggiunta ai [filtri standard](#refine-search-results), per perfezionare i risultati della ricerca.
 
 Assets Essentials fornisce i seguenti filtri personalizzati:
 
@@ -58,19 +58,19 @@ Assets Essentials fornisce i seguenti filtri personalizzati:
      </tr>
      <tr>
       <td>Titolo</td>
-      <td>Filtrare le risorse utilizzando il titolo della risorsa. Il titolo specificato nei criteri di ricerca con distinzione tra maiuscole e minuscole deve corrispondere esattamente al titolo della risorsa da visualizzare nei risultati.</td>
+      <td>Filtra le risorse utilizzando il titolo della risorsa. Il titolo specificato nei criteri di ricerca con distinzione tra maiuscole e minuscole deve corrispondere esattamente al titolo della risorsa da visualizzare nei risultati.</td>
      </tr>
      <tr>
       <td>Nome</td>
-      <td>Filtrare le risorse utilizzando il nome del file della risorsa. Il nome specificato nei criteri di ricerca sensibili all’uso di maiuscole e minuscole deve corrispondere esattamente al nome file della risorsa da visualizzare nei risultati.</td>
+      <td>Filtra le risorse utilizzando il nome del file della risorsa. Il nome specificato nei criteri di ricerca con distinzione tra maiuscole e minuscole deve corrispondere esattamente al nome file della risorsa da visualizzare nei risultati.</td>
      </tr>
      <tr>
       <td>Dimensione risorsa</td>
-      <td>Filtrare le risorse definendo un intervallo di dimensioni, in byte, nei criteri di ricerca di una risorsa da visualizzare nei risultati.</td>
+      <td>Filtra le risorse definendo un intervallo di dimensioni, in byte, nei criteri di ricerca per visualizzare la risorsa nei risultati.</td>
      </tr>
      <tr>
       <td>Tag previsti</td>
-      <td>Filtrare le risorse utilizzando lo smart tag della risorsa. Il nome dello smart tag specificato nei criteri di ricerca con distinzione tra maiuscole e minuscole deve corrispondere esattamente al nome dello smart tag della risorsa da visualizzare nei risultati. Non è possibile specificare più tag avanzati nei criteri di ricerca.</td>
+      <td>Filtra le risorse utilizzando i tag avanzati della risorsa. Il nome del tag avanzato specificato nei criteri di ricerca con distinzione tra maiuscole e minuscole deve corrispondere esattamente al nome di quello della risorsa da visualizzare nei risultati. Non è possibile specificare più tag avanzati nei criteri di ricerca.</td>
      </tr>    
     </tbody>
    </table>
@@ -81,11 +81,11 @@ Per aggiungere filtri personalizzati:
 
 1. Fai clic su **[!UICONTROL Filtri]**.
 
-1. In **[!UICONTROL Filtri personalizzati]** sezione, fai clic su **[!UICONTROL Modifica]** o **[!UICONTROL Aggiungi filtri]**.
+1. Nella sezione **[!UICONTROL Filtri personalizzati]**, fai clic su **[!UICONTROL Modifica]** o **[!UICONTROL Aggiungere filtri]**.
 
    ![Aggiungere filtri personalizzati](assets/add-custom-filters.png)
 
-1. Sulla **[!UICONTROL Gestione dei filtri personalizzati]** selezionare i filtri da aggiungere all’elenco di filtri esistente. Seleziona **[!UICONTROL Filtri personalizzati]** per selezionare tutti i filtri.
+1. Nella finestra di dialogo **[!UICONTROL Gestione filtri personalizzati]** seleziona i filtri da aggiungere all’elenco di filtri esistente. Seleziona **[!UICONTROL Filtri personalizzati]** per selezionare tutti i filtri.
 
 1. Fai clic su **[!UICONTROL Conferma]** per aggiungere i filtri all’interfaccia utente.
 
@@ -95,9 +95,9 @@ Per rimuovere i filtri personalizzati:
 
 1. Fai clic su **[!UICONTROL Filtri]**.
 
-1. In **[!UICONTROL Filtri personalizzati]** sezione, fai clic su **[!UICONTROL Modifica]**.
+1. Nella sezione **[!UICONTROL Filtri personalizzati]**, fai clic su **[!UICONTROL Modifica]**.
 
-1. Sulla **[!UICONTROL Gestione dei filtri personalizzati]** deseleziona i filtri da rimuovere dall’elenco di filtri esistente.
+1. Nella finestra di dialogo **[!UICONTROL Gestione filtri personalizzati]** deseleziona i filtri da rimuovere dall’elenco di filtri esistente.
 
 1. Fai clic su **[!UICONTROL Conferma]** per rimuovere i filtri dall’interfaccia utente.
 

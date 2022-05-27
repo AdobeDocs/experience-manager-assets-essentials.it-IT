@@ -7,35 +7,35 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 4fcac20c15ebabcafe851ce207bd937c8a7f6b03
 workflow-type: tm+mt
 source-wordcount: '761'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-L&#39;attuale versione di [!DNL Assets Essentials] rilasciato il 12 maggio 2022. Questa versione offre:
+L’attuale versione di [!DNL Assets Essentials] è stata rilasciata il 12 maggio 2022. Questa versione offre le seguenti funzionalità:
 
-* [!DNL Assets Essentials] ora supporta [creazione di raccolte](manage-collections.md). Una raccolta è un insieme di risorse in Experience Manager Assets Essentials. Utilizza le raccolte per condividere le risorse tra gli utenti. A differenza delle cartelle, una raccolta può includere risorse da posizioni diverse.
+* [!DNL Assets Essentials] ora supporta la [creazione di raccolte](manage-collections.md). Una raccolta è un insieme di risorse in Experience Manager Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti. A differenza delle cartelle, una raccolta può includere risorse da posizioni diverse.
 
-* Assets Essentials ora consente anche di: [aggiungere filtri personalizzati](search.md#custom-filters) all’interfaccia utente. Puoi quindi applicare questi filtri personalizzati oltre ai filtri standard per perfezionare i risultati della ricerca.
+* Assets Essentials ora consente anche di [aggiungere filtri personalizzati](search.md#custom-filters) all’interfaccia utente. Puoi applicare i filtri personalizzati in aggiunta ai filtri standard, per perfezionare i risultati della ricerca.
 
-* Assets Essentials ora consente di: [imposta lo stato](manage-organize.md#set-asset-status) sulle risorse disponibili nell’archivio. Imposta lo stato di una risorsa per governare e gestire meglio il consumo a valle di risorse digitali.
+* Assets Essentials ora consente di [impostare lo stato](manage-organize.md#set-asset-status) delle risorse disponibili nell’archivio. Imposta lo stato di una risorsa per gestire meglio il consumo a valle di risorse digitali.
 
 * Miglioramenti e correzioni di bug in base al feedback ricevuto dai clienti.
 
-## Modalità in incognito in Chrome {#incognito-mode}
+## Modalità di navigazione in incognito in Chrome {#incognito-mode}
 
-Con questa versione, stiamo ottimizzando le prestazioni della distribuzione dell’interfaccia utente e le funzionalità specifiche di Assets Essentials - commentando le risorse e la modifica delle immagini - a seconda che l’archiviazione locale del browser e i cookie di terze parti siano abilitati. La modalità in incognito nel browser web Chrome blocca i cookie di terze parti per impostazione predefinita - gli utenti hanno una serie di opzioni per continuare ad accedere a tutte le funzionalità:
+Con questa versione stiamo ottimizzando le prestazioni della distribuzione dell’interfaccia utente e specifiche funzionalità di Assets Essentials (aggiunta di commenti alle risorse e modifica delle immagini) che dipendono dall’archiviazione locale del browser e dall’attivazione di cookie di terze parti. Per impostazione predefinita, la modalità di navigazione in incognito nel browser web Chrome blocca i cookie di terze, e gli utenti hanno alcune opzioni per continuare ad accedere a tutte le funzionalità:
 
-* Utilizza i profili Chrome invece della modalità Incognito, quando l&#39;utente deve separare le sessioni del browser
+* Utilizzare i profili Chrome invece della modalità di navigazione in incognito, se l&#39;utente ha bisogno di sessioni browser separate
 
-* Spegnere `Block third-party cookies` nella schermata in modalità incognito in Chrome
+* Disattivare `Block third-party cookies` nella schermata della modalità in incognito in Chrome
 
 ## Problemi noti {#known-issues}
 
 L’elenco dei problemi noti di [!DNL Assets Essentials] viene regolarmente rivisto e aggiornato:
 
-* Non è possibile filtrare le risorse utilizzando `No Status` stato della risorsa.
+* Non è possibile filtrare le risorse utilizzando lo stato di risorse `No Status`.
 
 * Assets Essentials non supporta la creazione di raccolte private.
 
@@ -45,7 +45,7 @@ In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un fee
 
 ### 2022.2.0 {#march-2022}
 
-[!DNL Assets Essentials] è rilasciato il 9 marzo 2022, con i seguenti aggiornamenti:
+[!DNL Assets Essentials] è stato rilasciato il 9 marzo 2022, con i seguenti aggiornamenti:
 
 * [!DNL Assets Essentials] ora consente di [generare un collegamento e condividere le risorse con le parti interessate](share-links-for-assets.md), che non hanno accesso all’applicazione [!DNL Assets Essentials]. Puoi definire una data di scadenza del collegamento e condividerlo con altri utilizzando il metodo di comunicazione preferito, ad esempio e-mail o servizi di messaggistica. I destinatari del collegamento possono visualizzare in anteprima le risorse e scaricarle.
 
