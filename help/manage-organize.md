@@ -4,10 +4,10 @@ description: Sposta, elimina, copia, rinomina, aggiorna e crea versioni delle ri
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+source-git-commit: 05c9903d1225cd7875cc42ffe9ed7bd98aa1b757
 workflow-type: tm+mt
-source-wordcount: '901'
-ht-degree: 93%
+source-wordcount: '992'
+ht-degree: 86%
 
 ---
 
@@ -108,19 +108,16 @@ Per impostare lo stato di una risorsa:
 
    >[!VIDEO](https://video.tv.adobe.com/v/342495)
 
-<!--
 
-### Set asset expiration date {#set-asset-expiration-date}
+### Imposta data di scadenza risorsa {#set-asset-expiration-date}
 
-To set asset expiration date:
+Per impostare la data di scadenza del cespite:
 
-1. Select the asset, and click **[!UICONTROL Details]** in the toolbar.
+1. Seleziona la risorsa e fai clic su **[!UICONTROL Dettagli]** nella barra degli strumenti.
 
-1. In the **[!UICONTROL Basic]** tab, set the expiration date for the asset using the  **[!UICONTROL Expiration date]** field.
+1. In **[!UICONTROL Base]** imposta la data di scadenza della risorsa utilizzando  **[!UICONTROL Data di scadenza]** campo .
 
-The `Expired` asset card indicator overrides the `Approved` or `Rejected` indicator set for an asset.
-
--->
+La `Expired` l’indicatore della scheda risorse sostituisce `Approved` o `Rejected` per una risorsa.
 
 Per ulteriori informazioni, consulta [Cercare risorse in Assets Essentials](search.md).
 
@@ -136,13 +133,9 @@ Per ulteriori informazioni su come aggiungere ulteriori campi di metadati al mod
 
 Per aggiungere al modulo il campo di metadati Stato risorsa, trascina al suo interno il componente **[!UICONTROL Stato risorsa]** dalla barra a sinistra. La proprietà di mappatura viene precompilata automaticamente. Salva il modulo per confermare le modifiche.
 
-<!--
+**Aggiungi al modulo il campo metadati Data di scadenza**
 
-**Add Expiration Date metadata field to the form**
-
-To add Expiration Date metadata field to the form,  drag **[!UICONTROL Date]** component from the left rail to the form. Specify **Expiration Date** as the label and `pur:expirationDate` as the mapping property. Save the form to confirm the changes.
-
--->
+Per aggiungere al modulo il campo metadati Data di scadenza, trascinare **[!UICONTROL Data]** dalla barra a sinistra al modulo. Specifica **Data di scadenza** come etichetta e `pur:expirationDate` come proprietà di mappatura. Salva il modulo per confermare le modifiche.
 
 ## Passaggi successivi {#next-steps}
 

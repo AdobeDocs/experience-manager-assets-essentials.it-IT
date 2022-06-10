@@ -3,10 +3,10 @@ title: Cercare e individuare le risorse in [!DNL Assets Essentials]
 description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 378aa0ee62ad814bdf598dfcf21f8b2775c83b84
+source-git-commit: 8fe62d7073b313da9a5ca4c365636933d44d24c4
 workflow-type: tm+mt
-source-wordcount: '749'
-ht-degree: 90%
+source-wordcount: '774'
+ht-degree: 76%
 
 ---
 
@@ -58,11 +58,11 @@ Assets Essentials fornisce i seguenti filtri personalizzati:
      </tr>
      <tr>
       <td>Titolo</td>
-      <td>Filtra le risorse utilizzando il titolo della risorsa. Il titolo specificato nei criteri di ricerca con distinzione tra maiuscole e minuscole deve corrispondere esattamente al titolo della risorsa da visualizzare nei risultati.</td>
+      <td>Filtra le risorse utilizzando il titolo della risorsa. Puoi utilizzare un operatore con caratteri jolly (*) per consentire ad Assets Essentials di visualizzare le risorse nei risultati che corrispondono parzialmente ai criteri di ricerca. Ad esempio, se definisci <b>ma*</b> come criterio di ricerca, Assets Essentials mostra le risorse con titolo, ad esempio, mercato, marketing, uomo, manchester e così via nei risultati.</td>
      </tr>
      <tr>
       <td>Nome</td>
-      <td>Filtra le risorse utilizzando il nome del file della risorsa. Il nome specificato nei criteri di ricerca con distinzione tra maiuscole e minuscole deve corrispondere esattamente al nome file della risorsa da visualizzare nei risultati.</td>
+      <td>Filtra le risorse utilizzando il nome del file della risorsa. Puoi utilizzare un operatore con caratteri jolly (*) per consentire ad Assets Essentials di visualizzare le risorse nei risultati che corrispondono parzialmente ai criteri di ricerca.</td>
      </tr>
      <tr>
       <td>Dimensione risorsa</td>
@@ -70,7 +70,7 @@ Assets Essentials fornisce i seguenti filtri personalizzati:
      </tr>
      <tr>
       <td>Tag previsti</td>
-      <td>Filtra le risorse utilizzando i tag avanzati della risorsa. Il nome del tag avanzato specificato nei criteri di ricerca con distinzione tra maiuscole e minuscole deve corrispondere esattamente al nome di quello della risorsa da visualizzare nei risultati. Non è possibile specificare più tag avanzati nei criteri di ricerca.</td>
+      <td>Filtra le risorse utilizzando i tag avanzati della risorsa. Puoi utilizzare un operatore con caratteri jolly (*) per consentire ad Assets Essentials di visualizzare le risorse nei risultati che corrispondono parzialmente ai criteri di ricerca. Nei criteri di ricerca è possibile specificare più tag avanzati separati da una virgola.</td>
      </tr>    
     </tbody>
    </table>
