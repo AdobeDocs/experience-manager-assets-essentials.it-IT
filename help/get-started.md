@@ -4,9 +4,9 @@ description: Accesso, esperienza di accesso, casi di utilizzo supportati e probl
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
 source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '432'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -57,13 +57,13 @@ Di seguito sono indicate le varie attività di gestione delle risorse digitali (
 
 ## Passaggi successivi {#next-steps}
 
-* [Guarda un video per iniziare a utilizzare Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html)
+* [Guarda un video su come iniziare a utilizzare Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html?lang=it)
 
-* Fornisci feedback sui prodotti utilizzando [!UICONTROL Feedback] opzione disponibile nell’interfaccia utente di Assets Essentials
+* Fornisci feedback sui prodotti utilizzando l’opzione [!UICONTROL Feedback] disponibile nell’interfaccia utente di Assets Essentials
 
-* Fornire feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modificare la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![creare un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
+* Fornisci feedback sulla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile nella barra laterale a destra
 
-* Contatto [Assistenza clienti](https://experienceleague.adobe.com/?support-solution=General#support)
+* Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&amp;lang=it#support)
 
 
 <!--TBD: Merge the below rows in the table when the use cases are documented/available.
