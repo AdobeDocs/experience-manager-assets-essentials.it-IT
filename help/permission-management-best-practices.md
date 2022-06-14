@@ -3,9 +3,9 @@ title: Come gestire in modo efficace le autorizzazioni per le cartelle?
 description: Best practice per una gestione efficace delle autorizzazioni
 exl-id: 06b06f0b-3806-44ce-abc4-c1449a93dd29
 source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '445'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -66,8 +66,8 @@ Per esempi su come ottenere una struttura di cartelle semplice ed efficiente, co
 
 ## Passaggi successivi {#next-steps}
 
-* Fornisci feedback sui prodotti utilizzando [!UICONTROL Feedback] opzione disponibile nell’interfaccia utente di Assets Essentials
+* Fornisci feedback sui prodotti utilizzando l’opzione [!UICONTROL Feedback] disponibile nell’interfaccia utente di Assets Essentials
 
-* Fornire feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modificare la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![creare un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
+* Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
 
-* Contatto [Assistenza clienti](https://experienceleague.adobe.com/?support-solution=General#support)
+* Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&amp;lang=it#support)
