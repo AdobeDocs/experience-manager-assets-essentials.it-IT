@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1026'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -94,13 +94,13 @@ Per creare un nuovo modulo riutilizzandone uno esistente, seleziona un modulo di
 
 ## Passaggi successivi {#next-steps}
 
-* [Guarda un video per gestire i moduli di metadati in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html)
+* [Guarda un video su come gestire i moduli di metadati in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=it)
 
-* Fornisci feedback sui prodotti utilizzando [!UICONTROL Feedback] opzione disponibile nell’interfaccia utente di Assets Essentials
+* Fornisci feedback sui prodotti utilizzando l’opzione [!UICONTROL Feedback] disponibile nell’interfaccia utente di Assets Essentials
 
-* Fornire feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modificare la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![creare un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
+* Fornisci feedback sulla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile nella barra laterale a destra
 
-* Contatto [Assistenza clienti](https://experienceleague.adobe.com/?support-solution=General#support)
+* Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&amp;lang=it#support)
 
 <!-- TBD: Cannot create a form using the second option. Documenting only the first option for now.
 To reuse an existing form to create a new form, do one of these:
