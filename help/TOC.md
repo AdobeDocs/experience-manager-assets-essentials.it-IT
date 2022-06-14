@@ -10,9 +10,9 @@ feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
 source-git-commit: 59f6165fd7576736ff75369c2805c15ce3ae9af0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '127'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -26,8 +26,8 @@ ht-degree: 62%
    + Gestire l’accesso alle cartelle{#folder-access}
       + [Gestire le autorizzazioni cartella](manage-permissions.md)
       + [Best practice per la gestione delle autorizzazioni](permission-management-best-practices.md)
-   + Percorso amministratore per Assets Essentials per Creative Cloud Pro con soluzioni di gestione del lavoro{#admin-journey}
-      + [Panoramica sul percorso amministratore](assets-essentials-cc-pro-work-management-admin-journey.md)
+   + Percorso per gli amministratori di Assets Essentials per Creative Cloud Pro con soluzioni di gestione del lavoro{#admin-journey}
+      + [Panoramica sul percorso degli amministratori](assets-essentials-cc-pro-work-management-admin-journey.md)
       + [Amministrare Experience Manager Assets Essentials](adminster-aem-assets-essentials.md)
       + [Integrare Assets Essentials con le applicazioni Creative Cloud](integrate-assets-essentials-creative-cloud.md)
       + [Integrare Assets Essentials con Adobe Workfront](integrate-assets-essentials-workfront.md)
@@ -42,4 +42,4 @@ ht-degree: 62%
 + [Condividere le risorse](share-links-for-assets.md)
 + [Gestire le raccolte](manage-collections.md)
 + [Integrazione con altre soluzioni](integration.md)
-+ [Video](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)
++ [Video](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=it)
