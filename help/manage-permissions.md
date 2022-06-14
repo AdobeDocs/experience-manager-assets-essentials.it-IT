@@ -3,9 +3,9 @@ title: Come gestire le autorizzazioni per le cartelle in AEM Assets Essentials?
 description: Assets Essentials consente agli amministratori di gestire i livelli di accesso per le cartelle disponibili nell’archivio. Crea gruppi di utenti e assegna le autorizzazioni a tali gruppi per gestire i livelli di accesso. In qualità di amministratore, puoi anche delegare i privilegi di gestione delle autorizzazioni ai gruppi di utenti a livello di cartella.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
 source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1643'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -205,10 +205,10 @@ Di seguito sono riportati i livelli di accesso per tutti i gruppi di utenti nell
 
 ## Passaggi successivi {#next-steps}
 
-* [Guarda un video per gestire le autorizzazioni in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html)
+* [Guarda un video per gestire le autorizzazioni in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html?lang=it)
 
-* Fornisci feedback sui prodotti utilizzando [!UICONTROL Feedback] opzione disponibile nell’interfaccia utente di Assets Essentials
+* Fornisci feedback sui prodotti utilizzando l’opzione [!UICONTROL Feedback] disponibile nell’interfaccia utente di Assets Essentials
 
-* Fornire feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modificare la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![creare un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
+* Fornire feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
 
-* Contatto [Assistenza clienti](https://experienceleague.adobe.com/?support-solution=General#support)
+* Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&amp;lang=it#support)
