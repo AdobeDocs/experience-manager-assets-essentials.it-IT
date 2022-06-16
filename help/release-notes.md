@@ -4,14 +4,67 @@ description: Note sulla versione e problemi noti di [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 4fcac20c15ebabcafe851ce207bd937c8a7f6b03
-workflow-type: ht
-source-wordcount: '761'
-ht-degree: 100%
+source-git-commit: 7c6293bb99d5be8084e6998da966bb89be9c714e
+workflow-type: tm+mt
+source-wordcount: '889'
+ht-degree: 86%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
+
+L&#39;attuale versione di [!DNL Assets Essentials] rilasciato il 16 giugno 2022.
+
+Questa versione offre le seguenti funzionalità:
+
+**Miglioramenti dello stato delle risorse**
+
+* Assets Essentials ora consente di: [impostare una data di scadenza per una risorsa](manage-organize.md#set-asset-status). Inoltre, è possibile [filtrare le risorse](search.md#refine-search-results) in base ai `Expired` lo stato della risorsa e un intervallo di date di scadenza.
+
+* Ora puoi visualizzare l’indicatore di stato delle risorse per tutte le risorse disponibili nel Cestino. Di conseguenza, puoi decidere di ripristinare una risorsa in base al suo stato.
+
+**Miglioramenti ai filtri di ricerca**
+
+* Assets Essentials ora consente di: [filtrare le risorse](search.md#refine-search-results) utilizzando `No Status` stato della risorsa.
+
+<!--
+
+* Assets Essentials now supports [using a wildcard operator (*) while using custom filters](search.md#custom-filters) to enable Assets Essentials to display assets in the results that partially match the search criteria.
+
+-->
+
+**Miglioramenti alle raccolte**
+
+<!--
+
+* Assets Essentials now enables you to [create Private collections](manage-collections.md#create-collection).
+
+-->
+
+* Assets Essentials supporta ora [download di una raccolta](manage-collections.md).
+
+* È ora possibile modificare il campo metadati Descrizione per una raccolta.
+
+**Miglioramenti alla documentazione**
+
+* Una nuova versione del [Documentazione di panoramica di Assets Essentials](introduction.md) è ora disponibile.
+
+**Miglioramenti basati sul feedback ricevuto dai clienti**
+
+* Miglioramenti e correzioni di bug in base al feedback ricevuto dai clienti.
+
+
+## Problemi noti {#known-issues}
+
+L’elenco dei problemi noti di [!DNL Assets Essentials] viene regolarmente rivisto e aggiornato:
+
+* Assets Essentials non supporta la creazione di raccolte private.
+
+In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un feedback](#provide-feedback) al team.
+
+## Versioni precedenti {#past-release}
+
+### 2022.4.0 {#april-2022}
 
 L’attuale versione di [!DNL Assets Essentials] è stata rilasciata il 12 maggio 2022. Questa versione offre le seguenti funzionalità:
 
@@ -23,25 +76,13 @@ L’attuale versione di [!DNL Assets Essentials] è stata rilasciata il 12 maggi
 
 * Miglioramenti e correzioni di bug in base al feedback ricevuto dai clienti.
 
-## Modalità di navigazione in incognito in Chrome {#incognito-mode}
+#### Modalità di navigazione in incognito in Chrome {#incognito-mode}
 
 Con questa versione stiamo ottimizzando le prestazioni della distribuzione dell’interfaccia utente e specifiche funzionalità di Assets Essentials (aggiunta di commenti alle risorse e modifica delle immagini) che dipendono dall’archiviazione locale del browser e dall’attivazione di cookie di terze parti. Per impostazione predefinita, la modalità di navigazione in incognito nel browser web Chrome blocca i cookie di terze, e gli utenti hanno alcune opzioni per continuare ad accedere a tutte le funzionalità:
 
 * Utilizzare i profili Chrome invece della modalità di navigazione in incognito, se l&#39;utente ha bisogno di sessioni browser separate
 
 * Disattivare `Block third-party cookies` nella schermata della modalità in incognito in Chrome
-
-## Problemi noti {#known-issues}
-
-L’elenco dei problemi noti di [!DNL Assets Essentials] viene regolarmente rivisto e aggiornato:
-
-* Non è possibile filtrare le risorse utilizzando lo stato di risorse `No Status`.
-
-* Assets Essentials non supporta la creazione di raccolte private.
-
-In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un feedback](#provide-feedback) al team.
-
-## Versioni precedenti {#past-release}
 
 ### 2022.2.0 {#march-2022}
 
