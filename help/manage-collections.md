@@ -2,7 +2,7 @@
 title: Gestire le raccolte
 description: Una raccolta è un insieme di risorse in Experience Manager Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 88dd604492ffd5be305fe2f54edae1f158247e26
+source-git-commit: 466f64018a37f553c0ad0cfaa2dc98b1e84b9be1
 workflow-type: tm+mt
 source-wordcount: '524'
 ht-degree: 91%
@@ -33,7 +33,7 @@ Per gestire e utilizzare le raccolte, puoi eseguire le seguenti attività:
 
 * [Visualizzare e modificare i metadati di una raccolta](#view-edit-collection-metadata)
 
-* [Scaricare gli elementi di una raccolta](#download-collection-elements)
+* [Scaricare una raccolta](#download-collection)
 
 * [Eliminare una raccolta](#delete-collection)
 
