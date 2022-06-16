@@ -3,10 +3,10 @@ title: Cercare e individuare le risorse in [!DNL Assets Essentials]
 description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 8fe62d7073b313da9a5ca4c365636933d44d24c4
+source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
 workflow-type: tm+mt
-source-wordcount: '774'
-ht-degree: 84%
+source-wordcount: '802'
+ht-degree: 90%
 
 ---
 
@@ -37,8 +37,12 @@ Puoi filtrare i risultati della ricerca in base ai seguenti parametri.
 * Tipo file: filtra i risultati della ricerca in base ai tipi di file supportati come `Images`, `Documents` e `Videos`.
 * Tipo MIME: filtra uno o più formati di file supportati. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
 * Dimensioni immagine: fornisci una o più dimensioni minima e massima per filtrare le immagini. Le dimensioni vengono fornite in pixel e non corrispondono alle dimensioni del file delle immagini.
-* Data di creazione: la data di creazione della risorsa, specificata nei metadati. Il formato di data standard è `yyyy-mm-dd`.
+* Data creazione: La data di creazione della risorsa, come specificato nei metadati. Il formato di data standard è `yyyy-mm-dd`.
 * Data di modifica: data dell’ultima modifica delle risorse. Il formato di data standard è `yyyy-mm-dd`.
+
+* Data di scadenza: Filtrare i risultati della ricerca in base a un `Expired` stato della risorsa. Inoltre, puoi specificare un intervallo di date di scadenza per le risorse per filtrare ulteriormente i risultati della ricerca.
+
+* Filtri personalizzati: [Aggiungere filtri personalizzati](#custom-filters) all’interfaccia utente di Assets Essentials. Per perfezionare i risultati della ricerca, applica i filtri personalizzati oltre ai filtri standard.
 
 Puoi ordinare le risorse trovate in ordine crescente o decrescente per `Name`, `Relevancy`, `Size`, `Modified` e `Created`.
 
@@ -58,11 +62,11 @@ Assets Essentials fornisce i seguenti filtri personalizzati:
      </tr>
      <tr>
       <td>Titolo</td>
-      <td>Filtra le risorse utilizzando il titolo della risorsa. Puoi utilizzare un operatore con caratteri jolly (*) per consentire ad Assets Essentials di visualizzare le risorse nei risultati che corrispondono parzialmente ai criteri di ricerca. Ad esempio, se definisci <b>ma*</b> come criterio di ricerca, Assets Essentials mostra le risorse con titolo, ad esempio, mercato, marketing, uomo, manchester e così via nei risultati.</td>
+      <td>Filtra le risorse utilizzando il titolo della risorsa. Il titolo specificato nei criteri di ricerca con distinzione tra maiuscole e minuscole deve corrispondere esattamente al titolo della risorsa da visualizzare nei risultati.</td>
      </tr>
      <tr>
       <td>Nome</td>
-      <td>Filtra le risorse utilizzando il nome del file della risorsa. Puoi utilizzare un operatore con caratteri jolly (*) per consentire ad Assets Essentials di visualizzare le risorse nei risultati che corrispondono parzialmente ai criteri di ricerca.</td>
+      <td>Filtra le risorse utilizzando il nome del file della risorsa. Il nome specificato nei criteri di ricerca con distinzione tra maiuscole e minuscole deve corrispondere esattamente al nome file della risorsa da visualizzare nei risultati.</td>
      </tr>
      <tr>
       <td>Dimensione risorsa</td>
@@ -70,10 +74,19 @@ Assets Essentials fornisce i seguenti filtri personalizzati:
      </tr>
      <tr>
       <td>Tag previsti</td>
-      <td>Filtra le risorse utilizzando i tag avanzati della risorsa. Puoi utilizzare un operatore con caratteri jolly (*) per consentire ad Assets Essentials di visualizzare le risorse nei risultati che corrispondono parzialmente ai criteri di ricerca. Nei criteri di ricerca è possibile specificare più tag avanzati separati da una virgola.</td>
+      <td>Filtra le risorse utilizzando i tag avanzati della risorsa. Il nome del tag avanzato specificato nei criteri di ricerca con distinzione tra maiuscole e minuscole deve corrispondere esattamente al nome di quello della risorsa da visualizzare nei risultati. Non è possibile specificare più tag avanzati nei criteri di ricerca.</td>
      </tr>    
     </tbody>
    </table>
+
+<!--
+   You can use a wildcard operator (*) to enable Assets Essentials to display assets in the results that partially match the search criteria. For example, if you define <b>ma*</b> as the search criteria, Assets Essentials displays assets with title, such as, market, marketing, man, manchester, and so on in the results.
+
+   You can use a wildcard operator (*) to enable Assets Essentials to display assets in the results that partially match the search criteria.
+
+   You can use a wildcard operator (*) to enable Assets Essentials to display assets in the results that partially match the search criteria. You can specify multiple smart tags separated by a comma in the search criteria.
+
+   -->
 
 ### Aggiungere filtri personalizzati {#add-custom-filters}
 

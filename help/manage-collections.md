@@ -2,10 +2,10 @@
 title: Gestire le raccolte
 description: Una raccolta è un insieme di risorse in Experience Manager Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
-source-wordcount: '520'
-ht-degree: 100%
+source-git-commit: 88dd604492ffd5be305fe2f54edae1f158247e26
+workflow-type: tm+mt
+source-wordcount: '524'
+ht-degree: 91%
 
 ---
 
@@ -21,13 +21,15 @@ You can share collections with various users that are assigned different levels 
 
 Puoi condividere più raccolte con un utente. Ogni raccolta contiene riferimenti alle risorse. L’integrità dei riferimenti alle risorse viene mantenuta tra le varie raccolte.
 
+![Raccolte](assets/collections.png)
+
 Per gestire e utilizzare le raccolte, puoi eseguire le seguenti attività:
 
 * [Creare una raccolta](#create-collection)
 
 * [Aggiungere risorse a una raccolta](#add-assets-to-collection)
 
-* [Rimuovere le risorse da una raccolta](#remove-assets-from-collection)
+* [Rimuovere risorse da una raccolta](#remove-assets-from-collection)
 
 * [Visualizzare e modificare i metadati di una raccolta](#view-edit-collection-metadata)
 
@@ -44,6 +46,16 @@ Per creare una raccolta:
 1. Specifica un titolo e una descrizione facoltativa per la raccolta.
 
 1. Fai clic su **[!UICONTROL Salva]** per creare la raccolta.
+
+![Crea raccolta](assets/create-collection.png)
+
+<!--
+
+1. Select if you need to a create a Private collection or a Public collection.
+
+   A Public collection is available for viewing and editing to all users. However, if you are a non-administrator user, a Private collection is available for viewing and editing only to users with the appropriate [permissions](#manage-collection-access). 
+
+-->
 
 ## Aggiungere risorse a una raccolta {#add-assets-to-collection}
 
@@ -71,11 +83,15 @@ Per rimuovere le risorse da una raccolta:
 
 <!--
 
-## Manage access to a collection {#manage-collection-access}
+## Manage access to a Private collection {#manage-collection-access}
 
 The permission management for collections function in the same manner as folders in [!DNL Assets Essentials]. Administrators can manage the access levels for collections available in the repository. As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the collection-level.
 
 For more information, see [Manage permissions for folders and collections](manage-permissions.md).
+
+-->
+
+<!--
 
 ## Search a collection {#search-collections}
 
@@ -97,25 +113,27 @@ Per visualizzare e modificare i metadati di una raccolta:
 1. Visualizza i metadati della raccolta utilizzando la scheda **[!UICONTROL Base]**.
 1. Se necessario, modifica i campi di metadati. Puoi modificare i campi [!UICONTROL Titolo], [!UICONTROL Descrizione] e [!UICONTROL Autore].
 
+![Metadati raccolta](assets/collection-metadata.png)
+
 ## Condividere collegamenti per le raccolte {#share-collection-links}
 
 [!DNL Assets Essentials] consente di generare un collegamento e di condividere raccolte e risorse al loro interno con le parti interessate che non hanno accesso all’applicazione [!DNL Assets Essentials]. Puoi definire una data di scadenza del collegamento e condividerlo con altri utilizzando il metodo di comunicazione preferito, ad esempio e-mail o servizi di messaggistica. I destinatari del collegamento possono visualizzare in anteprima le risorse e scaricarle.
 
+![Condividi collegamento per le risorse](assets/share-link-collections.png)
+
 Per ulteriori informazioni su come condividere i collegamenti di raccolte con soggetti esterni, consulta [Condividere collegamenti per le risorse](share-links-for-assets.md).
 
-## Scaricare gli elementi di una raccolta {#download-collection-elements}
+## Scaricare una raccolta {#download-collection}
 
-Per scaricare gli elementi di una raccolta:
+Per scaricare una raccolta:
 
 1. Fai clic su **[!UICONTROL Raccolte]** nella barra a sinistra.
 
-1. Fai clic sulla raccolta e seleziona gli elementi da scaricare.
+1. Seleziona la raccolta da scaricare e fai clic su **[!UICONTROL Scarica]**.
 
-1. Fai clic su **[!UICONTROL Scarica]**.
+1. Sulla [!UICONTROL Download delle risorse] finestra di dialogo, fai clic su **[!UICONTROL OK]**.
 
-1. Nella finestra di dialogo [!UICONTROL Scarica risorsa] fai clic su **[!UICONTROL OK]**.
-
-Gli elementi della raccolta selezionati vengono scaricati come file .ZIP sul computer locale.
+La raccolta viene scaricata come file .ZIP sul computer locale.
 
 ## Eliminare una raccolta {#delete-collection}
 

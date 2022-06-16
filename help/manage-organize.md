@@ -4,10 +4,10 @@ description: Sposta, elimina, copia, rinomina, aggiorna e crea versioni delle ri
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: 05c9903d1225cd7875cc42ffe9ed7bd98aa1b757
+source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
 workflow-type: tm+mt
-source-wordcount: '992'
-ht-degree: 92%
+source-wordcount: '1036'
+ht-degree: 88%
 
 ---
 
@@ -110,6 +110,8 @@ Per impostare lo stato di una risorsa:
 
 
 ### Imposta data di scadenza risorsa {#set-asset-expiration-date}
+
+Assets Essentials consente inoltre di impostare la data di scadenza delle risorse disponibili nell’archivio. È quindi possibile [filtrare i risultati della ricerca](search.md#refine-search-results) basati su `Expired` stato della risorsa. Inoltre, puoi specificare un intervallo di date di scadenza per le risorse per filtrare ulteriormente i risultati della ricerca.
 
 Per impostare la data di scadenza del cespite:
 
