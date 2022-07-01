@@ -6,7 +6,7 @@ exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
 workflow-type: tm+mt
 source-wordcount: '802'
-ht-degree: 90%
+ht-degree: 91%
 
 ---
 
@@ -32,7 +32,7 @@ Puoi filtrare i risultati della ricerca in base ai seguenti parametri.
 
 *Figura: Filtrare le risorse trovate in base a vari parametri.*
 
-* Stato risorsa: Filtrare i risultati della ricerca utilizzando un’ `Approved`, `Rejected`oppure `No Status` stato della risorsa.
+* Stato risorsa: filtra i risultati della ricerca in base allo stato delle risorse, scegliendo tra `Approved`, `Rejected` o `No Status`.
 
 * Tipo file: filtra i risultati della ricerca in base ai tipi di file supportati come `Images`, `Documents` e `Videos`.
 * Tipo MIME: filtra uno o più formati di file supportati. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
