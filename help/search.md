@@ -4,9 +4,9 @@ description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '802'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -37,12 +37,12 @@ Puoi filtrare i risultati della ricerca in base ai seguenti parametri.
 * Tipo file: filtra i risultati della ricerca in base ai tipi di file supportati come `Images`, `Documents` e `Videos`.
 * Tipo MIME: filtra uno o più formati di file supportati. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
 * Dimensioni immagine: fornisci una o più dimensioni minima e massima per filtrare le immagini. Le dimensioni vengono fornite in pixel e non corrispondono alle dimensioni del file delle immagini.
-* Data creazione: La data di creazione della risorsa, come specificato nei metadati. Il formato di data standard è `yyyy-mm-dd`.
+* Data di creazione: la data di creazione della risorsa, specificata nei metadati. Il formato di data standard è `yyyy-mm-dd`.
 * Data di modifica: data dell’ultima modifica delle risorse. Il formato di data standard è `yyyy-mm-dd`.
 
-* Data di scadenza: Filtrare i risultati della ricerca in base a un `Expired` stato della risorsa. Inoltre, puoi specificare un intervallo di date di scadenza per le risorse per filtrare ulteriormente i risultati della ricerca.
+* Data di scadenza: filtra i risultati della ricerca in base allo stato `Expired` delle risorse. Inoltre, è possibile specificare un intervallo di date di scadenza per le risorse per filtrare ulteriormente i risultati della ricerca.
 
-* Filtri personalizzati: [Aggiungere filtri personalizzati](#custom-filters) all’interfaccia utente di Assets Essentials. Per perfezionare i risultati della ricerca, applica i filtri personalizzati oltre ai filtri standard.
+* Filtri personalizzati: [aggiungi filtri personalizzati](#custom-filters) all’interfaccia utente di Assets Essentials. Per perfezionare i risultati della ricerca, applica i filtri personalizzati in aggiunta a quelli standard.
 
 Puoi ordinare le risorse trovate in ordine crescente o decrescente per `Name`, `Relevancy`, `Size`, `Modified` e `Created`.
 
