@@ -3,9 +3,9 @@ title: Gestire le raccolte
 description: Una raccolta è un insieme di risorse in Experience Manager Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 source-git-commit: 466f64018a37f553c0ad0cfaa2dc98b1e84b9be1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '524'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -47,7 +47,7 @@ Per creare una raccolta:
 
 1. Fai clic su **[!UICONTROL Salva]** per creare la raccolta.
 
-![Crea raccolta](assets/create-collection.png)
+![Creare la raccolta](assets/create-collection.png)
 
 <!--
 
@@ -113,15 +113,15 @@ Per visualizzare e modificare i metadati di una raccolta:
 1. Visualizza i metadati della raccolta utilizzando la scheda **[!UICONTROL Base]**.
 1. Se necessario, modifica i campi di metadati. Puoi modificare i campi [!UICONTROL Titolo], [!UICONTROL Descrizione] e [!UICONTROL Autore].
 
-![Metadati raccolta](assets/collection-metadata.png)
+![Metadati di una raccolta](assets/collection-metadata.png)
 
 ## Condividere collegamenti per le raccolte {#share-collection-links}
 
 [!DNL Assets Essentials] consente di generare un collegamento e di condividere raccolte e risorse al loro interno con le parti interessate che non hanno accesso all’applicazione [!DNL Assets Essentials]. Puoi definire una data di scadenza del collegamento e condividerlo con altri utilizzando il metodo di comunicazione preferito, ad esempio e-mail o servizi di messaggistica. I destinatari del collegamento possono visualizzare in anteprima le risorse e scaricarle.
 
-![Condividi collegamento per le risorse](assets/share-link-collections.png)
+![Condividere il collegamento per le risorse](assets/share-link-collections.png)
 
-Per ulteriori informazioni su come condividere i collegamenti di raccolte con soggetti esterni, consulta [Condividere collegamenti per le risorse](share-links-for-assets.md).
+Per ulteriori informazioni su come condividere i collegamenti di raccolte con soggetti esterni, consulta [Condividere collegamenti alle risorse](share-links-for-assets.md).
 
 ## Scaricare una raccolta {#download-collection}
 
@@ -131,9 +131,9 @@ Per scaricare una raccolta:
 
 1. Seleziona la raccolta da scaricare e fai clic su **[!UICONTROL Scarica]**.
 
-1. Sulla [!UICONTROL Download delle risorse] finestra di dialogo, fai clic su **[!UICONTROL OK]**.
+1. Nella finestra di dialogo [!UICONTROL Scarica risorsa] fai clic su **[!UICONTROL OK]**.
 
-La raccolta viene scaricata come file .ZIP sul computer locale.
+Gli elementi della raccolta selezionati vengono scaricati come file .ZIP sul computer locale.
 
 ## Eliminare una raccolta {#delete-collection}
 
