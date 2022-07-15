@@ -5,27 +5,27 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 7c6293bb99d5be8084e6998da966bb89be9c714e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '889'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-L&#39;attuale versione di [!DNL Assets Essentials] rilasciato il 16 giugno 2022.
+L’attuale versione di [!DNL Assets Essentials] è stata rilasciata il 16 giugno 2022.
 
 Questa versione offre le seguenti funzionalità:
 
-**Miglioramenti dello stato delle risorse**
+**Miglioramenti allo stato delle risorse**
 
-* Assets Essentials ora consente di: [impostare una data di scadenza per una risorsa](manage-organize.md#set-asset-status). Inoltre, è possibile [filtrare le risorse](search.md#refine-search-results) in base ai `Expired` lo stato della risorsa e un intervallo di date di scadenza.
+* Assets Essentials ora consente di [impostare una data di scadenza per una risorsa](manage-organize.md#set-asset-status). Inoltre, è possibile [filtrare le risorse](search.md#refine-search-results) in base allo stato `Expired` delle risorse e a un intervallo di date di scadenza.
 
-* Ora puoi visualizzare l’indicatore di stato delle risorse per tutte le risorse disponibili nel Cestino. Di conseguenza, puoi decidere di ripristinare una risorsa in base al suo stato.
+* Ora puoi visualizzare l’indicatore di stato per tutte le risorse disponibili nel Cestino. Di conseguenza, potrai decidere se ripristinare una risorsa in base al suo stato.
 
 **Miglioramenti ai filtri di ricerca**
 
-* Assets Essentials ora consente di: [filtrare le risorse](search.md#refine-search-results) utilizzando `No Status` stato della risorsa.
+* Assets Essentials ora consente di [filtrare le risorse](search.md#refine-search-results) in base allo stato `No Status` delle risorse.
 
 <!--
 
@@ -41,15 +41,15 @@ Questa versione offre le seguenti funzionalità:
 
 -->
 
-* Assets Essentials supporta ora [download di una raccolta](manage-collections.md).
+* Assets Essentials ora supporta il [download di una raccolta](manage-collections.md).
 
-* È ora possibile modificare il campo metadati Descrizione per una raccolta.
+* È ora possibile modificare il campo metadati Descrizione di una raccolta.
 
 **Miglioramenti alla documentazione**
 
-* Una nuova versione del [Documentazione di panoramica di Assets Essentials](introduction.md) è ora disponibile.
+* È disponibile una nuova versione della [documentazione Panoramica di Assets Essentials](introduction.md).
 
-**Miglioramenti basati sul feedback ricevuto dai clienti**
+**Miglioramenti in base al feedback ricevuto dai clienti**
 
 * Miglioramenti e correzioni di bug in base al feedback ricevuto dai clienti.
 
