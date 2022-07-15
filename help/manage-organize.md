@@ -5,9 +5,9 @@ role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1036'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -111,7 +111,7 @@ Per impostare lo stato di una risorsa:
 
 ### Impostare la data di scadenza di una risorsa {#set-asset-expiration-date}
 
-Assets Essentials consente inoltre di impostare la data di scadenza delle risorse disponibili nell’archivio. È quindi possibile [filtrare i risultati della ricerca](search.md#refine-search-results) basati su `Expired` stato della risorsa. Inoltre, puoi specificare un intervallo di date di scadenza per le risorse per filtrare ulteriormente i risultati della ricerca.
+Assets Essentials consente di impostare la data di scadenza delle risorse disponibili nell’archivio. È quindi possibile [filtrare i risultati della ricerca](search.md#refine-search-results) in base allo stato `Expired` delle risorse. Inoltre, è possibile specificare un intervallo di date di scadenza per le risorse per filtrare ulteriormente i risultati della ricerca.
 
 Per impostare la data di scadenza di una risorsa:
 
