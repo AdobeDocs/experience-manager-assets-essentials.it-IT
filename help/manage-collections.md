@@ -2,10 +2,10 @@
 title: Gestire le raccolte
 description: Una raccolta è un insieme di risorse in Experience Manager Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 466f64018a37f553c0ad0cfaa2dc98b1e84b9be1
-workflow-type: ht
-source-wordcount: '524'
-ht-degree: 100%
+source-git-commit: f273e1e3c8a290e0beee0423da00c63013062c43
+workflow-type: tm+mt
+source-wordcount: '686'
+ht-degree: 76%
 
 ---
 
@@ -45,15 +45,15 @@ Per creare una raccolta:
 
 1. Specifica un titolo e una descrizione facoltativa per la raccolta.
 
+1. Seleziona se devi creare una raccolta privata o pubblica. È disponibile una raccolta pubblica per visualizzare e modificare tutti gli utenti. Tuttavia, una raccolta privata è disponibile per il creatore e gli utenti con privilegi di amministratore.
+
 1. Fai clic su **[!UICONTROL Salva]** per creare la raccolta.
 
 ![Creare la raccolta](assets/create-collection.png)
 
 <!--
-
-1. Select if you need to a create a Private collection or a Public collection.
-
-   A Public collection is available for viewing and editing to all users. However, if you are a non-administrator user, a Private collection is available for viewing and editing only to users with the appropriate [permissions](#manage-collection-access). 
+   
+   for viewing and editing only to users with the appropriate [permissions](#manage-collection-access).
 
 -->
 
@@ -70,6 +70,25 @@ Per aggiungere risorse a una raccolta:
 1. Fai clic su **[!UICONTROL Aggiungi]** per aggiungere la risorsa alle raccolte selezionate.
 
 Per aggiungere risorse a una raccolta, puoi anche fare clic su **[!UICONTROL Raccolte]** nella barra a sinistra, poi clic sulla raccolta a cui aggiungere le risorse, quindi **[!UICONTROL Aggiungi alla raccolta]**, seleziona le risorse e fai clic su **[!UICONTROL Seleziona]**.
+
+## Creare una raccolta avanzata {#create-smart-collection}
+
+Salva i risultati della ricerca come Raccolta avanzata per aggiornare dinamicamente il contenuto della raccolta. Se nell’archivio Assets Essentials sono state aggiunte risorse che soddisfano i criteri di ricerca definiti durante la creazione della Raccolta avanzata, i contenuti di questa vengono aggiornati automaticamente.
+
+Per creare una raccolta avanzata:
+
+1. Fai clic su **[!UICONTROL Filtro]** e [definire i criteri di ricerca](search.md##refine-search-results).
+
+1. Fai clic su **[!UICONTROL Salva con nome]** quindi seleziona **[!UICONTROL Raccolta avanzata]**.
+
+1. Sulla [!UICONTROL Creare una raccolta avanzata] Specifica un titolo e una descrizione per la Raccolta avanzata.
+
+1. Seleziona **[!UICONTROL Raccolta pubblica]** se hai bisogno di tutti gli utenti per accedere alla raccolta. Seleziona **[!UICONTROL Raccolta privata]** se hai bisogno di un gruppo limitato di utenti per accedere alla raccolta.
+
+1. Fai clic su **[!UICONTROL Crea]** per creare la Raccolta avanzata.
+
+![Creare una raccolta avanzata](assets/create-smart-collection.png)
+
 
 ## Rimuovere risorse da una raccolta {#remove-assets-from-collection}
 

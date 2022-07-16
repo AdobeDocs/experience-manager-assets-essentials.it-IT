@@ -1,26 +1,25 @@
 ---
 title: Gestione dei rapporti in Assets Essentials
-description: Utilizza le informazioni contenute nei rapporti di Assets Essentials per derivare le metriche di successo chiave per misurare l’adozione di Assets all’interno della tua azienda e da parte dei clienti.
-source-git-commit: 511b7904eca972e76f55e574c7c364dd88fb1721
+description: Accedi ai dati nella sezione dei rapporti di Assets Essentials per valutare l’utilizzo di prodotti e funzionalità e ottenere informazioni approfondite sulle metriche di successo chiave.
+exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
+source-git-commit: e445cd77c6d57281cbf2442a849b249f3da1a4ee
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '491'
 ht-degree: 4%
 
 ---
 
 # Gestire i rapporti {#manage-reports}
 
-Il reporting delle risorse consente agli amministratori di valutare l’utilità dell’implementazione Adobe Experience Manager Assets Essentials. I rapporti forniscono informazioni utili sul modo in cui gli utenti interagiscono con le risorse disponibili nell’implementazione.
-
-Utilizza le informazioni contenute nei rapporti per derivare le metriche di successo chiave per misurare l’adozione di Assets all’interno della tua azienda e da parte dei clienti.
+Il reporting delle risorse offre agli amministratori la visibilità delle attività dell’ambiente Adobe Experience Manager Assets Essentials. Questi dati forniscono informazioni utili su come gli utenti interagiscono con il contenuto e il prodotto.
 
 ## Accedere ai rapporti {#access-reports}
 
-Tutti gli utenti assegnati al [Profilo di prodotto Amministratori Assets Essentials](deploy-administer.md) può accedere a statistiche e rapporti live in Assets Essentials.
+Tutti gli utenti assegnati al [Profilo di prodotto Amministratori Assets Essentials](deploy-administer.md) può accedere al dashboard Live Statistics e creare report definiti dall&#39;utente in Assets Essentials.
 
 ## Visualizzare le statistiche dal vivo {#view-live-statistics}
 
-Assets Essentials consente di visualizzare i dati di download generati automaticamente per la distribuzione Assets Essentials. Puoi scegliere di visualizzare il numero di download delle risorse effettuati negli ultimi 30 giorni o negli ultimi 12 mesi.
+Assets Essentials ti consente di visualizzare i dati in tempo reale per il tuo ambiente Assets Essentials con il dashboard Live Statistics. Puoi visualizzare le metriche degli eventi in tempo reale negli ultimi 30 giorni o negli ultimi 12 mesi.
 
 ![Opzioni nella barra degli strumenti quando si seleziona una risorsa](assets/asset-reports-live-statistics.png)
 
@@ -99,9 +98,9 @@ Nella tabella seguente viene illustrato l’utilizzo di tutte le colonne che è 
     </tbody>
    </table>
 
-## Visualizza l&#39;elenco dei report {#view-report-list}
+## Visualizzare i rapporti esistenti {#view-report-list}
 
-Dopo [creazione del rapporto](#create-report), puoi visualizzare l’elenco dei rapporti e selezionare se scaricarli in formato CSV o eliminarli.
+Dopo [creazione del rapporto](#create-report), puoi visualizzare l’elenco dei rapporti esistenti e selezionare se scaricarli in formato CSV o eliminarli.
 
 Per visualizzare l’elenco dei rapporti, passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Rapporti]**.
 

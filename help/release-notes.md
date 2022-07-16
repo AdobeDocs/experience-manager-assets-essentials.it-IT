@@ -4,14 +4,58 @@ description: Note sulla versione e problemi noti di [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 7c6293bb99d5be8084e6998da966bb89be9c714e
-workflow-type: ht
-source-wordcount: '889'
-ht-degree: 100%
+source-git-commit: f273e1e3c8a290e0beee0423da00c63013062c43
+workflow-type: tm+mt
+source-wordcount: '1117'
+ht-degree: 80%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
+
+L&#39;attuale versione di [!DNL Assets Essentials] rilasciato il 14 luglio 2022.
+
+Questa versione offre le seguenti funzionalità:
+
+**Raccolte avanzate**
+
+Salva i risultati della ricerca come Raccolta avanzata per aggiornare dinamicamente il contenuto della raccolta. Se sono presenti risorse aggiunte all’archivio Assets Essentials che soddisfano i criteri di ricerca definiti durante la [creazione di Smart Collection](manage-collections.md#create-smart-collection), il contenuto della Raccolta avanzata viene aggiornato automaticamente.
+
+**Notifiche**
+
+Le notifiche Assets Essentials consentono di: [monitorare le operazioni eseguite sulle risorse o cartelle disponibili nell’archivio](manage-notifications.md). Devi selezionare e abbonarti al contenuto per il quale ti vengono inviate le notifiche. Puoi anche configurare le categorie per le quali vengono inviate le notifiche.
+
+**Generazione rapporti**
+
+Il reporting delle risorse consente agli amministratori di valutare l’attività dell’utente in Adobe Experience Manager Assets Essentials. Il dashboard di rapporti e statistiche live fornisce informazioni utili sul modo in cui gli utenti interagiscono con le risorse disponibili nella distribuzione. [Utilizzare le informazioni nei rapporti](manage-reports.md) per derivare le metriche di successo chiave per misurare l’adozione di Assets all’interno dell’azienda e da parte dei clienti.
+
+Visualizza i rapporti di download delle risorse e il modulo del dashboard delle statistiche live per vedere quali risorse vengono scaricate e la frequenza dei download.
+
+**Miglioramenti in base al feedback ricevuto dai clienti**
+
+Miglioramenti e correzioni di bug in base al feedback ricevuto dai clienti.
+
+
+## Problemi noti {#known-issues}
+
+L’elenco dei problemi noti di [!DNL Assets Essentials] viene regolarmente rivisto e aggiornato:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* Assets Essentials non supporta la modifica di una raccolta avanzata.
+
+* Le raccolte private sono disponibili per il creatore e gli utenti con privilegi di amministratore. In qualità di amministratore, non puoi delegare le autorizzazioni per accedere alla raccolta ad altri utenti.
+
+In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un feedback](#provide-feedback) al team.
+
+## Versioni precedenti {#past-release}
+
+### 2022.5.0 {#may-2022}
 
 L’attuale versione di [!DNL Assets Essentials] è stata rilasciata il 16 giugno 2022.
 
@@ -52,17 +96,6 @@ Questa versione offre le seguenti funzionalità:
 **Miglioramenti in base al feedback ricevuto dai clienti**
 
 * Miglioramenti e correzioni di bug in base al feedback ricevuto dai clienti.
-
-
-## Problemi noti {#known-issues}
-
-L’elenco dei problemi noti di [!DNL Assets Essentials] viene regolarmente rivisto e aggiornato:
-
-* Assets Essentials non supporta la creazione di raccolte private.
-
-In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un feedback](#provide-feedback) al team.
-
-## Versioni precedenti {#past-release}
 
 ### 2022.4.0 {#april-2022}
 
