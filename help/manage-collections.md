@@ -2,10 +2,10 @@
 title: Gestire le raccolte
 description: Una raccolta è un insieme di risorse in Experience Manager Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: f273e1e3c8a290e0beee0423da00c63013062c43
+source-git-commit: 096906eded35dc0a8c231534204bfc672c2430b7
 workflow-type: tm+mt
 source-wordcount: '686'
-ht-degree: 76%
+ht-degree: 75%
 
 ---
 
@@ -47,7 +47,7 @@ Per creare una raccolta:
 
 1. Seleziona se devi creare una raccolta privata o pubblica. È disponibile una raccolta pubblica per visualizzare e modificare tutti gli utenti. Tuttavia, una raccolta privata è disponibile per il creatore e gli utenti con privilegi di amministratore.
 
-1. Fai clic su **[!UICONTROL Salva]** per creare la raccolta.
+1. Fai clic su **[!UICONTROL Crea]** per creare la raccolta.
 
 ![Creare la raccolta](assets/create-collection.png)
 
