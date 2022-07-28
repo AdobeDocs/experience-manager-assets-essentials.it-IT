@@ -1,11 +1,11 @@
 ---
-title: Gestione dei rapporti in Assets Essentials
+title: Gestire i rapporti in Assets Essentials
 description: Accedi ai dati nella sezione dei rapporti di Assets Essentials per valutare l’utilizzo di prodotti e funzionalità e ottenere informazioni approfondite sulle metriche di successo chiave.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: e445cd77c6d57281cbf2442a849b249f3da1a4ee
 workflow-type: tm+mt
 source-wordcount: '491'
-ht-degree: 4%
+ht-degree: 71%
 
 ---
 
@@ -29,21 +29,21 @@ Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Statistiche live]** per vi
 
 Per creare un rapporto:
 
-1. Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Rapporti]** e fai clic su **[!UICONTROL Creare un rapporto]**.
+1. Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Rapporti]** e fai clic su **[!UICONTROL Crea rapporto]**.
 
-1. In [!UICONTROL Configurazione] Specifica un titolo e una descrizione facoltativa per il rapporto.
+1. Nella scheda [!UICONTROL Configurazione] specifica un titolo e una descrizione facoltativa per il rapporto.
 
-1. Seleziona il percorso della cartella, che comprende le risorse su cui eseguire il rapporto, utilizzando **[!UICONTROL Seleziona percorso cartella]** campo .
+1. Seleziona il percorso della cartella, che comprende le risorse su cui eseguire il rapporto, utilizzando il campo **[!UICONTROL Seleziona il percorso della cartella]**.
 
-1. Selezionare l&#39;intervallo di date per il report.
+1. Seleziona l’intervallo di date per il rapporto.
 
-1. In [!UICONTROL Colonne] selezionare i nomi delle colonne da visualizzare nel rapporto.
+1. Nella scheda [!UICONTROL Colonne] seleziona i nomi delle colonne da visualizzare nel rapporto.
 
 1. Fai clic su **[!UICONTROL Crea]**.
 
-   ![Download del rapporto](assets/download-reports-config.png)
+   ![Scaricare il rapporto](assets/download-reports-config.png)
 
-Nella tabella seguente viene illustrato l’utilizzo di tutte le colonne che è possibile aggiungere al rapporto:
+La tabella seguente descrive tutte le colonne che è possibile aggiungere al rapporto:
 
 <table>
     <tbody>
@@ -61,7 +61,7 @@ Nella tabella seguente viene illustrato l’utilizzo di tutte le colonne che è 
      </tr>
      <tr>
       <td>Tipo</td>
-      <td>Il tipo MIME della risorsa.</td>
+      <td>Tipo MIME della risorsa.</td>
      </tr>
      <tr>
       <td>Dimensione</td>
@@ -69,30 +69,30 @@ Nella tabella seguente viene illustrato l’utilizzo di tutte le colonne che è 
      </tr>
      <tr>
       <td>Scaricato da</td>
-      <td>L’ID e-mail dell’utente che ha scaricato la risorsa.</td>
+      <td>ID e-mail dell’utente che ha scaricato la risorsa.</td>
      </tr>
      <tr>
       <td>Data di download</td>
-      <td>La data in cui viene eseguita l’azione di download delle risorse.</td>
+      <td>Data in cui è stata eseguita l’azione di download della risorsa.</td>
      </tr>
      <tr>
       <td>Autore</td>
-      <td>L’autore della risorsa.</td>
+      <td>Autore della risorsa.</td>
      </tr>
      <tr>
       <td>Data creazione</td>
-      <td>La data in cui la risorsa viene caricata in Assets Essentials.</td>
+      <td>La data in cui la risorsa è stata caricata in Assets Essentials.</td>
      </tr>
      <tr>
       <td>Data di modifica</td>
       <td>Data dell’ultima modifica apportata alla risorsa.</td>
      </tr>
      <tr>
-      <td>Scaduti</td>
-      <td>Lo stato di scadenza della risorsa.</td>
+      <td>Scaduta</td>
+      <td>Stato di scadenza della risorsa.</td>
      </tr>
      <tr>
-      <td>Scaricato per nome utente</td>
+      <td>Scaricato da nome utente</td>
       <td>Nome dell’utente che ha scaricato la risorsa.</td>
      </tr>           
     </tbody>
@@ -106,7 +106,7 @@ Per visualizzare l’elenco dei rapporti, passa a **[!UICONTROL Impostazioni]** 
 
 Per ogni rapporto puoi visualizzare il titolo, il tipo di rapporto, la descrizione specificata durante la creazione, lo stato del rapporto, l’ID e-mail dell’autore che ha creato il rapporto e la data di creazione del rapporto.
 
-`Completed ` lo stato del rapporto indica che il rapporto è pronto per il download.
+Lo stato `Completed ` indica che il rapporto è pronto per il download.
 
 ![Elenco dei rapporti](assets/list-of-reports.png)
 
@@ -117,9 +117,9 @@ Per scaricare un rapporto in formato CSV:
 
 1. Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Rapporti]**.
 
-1. Seleziona un rapporto e fai clic su **[!UICONTROL Scarica CSV]**.
+1. Seleziona un rapporto e fai clic su **[!UICONTROL Scarica come CSV]**.
 
-Il rapporto selezionato viene scaricato in formato CSV. Le colonne visualizzate nel rapporto CSV dipendono dalle colonne selezionate mentre [creazione del rapporto](#create-report).
+Il rapporto selezionato viene scaricato in formato CSV. Le colonne visualizzate nel rapporto CSV dipendono da quellle selezionate quando [si crea il rapporto](#create-report).
 
 ## Eliminare un rapporto {#delete-report}
 
