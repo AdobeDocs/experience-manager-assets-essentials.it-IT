@@ -3,10 +3,10 @@ title: Caricare risorse nell’archivio
 description: Carica le risorse in [!DNL Assets Essentials], visualizza lo stato di caricamento e risolvi eventuali problemi.
 role: User
 exl-id: a85a4455-4456-48af-aee9-f05300677605
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
-source-wordcount: '810'
-ht-degree: 100%
+source-git-commit: 80cb4ba5bc56658a4ae8d162f4ae5f2ae3d822a0
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -32,9 +32,9 @@ Una volta messi in coda tutti i file, fai clic su **[!UICONTROL Carica]**.
 
 *Figura: Prima di caricare le risorse selezionate, si possono aggiungere o rimuovere le risorse dalla coda.*
 
->[!CAUTION]
+>[!TIP]
 >
->Il nome delle risorse non può contenere spazi. Se il nome del file contiene uno spazio, le risposte ai commenti non funzionano.
+>Se carichi una struttura di cartelle in Assets Essentials, non devi creare un file .ZIP con la struttura di cartelle, puoi caricare direttamente le strutture di cartelle. Un file .ZIP caricato su Assets Essentials viene memorizzato come una risorsa ZIP e non viene estratto automaticamente dopo il caricamento.
 
 ## Visualizzare lo stato e l’avanzamento del caricamento {#upload-progress}
 
