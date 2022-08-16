@@ -4,9 +4,9 @@ description: Carica le risorse in [!DNL Assets Essentials], visualizza lo stato 
 role: User
 exl-id: a85a4455-4456-48af-aee9-f05300677605
 source-git-commit: 80cb4ba5bc56658a4ae8d162f4ae5f2ae3d822a0
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '839'
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ Una volta messi in coda tutti i file, fai clic su **[!UICONTROL Carica]**.
 
 >[!TIP]
 >
->Se carichi una struttura di cartelle in Assets Essentials, non devi creare un file .ZIP con la struttura di cartelle, puoi caricare direttamente le strutture di cartelle. Un file .ZIP caricato su Assets Essentials viene memorizzato come una risorsa ZIP e non viene estratto automaticamente dopo il caricamento.
+>Se carichi una struttura di cartelle in Assets Essentials, puoi farlo direttamente senza la necessità di creare un file .ZIP con la struttura di cartelle. Un file .ZIP caricato su Assets Essentials viene memorizzato come una risorsa ZIP e non viene estratto automaticamente dopo il caricamento.
 
 ## Visualizzare lo stato e l’avanzamento del caricamento {#upload-progress}
 
