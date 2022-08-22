@@ -2,10 +2,10 @@
 title: Gestire i rapporti in Assets Essentials
 description: Accedi ai dati nella sezione dei rapporti di Assets Essentials per valutare l’utilizzo di prodotti e funzionalità e ottenere informazioni approfondite sulle metriche di successo chiave.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: e445cd77c6d57281cbf2442a849b249f3da1a4ee
-workflow-type: ht
-source-wordcount: '491'
-ht-degree: 100%
+source-git-commit: cd57eda1f15ea349f810b3ce0086d3e3b92ddb19
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,17 +21,29 @@ Tutti gli utenti assegnati al [profilo di prodotto per amministratori di Assets 
 
 Assets Essentials consente di visualizzare in tempo reale i dati del tuo ambiente Assets Essentials, con la dashboard di statistiche live. Puoi visualizzare le metriche degli eventi in tempo reale negli ultimi 30 giorni o negli ultimi 12 mesi.
 
-![Opzioni nella barra degli strumenti quando si seleziona una risorsa](assets/asset-reports-live-statistics.png)
+![Opzioni nella barra degli strumenti quando si seleziona una risorsa](assets/assets-essentials-live-statistics.png)
 
-Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Statistiche live]** per visualizzare i dati di download generati automaticamente.
+Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Statistiche live]** per visualizzare i grafici generati automaticamente seguenti:
 
-## Creare un rapporto {#create-report}
+* **Download**: Il numero di risorse scaricate dall’ambiente Assets Essentials negli ultimi 30 giorni o 12 mesi rappresentato da un grafico a linee.
 
-Per creare un rapporto:
+* **Caricamenti**: Numero di risorse caricate nell’ambiente Assets Essentials negli ultimi 30 giorni o 12 mesi rappresentate da un grafico a linee.
+
+<!--
+
+* **Storage usage**: The storage usage, in gigabytes (GB), for the Assets Essentials environment, for the last 30 days or 12 months represented using a bar chart.
+
+-->
+
+## Creare un rapporto di download {#create-download-report}
+
+Per creare un rapporto di download:
 
 1. Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Rapporti]** e fai clic su **[!UICONTROL Crea rapporto]**.
 
-1. Nella scheda [!UICONTROL Configurazione] specifica un titolo e una descrizione facoltativa per il rapporto.
+1. In [!UICONTROL Configurazione] , specifica il tipo di rapporto come **[!UICONTROL Scarica]**.
+
+1. Specifica un titolo e una descrizione facoltativa per il rapporto.
 
 1. Seleziona il percorso della cartella, che comprende le risorse su cui eseguire il rapporto, utilizzando il campo **[!UICONTROL Seleziona il percorso della cartella]**.
 
@@ -60,7 +72,7 @@ La tabella seguente descrive tutte le colonne che è possibile aggiungere al rap
       <td>Percorso della cartella in cui la risorsa è disponibile in Assets Essentials.</td>
      </tr>
      <tr>
-      <td>Tipo</td>
+      <td>Tipo MIME</td>
       <td>Tipo MIME della risorsa.</td>
      </tr>
      <tr>
@@ -95,6 +107,69 @@ La tabella seguente descrive tutte le colonne che è possibile aggiungere al rap
       <td>Scaricato da nome utente</td>
       <td>Nome dell’utente che ha scaricato la risorsa.</td>
      </tr>           
+    </tbody>
+   </table>
+
+## Creare un rapporto sul caricamento {#create-upload-report}
+
+Per creare un rapporto di caricamento:
+
+1. Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Rapporti]** e fai clic su **[!UICONTROL Crea rapporto]**.
+
+1. In [!UICONTROL Configurazione] , specifica il tipo di rapporto come **[!UICONTROL Carica]**.
+
+1. Specifica un titolo e una descrizione facoltativa per il rapporto.
+
+1. Seleziona il percorso della cartella, che comprende le risorse su cui eseguire il rapporto, utilizzando il campo **[!UICONTROL Seleziona il percorso della cartella]**.
+
+1. Seleziona l’intervallo di date per il rapporto.
+
+1. Nella scheda [!UICONTROL Colonne] seleziona i nomi delle colonne da visualizzare nel rapporto.
+
+1. Fai clic su **[!UICONTROL Crea]**.
+
+   ![Carica rapporto](assets/upload-reports-config.png)
+
+La tabella seguente descrive tutte le colonne che è possibile aggiungere al rapporto:
+
+<table>
+    <tbody>
+     <tr>
+      <th><strong>Nome colonna</strong></th>
+      <th><strong>Descrizione</strong></th>
+     </tr>
+     <tr>
+      <td>Titolo</td>
+      <td>Titolo della risorsa.</td>
+     </tr>
+     <tr>
+      <td>Percorso </td>
+      <td>Percorso della cartella in cui la risorsa è disponibile in Assets Essentials.</td>
+     </tr>
+     <tr>
+      <td>Tipo MIME</td>
+      <td>Tipo MIME della risorsa.</td>
+     </tr>
+     <tr>
+      <td>Dimensione</td>
+      <td>Dimensione della risorsa.</td>
+     </tr>
+     <tr>
+      <td>Autore</td>
+      <td>Autore della risorsa.</td>
+     </tr>
+     <tr>
+      <td>Data creazione</td>
+      <td>La data in cui la risorsa è stata caricata in Assets Essentials.</td>
+     </tr>
+     <tr>
+      <td>Data di modifica</td>
+      <td>Data dell’ultima modifica apportata alla risorsa.</td>
+     </tr>
+     <tr>
+      <td>Scaduta</td>
+      <td>Stato di scadenza della risorsa.</td>
+     </tr>              
     </tbody>
    </table>
 

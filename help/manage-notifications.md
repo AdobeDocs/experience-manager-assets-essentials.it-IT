@@ -2,16 +2,16 @@
 title: Gestire le notifiche
 description: Monitora le operazioni eseguite sulle risorse o cartelle disponibili nell’archivio utilizzando le notifiche Assets Essentials.
 exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
-source-git-commit: 5d1e2ddd292f02cd9e2693e644886d2fcd053650
-workflow-type: ht
-source-wordcount: '576'
-ht-degree: 100%
+source-git-commit: 2a8899c333e08c50e4cf8b49399188f50a0d3a46
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Gestire le notifiche {#manage-notifications}
 
-Le notifiche Assets Essentials consentono di monitorare le operazioni eseguite sulle risorse o cartelle disponibili nell’archivio. Devi selezionare e iscriverti al contenuto per il quale ti vengono inviate le notifiche. Puoi anche configurare le categorie per le quali vengono inviate le notifiche.
+Le notifiche Assets Essentials ti consentono di monitorare le operazioni eseguite sulle risorse, cartelle o raccolte disponibili nell’archivio. Devi selezionare e iscriverti al contenuto per il quale ti vengono inviate le notifiche. Puoi anche configurare le categorie per le quali vengono inviate le notifiche.
 
 ## Iscriversi alle categorie di notifica {#subscribe-to-notification-categories}
 
@@ -37,11 +37,11 @@ Puoi scegliere un elenco di categorie e iscriverti per ricevere le notifiche. As
      </tr>
      <tr>
       <td>Eliminazione di contenuti sottoscritti</td>
-      <td>Ricevi una notifica quando un utente elimina la risorsa o la cartella a cui ti sei iscritto.</td>
+      <td>Ricevi una notifica quando un utente elimina la risorsa, la cartella o la raccolta sottoscritta.</td>
      </tr>
      <tr>
       <td>Condivisione esterna di contenuti sottoscritti</td>
-      <td>Ricevi una notifica quando un utente genera un collegamento pubblico per la risorsa o la cartella a cui ti sei iscritto.</td>
+      <td>Ricevi una notifica quando un utente genera un collegamento pubblico per la risorsa, la cartella o la raccolta sottoscritta.</td>
      </tr>
      <tr>
       <td>Modifica di contenuti sottoscritti</td>
@@ -53,7 +53,7 @@ Puoi scegliere un elenco di categorie e iscriverti per ricevere le notifiche. As
      </tr>
      <tr>
       <td>Aggiornamenti alle cartelle e alle raccolte sottoscritte</td>
-      <td>Ricevi una notifica quando un utente aggiunge o rimuove una risorsa da una cartella sottoscritta.</td>
+      <td>Ricevi una notifica quando un utente aggiunge o rimuove una risorsa da una cartella o raccolta sottoscritta.</td>
      </tr>    
     </tbody>
    </table>
@@ -75,7 +75,7 @@ Per iscriversi alle categorie di notifica:
 
 1. Seleziona le categorie di notifica per le quali vuoi ricevere una notifica.
 
-## Osservare e non osservare più cartelle o risorse {#watch-unwatch-assets}
+## Visualizzare e deselezionare cartelle, risorse o raccolte {#watch-unwatch-assets}
 
 Dopo l’[iscrizione alle categorie di notifica](#subscribe-to-notification-categories), devi iscriverti al contenuto per iniziare a ricevere le notifiche.
 
@@ -83,15 +83,15 @@ Dopo l’[iscrizione alle categorie di notifica](#subscribe-to-notification-cate
 >
 >Per le categorie di notifiche **[!UICONTROL Richieste]** e **[!UICONTROL Assegnato a me]**, non è necessario iscriversi ai contenuti dopo l’iscrizione alle categorie di notifica. Le notifiche vengono inviate automaticamente per le richieste che crei e quando un&#39;attività viene assegnata a te.
 
-Per iscriverti al contenuto, seleziona la cartella o la risorsa che ti interessa e fai clic su **[!UICONTROL Osserva]**.
+Per abbonarti al contenuto, seleziona la cartella, la risorsa o la raccolta a cui devi abbonarti e fai clic su **[!UICONTROL Guarda]**.
 
 Assets Essentials visualizza un messaggio di successo. Puoi fare clic su **[!UICONTROL Vai alle preferenze per le notifiche]** nel messaggio di successo per cambiare le [categorie di notifica che ti interessano](#subscribe-to-notification-categories).
 
 ![Notifiche in Assets Essentials](assets/watch-assets.png)
 
-Assets Essentials ora invia notifiche per le categorie sottoscritte. Per risparmiare tempo, puoi anche selezionare più risorse o cartelle e fare clic su **[!UICONTROL Osserva]**. Tuttavia, se selezioni più entità di cui alcune sono già state sottoscritte, l’opzione **[!UICONTROL Osserva]** non viene visualizzata.
+Assets Essentials ora invia notifiche per le categorie sottoscritte. Puoi anche selezionare più risorse, cartelle o raccolte e fare clic su **[!UICONTROL Guarda]** per risparmiare tempo. Tuttavia, se selezioni più entità di cui alcune sono già state sottoscritte, l’opzione **[!UICONTROL Osserva]** non viene visualizzata.
 
-Allo stesso modo, per annullare l’iscrizione a una risorsa o cartella, selezionala e fai clic su **[!UICONTROL Non osservare più]**.
+Allo stesso modo, per annullare l’iscrizione, seleziona la risorsa, la cartella o la raccolta per la quale ti sei iscritto e fai clic su **[!UICONTROL Annulla controllo]**.
 
 ## Visualizzare le notifiche {#view-notifications}
 

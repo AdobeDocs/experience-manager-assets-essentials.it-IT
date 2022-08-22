@@ -4,32 +4,38 @@ description: Note sulla versione e problemi noti di [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: f273e1e3c8a290e0beee0423da00c63013062c43
-workflow-type: ht
-source-wordcount: '1117'
-ht-degree: 100%
+source-git-commit: b44ded8b1678e9b7c1c5eda3f350072e51b52f32
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-L’attuale versione di [!DNL Assets Essentials] è stata rilasciata il 14 luglio 2022.
+L’attuale versione di Assets Essentials viene rilasciata il 16 agosto 2022.
 
 Questa versione offre le seguenti funzionalità:
 
-**Raccolte avanzate**
+**Notifiche per le raccolte**
 
-Salva i risultati della ricerca come Raccolta avanzata per aggiornare dinamicamente il contenuto della raccolta. Se sono presenti risorse aggiunte all’archivio Assets Essentials che soddisfano i criteri di ricerca definiti durante la [creazione della raccolta avanzata](manage-collections.md#create-smart-collection), il contenuto della raccolta avanzata viene aggiornato automaticamente.
+Le notifiche di Assets Essentials ora consentono di monitorare le operazioni eseguite sulle raccolte disponibili nell’archivio. Devi selezionare e abbonarti alle raccolte per le quali ti vengono inviate le notifiche. Puoi anche configurare le operazioni per le quali vengono inviate le notifiche, ad esempio le operazioni di eliminazione, condivisione dei collegamenti, spostamento, ridenominazione e aggiornamento eseguite sulle raccolte.
 
-**Notifiche**
+**Modificare raccolte avanzate**
 
-Le notifiche di Assets Essentials consentono di [monitorare le operazioni eseguite sulle risorse o cartelle disponibili nell’archivio](manage-notifications.md). Devi selezionare e iscriverti al contenuto per il quale ti vengono inviate le notifiche. Puoi anche configurare le categorie per le quali vengono inviate le notifiche.
+Assets Essentials ora consente anche di modificare i criteri di ricerca utilizzati durante la creazione di una raccolta avanzata.  Salva i nuovi criteri di ricerca per aggiornare dinamicamente il contenuto della raccolta.
 
-**Reporting**
+<!--
 
-La funzionalità di reporting sulle risorse consente agli amministratori di valutare le attività degli utenti in Adobe Experience Manager Assets Essentials. I rapporti e la dashboard delle statistiche live forniscono informazioni utili sul modo in cui gli utenti interagiscono con le risorse disponibili nell’implementazione. [Utilizza le informazioni contenute nei rapporti](manage-reports.md) per derivare le metriche di successo chiave con cui misurare il livello di adozione di Assets all’interno della tua azienda e da parte dei clienti.
+**View live statistics for storage account**
 
-Visualizza i rapporti di download delle risorse e il modulo della dashboard delle statistiche live per vedere quali risorse vengono scaricate e la frequenza dei download.
+Assets Essentials now also enables you to view real-time storage account data for your Assets Essentials environment with the Live Statistics dashboard. You can view real-time event metrics for the last 30 days or for the last 12 months.
+
+-->
+
+**Visualizzare i rapporti di caricamento**
+
+Il reporting delle risorse offre ora agli amministratori la visibilità delle risorse caricate nell’implementazione Adobe Experience Manager Assets Essentials. Gli amministratori possono già generare rapporti per le risorse scaricate dalla distribuzione Assets Essentials. Questi dati forniscono informazioni utili su come gli utenti interagiscono con i contenuti e il prodotto.
 
 **Miglioramenti in base al feedback ricevuto dai clienti**
 
@@ -47,17 +53,35 @@ L’elenco dei problemi noti di [!DNL Assets Essentials] viene regolarmente rivi
 -->
 
 
-* Assets Essentials non supporta la modifica di una raccolta avanzata.
-
 * Le raccolte private sono disponibili per l’utente che le crea e gli utenti con privilegi di amministratore. In qualità di amministratore, non puoi delegare ad altri utenti le autorizzazioni di accesso alla raccolta.
 
 In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un feedback](#provide-feedback) al team.
 
 ## Versioni precedenti {#past-release}
 
+### 2022.6.0 {#june-2022}
+
+Il rilascio di giugno di [!DNL Assets Essentials] rilasciato il 14 luglio 2022.
+
+Questa versione offre le seguenti funzionalità:
+
+**Raccolte avanzate**
+
+Salva i risultati della ricerca come Raccolta avanzata per aggiornare dinamicamente il contenuto della raccolta. Se sono presenti risorse aggiunte all’archivio Assets Essentials che soddisfano i criteri di ricerca definiti durante la [creazione della raccolta avanzata](manage-collections.md#create-smart-collection), il contenuto della raccolta avanzata viene aggiornato automaticamente.
+
+**Notifiche**
+
+Le notifiche di Assets Essentials consentono di [monitorare le operazioni eseguite sulle risorse o cartelle disponibili nell’archivio](manage-notifications.md). Devi selezionare e iscriverti al contenuto per il quale ti vengono inviate le notifiche. Puoi anche configurare le categorie per le quali vengono inviate le notifiche.
+
+**Reporting**
+
+La funzionalità di reporting sulle risorse consente agli amministratori di valutare le attività degli utenti in Adobe Experience Manager Assets Essentials. I rapporti e la dashboard delle statistiche live forniscono informazioni utili sul modo in cui gli utenti interagiscono con le risorse disponibili nell’implementazione. [Utilizza le informazioni contenute nei rapporti](manage-reports.md) per derivare le metriche di successo chiave con cui misurare il livello di adozione di Assets all’interno della tua azienda e da parte dei clienti.
+
+Visualizza i rapporti di download delle risorse e il modulo della dashboard delle statistiche live per vedere quali risorse vengono scaricate e la frequenza dei download.
+
 ### 2022.5.0 {#may-2022}
 
-L’attuale versione di [!DNL Assets Essentials] è stata rilasciata il 16 giugno 2022.
+Il rilascio di maggio di [!DNL Assets Essentials] rilasciato il 16 giugno 2022.
 
 Questa versione offre le seguenti funzionalità:
 
