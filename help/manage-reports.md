@@ -3,9 +3,9 @@ title: Gestire i rapporti in Assets Essentials
 description: Accedi ai dati nella sezione dei rapporti di Assets Essentials per valutare l’utilizzo di prodotti e funzionalità e ottenere informazioni approfondite sulle metriche di successo chiave.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: cd57eda1f15ea349f810b3ce0086d3e3b92ddb19
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '712'
+ht-degree: 100%
 
 ---
 
@@ -23,11 +23,11 @@ Assets Essentials consente di visualizzare in tempo reale i dati del tuo ambient
 
 ![Opzioni nella barra degli strumenti quando si seleziona una risorsa](assets/assets-essentials-live-statistics.png)
 
-Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Statistiche live]** per visualizzare i grafici generati automaticamente seguenti:
+Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Statistiche live]** per visualizzare i seguenti grafici generati automaticamente:
 
-* **Download**: Il numero di risorse scaricate dall’ambiente Assets Essentials negli ultimi 30 giorni o 12 mesi rappresentato da un grafico a linee.
+* **Download**: numero di risorse scaricate dall’ambiente Assets Essentials negli ultimi 30 giorni o 12 mesi rappresentato da un grafico a linee.
 
-* **Caricamenti**: Numero di risorse caricate nell’ambiente Assets Essentials negli ultimi 30 giorni o 12 mesi rappresentate da un grafico a linee.
+* **Caricamenti**: numero di risorse caricate nell’ambiente Assets Essentials negli ultimi 30 giorni o 12 mesi rappresentato da un grafico a linee.
 
 <!--
 
@@ -35,13 +35,13 @@ Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Statistiche live]** per vi
 
 -->
 
-## Creare un rapporto di download {#create-download-report}
+## Creare un rapporto sui download {#create-download-report}
 
-Per creare un rapporto di download:
+Per creare un rapporto sui download:
 
 1. Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Rapporti]** e fai clic su **[!UICONTROL Crea rapporto]**.
 
-1. In [!UICONTROL Configurazione] , specifica il tipo di rapporto come **[!UICONTROL Scarica]**.
+1. Nella scheda [!UICONTROL Configurazione], specifica il tipo di rapporto **[!UICONTROL Download]**.
 
 1. Specifica un titolo e una descrizione facoltativa per il rapporto.
 
@@ -110,13 +110,13 @@ La tabella seguente descrive tutte le colonne che è possibile aggiungere al rap
     </tbody>
    </table>
 
-## Creare un rapporto sul caricamento {#create-upload-report}
+## Creare un rapporto sui caricamenti {#create-upload-report}
 
-Per creare un rapporto di caricamento:
+Per creare un rapporto sui caricamenti:
 
 1. Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Rapporti]** e fai clic su **[!UICONTROL Crea rapporto]**.
 
-1. In [!UICONTROL Configurazione] , specifica il tipo di rapporto come **[!UICONTROL Carica]**.
+1. Nella scheda [!UICONTROL Configurazione], specifica il tipo di rapporto **[!UICONTROL Caricamento]**.
 
 1. Specifica un titolo e una descrizione facoltativa per il rapporto.
 
@@ -128,7 +128,7 @@ Per creare un rapporto di caricamento:
 
 1. Fai clic su **[!UICONTROL Crea]**.
 
-   ![Carica rapporto](assets/upload-reports-config.png)
+   ![Rapporto sui caricamenti](assets/upload-reports-config.png)
 
 La tabella seguente descrive tutte le colonne che è possibile aggiungere al rapporto:
 
