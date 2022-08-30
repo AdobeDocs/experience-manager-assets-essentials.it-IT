@@ -3,9 +3,9 @@ title: Gestire le raccolte
 description: Una raccolta è un insieme di risorse in Experience Manager Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 source-git-commit: cd57eda1f15ea349f810b3ce0086d3e3b92ddb19
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '752'
+ht-degree: 100%
 
 ---
 
@@ -105,7 +105,7 @@ Per modificare una raccolta avanzata:
 
 1. Fai clic su **[!UICONTROL Modifica raccolta avanzata]**.
 
-1. Sulla [!UICONTROL Modificare i filtri di raccolta avanzata] finestra di dialogo, [aggiornare i criteri di ricerca](search.md##refine-search-results) per Smart Collection.
+1. Dalla finestra di dialogo [!UICONTROL Modifica i filtri di raccolta avanzata], [aggiorna i criteri di ricerca](search.md##refine-search-results) per la raccolta avanzata.
 
 1. Fai clic su **[!UICONTROL Salva]**.
 
