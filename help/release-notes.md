@@ -7,7 +7,7 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: b118b841cbca05edc5b67d86ea87abfd09dcd452
 workflow-type: tm+mt
 source-wordcount: '1269'
-ht-degree: 86%
+ht-degree: 98%
 
 ---
 
@@ -19,7 +19,7 @@ Questa versione offre le seguenti funzionalità:
 
 **Notifiche per le raccolte**
 
-Le notifiche di Assets Essentials ora consentono di monitorare le operazioni eseguite sulle raccolte disponibili nell’archivio. Devi selezionare e abbonarti alle raccolte per le quali ti vengono inviate le notifiche. Puoi anche configurare le operazioni per le quali vengono inviate le notifiche, ad esempio le operazioni di eliminazione, condivisione dei collegamenti, spostamento, ridenominazione e aggiornamento eseguite sulle raccolte.
+Le notifiche Assets Essentials consentono di monitorare le operazioni eseguite sulle raccolte disponibili nell’archivio. Devi selezionare e iscriverti alle raccolte per le quali ti vengono inviate le notifiche. Puoi anche configurare le operazioni per le quali vengono inviate le notifiche, ad esempio le operazioni di eliminazione, condivisione dei collegamenti, spostamento, ridenominazione e aggiornamento eseguite sulle raccolte.
 
 **Modificare raccolte avanzate**
 
@@ -35,7 +35,7 @@ Assets Essentials now also enables you to view real-time storage account data fo
 
 **Visualizzare i rapporti di caricamento**
 
-Il reporting delle risorse offre ora agli amministratori la visibilità delle risorse caricate nell’implementazione Adobe Experience Manager Assets Essentials. Gli amministratori possono già generare rapporti per le risorse scaricate dalla distribuzione Assets Essentials. Questi dati forniscono informazioni utili su come gli utenti interagiscono con i contenuti e il prodotto.
+Il reporting delle risorse offre ora agli amministratori la visibilità delle risorse caricate nell’implementazione Adobe Experience Manager Assets Essentials. Gli amministratori possono già generare rapporti per le risorse scaricate dall’implementazione Assets Essentials. Questi dati forniscono informazioni utili su come gli utenti interagiscono con i contenuti e il prodotto.
 
 **Miglioramenti in base al feedback ricevuto dai clienti**
 
@@ -61,7 +61,7 @@ In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un fee
 
 ### 2022.6.0 {#june-2022}
 
-Il rilascio di giugno di [!DNL Assets Essentials] rilasciato il 14 luglio 2022.
+La versione di giugno di [!DNL Assets Essentials] è stata rilasciata il 14 luglio 2022.
 
 Questa versione offre le seguenti funzionalità:
 
@@ -81,7 +81,7 @@ Visualizza i rapporti di download delle risorse e il modulo della dashboard dell
 
 ### 2022.5.0 {#may-2022}
 
-Il rilascio di maggio di [!DNL Assets Essentials] rilasciato il 16 giugno 2022.
+La versione di maggio di [!DNL Assets Essentials] è stata rilasciata il 16 giugno 2022.
 
 Questa versione offre le seguenti funzionalità:
 
