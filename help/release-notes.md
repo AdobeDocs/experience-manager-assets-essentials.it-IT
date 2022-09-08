@@ -7,13 +7,13 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 9879dd2fd28c949727e85c3a54e07ea7c1a50c82
 workflow-type: tm+mt
 source-wordcount: '1312'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-L’attuale versione di Assets Essentials viene rilasciata il 22 agosto 2022.
+L’attuale versione di Assets Essentials è stata rilasciata il 22 agosto 2022.
 
 Questa versione offre le seguenti funzionalità:
 
@@ -181,7 +181,7 @@ Inoltre, l’estensione [!DNL Adobe Asset Link] per Creative Cloud (Photoshop, I
 
 ### Versione 2021.6.0 {#june2021}
 
-La prima versione di [!DNL Assets Essentials], rilasciata il 21 giugno 2021, offre funzionalità leggere per la gestione delle risorse. Supporta le seguenti funzioni principali e operazioni CRUD (Crea, Leggi, Aggiorna ed Elimina):
+La prima versione di [!DNL Assets Essentials], rilasciata il 21 giugno 2021, offre funzionalità leggere per la gestione delle risorse. Supporta le seguenti funzioni principali e operazioni CRUD (Create, Read, Update, Delete: crea, leggi, aggiorna, elimina):
 
 * Caricare e aggiungere risorse, incluse cartelle nidificate. Visualizzare l’anteprima di risorse e versioni.
 * Ricerca full-text, filtri di ricerca mirata, e ricerche salvate per individuare rapidamente le risorse.
