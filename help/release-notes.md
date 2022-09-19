@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 9879dd2fd28c949727e85c3a54e07ea7c1a50c82
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1312'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ Le notifiche Assets Essentials consentono di monitorare le operazioni eseguite s
 
 Assets Essentials ora consente anche di modificare i criteri di ricerca utilizzati durante la creazione di una raccolta avanzata.  Salva i nuovi criteri di ricerca per aggiornare dinamicamente il contenuto della raccolta.
 
-**Visualizza statistiche live per l&#39;account di archiviazione**
+**Visualizzare statistiche live per l’account di archiviazione**
 
-Assets Essentials ora consente anche di visualizzare i dati dell’account di archiviazione in tempo reale per l’ambiente Assets Essentials con il dashboard Live Statistics. Puoi visualizzare le metriche degli eventi in tempo reale per gli ultimi 30 giorni o per gli ultimi 12 mesi.
+Assets Essentials consente ora di visualizzare i dati degli account di archiviazione in tempo reale per l’ambiente Assets Essentials mediante la dashboard Statistiche live. È possibile visualizzare le metriche degli eventi in tempo reale per gli ultimi 30 giorni o 12 mesi.
 
 **Visualizzare i rapporti di caricamento**
 
