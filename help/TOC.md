@@ -9,8 +9,8 @@ feature-set: Experience Manager Assets,Experience Manager
 feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
-source-git-commit: 511b7904eca972e76f55e574c7c364dd88fb1721
-workflow-type: ht
+source-git-commit: 1d7055f95e051dd0dd8790a0e655344d99f8f24d
+workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 + [Panoramica della soluzione](introduction.md)
 + [Note sulla versione](release-notes.md)
 + Guida introduttiva di Assets Essentials per amministratori {#get-started-admins}
-   + [Implementare e aggiungere utenti](deploy-administer.md)
+   + [Amministrare  e aggiungere utenti](deploy-administer.md)
    + Gestire l’accesso alle cartelle{#folder-access}
       + [Gestire le autorizzazioni cartella](manage-permissions.md)
       + [Best practice per la gestione delle autorizzazioni](permission-management-best-practices.md)
