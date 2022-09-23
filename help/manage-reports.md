@@ -2,10 +2,10 @@
 title: Gestire i rapporti in Assets Essentials
 description: Accedi ai dati nella sezione dei rapporti di Assets Essentials per valutare l’utilizzo di prodotti e funzionalità e ottenere informazioni approfondite sulle metriche di successo chiave.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 9879dd2fd28c949727e85c3a54e07ea7c1a50c82
-workflow-type: ht
-source-wordcount: '736'
-ht-degree: 100%
+source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
+workflow-type: tm+mt
+source-wordcount: '755'
+ht-degree: 93%
 
 ---
 
@@ -15,7 +15,7 @@ La funzionalità di reporting sulle risorse offre agli amministratori visibilit�
 
 ## Accedere ai rapporti {#access-reports}
 
-Tutti gli utenti assegnati al [profilo di prodotto per amministratori di Assets Essentials](deploy-administer.md) possono accedere alla dashboard delle statistiche live e creare rapporti definiti dagli utenti in Assets Essentials.
+Tutti gli utenti assegnati al [Profilo di prodotto Amministratori Assets Essentials](deploy-administer.md) può accedere al dashboard Live Statistics o creare report definiti dall&#39;utente in Assets Essentials.
 
 ## Visualizzare le statistiche live {#view-live-statistics}
 
@@ -44,6 +44,9 @@ Per creare un rapporto sui download:
 1. Seleziona il percorso della cartella, che comprende le risorse su cui eseguire il rapporto, utilizzando il campo **[!UICONTROL Seleziona il percorso della cartella]**.
 
 1. Seleziona l’intervallo di date per il rapporto.
+   >[!NOTE]
+   >
+   > Assets Essentials converte tutti i fusi orari locali in Ora universale coordinata (UTC).
 
 1. Nella scheda [!UICONTROL Colonne] seleziona i nomi delle colonne da visualizzare nel rapporto.
 
@@ -73,7 +76,7 @@ La tabella seguente descrive tutte le colonne che è possibile aggiungere al rap
      </tr>
      <tr>
       <td>Dimensione</td>
-      <td>Dimensione della risorsa.</td>
+      <td>La dimensione della risorsa in byte.</td>
      </tr>
      <tr>
       <td>Scaricato da</td>
@@ -171,7 +174,7 @@ La tabella seguente descrive tutte le colonne che è possibile aggiungere al rap
 
 ## Visualizzare i rapporti esistenti {#view-report-list}
 
-Dopo la [creazione di un rapporto](#create-report), puoi visualizzare l’elenco dei rapporti esistenti e scegliere se scaricarli in formato CSV o eliminarli.
+Dopo la [creazione di un rapporto](#create-download-report), puoi visualizzare l’elenco dei rapporti esistenti e scegliere se scaricarli in formato CSV o eliminarli.
 
 Per visualizzare l’elenco dei rapporti, passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Rapporti]**.
 
@@ -190,7 +193,7 @@ Per scaricare un rapporto in formato CSV:
 
 1. Seleziona un rapporto e fai clic su **[!UICONTROL Scarica come CSV]**.
 
-Il rapporto selezionato viene scaricato in formato CSV. Le colonne visualizzate nel rapporto CSV dipendono da quellle selezionate quando [si crea il rapporto](#create-report).
+Il rapporto selezionato viene scaricato in formato CSV. Le colonne visualizzate nel rapporto CSV dipendono da quellle selezionate quando [si crea il rapporto](#create-download-report).
 
 ## Eliminare un rapporto {#delete-report}
 
@@ -199,3 +202,5 @@ Per eliminare un rapporto:
 1. Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Rapporti]**.
 
 1. Seleziona un rapporto e fai clic su **[!UICONTROL Elimina]**.
+
+1. Fai clic su **[!UICONTROL Elimina]** di nuovo per confermare.

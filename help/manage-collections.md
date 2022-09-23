@@ -2,16 +2,16 @@
 title: Gestire le raccolte
 description: Una raccolta è un insieme di risorse in Experience Manager Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: cd57eda1f15ea349f810b3ce0086d3e3b92ddb19
-workflow-type: ht
-source-wordcount: '752'
-ht-degree: 100%
+source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
+workflow-type: tm+mt
+source-wordcount: '769'
+ht-degree: 87%
 
 ---
 
 # Gestire le raccolte {#manage-collections}
 
-Una raccolta è un insieme di risorse in Experience Manager Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti.
+Una raccolta è un set di risorse, cartelle o altre raccolte all’interno di Adobe Experience Manager Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti.
 
 A differenza delle cartelle, una raccolta può includere risorse da posizioni diverse.
 
@@ -29,11 +29,11 @@ Per gestire e utilizzare le raccolte, puoi eseguire le seguenti attività:
 
 * [Aggiungere risorse a una raccolta](#add-assets-to-collection)
 
+* [Rimuovere risorse da una raccolta](#remove-assets-from-collection)
+
 * [Creare una raccolta avanzata](#create-smart-collection)
 
 * [Modificare una raccolta avanzata](#edit-smart-collection)
-
-* [Rimuovere risorse da una raccolta](#remove-assets-from-collection)
 
 * [Visualizzare e modificare i metadati di una raccolta](#view-edit-collection-metadata)
 
@@ -67,7 +67,7 @@ Per creare una raccolta:
 
 Per aggiungere risorse a una raccolta:
 
-1. Fai clic su **[!UICONTROL Risorse]** nella barra a sinistra e seleziona le risorse.
+1. Fai clic su **[!UICONTROL Risorse]** nella barra a sinistra e seleziona le risorse da aggiungere a una raccolta.
 
 1. Fai clic su **[!UICONTROL Aggiungi alla raccolta]**.
 
@@ -77,9 +77,19 @@ Per aggiungere risorse a una raccolta:
 
 Per aggiungere risorse a una raccolta, puoi anche fare clic su **[!UICONTROL Raccolte]** nella barra a sinistra, poi clic sulla raccolta a cui aggiungere le risorse, quindi **[!UICONTROL Aggiungi alla raccolta]**, seleziona le risorse e fai clic su **[!UICONTROL Seleziona]**.
 
+## Rimuovere risorse da una raccolta {#remove-assets-from-collection}
+
+Per rimuovere le risorse da una raccolta:
+
+1. Fai clic su **[!UICONTROL Raccolte]** nella barra a sinistra per visualizzare l’elenco delle raccolte.
+
+1. Fai clic sulla raccolta e seleziona gli elementi da rimuovere dalla raccolta.
+
+1. Fate clic su **[!UICONTROL Rimuovi]**.
+
 ## Gestire una raccolta avanzata {#manage-smart-collection}
 
-Salva i risultati della ricerca come Raccolta avanzata per aggiornare dinamicamente il contenuto della raccolta. Se nell’archivio Assets Essentials sono state aggiunte risorse che soddisfano i criteri di ricerca definiti durante la creazione della raccolta avanzata, i contenuti di questa vengono aggiornati automaticamente.
+Salva i risultati della ricerca come Raccolta avanzata per aggiornare dinamicamente il contenuto della raccolta. Se nell’archivio Assets Essentials sono presenti risorse che soddisfano i criteri di ricerca definiti durante la creazione della Raccolta avanzata, i contenuti di questa vengono aggiornati automaticamente all’apertura di una Raccolta avanzata.
 
 ### Creare una raccolta avanzata {#create-smart-collection}
 
@@ -108,16 +118,6 @@ Per modificare una raccolta avanzata:
 1. Dalla finestra di dialogo [!UICONTROL Modifica i filtri di raccolta avanzata], [aggiorna i criteri di ricerca](search.md##refine-search-results) per la raccolta avanzata.
 
 1. Fai clic su **[!UICONTROL Salva]**.
-
-## Rimuovere risorse da una raccolta {#remove-assets-from-collection}
-
-Per rimuovere le risorse da una raccolta:
-
-1. Fai clic su **[!UICONTROL Raccolte]** nella barra a sinistra per visualizzare l’elenco delle raccolte.
-
-1. Fai clic sulla raccolta e seleziona le risorse da rimuovere.
-
-1. Fate clic su **[!UICONTROL Rimuovi]**.
 
 <!--
 
@@ -149,7 +149,7 @@ Per visualizzare e modificare i metadati di una raccolta:
 
 1. Fai clic su **[!UICONTROL Raccolte]** nella barra a sinistra, seleziona una raccolta e fai clic su **[!UICONTROL Dettagli]**.
 1. Visualizza i metadati della raccolta utilizzando la scheda **[!UICONTROL Base]**.
-1. Se necessario, modifica i campi di metadati. Puoi modificare i campi [!UICONTROL Titolo], [!UICONTROL Descrizione] e [!UICONTROL Autore].
+1. Se necessario, modifica i campi di metadati. Puoi modificare la [!UICONTROL Titolo] e [!UICONTROL Descrizione] campi.
 
 ![Metadati di una raccolta](assets/collection-metadata.png)
 
