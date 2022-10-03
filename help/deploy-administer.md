@@ -4,9 +4,9 @@ description: Casi di utilizzo relativi all’amministrazione, tra cui implementa
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 source-git-commit: 9818d06d8da806190c61aadeecd50a7c65b31cbe
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1331'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ Il provisioning di [!DNL Adobe Experience Manager Assets Essentials] viene esegu
 
 Il diagramma di flusso di dati seguente illustra la sequenza di attività che un amministratore deve eseguire per configurare e gestire Assets Essentials:
 
-![Distribuzione di Assets Essentials](assets/deploy-assets-essentials.svg)
+![Implementare Assets Essentials](assets/deploy-assets-essentials.svg)
 
 ## Accedere a Admin Console {#access-admin-console}
 
@@ -25,9 +25,9 @@ Dopo il provisioning della soluzione Assets Essentials, l’amministratore ricev
 
 Utilizzando il link incluso nel messaggio e-mail, accedi ad [Admin Console](https://adminconsole.adobe.com). Se puoi accedere come amministratore a più account, seleziona l’organizzazione appropriata o passa a tale organizzazione utilizzando il [selettore organizzazione](https://helpx.adobe.com/it/enterprise/using/admin-console.html). Al termine dell’implementazione automatica, la scheda prodotto relativa a [!DNL AEM Assets Essentials] è visibile in [!DNL Admin Console].
 
-Esegui le seguenti attività di adesione utente utilizzando l&#39;Admin Console:
+Esegui in Admin Console le seguenti attività per assegnare agli utenti i diritti necessari:
 
-* [Creare un amministratore dell’applicazione Assets Essentials](#create-assets-essentials-administrator)
+* [Creare un amministratore dell’applicazione per Assets Essentials](#create-assets-essentials-administrator)
 
 * [Aggiungere gruppi di utenti](#add-user-groups)
 
@@ -35,9 +35,9 @@ Esegui le seguenti attività di adesione utente utilizzando l&#39;Admin Console:
 
 ![Implementazione di Assets Essentials](assets/admin-console-cards.png)
 
-### Creare un amministratore dell’applicazione Assets Essentials {#create-assets-essentials-administrator}
+### Creare un amministratore dell’applicazione per Assets Essentials {#create-assets-essentials-administrator}
 
-Un amministratore di Admin Console deve aggiungere un amministratore di applicazione Assets Essentials per gestire attività quali la creazione di una struttura di cartelle, il caricamento di risorse, la configurazione di autorizzazioni, la configurazione di moduli di metadati e la creazione di raccolte pubbliche. Per informazioni su come assegnare un utente o un gruppo di utenti a un profilo amministratore di un’applicazione Assets Essentials, consulta [aggiungere utenti ai profili di prodotto](#add-users-to-product-profiles).
+Un amministratore di Admin Console deve aggiungere un amministratore dell’applicazione Assets Essentials che gestirà attività quali la creazione di una struttura di cartelle, il caricamento di risorse, la configurazione delle autorizzazioni, la configurazione di moduli di metadati e la creazione di raccolte pubbliche. Per informazioni su come assegnare un utente o un gruppo di utenti a un profilo amministratore per l’applicazione Assets Essentials, consulta [Aggiungere utenti ai profili di prodotto](#add-users-to-product-profiles).
 
 ### Aggiungere gruppi di utenti {#add-user-groups}
 
@@ -49,11 +49,11 @@ Per informazioni su come gestire i gruppi di utenti, consulta `Create user group
 >
 >Se Admin Console è configurata per sfruttare un sistema esterno per la gestione delle assegnazioni di utenti/gruppi, ad esempio i connettori di Azure o Google, lo strumento di sincronizzazione degli utenti o l’API REST di User Management, i gruppi e le assegnazioni utente vengono configurate automaticamente. Per ulteriori informazioni, consulta [Utenti Adobe Admin Console](https://helpx.adobe.com/it/enterprise/using/users.html).
 
-Per informazioni su come gestire l’aggiunta di utenti ai gruppi di utenti, consulta `Add users to groups` disponibile in [Gestione di gruppi di utenti](https://helpx.adobe.com/it/enterprise/using/user-groups.html#add-users-to-groups).
+Per informazioni su come gestire l’aggiunta di utenti ai gruppi di utenti, consulta `Add users to groups` in [Gestire gruppi di utenti](https://helpx.adobe.com/it/enterprise/using/user-groups.html#add-users-to-groups).
 
 ### Aggiungere gruppi di utenti ai profili di prodotto {#add-users-to-product-profiles}
 
-Aggiungi i gruppi di utenti ai profili di prodotto in modo che abbiano accesso all’applicazione Assets Essentials.
+Aggiungi gruppi di utenti ai profili di prodotto affinché possano accedere all’applicazione Assets Essentials.
 
 Per aggiungere gruppi di utenti ai profili di prodotto:
 
@@ -64,7 +64,7 @@ Per aggiungere gruppi di utenti ai profili di prodotto:
 
    ![Profilo amministratore di Admin Console](assets/assets-essentials-instance.png)
 
-   [!DNL Assets Essentials] dispone di tre profili prodotto che rappresentano il punto di accesso per amministratori, utenti standard e consumer.
+   [!DNL Assets Essentials] dispone di tre profili prodotto che rappresentano il livello di accesso per amministratori, utenti standard e consumer.
 
    * **[!DNL Assets Essentials] - amministratori**: dispongono di accesso amministrativo all’applicazione. Oltre a tutte le capacità degli utenti finali, gli amministratori dell’applicazione di questo gruppo possono gestire le autorizzazioni per qualsiasi cartella e gruppo o utente nell’intero archivio dell’applicazione.
 
@@ -74,7 +74,7 @@ Per aggiungere gruppi di utenti ai profili di prodotto:
 
    ![Profilo amministratore di Admin Console](assets/admin-console-admin-profile.png)
 
-1. Per aggiungere un gruppo di utenti al prodotto, fai clic su uno dei tre profili di prodotto Assets Essentials, seleziona **[!UICONTROL Aggiungi utente]**, fornisci i dettagli del gruppo di utenti e fai clic su **[!UICONTROL Salva]**.
+1. Per aggiungere un gruppo di utenti al prodotto, fai clic su uno dei tre profili di prodotto di Assets Essentials, seleziona **[!UICONTROL Aggiungi utente]**, fornisci i dettagli dell’utente e fa clic su **[!UICONTROL Salva]**.
 
    ![Aggiungi profilo amministratore utenti](assets/add-users-admin-profile.png)
 
@@ -86,7 +86,7 @@ Per aggiungere gruppi di utenti ai profili di prodotto:
 
 ## Accedere all’applicazione Assets Essentials {#access-assets-essentials-application}
 
-Dopo aver eseguito le adesioni utente in Admin Console, puoi accedere all’applicazione Assets Essentials per eseguire le seguenti attività:
+Dopo aver assegnato agli utenti i diritti necessari in Admin Console, puoi accedere all’applicazione Assets Essentials per eseguire le seguenti attività:
 
 * [Creare una struttura di cartelle](#create-folder-structure)
 
@@ -96,7 +96,7 @@ Dopo aver eseguito le adesioni utente in Admin Console, puoi accedere all’appl
 
 * [Configurare i moduli di metadati](#metadata-forms)
 
-* [Crea raccolte pubbliche](#create-public-collections)
+* [Creare raccolte pubbliche](#create-public-collections)
 
 ### Creare una struttura di cartelle {#create-folder-structure}
 
@@ -106,7 +106,7 @@ Per creare una struttura di cartelle nell’archivio Assets Essentials, puoi uti
 
 * Fai clic sull’opzione **[!UICONTROL Aggiungi risorse]** disponibile nella barra degli strumenti per [caricare una struttura di cartelle disponibile nel computer locale](add-delete.md).
 
-Crea una struttura di cartelle che sia adatta agli obiettivi aziendali dell’organizzazione. Se carichi nell’archivio Assets Essentials una struttura di cartelle già esistente, sarà necessario sottoporla a una verifica. Per ulteriori informazioni, consulta [Best practice per la struttura delle cartelle per una gestione efficace delle autorizzazioni](permission-management-best-practices.md##folder-structure-assets-essentials).
+Crea una struttura di cartelle che sia adatta agli obiettivi aziendali dell’organizzazione. Se carichi nell’archivio Assets Essentials una struttura di cartelle già esistente, sarà necessario sottoporla a una verifica. Per ulteriori informazioni, consulta [Best practice per una gestione efficace delle autorizzazioni](permission-management-best-practices.md##folder-structure-assets-essentials).
 
 Sono disponibili vari tipi di strutture di cartelle che puoi utilizzare nella tua organizzazione. Di seguito sono riportati alcuni esempi di tipiche strutture di cartelle:
 
@@ -118,7 +118,7 @@ Sono disponibili vari tipi di strutture di cartelle che puoi utilizzare nella tu
 
 ### Caricare le risorse {#upload-assets}
 
-Per aggiungere nuove risorse con cui lavorare, carica alcune risorse dal file system locale. Puoi trascinare risorse o cartelle sull’interfaccia utente e seguire le istruzioni visualizzate oppure fare clic su **[!UICONTROL Aggiungere risorse]** dalla barra degli strumenti e aggiungi alcuni file alla finestra di dialogo di caricamento. [!DNL Assets Essentials] offre una potente funzionalità di ricerca full-text ma puoi anche utilizzare le cartelle per organizzare meglio le risorse. Per ulteriori informazioni, consulta [Caricare le risorse](add-delete.md).
+Per aggiungere nuove risorse con cui lavorare, carica alcune risorse dal file system locale. Trascina risorse o cartelle nell’interfaccia utente e seguire le istruzioni visualizzate; oppure, fai clic su **[!UICONTROL Aggiungi risorse]** nella barra degli strumenti e aggiungi alcuni file alla finestra di dialogo di caricamento. [!DNL Assets Essentials] offre una potente funzionalità di ricerca full-text ma puoi anche utilizzare le cartelle per organizzare meglio le risorse. Per ulteriori informazioni, consulta [Caricare le risorse](add-delete.md).
 
 ![Caricare file e cartelle](assets/upload-assets.png)
 
@@ -138,7 +138,7 @@ Puoi configurare i moduli di metadati per diversi tipi di risorse (diversi tipi 
 
 Ad esempio, se è presente un modulo di metadati denominato `PDF` o `pdf`, i documenti PDF caricati contengono i campi di metadati definiti in tale modulo.
 
-Per ulteriori informazioni, consulta [Moduli metadati](metadata.md#metadata-forms).
+Per ulteriori informazioni, consulta [Moduli di metadati](metadata.md#metadata-forms).
 
 >[!VIDEO](https://video.tv.adobe.com/v/341275)
 
@@ -166,7 +166,7 @@ A differenza delle cartelle, una raccolta può includere risorse da posizioni di
 
 >[!MORELIKETHIS]
 >
->* Aiuto di [[!DNL Admin Console] ](https://helpx.adobe.com/enterprise/using/admin-console.html)
+>* Aiuto di [[!DNL Admin Console] ](https://helpx.adobe.com/it/enterprise/using/admin-console.html)
 >* Aiuto di [[!DNL Cloud Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=it)
 >* [Documentazione di Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it)
 >* [Note sulla versione](release-notes.md)
