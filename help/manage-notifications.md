@@ -3,9 +3,9 @@ title: Gestire le notifiche
 description: Monitora le operazioni eseguite sulle risorse o cartelle disponibili nell’archivio utilizzando le notifiche Assets Essentials.
 exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
 source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '614'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -82,7 +82,7 @@ Dopo l’[iscrizione alle categorie di notifica](#subscribe-to-notification-cate
 >[!NOTE]
 >
 >* Per le categorie di notifiche **[!UICONTROL Richieste]** e **[!UICONTROL Assegnato a me]**, non è necessario iscriversi ai contenuti dopo l’iscrizione alle categorie di notifica. Le notifiche vengono inviate automaticamente per le richieste che crei e quando un&#39;attività viene assegnata a te.
->* Assets Essentials invia notifiche solo quando altri utenti eseguono azioni sul contenuto iscritto. Non si ricevono notifiche per le azioni eseguite sul contenuto iscritto.
+>* Assets Essentials invia notifiche solo quando altri utenti eseguono azioni sui contenuti a cui si è iscritti. Non si ricevono notifiche per le azioni eseguite personalmente sui contenuti a cui si è iscritti.
 
 
 Per iscriverti al contenuto, seleziona la cartella, la risorsa o la raccolta che ti interessa e fai clic su **[!UICONTROL Osserva]**.
