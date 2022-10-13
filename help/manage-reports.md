@@ -3,9 +3,9 @@ title: Gestire i rapporti in Assets Essentials
 description: Accedi ai dati nella sezione dei rapporti di Assets Essentials per valutare l’utilizzo di prodotti e funzionalità e ottenere informazioni approfondite sulle metriche di successo chiave.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '755'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ La funzionalità di reporting sulle risorse offre agli amministratori visibilit�
 
 ## Accedere ai rapporti {#access-reports}
 
-Tutti gli utenti assegnati al [Profilo di prodotto Amministratori Assets Essentials](deploy-administer.md) può accedere al dashboard Live Statistics o creare report definiti dall&#39;utente in Assets Essentials.
+Tutti gli utenti assegnati al [profilo di prodotto per amministratori di Assets Essentials](deploy-administer.md) possono accedere alla dashboard delle statistiche live e creare rapporti definiti dagli utenti in Assets Essentials.
 
 ## Visualizzare le statistiche live {#view-live-statistics}
 
@@ -46,7 +46,7 @@ Per creare un rapporto sui download:
 1. Seleziona l’intervallo di date per il rapporto.
    >[!NOTE]
    >
-   > Assets Essentials converte tutti i fusi orari locali in Ora universale coordinata (UTC).
+   > Assets Essentials converte tutti i fusi orari locali nel Tempo coordinato universale (UTC).
 
 1. Nella scheda [!UICONTROL Colonne] seleziona i nomi delle colonne da visualizzare nel rapporto.
 
@@ -76,7 +76,7 @@ La tabella seguente descrive tutte le colonne che è possibile aggiungere al rap
      </tr>
      <tr>
       <td>Dimensione</td>
-      <td>La dimensione della risorsa in byte.</td>
+      <td>Dimensione della risorsa in byte.</td>
      </tr>
      <tr>
       <td>Scaricato da</td>
@@ -203,4 +203,4 @@ Per eliminare un rapporto:
 
 1. Seleziona un rapporto e fai clic su **[!UICONTROL Elimina]**.
 
-1. Fai clic su **[!UICONTROL Elimina]** di nuovo per confermare.
+1. Fai clic di nuovo su **[!UICONTROL Elimina]** per confermare.
