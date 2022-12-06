@@ -2,10 +2,10 @@
 title: Configurare Assets Essentials per Creative Cloud Pro con le soluzioni di gestione del lavoro
 description: Questa esercitazione introduce un percorso di amministratori per consentire l’integrazione dell’applicazione Assets Essentials con le applicazioni desktop Creative Cloud e con le applicazioni Adobe Workfront. Le applicazioni desktop Creative Cloud includono Adobe Photoshop, Adobe Illustrator, Adobe InDesign e Adobe XD.
 exl-id: a5e9e0c3-35ec-41de-9656-f4f0f88946c7
-source-git-commit: a40b608ec72691c10dfbf7dff518a2cfc87d6552
-workflow-type: ht
-source-wordcount: '900'
-ht-degree: 100%
+source-git-commit: 8920080944981fc1a990136af46c9258c5e8627c
+workflow-type: tm+mt
+source-wordcount: '941'
+ht-degree: 92%
 
 ---
 
@@ -39,7 +39,7 @@ Per integrare le applicazioni Creative Cloud e Assets Essentials, gli utenti dis
 
 ![Utenti Creative Cloud](assets/creative-cloud-users.svg)
 
-Come illustrato nel diagramma, gli utenti di Creative Cloud vengono automaticamente resi disponibili nell’Admin Console di Experience Cloud in base a una relazione di affidabilità tra le due console. Puoi quindi aggiungere gli utenti ai profili di prodotto Assets Essentials. Di conseguenza, gli utenti Creative Cloud possono accedere all’applicazione Adobe Asset Link che può interagire con l’archivio Assets Essentials. Per ulteriori informazioni, consulta [Integrare Assets Essentials con le applicazioni Creative Cloud](integrate-assets-essentials-creative-cloud.md).
+Come illustrato nel diagramma, gli utenti di Creative Cloud vengono automaticamente resi disponibili nell’Admin Console di Experience Cloud in base a una relazione di affidabilità tra le due console. Puoi quindi aggiungere gli utenti ai profili di prodotto Assets Essentials. Di conseguenza, gli utenti Creative Cloud possono accedere all’applicazione Adobe Asset Link che può interagire con l’archivio Assets Essentials. Per ulteriori informazioni, consulta [Integrare Assets Essentials con le applicazioni Creative Cloud](integrate-with-creative-cloud.md).
 
 ## Percorsi della documentazione di Experience Manager {#documentation-journeys}
 
@@ -49,7 +49,7 @@ I percorsi di documentazione sono progettati in base ai principi delle best prac
 
 ## Prerequisiti
 
-* [Accesso ad Adobe Admin Console per soluzioni di Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html?lang=it)
+* [Accesso ad Adobe Admin Console per soluzioni di Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html)
 
 * [Accesso a Adobe Admin Console per l’implementazione di Creative Cloud for enterprise](https://helpx.adobe.com/it/enterprise/admin-guide.html)
 
@@ -77,7 +77,9 @@ Dopo aver gestito le adesioni utente in Admin Console, gli amministratori posson
 
 * Impostare moduli di metadati
 
-[![Vedi la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](adminster-aem-assets-essentials.md)
+[![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](deploy-administer.md)
+
+Dopo aver configurato e gestito l’applicazione Assets Essentials, [integra le applicazioni Creative Cloud con l’applicazione Experience Manager Assets Essentials](integrate-with-creative-cloud.md).
 
 ## Integrare le applicazioni Creative Cloud con Experience Manager Assets Essentials {#administer-creative-cloud-applications}
 
@@ -97,7 +99,9 @@ Obiettivi:
 
 * Utilizzare il collegamento Adobe Asset
 
-[![Vedi la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-assets-essentials-creative-cloud.md)
+[![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-with-creative-cloud.md)
+
+Ora che hai integrato le applicazioni Creative Cloud con Assets Essentials, [integra Adobe Workfront con Experience Manager Assets Essentials](integrate-with-workfront.md).
 
 ## Integrare Adobe Workfront con Experience Manager Assets Essentials {#administer-adobe-workfront}
 
@@ -115,4 +119,4 @@ Obiettivi:
 
 * Configurare l’integrazione Experience Manager Assets Essentials
 
-[![Vedi la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-assets-essentials-workfront.md)
+[![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-with-workfront.md)
