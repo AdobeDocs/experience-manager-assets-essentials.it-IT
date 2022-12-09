@@ -2,9 +2,9 @@
 title: Gestire le raccolte
 description: Una raccolta è un insieme di risorse in Experience Manager Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
-workflow-type: ht
-source-wordcount: '769'
+source-git-commit: 368b27c4f1f14ff6209c4e45ff288be192809c0e
+workflow-type: tm+mt
+source-wordcount: '737'
 ht-degree: 100%
 
 ---
@@ -74,8 +74,6 @@ Per aggiungere risorse a una raccolta:
 1. Nella finestra di dialogo [!UICONTROL Raccolte] seleziona le raccolte a cui aggiungere le risorse selezionate.
 
 1. Fai clic su **[!UICONTROL Aggiungi]** per aggiungere la risorsa alle raccolte selezionate.
-
-Per aggiungere risorse a una raccolta, puoi anche fare clic su **[!UICONTROL Raccolte]** nella barra a sinistra, poi clic sulla raccolta a cui aggiungere le risorse, quindi **[!UICONTROL Aggiungi alla raccolta]**, seleziona le risorse e fai clic su **[!UICONTROL Seleziona]**.
 
 ## Rimuovere risorse da una raccolta {#remove-assets-from-collection}
 
