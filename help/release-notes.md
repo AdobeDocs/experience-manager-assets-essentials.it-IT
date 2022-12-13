@@ -5,15 +5,15 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: fbbd982e36f2b0d126c01f71afed8da984320523
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1401'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-L’attuale versione di Assets Essentials viene rilasciata il 17 novembre 2022.
+L’attuale versione di Assets Essentials è stata rilasciata il 17 novembre 2022.
 
 Questa versione offre le seguenti funzionalità:
 
@@ -65,7 +65,7 @@ In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un fee
 
 ### 2022.8.0 {#august-2022}
 
-Rilascio di agosto [!DNL Assets Essentials] rilasciato il 22 agosto 2022.
+L’attuale versione di [!DNL Assets Essentials] è stata rilasciata il 22 agosto 2022.
 
 Questa versione offre le seguenti funzionalità:
 
