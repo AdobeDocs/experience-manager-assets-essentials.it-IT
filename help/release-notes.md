@@ -4,10 +4,10 @@ description: Note sulla versione e problemi noti di [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: fbbd982e36f2b0d126c01f71afed8da984320523
-workflow-type: ht
-source-wordcount: '1401'
-ht-degree: 100%
+source-git-commit: 2a19ab3dd9c3d15916cfb93083a23569005a86b6
+workflow-type: tm+mt
+source-wordcount: '1471'
+ht-degree: 95%
 
 ---
 
@@ -45,6 +45,16 @@ You can easily synchronize the user groups available on the external identity ma
 **Miglioramenti in base al feedback ricevuto dai clienti**
 
 Miglioramenti e correzioni di bug in base al feedback ricevuto dai clienti.
+
+**Adobe Asset Link versione 3.3**
+
+[Adobe Asset Link](https://helpx.adobe.com/it/enterprise/using/adobe-asset-link.html) La versione 3.3 è stata rilasciata il 13 dicembre 2022 con le seguenti caratteristiche:
+
+* Supporto per [Creative Cloud per i team](https://www.adobe.com/creativecloud/business/teams.html) oltre al supporto [Creative Cloud aziendale](https://www.adobe.com/creativecloud/business/enterprise.html) prima.
+
+* Supporto per le applicazioni Adobe InDesign, Photoshop e Illustrator 2023 più recenti.
+
+* Supporto per l’utilizzo degli ambienti plug-in Adobe Asset Link CEP con server proxy.
 
 ## Problemi noti {#known-issues}
 
