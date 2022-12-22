@@ -3,9 +3,9 @@ title: Configurare Assets Essentials per Creative Cloud Pro con le soluzioni di 
 description: Questa esercitazione introduce un percorso di amministratori per consentire l’integrazione dell’applicazione Assets Essentials con le applicazioni desktop Creative Cloud e con le applicazioni Adobe Workfront. Le applicazioni desktop Creative Cloud includono Adobe Photoshop, Adobe Illustrator, Adobe InDesign e Adobe XD.
 exl-id: a5e9e0c3-35ec-41de-9656-f4f0f88946c7
 source-git-commit: 8920080944981fc1a990136af46c9258c5e8627c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '941'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -49,7 +49,7 @@ I percorsi di documentazione sono progettati in base ai principi delle best prac
 
 ## Prerequisiti
 
-* [Accesso ad Adobe Admin Console per soluzioni di Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html)
+* [Accesso ad Adobe Admin Console per soluzioni di Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html?lang=it)
 
 * [Accesso a Adobe Admin Console per l’implementazione di Creative Cloud for enterprise](https://helpx.adobe.com/it/enterprise/admin-guide.html)
 
@@ -59,7 +59,7 @@ I percorsi di documentazione sono progettati in base ai principi delle best prac
 
 Adobe Experience Manager Assets Essentials è una nuova edizione leggera di Adobe Experience Manager Assets. Assets Essentials offre funzioni per la gestione unificata delle risorse e collaborazione con un’interfaccia utente semplificata e coerente. La facilità d’uso consente ai team creativi e di marketing di archiviare, individuare e distribuire risorse digitali.
 
-Adobe Experience Manager Assets Essentials è fornito da Adobe per i suoi clienti. Come parte del provisioning, Assets Essentials viene aggiunto all’organizzazione di un cliente in Adobe Admin Console.
+Adobe Experience Manager Assets Essentials è fornito da Adobe per i suoi clienti. Come parte del provisioning, Assets Essentials viene aggiunto all’organizzazione del cliente in Adobe Admin Console.
 
 Gli amministratori utilizzano l’Admin Console per gestire le adesioni utente al prodotto Assets Essentials:
 
