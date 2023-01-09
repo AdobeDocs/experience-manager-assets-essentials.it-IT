@@ -3,9 +3,9 @@ title: Amministrare e gestire gli utenti
 description: Casi di utilizzo relativi all’amministrazione, tra cui implementazione e gestione degli utenti in [!DNL Assets Essentials].
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: 940f3155a8310ace2768cdfee152c62e99ea2526
+source-git-commit: c7b863aa81337293454199e72f705e53f05a5130
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '1344'
 ht-degree: 92%
 
 ---
@@ -37,7 +37,7 @@ Esegui in Admin Console le seguenti attività per assegnare agli utenti i diritt
 
 ### Creare un amministratore dell’applicazione per Assets Essentials {#create-assets-essentials-administrator}
 
-Un amministratore di Admin Console deve aggiungere il profilo di prodotto dell’amministratore Assets Essentials a un utente e non a un gruppo di utenti. L’amministratore dell’applicazione Assets Essentials può quindi gestire attività quali la creazione di una struttura di cartelle, il caricamento delle risorse, la configurazione delle autorizzazioni, la configurazione di moduli per metadati e la creazione di raccolte pubbliche. Per informazioni su come assegnare un utente a un profilo amministratore di un’applicazione Assets Essentials, consulta [aggiungere utenti ai profili di prodotto](#add-users-to-product-profiles).
+Un amministratore di Admin Console deve aggiungere il profilo di prodotto dell’amministratore Assets Essentials a un utente e non a un gruppo di utenti. L’amministratore dell’applicazione Assets Essentials può quindi gestire attività quali la creazione di una struttura di cartelle, il caricamento delle risorse, la configurazione delle autorizzazioni, la configurazione di moduli per metadati e la creazione di raccolte pubbliche. Per informazioni su come assegnare un profilo amministratore dell’applicazione Assets Essentials a un utente, consulta [aggiungere profili di prodotto a gruppi di utenti](#add-product-profiles-to-user-groups).
 
 ### Aggiungere gruppi di utenti {#add-user-groups}
 
