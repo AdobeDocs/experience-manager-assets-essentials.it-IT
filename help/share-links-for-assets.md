@@ -2,10 +2,10 @@
 title: Come si condividono i collegamenti alle risorse?
 description: Generare un collegamento e condividere le risorse con altri utenti che non hanno accesso all’applicazione [!DNL Assets Essentials] .
 exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
-source-wordcount: '420'
-ht-degree: 100%
+source-git-commit: 79039f96a4aa44bb81923ec909766969f81e1a3f
+workflow-type: tm+mt
+source-wordcount: '407'
+ht-degree: 98%
 
 ---
 
@@ -21,9 +21,7 @@ Per generare un collegamento per una risorsa o una cartella contenente risorse:
 
 1. Se desideri modificarlo, fai clic sull’icona Calendario per definire una data di scadenza del collegamento utilizzando il campo **[!UICONTROL Data di scadenza]**. Puoi anche specificare una data direttamente nel formato `yyyy-mm-dd`. Per impostazione predefinita, la data di scadenza di un collegamento è impostata su 2 settimane dalla data di condivisione.
 
-1. Fai clic su **[!UICONTROL Genera collegamento]**.
-
-1. Fai clic su **[!UICONTROL Copia collegamento]** per copiarlo. Puoi anche copiare il collegamento dal campo **[!UICONTROL Condividi collegamento]**.
+1. Copia il collegamento dal **[!UICONTROL Condividi collegamento]** campo .
 
    ![Opzione per ritagliare e raddrizzare](assets/share-asset-link.png)
 
@@ -49,6 +47,6 @@ Per scaricare tutte le risorse contemporaneamente, passa alla **[!UICONTROL Vist
 
 * Fornisci feedback sui prodotti utilizzando l’opzione [!UICONTROL Feedback] disponibile nell’interfaccia utente di Assets Essentials
 
-* Fornisci feedback sulla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale a destra
+* Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
 
 * Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&amp;lang=it#support)

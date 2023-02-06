@@ -4,16 +4,62 @@ description: Note sulla versione e problemi noti di [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 2a19ab3dd9c3d15916cfb93083a23569005a86b6
-workflow-type: ht
-source-wordcount: '1471'
-ht-degree: 100%
+source-git-commit: a085ac1c5bdd4ff6d83b8d80b334f55b3995fc96
+workflow-type: tm+mt
+source-wordcount: '1690'
+ht-degree: 87%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-L’attuale versione di Assets Essentials è stata rilasciata il 17 novembre 2022.
+L’attuale versione di Assets Essentials è rilasciata il 27 gennaio 2023.
+
+Questa versione offre le seguenti funzionalità:
+
+**Area di lavoro con widget configurabili**
+
+Assets fornisce ora un’area di lavoro personalizzata che funge da soluzione one-stop per fornire un accesso conveniente alle aree chiave dell’interfaccia utente di Assets e alle informazioni più rilevanti per te. L’accesso più rapido a queste opzioni aumenta la velocità dei contenuti e l’efficienza dei progetti.
+
+L’area di lavoro include widget per nuove funzioni, informazioni approfondite, attività e contenuti. Puoi configurare la modalità di visualizzazione di questi widget nell’area di lavoro in base alle tue preferenze.
+
+**Interfaccia utente dedicata per la gestione delle attività**
+
+Assets Essentials ora consente di gestire l’elenco delle attività attualmente assegnate all’utente, create dall’utente e già completate dall’utente in una posizione centralizzata tramite la nuova **[!UICONTROL Attività]** nel riquadro di navigazione a sinistra. È inoltre possibile adottare le azioni appropriate selezionando un&#39;attività per approvarla o rifiutarla o aprendo i dettagli dell&#39;attività per approvarla, rifiutarla, modificarla o eliminarla.
+
+![Attività in Workspace](assets/tasks-workspace.png)
+
+**Collegamenti generati automaticamente per condividere le risorse**
+
+Assets Essentials ora genera un collegamento automaticamente non appena scegli di condividere una risorsa tramite l’interfaccia utente di Assets Essentials. Il collegamento generato rimane valido anche se modifichi la data di scadenza.
+
+![Attività in Workspace](assets/share-asset.png)
+
+
+**Miglioramenti in base al feedback ricevuto dai clienti**
+
+Miglioramenti e correzioni di bug in base al feedback ricevuto dai clienti.
+
+## Problemi noti {#known-issues}
+
+L’elenco dei problemi noti di [!DNL Assets Essentials] viene regolarmente rivisto e aggiornato:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* Le raccolte private sono disponibili per l’utente che le crea e gli utenti con privilegi di amministratore. In qualità di amministratore, non puoi delegare ad altri utenti le autorizzazioni di accesso alla raccolta.
+
+In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un feedback](#provide-feedback) al team.
+
+## Versioni precedenti {#past-releases}
+
+### 2022.11.0 {#november-2022}
+
+Il rilascio di novembre di [!DNL Assets Essentials] rilasciato il 17 novembre 2022.
 
 Questa versione offre le seguenti funzionalità:
 
@@ -55,23 +101,6 @@ La versione 3.3 di [Adobe Asset Link](https://helpx.adobe.com/it/enterprise/usin
 * Supporto per le applicazioni Adobe InDesign, Photoshop e Illustrator 2023 più recenti.
 
 * Supporto per l’utilizzo dei plug-in di Adobe Asset Link CEP in ambienti con server proxy.
-
-## Problemi noti {#known-issues}
-
-L’elenco dei problemi noti di [!DNL Assets Essentials] viene regolarmente rivisto e aggiornato:
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* Le raccolte private sono disponibili per l’utente che le crea e gli utenti con privilegi di amministratore. In qualità di amministratore, non puoi delegare ad altri utenti le autorizzazioni di accesso alla raccolta.
-
-In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un feedback](#provide-feedback) al team.
-
-## Versioni precedenti {#past-releases}
 
 ### 2022.8.0 {#august-2022}
 
