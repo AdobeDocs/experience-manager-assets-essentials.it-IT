@@ -3,9 +3,9 @@ title: Come si condividono i collegamenti alle risorse?
 description: Generare un collegamento e condividere le risorse con altri utenti che non hanno accesso all’applicazione [!DNL Assets Essentials] .
 exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
 source-git-commit: 79039f96a4aa44bb81923ec909766969f81e1a3f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ Per generare un collegamento per una risorsa o una cartella contenente risorse:
 
 1. Se desideri modificarlo, fai clic sull’icona Calendario per definire una data di scadenza del collegamento utilizzando il campo **[!UICONTROL Data di scadenza]**. Puoi anche specificare una data direttamente nel formato `yyyy-mm-dd`. Per impostazione predefinita, la data di scadenza di un collegamento è impostata su 2 settimane dalla data di condivisione.
 
-1. Copia il collegamento dal **[!UICONTROL Condividi collegamento]** campo .
+1. Copia il collegamento dal campo **[!UICONTROL Condividi collegamento]**.
 
    ![Opzione per ritagliare e raddrizzare](assets/share-asset-link.png)
 
