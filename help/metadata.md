@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: fecbd1b05cc91148f41c576f4569f1799df6095e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1252'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -61,12 +61,12 @@ Dalla sezione [!UICONTROL Tag avanzati] puoi anche rimuovere i tag aggiunti auto
 
 >[!CONTEXTUALHELP]
 >id="assets_metadata_forms"
->title="Forms metadati"
->abstract="[!DNL Experience Manager Assets] fornisce per impostazione predefinita molti campi di metadati standard. Per aggiungere metadati specifici alle aziende, le organizzazioni necessitano di metadati aggiuntivi e richiedono campi di metadati aggiuntivi. I moduli di metadati consentono alle aziende di aggiungere campi di metadati personalizzati alla pagina Dettagli di una risorsa. I metadati specifici per l’azienda migliorano la governance e l’individuazione delle risorse."
+>title="Moduli di metadati"
+>abstract="[!DNL Experience Manager Assets] fornisce molti campi di metadati standard per impostazione predefinita. Le organizzazioni hanno l’esigenza di aggiungere altri metadati e ulteriori campi di metadati, specifici per l’azienda. I moduli di metadati consentono alle aziende di aggiungere campi di metadati personalizzati alla pagina Dettagli di una risorsa. I metadati specifici per l’azienda migliorano la governance e l’individuazione delle risorse."
 
 Per impostazione predefinita, Assets Essentials fornisce molti campi di metadati standard. Spesso le organizzazioni hanno l’esigenza di aggiungere altri metadati, specifici per l’azienda. I moduli di metadati consentono alle aziende di aggiungere campi di metadati personalizzati alla pagina [!UICONTROL Dettagli] di una risorsa. I metadati specifici per l’azienda migliorano la governance e l’individuazione delle risorse. Puoi creare nuovi moduli o riutilizzare quelli esistenti.
 
-Puoi configurare i moduli di metadati per diversi tipi di risorse (diversi tipi MIME). Utilizza un modulo con lo stesso nome del tipo MIME del file. Assets Essentials associa automaticamente il tipo MIME delle risorse caricate al nome del modulo e aggiorna i metadati per le risorse caricate in base ai campi del modulo.
+Puoi configurare i moduli di metadati per diversi tipi di risorse (diversi tipi MIME). Utilizza un modulo con lo stesso nome del tipo MIME del file. Assets Essentials confronta automaticamente il tipo MIME delle risorse caricate con il nome del modulo e aggiorna i metadati delle risorse caricate in base ai campi del modulo.
 
 Ad esempio, se è presente un modulo di metadati denominato `PDF` o `pdf`, i documenti PDF caricati contengono i campi di metadati definiti in tale modulo.
 
