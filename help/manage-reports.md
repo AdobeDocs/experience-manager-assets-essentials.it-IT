@@ -3,9 +3,9 @@ title: Gestire i rapporti in Assets Essentials
 description: Accedi ai dati nella sezione dei rapporti di Assets Essentials per valutare l’utilizzo di prodotti e funzionalità e ottenere informazioni approfondite sulle metriche di successo chiave.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: ec9cdf0d206aa59d67b8ac96504b590a2db19663
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '731'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -15,15 +15,15 @@ La funzionalità di reporting sulle risorse offre agli amministratori visibilit�
 
 ## Accedere ai rapporti {#access-reports}
 
-Tutti gli utenti assegnati al [Profilo di prodotto Amministratori Assets Essentials](deploy-administer.md) può accedere al dashboard Approfondimenti o creare rapporti definiti dall’utente in Assets Essentials.
+Tutti gli utenti assegnati al [profilo di prodotto per amministratori di Assets Essentials](deploy-administer.md) possono accedere alla dashboard Insight e creare rapporti definiti dagli utenti in Assets Essentials.
 
-## Visualizzare informazioni {#view-live-statistics}
+## Visualizzare gli approfondimenti {#view-live-statistics}
 
-Assets Essentials consente di visualizzare i dati in tempo reale per l’ambiente Assets Essentials con il dashboard Insights. Puoi visualizzare le metriche degli eventi in tempo reale negli ultimi 30 giorni o negli ultimi 12 mesi.
+Assets Essentials consente di visualizzare in tempo reale i dati del tuo ambiente Assets Essentials, con la dashboard Insight. Puoi visualizzare le metriche degli eventi in tempo reale negli ultimi 30 giorni o negli ultimi 12 mesi.
 
 ![Opzioni nella barra degli strumenti quando si seleziona una risorsa](assets/assets-essentials-live-statistics.png)
 
-Fai clic su **[!UICONTROL Informazioni approfondite]** disponibili nel riquadro di navigazione a sinistra per visualizzare i seguenti grafici generati automaticamente:
+Fai clic su **[!UICONTROL Approfondimenti]** disponibile nel riquadro di navigazione a sinistra per visualizzare i seguenti grafici generati automaticamente:
 
 * **Download**: numero di risorse scaricate dall’ambiente Assets Essentials negli ultimi 30 giorni o 12 mesi rappresentato da un grafico a linee.
 
