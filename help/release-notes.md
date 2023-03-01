@@ -5,35 +5,35 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: a085ac1c5bdd4ff6d83b8d80b334f55b3995fc96
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1690'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-L’attuale versione di Assets Essentials è rilasciata il 27 gennaio 2023.
+L’attuale versione di Assets Essentials è stata rilasciata il 27 gennaio 2023.
 
 Questa versione offre le seguenti funzionalità:
 
-**Area di lavoro con widget configurabili**
+**Area di lavoro personale con widget configurabili**
 
-Assets fornisce ora un’area di lavoro personalizzata che funge da soluzione one-stop per fornire un accesso conveniente alle aree chiave dell’interfaccia utente di Assets e alle informazioni più rilevanti per te. L’accesso più rapido a queste opzioni aumenta la velocità dei contenuti e l’efficienza dei progetti.
+Assets fornisce ora un’area di lavoro personalizzata che funge da soluzione unica per fornire un accesso conveniente alle aree chiave dell’interfaccia utente di Assets e alle informazioni più rilevanti per te. L’accesso più rapido a queste opzioni aumenta la velocità dei contenuti e l’efficienza dei progetti.
 
-L’area di lavoro include widget per nuove funzioni, informazioni approfondite, attività e contenuti. Puoi configurare la modalità di visualizzazione di questi widget nell’area di lavoro in base alle tue preferenze.
+L’area di lavoro personale include widget per nuove funzioni, approfondimenti, attività e contenuti. Puoi configurare la modalità di visualizzazione di questi widget nell’area di lavoro in base alle tue preferenze.
 
 **Interfaccia utente dedicata per la gestione delle attività**
 
-Assets Essentials ora consente di gestire l’elenco delle attività attualmente assegnate all’utente, create dall’utente e già completate dall’utente in una posizione centralizzata tramite la nuova **[!UICONTROL Attività]** nel riquadro di navigazione a sinistra. È inoltre possibile adottare le azioni appropriate selezionando un&#39;attività per approvarla o rifiutarla o aprendo i dettagli dell&#39;attività per approvarla, rifiutarla, modificarla o eliminarla.
+Assets Essentials ora consente di gestire l’elenco delle attività attualmente assegnate a te, create e già completate da te in una posizione centralizzata tramite la nuova opzione **[!UICONTROL Attività]** disponibile nel riquadro di navigazione a sinistra. È inoltre possibile adottare le azioni appropriate selezionando un’attività per approvarla o rifiutarla o aprendo i dettagli dell’attività per approvarla, rifiutarla, modificarla o eliminarla.
 
-![Attività in Workspace](assets/tasks-workspace.png)
+![Attività nell’area di lavoro](assets/tasks-workspace.png)
 
 **Collegamenti generati automaticamente per condividere le risorse**
 
-Assets Essentials ora genera un collegamento automaticamente non appena scegli di condividere una risorsa tramite l’interfaccia utente di Assets Essentials. Il collegamento generato rimane valido anche se modifichi la data di scadenza.
+Assets Essentials ora genera un collegamento automaticamente non appena scegli di condividere una risorsa usando l’interfaccia utente di Assets Essentials. Il collegamento generato rimane valido anche se modifichi la data di scadenza.
 
-![Attività in Workspace](assets/share-asset.png)
+![Attività nell’area di lavoro](assets/share-asset.png)
 
 
 **Miglioramenti in base al feedback ricevuto dai clienti**
@@ -59,7 +59,7 @@ In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un fee
 
 ### 2022.11.0 {#november-2022}
 
-Il rilascio di novembre di [!DNL Assets Essentials] rilasciato il 17 novembre 2022.
+L’attuale versione di [!DNL Assets Essentials] è stata rilasciata il 17 novembre 2022.
 
 Questa versione offre le seguenti funzionalità:
 
