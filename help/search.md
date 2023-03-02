@@ -3,10 +3,10 @@ title: Cercare e individuare le risorse in [!DNL Assets Essentials]
 description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 18929733eb7ef1c862637cc5d03d44ac3c62875b
-workflow-type: ht
-source-wordcount: '869'
-ht-degree: 100%
+source-git-commit: 126d0c9921d109a4ac487203aa6bbcdcaf16b003
+workflow-type: tm+mt
+source-wordcount: '871'
+ht-degree: 96%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 >[!CONTEXTUALHELP]
 >id="assets_search"
 >title="Cerca risorse"
->abstract="Cerca le risorse specificando i criteri di ricerca o filtrando le risorse in base al loro stato, tipo di file, tipo MIME, dimensione, creazione, modifica e date di scadenza. Oltre ai filtri standard, puoi anche applicare filtri personalizzati. Puoi salvare i risultati filtrati come Ricerca salvata o Raccolta avanzata."
+>abstract="Cerca le risorse specificando una parola chiave nella barra di ricerca o filtrando le risorse in base allo stato, al tipo di file, al tipo MIME, alla dimensione, alla creazione, alla modifica e alle date di scadenza. Oltre ai filtri standard, puoi anche applicare filtri personalizzati. Puoi salvare i risultati filtrati come Ricerca salvata o Raccolta avanzata."
 >additional-url="https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=it#manage-smart-collection" text="Creare Raccolte avanzate"
 
 [!DNL Assets Essentials] fornisce una funzione di ricerca efficace e attiva per impostazione predefinita. Si tratta di una ricerca full-text completa. La potente funzionalità di ricerca consente di trovare rapidamente la risorsa appropriata e velocizza le attività relative ai contenuti. [!DNL Assets Essentials] consente di effettuare ricerche full-text, anche nei metadati, quali tag avanzati, titolo, data di creazione e copyright.
