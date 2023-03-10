@@ -2,14 +2,19 @@
 title: Gestire i rapporti in Assets Essentials
 description: Accedi ai dati nella sezione dei rapporti di Assets Essentials per valutare l’utilizzo di prodotti e funzionalità e ottenere informazioni approfondite sulle metriche di successo chiave.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: ec9cdf0d206aa59d67b8ac96504b590a2db19663
-workflow-type: ht
-source-wordcount: '731'
-ht-degree: 100%
+source-git-commit: b222e03a8eca0837ca647740baed7d77afe96ed3
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Gestire i rapporti {#manage-reports}
+
+>[!CONTEXTUALHELP]
+>id="assets_reports"
+>title="Rapporti"
+>abstract="La funzionalità di reporting sulle risorse offre agli amministratori visibilità sulle attività dell’ambiente Adobe Experience Manager Assets Essentials. Questi dati forniscono informazioni utili su come gli utenti interagiscono con i contenuti e il prodotto. Tutti gli utenti assegnati al profilo di prodotto Amministratori possono accedere alla dashboard Approfondimenti o creare rapporti definiti dall’utente."
 
 La funzionalità di reporting sulle risorse offre agli amministratori visibilità sulle attività dell’ambiente Adobe Experience Manager Assets Essentials. Questi dati forniscono informazioni utili su come gli utenti interagiscono con i contenuti e il prodotto.
 
