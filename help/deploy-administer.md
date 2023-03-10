@@ -3,9 +3,9 @@ title: Amministrare e gestire gli utenti
 description: Casi di utilizzo relativi all’amministrazione, tra cui implementazione e gestione degli utenti in [!DNL Assets Essentials].
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: c7b863aa81337293454199e72f705e53f05a5130
-workflow-type: ht
-source-wordcount: '1344'
+source-git-commit: 07537aea39140f649d17353430a505c36e971aea
+workflow-type: tm+mt
+source-wordcount: '1329'
 ht-degree: 100%
 
 ---
@@ -154,7 +154,7 @@ A differenza delle cartelle, una raccolta può includere risorse da posizioni di
 
 ## Passaggi successivi {#next-steps}
 
-* [Guarda un video per distribuire Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=it)
+<!-- THIS URL IS A 404 ERROR; NO REDIRECT WAS PUT IN PLACE * [Watch a video to deploy Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=en) -->
 
 * Fornisci feedback sui prodotti utilizzando l’opzione [!UICONTROL Feedback] disponibile nell’interfaccia utente di Assets Essentials
 
