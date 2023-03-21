@@ -1,10 +1,10 @@
 ---
 title: Area di lavoro personale per Assets
 description: L’area di lavoro personale è una pagina che offre moduli visivi personalizzabili per un accesso comodo alle aree chiave dell’interfaccia utente di Assets e alle informazioni più rilevanti per l’utente.
-source-git-commit: a085ac1c5bdd4ff6d83b8d80b334f55b3995fc96
-workflow-type: ht
-source-wordcount: '477'
-ht-degree: 100%
+source-git-commit: 184e80c88fb8e13ca24049d95146b5305b2008dc
+workflow-type: tm+mt
+source-wordcount: '458'
+ht-degree: 96%
 
 ---
 
@@ -12,17 +12,21 @@ ht-degree: 100%
 
 Assets ora include un’area di lavoro personalizzabile che fornisce widget per l’accesso semplificato alle aree chiave dell’interfaccia utente di Assets e alle informazioni più pertinenti per l’utente. Questa pagina funge da soluzione unica per fornire una panoramica degli elementi di lavoro e consentire un accesso rapido ai flussi di lavoro chiave. L’accesso più comodo a queste opzioni aumenta l’efficienza e la velocità dei contenuti.
 
-Per accedere all’area di lavoro personale, fai clic su **[!UICONTROL Area di lavoro personale]** dagli elementi disponibili nel riquadro di navigazione a sinistra. L’area di lavoro personale include diversi widget che mostrano nuove funzioni in arrivo, widget di approfondimenti, attività e contenuto. Puoi configurare la modalità di visualizzazione di questi widget nell’area di lavoro in base alle tue preferenze.
+Per accedere all’area di lavoro personale, fai clic su **[!UICONTROL Area di lavoro personale]** dagli elementi disponibili nel riquadro di navigazione a sinistra. La mia area di lavoro include una varietà di widget che mostrano informazioni, attività e widget di contenuto. Puoi configurare la modalità di visualizzazione di questi widget nell’area di lavoro in base alle tue preferenze.
 
 >[!NOTE]
 >
 >Il widget degli approfondimenti è visibile solo agli amministratori.
 
-**Nuove funzionalità disponibili a breve**
+<!--
 
-Evidenzia le prossime funzioni di Assets.
+**New features coming soon**
 
-![Nuove funzioni disponibili a breve in Workspace](assets/new-features.png)
+Highlights upcoming features for Assets.
+
+![New features coming soon in Workspace](assets/new-features.png)
+
+-->
 
 **Approfondimenti**
 

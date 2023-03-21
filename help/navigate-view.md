@@ -1,12 +1,12 @@
 ---
-title: '"Interfaccia utente di [!DNL Assets Essentials]"'
+title: "Interfaccia utente di [!DNL Assets Essentials]"
 description: Comprendere l’interfaccia utente e la navigazione in [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
-source-wordcount: '586'
-ht-degree: 100%
+source-git-commit: b627c20ee9be9be79bb0325b55543ae9e2935b9a
+workflow-type: tm+mt
+source-wordcount: '616'
+ht-degree: 95%
 
 ---
 
@@ -44,7 +44,7 @@ Quando accedi a [!DNL Assets Essentials], viene visualizzata la seguente interfa
 
 * **Risorse**: elenco di tutte le cartelle a cui ai accesso, con struttura ad albero.
 * **Visualizzate di recente**: elenco delle risorse visualizzate in anteprima di recente. [!DNL Assets Essentials] mostra solo le risorse visualizzate in anteprima. Non visualizza le risorse che scorri quando esplori i file o le cartelle dell’archivio.
-* **Cestino**:
+* **Cestino**: Elencare le risorse eliminate dalla radice **[!UICONTROL Risorse]** cartella. Puoi selezionare una risorsa nella cartella Cestino per ripristinarla nella posizione originale o eliminarla definitivamente.
 
 <!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
 * **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
