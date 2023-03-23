@@ -6,7 +6,7 @@ exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: f63cbffbbc6acc37a1a08f28cbdc4cee7f66d883
 workflow-type: tm+mt
 source-wordcount: '897'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -127,7 +127,7 @@ La funzionalità di ricerca di [!DNL Assets Essentials] è semplice. Nella casel
 
 Puoi anche filtrare i risultati della ricerca in base a criteri specifici, secondo i metadati e il tipo di risorse. [!DNL Assets Essentials] consente di salvare i parametri dei filtri utilizzati di frequente, per migliorare l’esperienza di ricerca. Puoi quindi selezionare una ricerca salvata per eseguirla di nuovo applicandone il filtro con un solo clic.
 
-Per creare una ricerca salvata, cerca una risorsa, applica uno o più filtri e fai clic su **[!UICONTROL Salva con nome]** > **[!UICONTROL Ricerca salvata]** in [!UICONTROL Filtri] pannello. Puoi anche fare clic su **[!UICONTROL Salva con nome]** e seleziona **[!UICONTROL Raccolta avanzata]** per salvare i risultati come Raccolta avanzata. Vedi [Creare una raccolta avanzata](manage-collections.md#create-a-smart-collection) per ulteriori dettagli.
+Per salvare una ricerca, cerca le risorse, applica uno o più filtri e fai clic su **[!UICONTROL Salva come]** > **[!UICONTROL Ricerca salvata]** nel pannello [!UICONTROL Filtri.] Puoi anche fare clic su **[!UICONTROL Salva come]** e selezionare **[!UICONTROL Raccolta avanzata]** per salvare i risultati come Raccolta avanzata. Per ulteriori dettagli, consulta [Creare una raccolta avanzata](manage-collections.md#create-a-smart-collection).
 
 ![Crea raccolta avanzata](assets/create-smart-collection.png)
 

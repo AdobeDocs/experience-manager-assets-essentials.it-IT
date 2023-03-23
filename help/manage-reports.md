@@ -14,7 +14,7 @@ ht-degree: 100%
 >[!CONTEXTUALHELP]
 >id="assets_reports"
 >title="Rapporti"
->abstract="La funzionalità di reporting sulle risorse offre agli amministratori visibilità sulle attività dell’ambiente Adobe Experience Manager Assets Essentials. Questi dati forniscono informazioni utili su come gli utenti interagiscono con i contenuti e il prodotto. Tutti gli utenti assegnati al profilo di prodotto Amministratori possono accedere alla dashboard Insights o creare rapporti definiti dall’utente."
+>abstract="La funzionalità di reporting sulle risorse offre agli amministratori visibilità sulle attività dell’ambiente Adobe Experience Manager Assets Essentials. Questi dati forniscono informazioni utili su come gli utenti interagiscono con i contenuti e il prodotto. Tutti gli utenti ai quali viene assegnato il profilo di prodotto per amministratori possono accedere alla dashboard Insight e creare rapporti definiti dagli utenti."
 
 La funzionalità di reporting sulle risorse offre agli amministratori visibilità sulle attività dell’ambiente Adobe Experience Manager Assets Essentials. Questi dati forniscono informazioni utili su come gli utenti interagiscono con i contenuti e il prodotto.
 
