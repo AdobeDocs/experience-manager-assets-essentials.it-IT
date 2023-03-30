@@ -4,18 +4,22 @@ description: Note sulla versione e problemi noti di [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: f06e3a5db2c91e6778ea196fdc69293d1b2732e5
-workflow-type: ht
-source-wordcount: '1695'
-ht-degree: 100%
+source-git-commit: 472bf55c17d3915b657d3309e2e0a6e54bf49172
+workflow-type: tm+mt
+source-wordcount: '1733'
+ht-degree: 96%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-L’attuale versione di Assets Essentials è stata rilasciata il 27 gennaio 2023.
+L’attuale versione di Assets Essentials è rilasciata il 30 marzo 2023.
 
-L’elenco delle funzioni nella versione include:
+L’elenco delle funzioni aggiunte di recente include:
+
+**Modifica in serie dei metadati delle risorse**
+
+Gli aggiornamenti dei metadati in blocco consentono di eseguire aggiornamenti di metadati comuni su più risorse contemporaneamente. Non è necessario aggiornare i record singolarmente e può applicare rapidamente le proprietà alle risorse accessibili tramite ricerca, cartelle e raccolte.
 
 **Area di lavoro personale con widget configurabili**
 
