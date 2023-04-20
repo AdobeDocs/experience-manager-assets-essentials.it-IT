@@ -4,10 +4,10 @@ description: Formati di file supportati per i vari casi d’uso di [!DNL Assets 
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
-source-git-commit: e8791aab7c99e020921bdd65ed3d579bb11ffd6b
-workflow-type: ht
-source-wordcount: '363'
-ht-degree: 100%
+source-git-commit: 93c6c273e2ad82237b29f93bc42d090f219e6c79
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -62,7 +62,8 @@ I vari tipi di file sono supportati per diversi casi d’uso e funzioni, come ri
 | Video | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
 | CC Libraries | − | − | − | − | − | ✓ | ✓ |
 | PDF | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
-| PSD, AI e INDD | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| PSD | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| AI e INDD | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
 | Altri file binari | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
 
 
