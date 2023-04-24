@@ -4,8 +4,8 @@ description: Accedi ai dati nella sezione dei rapporti di Assets Essentials per 
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: b222e03a8eca0837ca647740baed7d77afe96ed3
 workflow-type: tm+mt
-source-wordcount: '781'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
