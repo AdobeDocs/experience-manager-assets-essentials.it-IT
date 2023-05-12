@@ -4,9 +4,9 @@ description: Comprendere l’interfaccia utente e la navigazione in [!DNL Assets
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: 3cc4d8ea48b0b2c8014572fce7609ee39f5868e4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '902'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -24,15 +24,15 @@ Quando accedi a [!DNL Assets Essentials], viene visualizzata la seguente interfa
 
 ![[!DNL Assets Essentials] - Interfaccia utente](assets/essentials-interface.png)
 
-    *R: Barra laterale sinistra per sfogliare l’archivio e fornisce l’accesso ad alcune altre opzioni*
-    *B: Visualizza o comprime la barra laterale sinistra per aumentare l’area di visualizzazione delle risorse*
+    *A: Barra laterale sinistra per sfogliare l’archivio, fornisce l’accesso ad alcune altre opzioni*
+    *B: Visualizzare o comprimere la barra laterale sinistra per aumentare l’area di visualizzazione delle risorse*
     *C: Filtrare i risultati della ricerca*
-    *D: Seleziona tutto il contenuto della cartella selezionata*
+    *D: Selezionare tutti i contenuti della cartella selezionata*
     *E: Opzioni di ordinamento delle risorse*
     *F: Casella di ricerca*
-    *G: Caricare o trascinare file utilizzando `Add Assets` pulsante*
-    *H: Crea una nuova cartella*
-    *I: Passa da una visualizzazione a un&#39;altra*
+    *G: Caricare o trascinare file utilizzando il pulsante `Add Assets`*
+    *H: Creare una nuova cartella*
+    *I: Passare da una visualizzazione all’altra*
 
 <!-- TBD: Need an embedded video here with narration. It has to be hosted on MPC to be embeddable. -->
 
@@ -40,15 +40,15 @@ Quando accedi a [!DNL Assets Essentials], viene visualizzata la seguente interfa
 
 È possibile sfogliare le cartelle dall’interfaccia utente principale o dalla barra laterale a sinistra. Durante la navigazione, puoi visualizzare le miniature delle risorse per sfogliare visivamente l’archivio oppure i dettagli delle risorse per trovare rapidamente quella desiderata. Le opzioni disponibili nella barra laterale a sinistra sono:
 
-* [Area di lavoro personale](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=en): Assets ora include un’area di lavoro personalizzabile che fornisce widget per l’accesso semplificato alle aree chiave dell’interfaccia utente di Assets e alle informazioni più pertinenti per l’utente. Questa pagina funge da soluzione unica per fornire una panoramica degli elementi di lavoro e consentire un accesso rapido ai flussi di lavoro chiave. L’accesso più comodo a queste opzioni aumenta l’efficienza e la velocità dei contenuti.
-* [Attività](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=en): È possibile visualizzare le attività assegnate in **Attività personali** scheda . Al contrario, le attività create dall’utente possono essere visualizzate in **Attività assegnate** scheda . Inoltre, le attività completate si trovano in **Attività completate** scheda .
-* [Risorse](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-organize.html?lang=en): elenco di tutte le cartelle a cui ai accesso, con struttura ad albero.
+* [La mia area di lavoro](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=it): Assets ora include un’area di lavoro personalizzabile che fornisce widget per accedere facilmente a specifiche aree dell’interfaccia di Assets e alle informazioni che ti interessano di più. Questa pagina funge da soluzione unica per fornire una panoramica degli elementi di lavoro e consentire un accesso rapido ai flussi di lavoro chiave. L’accesso più comodo a queste opzioni aumenta l’efficienza e la velocità dei contenuti.
+* [Attività](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=it): nella scheda **Le mie attività** puoi visualizzare le attività che ti sono state assegnate. Nella scheda **Attività assegnate** trovi invece le attività che hai creato. Inoltre, le attività che hai completato si trovano nella scheda **Attività completate**.
+* [Risorse](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-organize.html?lang=it): elenco di tutte le cartelle a cui ai accesso, con struttura ad albero.
 * **Visualizzate di recente**: elenco delle risorse visualizzate in anteprima di recente. [!DNL Assets Essentials] mostra solo le risorse visualizzate in anteprima. Non visualizza le risorse che scorri quando esplori i file o le cartelle dell’archivio.
-* [Raccolte](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=it): Una raccolta è un set di risorse, cartelle o altre raccolte all’interno di Adobe Experience Manager Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti. A differenza delle cartelle, una raccolta può includere risorse da posizioni diverse. Puoi condividere più raccolte con un utente. Ogni raccolta contiene riferimenti alle risorse. L’integrità dei riferimenti alle risorse viene mantenuta tra le varie raccolte.
+* [Raccolte](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=it): una raccolta è un set di risorse, cartelle o altre raccolte all’interno di Adobe Experience Manager Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti. A differenza delle cartelle, una raccolta può includere risorse da posizioni diverse. Puoi condividere più raccolte con un utente. Ogni raccolta contiene riferimenti alle risorse. L’integrità dei riferimenti alle risorse viene mantenuta tra le varie raccolte.
 
-* [Informazioni approfondite](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=en#view-live-statistics): In [!DNL Assets Essentials], puoi visualizzare informazioni in tempo reale sul dashboard. Assets Essentials consente di visualizzare in tempo reale i dati del tuo ambiente Assets Essentials, con la dashboard Insight. Puoi visualizzare le metriche degli eventi in tempo reale negli ultimi 30 giorni o negli ultimi 12 mesi.
-* **Cestino**: Elencare le risorse eliminate dalla radice **[!UICONTROL Risorse]** cartella. È possibile selezionare una risorsa nella cartella Cestino per ripristinarla nella posizione originale o eliminarla definitivamente.
-* **Impostazioni**: Puoi configurare diverse opzioni di Assets Essentials utilizzando **Impostazioni**, ad esempio moduli metadati, rapporti e gestione della tassonomia.
+* [Approfondimenti](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=it#view-live-statistics): in [!DNL Assets Essentials], puoi visualizzare insight in tempo reale nella tua dashboard. Assets Essentials consente di visualizzare in tempo reale i dati del tuo ambiente Assets Essentials, con la dashboard Insight. Puoi visualizzare le metriche degli eventi in tempo reale negli ultimi 30 giorni o negli ultimi 12 mesi.
+* **Cestino**: mostra l’elenco delle risorse eliminate dalla cartella principale **[!UICONTROL Risorse]**. È possibile selezionare una risorsa nella cartella Cestino per ripristinarla nella posizione originale o eliminarla definitivamente.
+* **Impostazioni**: puoi utilizzare **Impostazioni** per configurare diverse opzioni di Assets Essentials, ad esempio i moduli dei metadati, i rapporti e la gestione delle tassonomie.
 
 <!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
 * **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
@@ -61,10 +61,10 @@ Puoi aprire o comprimere la barra laterale a sinistra per aumentare l’area dis
 
 In [!DNL Assets Essentials], puoi visualizzare le risorse, le cartelle e i risultati di ricerca in quattro diversi tipi di layout.
 
-* ![icona della vista elenco](assets/do-not-localize/list-view.png) [!UICONTROL Vista elenco]
-* ![icona della vista griglia](assets/do-not-localize/grid-view.png) [!UICONTROL Vista griglia]
+* ![icona della vista elenco](assets/do-not-localize/list-view.png) [!UICONTROL Vista a elenco]
+* ![icona della vista griglia](assets/do-not-localize/grid-view.png) [!UICONTROL Vista a griglia]
 * ![icona della vista galleria](assets/do-not-localize/gallery-view.png) [!UICONTROL Vista galleria]
-* ![icona della vista cascata](assets/do-not-localize/waterfall-view.png) [!UICONTROL Vista cascata]
+* ![icona della vista cascata](assets/do-not-localize/waterfall-view.png) [!UICONTROL Vista a cascata]
 
 Per individuare una risorsa, puoi ordinare le risorse in ordine crescente o decrescente di `Name`, `Relevancy`, `Size`, `Modified` e `Created`.
 
@@ -82,23 +82,23 @@ Per visualizzare in anteprima una risorsa, selezionala e fai clic sull’[!UICON
 
 ![Visualizzare l’anteprima di una risorsa](assets/preview-asset-2.png)
 
-*R: Torna alla cartella corrente o al risultato della ricerca corrente nel repository*
+*A: Tornare alla cartella corrente o al risultato della ricerca corrente nell’archivio*
 *B: Nome e formato del file che si sta visualizzando in anteprima*
 *C: Assegnare le attività*
-*D: Scarica risorsa*
+*D: Scaricare la risorsa*
 *E: Anteprima della risorsa e visualizzazione delle informazioni sui metadati*
 *D: Metadati avanzati*
 *E: Parole chiave e tag avanzati*
-*F: Commenta e annota*
-*G: Visualizza le attività relative alla risorsa selezionata*
+*F: Commentare e annotare*
+*G: Visualizzare le attività relative alla risorsa selezionata*
 *H: Visualizzare e gestire le versioni*
-*I: Visualizza rappresentazioni dell&#39;immagine*
-*J: Modifica immagine*
+*I: Visualizzare le rappresentazioni dell’immagine*
+*J: Modificare l’immagine*
 *K: Metadati di base*
 *L: Metadati avanzati*
 *M: Parole chiave e tag avanzati*
-*N: Visualizza un&#39;anteprima più dettagliata. Zoom, schermo intero e altre opzioni*
-*O: Passa alla risorsa precedente o successiva nella cartella corrente senza tornare alla cartella*
+*N: Visualizzare un’anteprima più dettagliata. Zoom, Schermo intero e altre opzioni*
+*O: Passare alla risorsa precedente o successiva nella cartella corrente senza tornare alla cartella*
 
 Puoi anche visualizzare in anteprima i video.
 
