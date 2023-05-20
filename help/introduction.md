@@ -4,7 +4,7 @@ description: Gestisci le tue risorse con Experience Manager Assets Essentials, u
 role: User,Leader
 exl-id: 43ddf11c-36d3-4643-80c9-b7dd5d199450
 source-git-commit: 0e41008adfb713f0a40c65433adeac53c195a2ac
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '640'
 ht-degree: 100%
 

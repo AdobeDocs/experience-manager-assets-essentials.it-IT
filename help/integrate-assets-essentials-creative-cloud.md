@@ -3,7 +3,7 @@ title: Integrare Assets Essentials con le applicazioni Creative Cloud
 description: Integra Assets Essentials con le applicazioni Creative Cloud in modo da poter usare il pannello in-app Adobe Asset Link per la connessione all’archivio  [!DNL Assets Essentials]  direttamente dalle applicazioni desktop  [!DNL Adobe Creative Cloud]  supportate.
 exl-id: 611fd958-3fd3-4c46-bee9-8b866b7dc208
 source-git-commit: 268b7eb82b15b658207f24750eeae085ce5bb3d4
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '854'
 ht-degree: 100%
 

@@ -3,7 +3,7 @@ title: Amministrare Experience Manager Assets Essentials
 description: Configura l’accesso all’applicazione Assets Essentials utilizzando Admin Console, quindi gestisci le attività che possono essere eseguite dopo aver effettuato l’accesso all’applicazione Assets Essentials.
 exl-id: ffd65741-21b7-47cd-9779-63a7903879e6
 source-git-commit: a40b608ec72691c10dfbf7dff518a2cfc87d6552
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1399'
 ht-degree: 100%
 
@@ -59,7 +59,7 @@ Per aggiungere utenti ai profili di prodotto:
 
    ![Profilo amministratore di Admin Console](assets/assets-essentials-instance.png)
 
-   [!DNL Assets Essentials] dispone di tre profili prodotto che rappresentano il punto di accesso per amministratori, utenti standard e consumer.
+   [!DNL Assets Essentials] dispone di tre profili prodotto che rappresentano il livello di accesso per amministratori, utenti standard e consumer.
 
    ![Profilo amministratore di Admin Console](assets/admin-console-admin-profile.png)
 
