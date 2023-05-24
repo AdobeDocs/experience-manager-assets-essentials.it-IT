@@ -13,7 +13,7 @@ ht-degree: 100%
 
 >[!CONTEXTUALHELP]
 >id="assets_collections"
->title="Gestire le raccolte"
+>title="Gestisci raccolte"
 >abstract="Una raccolta è un set di risorse, cartelle o altre raccolte all’interno di Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti. A differenza delle cartelle, una raccolta può includere risorse da posizioni diverse. Puoi condividere più raccolte con un utente. Ogni raccolta contiene riferimenti alle risorse. L’integrità dei riferimenti alle risorse viene mantenuta tra le varie raccolte."
 
 Una raccolta è un set di risorse, cartelle o altre raccolte all’interno di Adobe Experience Manager Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti.
