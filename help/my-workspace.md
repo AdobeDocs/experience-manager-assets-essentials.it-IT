@@ -2,10 +2,10 @@
 title: Area di lavoro personale per Assets
 description: L’area di lavoro personale è una pagina che offre moduli visivi personalizzabili per un accesso comodo alle aree chiave dell’interfaccia utente di Assets e alle informazioni più rilevanti per l’utente.
 exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
-source-git-commit: 7234af017de7e5d5ebf31e8855a322d846c3a389
+source-git-commit: e6c6a7ee20fca5e87f521708fb7ddec453131e40
 workflow-type: tm+mt
-source-wordcount: '511'
-ht-degree: 100%
+source-wordcount: '568'
+ht-degree: 89%
 
 ---
 
@@ -53,6 +53,8 @@ Visualizza l’elenco delle attività attualmente assegnate a te nella scheda **
 **Contenuto**
 
 Mostra le visualizzazioni assortite delle risorse, compreso l’elenco delle risorse visualizzate di recente. È possibile selezionare per visualizzare le risorse nel widget in una vista a elenco, a griglia, a raccolta o a cascata e ordinare le risorse per nome, dimensione e data modificata. Puoi anche selezionare una risorsa per visualizzarne i dettagli o rimuoverla dall’elenco delle risorse visualizzate di recente.
+
+Il **[!UICONTROL Download principali]** Questa scheda mostra le dieci risorse più scaricate disponibili nell’ambiente Assets Essentials. Puoi scegliere di visualizzare le risorse nella Vista a elenco o nella Vista a griglia. Entrambe le viste visualizzano il tipo di formato e il numero di download per ciascuna risorsa. Puoi anche selezionare una risorsa e fare clic su **[!UICONTROL Dettagli]** per visualizzarne le proprietà.
 
 ![Widget di contenuto nell’area di lavoro](assets/workspace-content.png)
 

@@ -4,28 +4,32 @@ description: Note sulla versione e problemi noti di [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: aefa3e0c76a4b92b00ff069655297387cfe733b0
+source-git-commit: de0a8e4f31a378f79c5b94414886c8ec9d3d7891
 workflow-type: tm+mt
-source-wordcount: '1734'
-ht-degree: 100%
+source-wordcount: '1783'
+ht-degree: 95%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-L’attuale versione di Assets Essentials è stata rilasciata il 30 marzo 2023.
+L’attuale versione di Assets Essentials è stata rilasciata il 24 maggio 2023.
 
 L’elenco delle funzioni aggiunte di recente include:
 
+**Risorse scaricate principali**
+
+In My Workspace ora vengono visualizzate le dieci risorse più scaricate per l’ambiente Assets Essentials in [!UICONTROL Contenuto] sezione. Puoi anche visualizzare il tipo di formato e il numero di download per ciascuna risorsa elencata.
+
 **Aggiornamenti in blocco dei metadati delle risorse**
 
-Gli aggiornamenti in blocco dei metadati consentono di eseguire aggiornamenti di metadati comuni su più risorse contemporaneamente. Non è necessario aggiornare i record singolarmente ed è possibile applicare rapidamente le proprietà alle risorse accessibili tramite ricerca, cartelle e raccolte.
+Gli aggiornamenti in blocco dei metadati consentono di eseguire aggiornamenti di metadati comuni su più risorse contemporaneamente. Non è necessario aggiornare i record singolarmente e puoi applicare rapidamente le proprietà alle risorse o alle cartelle a cui si accede tramite la ricerca.
 
 **Area di lavoro personale con widget configurabili**
 
 Assets fornisce ora un’area di lavoro personalizzata che funge da soluzione unica per fornire un accesso conveniente alle aree chiave dell’interfaccia utente di Assets e alle informazioni più rilevanti per te. L’accesso più rapido a queste opzioni aumenta la velocità dei contenuti e l’efficienza dei progetti.
 
-L’area di lavoro personale include widget per nuove funzioni, approfondimenti, attività e contenuti. Puoi configurare la modalità di visualizzazione di questi widget nell’area di lavoro in base alle tue preferenze.
+La mia area di lavoro include widget per Approfondimenti, Attività e Contenuto. Puoi configurare la modalità di visualizzazione di questi widget nell’area di lavoro in base alle tue preferenze.
 
 **Interfaccia utente dedicata per la gestione delle attività**
 
@@ -56,6 +60,8 @@ L’elenco dei problemi noti di [!DNL Assets Essentials] viene regolarmente rivi
 
 
 * Le raccolte private sono disponibili per l’utente che le crea e gli utenti con privilegi di amministratore. In qualità di amministratore, non puoi delegare ad altri utenti le autorizzazioni di accesso alla raccolta.
+
+* In qualità di amministratore, non puoi delegare ad altri utenti le autorizzazioni di accesso alla raccolta.
 
 In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un feedback](#provide-feedback) al team.
 
