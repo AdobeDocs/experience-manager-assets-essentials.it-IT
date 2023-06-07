@@ -4,8 +4,8 @@ description: Accesso, esperienza di accesso, casi di utilizzo supportati e probl
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
 source-git-commit: a95f0cba350d0c766fefb90609aba5a3f50e9d0f
-workflow-type: tm+mt
-source-wordcount: '432'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
