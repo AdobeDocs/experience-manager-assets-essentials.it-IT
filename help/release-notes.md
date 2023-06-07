@@ -5,31 +5,31 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: de0a8e4f31a378f79c5b94414886c8ec9d3d7891
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1783'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-L’attuale versione di Assets Essentials è stata rilasciata il 24 maggio 2023.
+La versione attuale di Assets Essentials è stata rilasciata il 24 maggio 2023.
 
 L’elenco delle funzioni aggiunte di recente include:
 
-**Risorse scaricate principali**
+**Risorse più scaricate**
 
-In My Workspace ora vengono visualizzate le dieci risorse più scaricate per l’ambiente Assets Essentials in [!UICONTROL Contenuto] sezione. Puoi anche visualizzare il tipo di formato e il numero di download per ciascuna risorsa elencata.
+Nell’area di lavoro personale, nella sezione [!UICONTROL Contenuto] vengono ora visualizzate le dieci risorse più scaricate per l’ambiente Assets Essentials. Per ciascuna risorsa elencata puoi anche visualizzare il tipo di formato e il numero di download.
 
 **Aggiornamenti in blocco dei metadati delle risorse**
 
-Gli aggiornamenti in blocco dei metadati consentono di eseguire aggiornamenti di metadati comuni su più risorse contemporaneamente. Non è necessario aggiornare i record singolarmente e puoi applicare rapidamente le proprietà alle risorse o alle cartelle a cui si accede tramite la ricerca.
+Gli aggiornamenti in blocco dei metadati consentono di eseguire aggiornamenti di metadati comuni su più risorse contemporaneamente. Non è necessario aggiornare i record singolarmente ed è possibile applicare rapidamente le proprietà alle risorse o alle cartelle accessibili tramite ricerca.
 
 **Area di lavoro personale con widget configurabili**
 
 Assets fornisce ora un’area di lavoro personalizzata che funge da soluzione unica per fornire un accesso conveniente alle aree chiave dell’interfaccia utente di Assets e alle informazioni più rilevanti per te. L’accesso più rapido a queste opzioni aumenta la velocità dei contenuti e l’efficienza dei progetti.
 
-La mia area di lavoro include widget per Approfondimenti, Attività e Contenuto. Puoi configurare la modalità di visualizzazione di questi widget nell’area di lavoro in base alle tue preferenze.
+L’area di lavoro personale include widget per approfondimenti, attività e contenuti. Puoi configurare la modalità di visualizzazione di questi widget nell’area di lavoro in base alle tue preferenze.
 
 **Interfaccia utente dedicata per la gestione delle attività**
 
