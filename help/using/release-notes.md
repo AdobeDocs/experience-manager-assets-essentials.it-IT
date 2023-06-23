@@ -4,16 +4,77 @@ description: Note sulla versione e problemi noti di [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
-source-wordcount: '1783'
-ht-degree: 100%
+source-git-commit: d6737d903b8010e2a3b7434584a7aae0d7bc68bd
+workflow-type: tm+mt
+source-wordcount: '2040'
+ht-degree: 87%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-La versione attuale di Assets Essentials è stata rilasciata il 24 maggio 2023.
+L’attuale versione di Assets Essentials è stata rilasciata il 8 giugno 2023.
+
+L’elenco delle funzioni include:
+
+
+**Assegnazione di tag gerarchici alle risorse per velocizzare l’esperienza di ricerca**
+
+Le liste piatte di vocabolari controllati diventano ingestibili nel tempo. Assets Essentials ora supporta la struttura gerarchica dei tag, che semplifica l’applicazione di metadati rilevanti, la classificazione delle risorse, il supporto della ricerca, il riutilizzo dei tag, il miglioramento dell’individuabilità e così via.
+
+![Gestione dei tag](assets/tags-hierarchy.png)
+
+**Aggiungi file, cartelle e raccolte per un accesso rapido**
+
+È ora possibile fissare file, cartelle e raccolte per accedere più rapidamente a tali elementi quando saranno necessari in un secondo momento. Gli elementi bloccati vengono visualizzati nel **Accesso rapido** sezione di My Workspace. È possibile accedervi utilizzando l&#39;area di lavoro personale anziché passare alla posizione in cui sono stati salvati nel repository.
+
+![Attività nell’area di lavoro](assets/quick-access.png)
+
+**Filtrare le risorse nella cartella Cestino**
+
+Assets Essentials ora consente di filtrare le risorse disponibili nella cartella Cestino. Puoi applicare filtri standard o personalizzati per cercare le risorse appropriate all’interno della cartella Cestino per ripristinarle o eliminarle definitivamente.
+
+**Anteprime miniature per risorse 3D**
+
+Assets Essentials ora genera anteprime di miniature per i formati di file 3D comuni, tra cui gLB, USDz, FBX, 3DS, OBJ e SBSAR. Quando questi file vengono caricati in Assets Essentials, per impostazione predefinita le miniature vengono generate automaticamente dal sistema.
+
+![Attività nell’area di lavoro](assets/3d-preview.png)
+
+**Visualizza i termini più cercati**
+
+Assets Essentials ora supporta la visualizzazione dei termini più ricercati nell’implementazione di Assets Essentials utilizzando **Approfondimenti** sezione di My Workspace. Puoi anche passare a Insights dettagliato per visualizzare le ricerche principali negli ultimi 30 giorni o 12 mesi.
+
+![Attività nell’area di lavoro](assets/insights-top-searches.png)
+
+**Miglioramenti al modulo metadati**
+
+Assets Essentials ora consente di aggiungere ai moduli di metadati componenti di testo con più valori e proprietà di elenchi a discesa.
+
+
+**Miglioramenti in base al feedback ricevuto dai clienti**
+
+Miglioramenti e correzioni di bug in base al feedback ricevuto dai clienti.
+
+## Problemi noti {#known-issues}
+
+L’elenco dei problemi noti di [!DNL Assets Essentials] viene regolarmente rivisto e aggiornato:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* Le raccolte private sono disponibili per l’utente che le crea e gli utenti con privilegi di amministratore. In qualità di amministratore, non puoi delegare ad altri utenti le autorizzazioni di accesso alla raccolta.
+
+* In qualità di amministratore, non puoi delegare ad altri utenti le autorizzazioni di accesso alla raccolta.
+
+In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un feedback](#provide-feedback) al team.
+
+## Versioni precedenti {#past-releases}
+
+### Versioni multiple nel 2023 {#multiple-releases-2023}
 
 L’elenco delle funzioni aggiunte di recente include:
 
@@ -47,25 +108,6 @@ Assets Essentials ora genera un collegamento automaticamente non appena scegli d
 **Miglioramenti in base al feedback ricevuto dai clienti**
 
 Miglioramenti e correzioni di bug in base al feedback ricevuto dai clienti.
-
-## Problemi noti {#known-issues}
-
-L’elenco dei problemi noti di [!DNL Assets Essentials] viene regolarmente rivisto e aggiornato:
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* Le raccolte private sono disponibili per l’utente che le crea e gli utenti con privilegi di amministratore. In qualità di amministratore, non puoi delegare ad altri utenti le autorizzazioni di accesso alla raccolta.
-
-* In qualità di amministratore, non puoi delegare ad altri utenti le autorizzazioni di accesso alla raccolta.
-
-In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un feedback](#provide-feedback) al team.
-
-## Versioni precedenti {#past-releases}
 
 ### 2022.11.0 {#november-2022}
 
@@ -253,7 +295,7 @@ Inoltre, l’estensione [!DNL Adobe Asset Link] per Creative Cloud (Photoshop, I
 
 [!DNL Assets Essentials] 2021.8.0 è stato rilasciato il 30 agosto 2021 con i seguenti aggiornamenti:
 
-* Integrazioni con [!DNL Adobe Workfront] che consentono agli utenti di [!DNL Workfront] di gestire le proprie risorse digitali nel contesto di gestione del proprio lavoro. Per ulteriori informazioni, consulta [Integrazioni con altre soluzioni Adobe](/help/using/integration.md).
+* Integrazioni con [!DNL Adobe Workfront] che consentono agli utenti di [!DNL Workfront] di gestire le proprie risorse digitali nel contesto di gestione del proprio lavoro.
 
 ### Versione 2021.7.0 {#july2021}
 
@@ -269,4 +311,4 @@ La prima versione di [!DNL Assets Essentials], rilasciata il 21 giugno 2021, off
 * Caricare e aggiungere risorse, incluse cartelle nidificate. Visualizzare l’anteprima di risorse e versioni.
 * Ricerca full-text, filtri di ricerca mirata, e ricerche salvate per individuare rapidamente le risorse.
 * Operazioni di base per la gestione delle risorse, come aggiornamento, eliminazione, download e gestione dei metadati.
-* [!DNL Assets Essentials] è disponibile per gli utenti di [!DNL Adobe Journey Optimizer] per la gestione delle risorse durante la creazione dei messaggi. Per ulteriori informazioni, consulta [Integrazioni con altre soluzioni Adobe](/help/using/integration.md).
+* [!DNL Assets Essentials] è disponibile per gli utenti di [!DNL Adobe Journey Optimizer] per la gestione delle risorse durante la creazione dei messaggi.
