@@ -1,7 +1,7 @@
 ---
 title: Introduzione alla vista Risorse
 description: Novità della vista Risorse
-source-git-commit: 9d14827d10d2bae34b19a318aac1cc0820e81f35
+source-git-commit: faa88352204ffa607f669e90fce0fb25320f3de8
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 6%
@@ -39,7 +39,7 @@ Ripeti questi passaggi per tornare alla vista Amministratore.
 
 Una soluzione per la gestione delle risorse digitali che comprenda le diverse esigenze dei diversi ruoli organizzativi. La nuova ed elegante visualizzazione Assets dà priorità alla facilità d&#39;uso e alla velocità, in linea con la preferenza degli esperti di marketing per spazi di lavoro di impatto visivo e privi di ingombri. Grazie a una dashboard personalizzata di My Workspace specifica dell’utente, gli esperti di marketing possono trovare, visualizzare in anteprima, modificare, gestire e distribuire rapidamente le risorse con una notevole efficienza. Dedica il tuo saluto alle infinite ore dedicate alla ricerca di risorse specifiche e ti diamo il benvenuto a un’esperienza semplificata che ti offre tutto ciò che ti serve a portata di mano.
 
-![Implementare Assets Essentials](assets/workspace.gif)
+![Implementare Assets Essentials](assets/experiment.gif)
 
 [![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](my-workspace.md)
 
