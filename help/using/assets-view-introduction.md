@@ -1,10 +1,10 @@
 ---
 title: Introduzione alla vista Risorse
 description: Novità della vista Risorse
-source-git-commit: d725a3525c7f451b6dd3377ff267adb50df72280
+source-git-commit: 839c85efa1ba91db5644c7463ff269b6b06f69a1
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 7%
+source-wordcount: '412'
+ht-degree: 6%
 
 ---
 
@@ -46,5 +46,10 @@ Una soluzione per la gestione delle risorse digitali che comprenda le diverse es
 
 [![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](my-workspace.md)
 
+## Approccio basato sulla ricerca per migliorare l&#39;efficienza
+
+Sfrutta il potenziale della libreria di risorse digitali della tua organizzazione con la potenza della ricerca con funzionalità all’avanguardia. Puoi dire addio al problema di setacciare manualmente innumerevoli file e cartelle. Qualsiasi utente può individuare immediatamente l&#39;immagine, il video o il documento perfetto per creare campagne di marketing straordinarie, presentazioni accattivanti e contenuti coinvolgenti. Il nostro motore di ricerca ti consente di navigare facilmente tra i tipi di risorse, i metadati, i tag avanzati e persino il contenuto stesso senza conoscere la parola chiave esatta. Accetta il futuro di DAM con la nostra funzione Search-First e libera tutto il potenziale della tua libreria di risorse digitali.
+
+![Implementare Assets Essentials](assets/search-first.gif)
 
 
