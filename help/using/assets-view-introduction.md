@@ -3,17 +3,15 @@ title: Introduzione alla vista Risorse
 description: Novità della vista Risorse
 hidefromtoc: true
 hide: true
-source-git-commit: 2378e09a21dfa3c87964058bca38a3d6d2ead98f
+source-git-commit: 1a7bb00371ae51159b8712156d852b5e107a3be6
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '502'
 ht-degree: 9%
 
 ---
 
 
 # Introduzione alla vista Risorse {#assets-view}
-
-![Implementare Assets Essentials](assets/banner-image.jpg)
 
 ![Implementare Assets Essentials](assets/banner-image1.png)
 
