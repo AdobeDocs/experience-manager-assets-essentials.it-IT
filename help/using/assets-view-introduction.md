@@ -3,7 +3,7 @@ title: Introduzione alla vista Risorse
 description: Novità della vista Risorse
 hidefromtoc: true
 hide: true
-source-git-commit: 836f4524bde739614cca0595e7aace5f7674a954
+source-git-commit: 1ff1ced0910f1b2ca18e9130b07a399da1ccf27f
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 8%
@@ -65,6 +65,8 @@ Per tenere il passo con la velocità dei contenuti, è essenziale disporre di in
 ## Collaborazione più rapida {#accelerate-collaboration}
 
 La nuova esperienza offre un set completo di funzioni di collaborazione, tra cui la modifica in tempo reale con funzionalità Adobe Photoshop integrate, controlli della versione e strumenti di annotazione. Questo consente una collaborazione fluida tra team di progettazione, creativi, di branding e di marketing, consentendo loro di superare i colli di bottiglia e accelerare il processo delle operazioni di marketing. Gli addetti al marketing dispongono ora di potenti strumenti per accelerare la consegna dei progetti e aumentare la produttività complessiva.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3420922)
 
 
 
