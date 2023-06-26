@@ -3,10 +3,10 @@ title: Introduzione alla vista Risorse
 description: Novità della vista Risorse
 hidefromtoc: true
 hide: true
-source-git-commit: cd99934326eab5f7701e691a7f98329c57f8d2c4
+source-git-commit: f370e2e3e1c7fc5798e6873bd37098e5c22b8e5a
 workflow-type: tm+mt
-source-wordcount: '861'
-ht-degree: 15%
+source-wordcount: '1022'
+ht-degree: 12%
 
 ---
 
@@ -93,6 +93,16 @@ La cartella Cestino disponibile nella vista Risorse elenca le risorse eliminate 
 ![Eliminazione temporanea](assets/soft-delete.gif)
 
 [![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](navigate-view.md)
+
+Oltre a queste funzioni, la vista Risorse consente di eseguire le seguenti funzioni non disponibili nella vista Amministrazione:
+
+* Carica una nuova versione di una risorsa, con un nome diverso, dal file system locale all’archivio delle risorse. La risorsa caricata è disponibile come nuova versione con lo stesso nome di quella originale.
+
+* Rinomina le risorse e la cartella disponibili nell’archivio.
+
+## Conclusione {#conclusion}
+
+È arrivata l&#39;era del digital-first, ed è ora di trasformare i nostri strumenti di marketing per supportare lo scenario aziendale in evoluzione. La nuova visualizzazione Assets di Adobe Experience Manager è personalizzata per semplificare i flussi di lavoro, promuovere la collaborazione e accelerare la distribuzione delle risorse. Adottando la velocità dei contenuti, gli esperti di marketing possono sfruttare appieno il potenziale delle loro risorse digitali e stimolare la creatività come mai prima d’ora. Preparati a sfruttare la potenza della nuova esperienza Assets View di Adobe e ottenere risultati eccezionali nelle campagne di marketing. È il momento di abbracciare il futuro di DAM e di portare avanti la tua attività.
 
 
 
