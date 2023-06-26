@@ -3,10 +3,10 @@ title: Introduzione alla vista Risorse
 description: Novità della vista Risorse
 hidefromtoc: true
 hide: true
-source-git-commit: 7a1d9c01ed19015f8552b088142122b354c6074b
+source-git-commit: dd6734b4e43eef875515e48704757a4f53a1a185
 workflow-type: tm+mt
-source-wordcount: '657'
-ht-degree: 9%
+source-wordcount: '677'
+ht-degree: 12%
 
 ---
 
@@ -73,6 +73,10 @@ La nuova esperienza offre un set completo di funzioni di collaborazione, tra cui
 ## Configurazione rapida della struttura gerarchica tramite caricamenti di cartelle {#folder-uploads}
 
 Imposta rapidamente una struttura di cartelle per la tua organizzazione utilizzando la vista Risorse caricando le cartelle esistenti sul file system locale. Non è necessario creare cartelle nella cartella principale e quindi caricare manualmente le risorse in tali cartelle per mantenere la struttura gerarchica logica. Tutte le cartelle e le risorse nella cartella principale vengono caricate automaticamente in Experience Manager Assets.
+
+![Implementare Assets Essentials](assets/folder-uploads.gif)
+
+[![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
 
 
 
