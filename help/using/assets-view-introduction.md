@@ -3,9 +3,9 @@ title: Introduzione alla vista Risorse
 description: Novità della vista Risorse
 hidefromtoc: true
 hide: true
-source-git-commit: f370e2e3e1c7fc5798e6873bd37098e5c22b8e5a
+source-git-commit: 9ce744b0a920dc553a41e631d0f1be1d8f26bb93
 workflow-type: tm+mt
-source-wordcount: '1022'
+source-wordcount: '1037'
 ht-degree: 12%
 
 ---
@@ -65,6 +65,8 @@ Per tenere il passo con la velocità dei contenuti, è essenziale disporre di in
 ## Integrazione Adobe Photoshop Express per accelerare la collaborazione {#accelerate-collaboration}
 
 La nuova esperienza offre un set completo di funzioni di collaborazione, tra cui la modifica in tempo reale con funzionalità Adobe Photoshop integrate, controlli della versione e strumenti di annotazione. Questo consente una collaborazione fluida tra team di progettazione, creativi, di branding e di marketing, consentendo loro di superare i colli di bottiglia e accelerare il processo delle operazioni di marketing. Gli addetti al marketing dispongono ora di potenti strumenti per accelerare la consegna dei progetti e aumentare la produttività complessiva.
+
+Guarda questo video per comprendere la potenza dell’integrazione della visualizzazione Assets con Adobe Photoshop Express:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420922)
 
