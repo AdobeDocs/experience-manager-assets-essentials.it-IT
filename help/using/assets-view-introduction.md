@@ -3,10 +3,10 @@ title: Introduzione alla vista Risorse
 description: Novità della vista Risorse
 hidefromtoc: true
 hide: true
-source-git-commit: dd6734b4e43eef875515e48704757a4f53a1a185
+source-git-commit: 547dd9dab9a2b176f9fb7bed62289d60f96243dc
 workflow-type: tm+mt
-source-wordcount: '677'
-ht-degree: 12%
+source-wordcount: '773'
+ht-degree: 14%
 
 ---
 
@@ -62,7 +62,7 @@ Per tenere il passo con la velocità dei contenuti, è essenziale disporre di in
 
 [![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-reports.md#view-live-statistics)
 
-## Collaborazione più rapida con l&#39;integrazione Adobe Photoshop Express {#accelerate-collaboration}
+## Integrazione Adobe Photoshop Express per accelerare la collaborazione {#accelerate-collaboration}
 
 La nuova esperienza offre un set completo di funzioni di collaborazione, tra cui la modifica in tempo reale con funzionalità Adobe Photoshop integrate, controlli della versione e strumenti di annotazione. Questo consente una collaborazione fluida tra team di progettazione, creativi, di branding e di marketing, consentendo loro di superare i colli di bottiglia e accelerare il processo delle operazioni di marketing. Gli addetti al marketing dispongono ora di potenti strumenti per accelerare la consegna dei progetti e aumentare la produttività complessiva.
 
@@ -70,13 +70,21 @@ La nuova esperienza offre un set completo di funzioni di collaborazione, tra cui
 
 [![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](edit-images.md)
 
-## Configurazione rapida della struttura gerarchica tramite caricamenti di cartelle {#folder-uploads}
+## Caricamenti delle cartelle per impostare la struttura gerarchica per l’organizzazione {#folder-uploads}
 
 Imposta rapidamente una struttura di cartelle per la tua organizzazione utilizzando la vista Risorse caricando le cartelle esistenti sul file system locale. Non è necessario creare cartelle nella cartella principale e quindi caricare manualmente le risorse in tali cartelle per mantenere la struttura gerarchica logica. Tutte le cartelle e le risorse nella cartella principale vengono caricate automaticamente in Experience Manager Assets.
 
-![Implementare Assets Essentials](assets/folder-uploads.gif)
+![Carica cartelle](assets/folder-uploads.gif)
 
 [![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
+
+## Iscriviti al contenuto per ricevere notifiche
+
+La vista Risorse consente di monitorare le operazioni eseguite sulle risorse, cartelle o raccolte disponibili nell’archivio. Devi selezionare e iscriverti al contenuto per il quale ti vengono inviate le notifiche. Puoi anche configurare i tipi di evento, ad esempio l’eliminazione dei contenuti a cui ti sei iscritto, le modifiche ai contenuti a cui ti sei iscritto e così via. Le notifiche vengono quindi inviate solo per questi tipi di evento.
+
+![Ricevi notifiche](assets/notifications.gif)
+
+[![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-notifications.md)
 
 
 
