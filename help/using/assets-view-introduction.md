@@ -3,10 +3,10 @@ title: Introduzione alla vista Risorse
 description: Novità della vista Risorse
 hidefromtoc: true
 hide: true
-source-git-commit: 1ff1ced0910f1b2ca18e9130b07a399da1ccf27f
+source-git-commit: 7a1d9c01ed19015f8552b088142122b354c6074b
 workflow-type: tm+mt
-source-wordcount: '566'
-ht-degree: 8%
+source-wordcount: '657'
+ht-degree: 9%
 
 ---
 
@@ -62,11 +62,17 @@ Per tenere il passo con la velocità dei contenuti, è essenziale disporre di in
 
 [![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-reports.md#view-live-statistics)
 
-## Collaborazione più rapida {#accelerate-collaboration}
+## Collaborazione più rapida con l&#39;integrazione Adobe Photoshop Express {#accelerate-collaboration}
 
 La nuova esperienza offre un set completo di funzioni di collaborazione, tra cui la modifica in tempo reale con funzionalità Adobe Photoshop integrate, controlli della versione e strumenti di annotazione. Questo consente una collaborazione fluida tra team di progettazione, creativi, di branding e di marketing, consentendo loro di superare i colli di bottiglia e accelerare il processo delle operazioni di marketing. Gli addetti al marketing dispongono ora di potenti strumenti per accelerare la consegna dei progetti e aumentare la produttività complessiva.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420922)
+
+[![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](edit-images.md)
+
+## Configurazione rapida della struttura gerarchica tramite caricamenti di cartelle {#folder-uploads}
+
+Imposta rapidamente una struttura di cartelle per la tua organizzazione utilizzando la vista Risorse caricando le cartelle esistenti sul file system locale. Non è necessario creare cartelle nella cartella principale e quindi caricare manualmente le risorse in tali cartelle per mantenere la struttura gerarchica logica. Tutte le cartelle e le risorse nella cartella principale vengono caricate automaticamente in Experience Manager Assets.
 
 
 
