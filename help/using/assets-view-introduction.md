@@ -3,10 +3,10 @@ title: Introduzione alla vista Risorse
 description: Novità della vista Risorse
 hidefromtoc: true
 hide: true
-source-git-commit: 547dd9dab9a2b176f9fb7bed62289d60f96243dc
+source-git-commit: cd99934326eab5f7701e691a7f98329c57f8d2c4
 workflow-type: tm+mt
-source-wordcount: '773'
-ht-degree: 14%
+source-wordcount: '861'
+ht-degree: 15%
 
 ---
 
@@ -78,13 +78,21 @@ Imposta rapidamente una struttura di cartelle per la tua organizzazione utilizza
 
 [![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
 
-## Iscriviti al contenuto per ricevere notifiche
+## Iscriviti al contenuto dell’archivio per una gestione efficiente delle risorse
 
 La vista Risorse consente di monitorare le operazioni eseguite sulle risorse, cartelle o raccolte disponibili nell’archivio. Devi selezionare e iscriverti al contenuto per il quale ti vengono inviate le notifiche. Puoi anche configurare i tipi di evento, ad esempio l’eliminazione dei contenuti a cui ti sei iscritto, le modifiche ai contenuti a cui ti sei iscritto e così via. Le notifiche vengono quindi inviate solo per questi tipi di evento.
 
 ![Ricevi notifiche](assets/notifications.gif)
 
 [![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-notifications.md)
+
+## Eliminazione temporanea delle risorse per migliorare il controllo degli amministratori {#soft-delete-assets}
+
+La cartella Cestino disponibile nella vista Risorse elenca le risorse eliminate dalla cartella principale Risorse. Puoi selezionare una risorsa dalla cartella Cestino per ripristinarla alla posizione originale o eliminarla definitivamente. Puoi anche specificare una parola chiave o applicare filtri standard o personalizzati per cercare le risorse appropriate all’interno della cartella Cestino.
+
+![Eliminazione temporanea](assets/soft-delete.gif)
+
+[![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](navigate-view.md)
 
 
 
