@@ -4,9 +4,9 @@ description: Novità della vista Risorse
 mini-toc-levels: 3
 hidefromtoc: true
 hide: true
-source-git-commit: 52ec2263e237e6c3b47dc967eb5cc3e6acbe814f
+source-git-commit: 094ee651d7ac90675df88b52a5e76dd3e6e84094
 workflow-type: tm+mt
-source-wordcount: '1020'
+source-wordcount: '1070'
 ht-degree: 11%
 
 ---
@@ -21,7 +21,6 @@ Nel panorama moderno e dinamico della digital-first, in cui la creazione e la di
 ## Come accedere alla vista Risorse? {#access-assets-view}
 
 È possibile accedere alla vista Risorse nei modi seguenti:
-
 ![Panoramica della mia area di lavoro](assets/assets-view.png)
 
 <!--
@@ -81,6 +80,8 @@ La nuova esperienza offre un set completo di funzioni di collaborazione, tra cui
 Guarda questo video per comprendere la potenza dell’integrazione della visualizzazione Assets con Adobe Photoshop Express:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420922)
+
+Le prossime versioni includeranno [Integrazione di Adobe Firefly tramite Adobe Express](https://firefly.adobe.com/?gclid=EAIaIQobChMIlZeKuNfj_wIVeyCtBh3e5g2cEAAYASAAEgL56_D_BwE&amp;sdid=JM4FW6VL&amp;mv=search&amp;mv2=paidsearch&amp;ef_id=EAIaIQobChMIlZeKuNfj_wIVeyCtBh3e5g2cEAAYASAAEgL56_D_BwE:G:s&amp;s_kwcid=AL!3085!3!652077237594!!!g!!adobe%20firefly!19870733758!148140507838).
 
 [![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](edit-images.md)
 
