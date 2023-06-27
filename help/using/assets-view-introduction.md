@@ -4,9 +4,9 @@ description: Novità della vista Risorse
 mini-toc-levels: 3
 hidefromtoc: true
 hide: true
-source-git-commit: 138e8eaa8e4c0ff83c46e2b6a62e92740c87f366
+source-git-commit: 52ec2263e237e6c3b47dc967eb5cc3e6acbe814f
 workflow-type: tm+mt
-source-wordcount: '1103'
+source-wordcount: '1020'
 ht-degree: 11%
 
 ---
@@ -22,23 +22,29 @@ Nel panorama moderno e dinamico della digital-first, in cui la creazione e la di
 
 È possibile accedere alla vista Risorse nei modi seguenti:
 
-* **Attiva/disattiva visualizzazione Amministratore**
+![Panoramica della mia area di lavoro](assets/assets-view.png)
 
-   * Accedi a [!DNL Experience Manager] con Cloud Manager.
-   * Accedi a **[!UICONTROL Risorse]** > **[!UICONTROL File]**.
-   * Fai clic sull’icona del profilo nell’angolo in alto a destra.
-   * Clic **[!UICONTROL Cambia visualizzazione]** dal **[!UICONTROL Impostazioni profilo]** sezione.
-Ripeti questi passaggi per tornare alla vista Amministratore.
+<!--
 
-* **Commutatore prodotto**
-   * Accedi a [!DNL Experience Manager] e fai clic su
-   * Seleziona **[!UICONTROL Experience Manager Assets]** per accedere alla vista Risorse.
-   * Seleziona **[!UICONTROL Experience Manager]** per accedere alla visualizzazione Amministratore.
+* **Toggle in Admin view**
 
-* **Collegamenti rapidi**
-   * Accedi a experience.adobe.com.
-   * Clic **[!UICONTROL Experience Manager Assets]** per accedere alla vista Risorse.
-   * Clic **[!UICONTROL Experience Manager Assets]** per accedere alla vista Risorse.
+    * Log into [!DNL Experience Manager] using Cloud Manager.
+    * Navigate to **[!UICONTROL Assets]** > **[!UICONTROL Files]**.
+    * Click the profile icon on the top right corner.
+    * Click **[!UICONTROL Switch View]** from the **[!UICONTROL Profile Settings]** section.
+    Repeat these steps to switch back to the Admin view.
+
+* **Product Switcher**
+    * Log into [!DNL Experience Manager] and click ![Product selector](assets/waffle-icon.svg).
+    * Select **[!UICONTROL Experience Manager Assets]** to access the Assets view.
+    * Select **[!UICONTROL Experience Manager]** to access the Admin view.
+
+* **Quick Links** 
+    * Log into experience.adobe.com.
+    * Click **[!UICONTROL Experience Manager Assets]** to access the Assets view.
+    * Click **[!UICONTROL Experience Manager Assets]** to access the Assets view.
+
+    -->
 
 ## Perché visualizzare le risorse?
 
