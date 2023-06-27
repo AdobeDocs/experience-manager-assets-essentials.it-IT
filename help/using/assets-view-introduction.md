@@ -4,7 +4,7 @@ description: Novità della vista Risorse
 mini-toc-levels: 3
 hidefromtoc: true
 hide: true
-source-git-commit: 094ee651d7ac90675df88b52a5e76dd3e6e84094
+source-git-commit: 256d42b06e66e9f152823f507412de360474b3b7
 workflow-type: tm+mt
 source-wordcount: '1070'
 ht-degree: 11%
@@ -81,9 +81,9 @@ Guarda questo video per comprendere la potenza dell’integrazione della visuali
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420922)
 
-Le prossime versioni includeranno [Integrazione di Adobe Firefly tramite Adobe Express](https://firefly.adobe.com/?gclid=EAIaIQobChMIlZeKuNfj_wIVeyCtBh3e5g2cEAAYASAAEgL56_D_BwE&amp;sdid=JM4FW6VL&amp;mv=search&amp;mv2=paidsearch&amp;ef_id=EAIaIQobChMIlZeKuNfj_wIVeyCtBh3e5g2cEAAYASAAEgL56_D_BwE:G:s&amp;s_kwcid=AL!3085!3!652077237594!!!g!!adobe%20firefly!19870733758!148140507838).
-
 [![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](edit-images.md)
+
+Le prossime versioni includeranno [Integrazione di Adobe Firefly tramite Adobe Express](https://firefly.adobe.com/?gclid=EAIaIQobChMIlZeKuNfj_wIVeyCtBh3e5g2cEAAYASAAEgL56_D_BwE&amp;sdid=JM4FW6VL&amp;mv=search&amp;mv2=paidsearch&amp;ef_id=EAIaIQobChMIlZeKuNfj_wIVeyCtBh3e5g2cEAAYASAAEgL56_D_BwE:G:s&amp;s_kwcid=AL!3085!3!652077237594!!!g!!adobe%20firefly!19870733758!148140507838).
 
 ### Caricamenti delle cartelle per impostare la struttura gerarchica per l’organizzazione {#folder-uploads}
 
