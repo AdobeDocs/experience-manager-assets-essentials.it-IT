@@ -4,9 +4,9 @@ description: Novità della vista Risorse
 mini-toc-levels: 3
 hidefromtoc: true
 hide: true
-source-git-commit: 256d42b06e66e9f152823f507412de360474b3b7
+source-git-commit: 2ef7fb0d0671a9dfe054608f068c64623f6b488a
 workflow-type: tm+mt
-source-wordcount: '1070'
+source-wordcount: '1067'
 ht-degree: 11%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 11%
 
 ![Implementare Assets Essentials](assets/banner-image.jpg)
 
-Nel panorama moderno e dinamico della digital-first, in cui la creazione e la distribuzione dei contenuti in tempo reale sono essenziali, è fondamentale disporre di un&#39;esperienza di gestione delle risorse digitali (DAM) progettata per velocizzare le attività di marketing a valle. Ad Adobe, sfruttando la sua esperienza nel rafforzamento dei professionisti del marketing e della creatività, introduce una nuova esperienza utente rivoluzionaria per Assets View. Questo approccio incentrato sul flusso di lavoro rivoluziona il modo in cui le aziende gestiscono le risorse digitali dinamiche, consentendo agli addetti al marketing di massimizzare l’efficienza nella ricerca, collaborazione, personalizzazione e distribuzione delle risorse. Questi flussi di lavoro semplificati accelerano la velocità dei contenuti e stimolano le attività di marketing a nuovi livelli.
+Nel panorama moderno e dinamico della digital-first, in cui la creazione e la distribuzione dei contenuti in tempo reale sono essenziali, è fondamentale disporre di un&#39;esperienza di gestione delle risorse digitali (DAM) progettata per velocizzare le attività di marketing a valle. Ad Adobe, sfruttando la sua esperienza nel rafforzamento dei professionisti del marketing e della creatività, introduce una nuova esperienza utente rivoluzionaria. Questo approccio incentrato sul flusso di lavoro rivoluziona il modo in cui le aziende gestiscono le risorse digitali dinamiche, consentendo agli addetti al marketing di massimizzare l’efficienza nella ricerca, collaborazione, personalizzazione e distribuzione delle risorse. Questi flussi di lavoro semplificati accelerano la velocità dei contenuti e stimolano le attività di marketing a nuovi livelli.
 
 ## Come accedere alla vista Risorse? {#access-assets-view}
 
@@ -67,7 +67,7 @@ Una soluzione per la gestione delle risorse digitali che comprenda le diverse es
 
 ### Informazioni per prendere decisioni basate sui dati {#insights-data}
 
-Per tenere il passo con la velocità dei contenuti, è essenziale disporre di informazioni fruibili. La nuova esperienza Assets View offre informazioni avanzate all’interno di My Workspace, fornendo dati preziosi sulle prestazioni delle risorse, sull’utilizzo del pubblico e sul coinvolgimento. Gli addetti al marketing possono prendere decisioni basate sui dati, ottimizzare le strategie di contenuto e perfezionare la distribuzione a valle per ottenere risultati ottimali. Grazie all’accesso a informazioni significative, le aziende possono battere la concorrenza e ottenere risultati eccezionali.
+Per tenere il passo con la velocità dei contenuti, è essenziale disporre di informazioni fruibili. La nuova esperienza di visualizzazione delle risorse offre informazioni avanzate all’interno di My Workspace, fornendo dati preziosi sulle prestazioni delle risorse, sull’utilizzo del pubblico e sul coinvolgimento. Gli addetti al marketing possono prendere decisioni basate sui dati, ottimizzare le strategie di contenuto e perfezionare la distribuzione a valle per ottenere risultati ottimali. Grazie all’accesso a informazioni significative, le aziende possono battere la concorrenza e ottenere risultati eccezionali.
 
 ![Panoramica di Insights](assets/insights-overview.gif)
 
@@ -123,7 +123,7 @@ Oltre a queste funzioni, la vista Risorse consente di eseguire le seguenti funzi
 
 ## Conclusione {#conclusion}
 
-È arrivata l&#39;era del digital-first, ed è ora di trasformare i nostri strumenti di marketing per supportare lo scenario aziendale in evoluzione. La nuova visualizzazione Assets di Adobe Experience Manager è personalizzata per semplificare i flussi di lavoro, promuovere la collaborazione e accelerare la distribuzione delle risorse. Adottando la velocità dei contenuti, gli esperti di marketing possono sfruttare appieno il potenziale delle loro risorse digitali e stimolare la creatività come mai prima d’ora. Preparati a sfruttare la potenza della nuova esperienza Assets View di Adobe e ottenere risultati eccezionali nelle campagne di marketing. È il momento di abbracciare il futuro di DAM e di portare avanti la tua attività.
+È arrivata l&#39;era del digital-first, ed è ora di trasformare i nostri strumenti di marketing per supportare lo scenario aziendale in evoluzione. La nuova vista Adobe Experience Manager Assets è personalizzata per semplificare i flussi di lavoro, promuovere la collaborazione e accelerare la distribuzione delle risorse. Adottando la velocità dei contenuti, gli esperti di marketing possono sfruttare appieno il potenziale delle loro risorse digitali e stimolare la creatività come mai prima d’ora. Preparati a sfruttare la potenza della nuova esperienza di visualizzazione delle risorse di Adobe e ottenere risultati eccezionali nelle campagne di marketing. È il momento di abbracciare il futuro di DAM e di portare avanti la tua attività.
 
 
 
