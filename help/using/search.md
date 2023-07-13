@@ -3,10 +3,10 @@ title: Cercare e individuare le risorse in [!DNL Assets Essentials]
 description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 839ec4e2dcd324c481d9b4b5aba2210ec95203ba
+source-git-commit: 99f843be67ca6ca9dc1afe4887937b0fbcbfcf8e
 workflow-type: tm+mt
-source-wordcount: '897'
-ht-degree: 100%
+source-wordcount: '1033'
+ht-degree: 86%
 
 ---
 
@@ -141,6 +141,34 @@ What about temporarily hiding an asset (suspending search on it) from the search
 
 When userA is searching and userB add an asset that matches search results, will the asset display in search as soon as userA refreshes the page? Assuming indexing is near real-time. May not be so for bulk uploads.
 -->
+
+## Utilizzare i risultati della ricerca {#work-with-search-results}
+
+Puoi selezionare le risorse da visualizzare nei risultati della ricerca ed effettuare le seguenti operazioni:
+
+* **Dettagli**: visualizza e modifica le proprietà della risorsa.
+
+* **Aggiungi a raccolta**: aggiungi la risorsa selezionata a una raccolta.
+
+* **Scarica**: scarica una risorsa.
+
+* **Elimina**: elimina una risorsa.
+
+* **Copia**: copia una risorsa in un percorso cartella diverso.
+
+* **Sposta**: sposta una risorsa in un percorso cartella diverso.
+
+* **Rinomina**: rinomina una risorsa.
+
+* **Assegna attività**: assegna attività agli utenti per una risorsa.
+
+* **Condividi collegamento**: [Condividere collegamenti](share-links-for-assets.md) per una risorsa con altri utenti in modo che possano accedervi e scaricarla.
+
+* **Osserva**: [Monitorare le operazioni](manage-notifications.md) eseguita su una risorsa.
+
+* **Mostra percorso file**: passa alla posizione della cartella delle risorse.
+
+* **Aggiungi all&#39;accesso rapido**: [Fissa una risorsa](my-workspace.md) per un accesso più rapido quando necessario in un secondo momento. Tutti gli elementi fissati vengono visualizzati nella **Accesso rapido** sezione di My Workspace.
 
 ## Passaggi successivi {#next-steps}
 
