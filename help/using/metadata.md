@@ -4,9 +4,9 @@ description: Gestire i metadati delle risorse in [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 839ec4e2dcd324c481d9b4b5aba2210ec95203ba
+source-git-commit: e5c76d08c2a9cd35a0efb05743a3069d0efd3f62
 workflow-type: tm+mt
-source-wordcount: '1544'
+source-wordcount: '1557'
 ht-degree: 71%
 
 ---
@@ -67,7 +67,7 @@ I tag possono anche essere nidificati in una gerarchia per supportare relazioni 
 >id="assets_metadata_forms"
 >title="Moduli di metadati"
 >abstract="[!DNL Experience Manager Assets] fornisce molti campi di metadati standard per impostazione predefinita. Le organizzazioni hanno l’esigenza di aggiungere altri metadati e ulteriori campi di metadati, specifici per l’azienda. I moduli di metadati consentono alle aziende di aggiungere campi di metadati personalizzati alla pagina Dettagli di una risorsa. I metadati specifici per l’azienda migliorano la governance e l’individuazione delle risorse."
->additional-url="https://video.tv.adobe.com/v/3420922/?captions=ita" text="Guarda la funzione in azione"
+>additional-url="https://images-tv.adobe.com/mpcv3/8a977e03-d76c-44d3-853c-95d0b799c870_1560205338.1920x1080at3000_h264.mp4" text="Guarda la funzione in azione"
 
 Per impostazione predefinita, Assets Essentials fornisce molti campi di metadati standard. Spesso le organizzazioni hanno l’esigenza di aggiungere altri metadati, specifici per l’azienda. I moduli di metadati consentono alle aziende di aggiungere campi di metadati personalizzati alla pagina [!UICONTROL Dettagli] di una risorsa. I metadati specifici per l’azienda migliorano la governance e l’individuazione delle risorse. È possibile creare moduli da zero o riutilizzare un modulo esistente.
 
