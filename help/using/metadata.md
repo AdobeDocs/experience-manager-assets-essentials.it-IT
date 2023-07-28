@@ -4,10 +4,10 @@ description: Gestire i metadati delle risorse in [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 5b9e3297c37bca0e5badc2073f8c6467e012ccde
+source-git-commit: 5942762ec76b25cc89168015edfbe3fce4c4368f
 workflow-type: tm+mt
 source-wordcount: '1558'
-ht-degree: 71%
+ht-degree: 72%
 
 ---
 
@@ -114,7 +114,7 @@ Dopo aver creato il modulo, quest’ultimo viene applicato automaticamente quand
 
 Per creare un nuovo modulo riutilizzandone uno esistente, seleziona un modulo di metadati e fai clic su **[!UICONTROL Copia]** nella barra degli strumenti, specifica un nome e fai clic su **[!UICONTROL Conferma]**. A questo punto puoi modificare il modulo di metadati. Quando modifichi un modulo, quest’ultimo viene utilizzato per le risorse caricate in seguito alla modifica. L’operazione non modifica le risorse esistenti.
 
-## Componenti proprietà {#property-components}
+### Componenti proprietà {#property-components}
 
 Puoi personalizzare il modulo metadati utilizzando uno dei seguenti componenti proprietà. Trascina il tipo di componente sul modulo nella posizione desiderata e modifica le impostazioni del componente.
 Di seguito è riportata una panoramica di ciascun tipo di proprietà e della relativa modalità di archiviazione.
@@ -134,6 +134,24 @@ Di seguito è riportata una panoramica di ciascun tipo di proprietà e della rel
 | Tag | Aggiungere un tag dai valori memorizzati in Gestione tassonomia (mappato a xcm:tags). |
 | Parole chiave | Aggiungere parole chiave in formato libero (mappate a dc:subject). |
 | Tag avanzati | Aggiungi per migliorare le funzionalità di ricerca aggiungendo automaticamente tag di metadati. |
+
+<!--
+
+### Assign metadata form to a folder {#assign-metadata-form-folder}
+
+You can also assign a metadata form to a folder within your Assets Essentials deployment. The metadata form assigned to a folder as per the MIME type is overwritten when you apply a metadata form to a folder manually. All assets in the folder, including assets in the sub-folders, then display properties defined in the metadata form.
+
+To assign a metadata form to a folder:
+
+1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Metadata Forms]** and select a metadata form.
+
+2. Click **[!UICONTROL Assign to Folder]**.
+
+3. Select the folder and click **[!UICONTROL Assign]**.
+
+   ![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
+
+-->
 
 ## Passaggi successivi {#next-steps}
 

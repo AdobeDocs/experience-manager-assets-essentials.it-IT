@@ -4,19 +4,68 @@ description: Note sulla versione e problemi noti di [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 84b830af6225242aa8cb851ac6458a66394a281a
+source-git-commit: c61a22ad3c44b26762a8afbb93422197a5cf92ca
 workflow-type: tm+mt
-source-wordcount: '2044'
-ht-degree: 86%
+source-wordcount: '2154'
+ht-degree: 84%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-L’attuale versione di Assets Essentials è stata rilasciata il 22 giugno 2023.
+L’attuale versione di Assets Essentials è stata rilasciata il 27 luglio 2023.
 
 L’elenco delle funzioni incluse nella versione è il seguente:
 
+<!--
+
+**Assign metadata form to a folder**
+
+You can now assign metadata form to a specific folder within your Assets Essentials deployment. All assets in the folder, including assets in the sub-folders, then display properties defined in the assigned metadata form.
+
+![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
+
+-->
+
+**Framework di intelligenza artificiale migliorato per i tag avanzati delle immagini**
+
+Experience Manager Assets ora utilizza un framework di intelligenza artificiale migliorato per i tag avanzati delle immagini. Offre un livello di intelligence sui contenuti che migliora la pertinenza e la precisione dei tag avanzati per tutte le risorse di immagini al momento della loro acquisizione.
+
+**Configurare la visualizzazione delle colonne per la vista Elenco risorse**
+
+Assets Essentials ora consente di selezionare le colonne da visualizzare nella vista Elenco risorse, ad esempio Stato, Formato, Dimension, Dimensione e così via.
+
+![Configurare le colonne](/help/using/assets/configure-columns.png)
+
+**Ordinare i risultati della ricerca in base alla rilevanza**
+
+Per impostazione predefinita, Assets Essentials ora ordina i risultati della ricerca in base alla rilevanza. Puoi ordinare le risorse trovate in ordine crescente o decrescente per `Name`, `Relevance`, `Size`, `Modified` e `Created`.
+
+**Miglioramenti in base al feedback ricevuto dai clienti**
+
+Miglioramenti e correzioni di bug in base al feedback ricevuto dai clienti.
+
+
+## Problemi noti {#known-issues}
+
+L’elenco dei problemi noti di [!DNL Assets Essentials] viene regolarmente rivisto e aggiornato:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* Le raccolte private sono disponibili per l’utente che le crea e gli utenti con privilegi di amministratore. In qualità di amministratore, non puoi delegare ad altri utenti le autorizzazioni di accesso alla raccolta.
+
+* In qualità di amministratore, non puoi delegare ad altri utenti le autorizzazioni di accesso alla raccolta.
+
+In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un feedback](#provide-feedback) al team.
+
+## Versioni precedenti {#past-releases}
+
+### Versione di giugno {#june2023-release}
 
 **Assegnazione di tag gerarchici alle risorse per velocizzare l’esperienza di ricerca**
 
@@ -49,30 +98,6 @@ Assets Essentials ora supporta la visualizzazione dei termini più ricercati nel
 **Miglioramenti al modulo metadati**
 
 Assets Essentials ora consente di aggiungere ai moduli di metadati componenti di testo con più valori e proprietà di elenchi a discesa.
-
-
-**Miglioramenti in base al feedback ricevuto dai clienti**
-
-Miglioramenti e correzioni di bug in base al feedback ricevuto dai clienti.
-
-## Problemi noti {#known-issues}
-
-L’elenco dei problemi noti di [!DNL Assets Essentials] viene regolarmente rivisto e aggiornato:
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* Le raccolte private sono disponibili per l’utente che le crea e gli utenti con privilegi di amministratore. In qualità di amministratore, non puoi delegare ad altri utenti le autorizzazioni di accesso alla raccolta.
-
-* In qualità di amministratore, non puoi delegare ad altri utenti le autorizzazioni di accesso alla raccolta.
-
-In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un feedback](#provide-feedback) al team.
-
-## Versioni precedenti {#past-releases}
 
 ### Versioni multiple nel 2023 {#multiple-releases-2023}
 
