@@ -3,9 +3,9 @@ title: Area di lavoro personale per Assets
 description: L’area di lavoro personale è una pagina che offre moduli visivi personalizzabili per un accesso comodo alle aree chiave dell’interfaccia utente di Assets e alle informazioni più rilevanti per l’utente.
 exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
 source-git-commit: 22786c182ac959739396f694f0a63d84efa28ae5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '687'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 81%
 
 Assets ora include un’area di lavoro personalizzabile che fornisce widget per l’accesso semplificato alle aree chiave dell’interfaccia utente di Assets e alle informazioni più pertinenti per l’utente. Questa pagina funge da soluzione unica per fornire una panoramica degli elementi di lavoro e consentire un accesso rapido ai flussi di lavoro chiave. L’accesso più comodo a queste opzioni aumenta l’efficienza e la velocità dei contenuti.
 
-Per accedere all’area di lavoro personale, fai clic su **[!UICONTROL Area di lavoro personale]** dagli elementi disponibili nel riquadro di navigazione a sinistra. La mia area di lavoro include diversi widget che mostrano Accesso rapido, Approfondimenti, Attività e Contenuto. Puoi configurare la modalità di visualizzazione di questi widget nell’area di lavoro in base alle tue preferenze.
+Per accedere all’area di lavoro personale, fai clic su **[!UICONTROL Area di lavoro personale]** dagli elementi disponibili nel riquadro di navigazione a sinistra. L’area di lavoro personale include diversi widget che mostrano accesso rapido, approfondimenti, attività e contenuto. Puoi configurare la modalità di visualizzazione di questi widget nell’area di lavoro in base alle tue preferenze.
 
 >[!NOTE]
 >
@@ -38,9 +38,9 @@ Highlights upcoming features for Assets.
 
 **Accesso rapido**
 
-Aggiungi file, cartelle e raccolte per un accesso più rapido a questi elementi quando ne avrai bisogno in un secondo momento. Tutti gli elementi fissati vengono visualizzati nella **Accesso rapido** sezione di My Workspace. È possibile accedervi utilizzando l&#39;area di lavoro personale anziché passare alla posizione in cui sono stati salvati nel repository.
+Fissa file, cartelle e raccolte per un accesso più rapido a questi elementi quando ne avrai bisogno in un secondo momento. Tutti gli elementi fissati vengono visualizzati nella sezione **Accesso rapido** dell’area di lavoro personale. È possibile accedervi utilizzando l’area di lavoro personale anziché passare alla posizione in cui sono stati salvati nell’archivio.
 
-Per fissare una risorsa, una cartella o una raccolta, seleziona l’elemento e fai clic su **[!UICONTROL Aggiungi all&#39;accesso rapido]**.
+Per fissare una risorsa, una cartella o una raccolta, seleziona l’elemento e fai clic su **[!UICONTROL Fissa in Accesso rapido]**.
 
 ![Attività nell’area di lavoro](assets/quick-access.png)
 
@@ -48,7 +48,7 @@ Per fissare una risorsa, una cartella o una raccolta, seleziona l’elemento e f
 
 Gli amministratori possono visualizzare un riepilogo del numero di download e caricamenti eseguiti nell’ambiente Assets negli ultimi 30 giorni. Puoi fare clic su **[!UICONTROL Visualizza tutto]** per passare rapidamente alla pagina Approfondimenti e visualizzare dashboard più dettagliate.
 
-Puoi anche visualizzare i termini più cercati e il numero di volte in cui tali termini vengono cercati nell’implementazione di Assets Essentials utilizzando **Approfondimenti** sezione di My Workspace. Puoi anche passare a Insights dettagliato per visualizzare le ricerche principali negli ultimi 30 giorni o 12 mesi.
+Puoi anche visualizzare i termini più cercati e il numero di volte in cui tali termini vengono cercati nella distribuzione di Assets Essentials utilizzando la sezione **Approfondimenti** dell’area di lavoro personale. Puoi anche passare alla sezione Approfondimenti per visualizzare le ricerche principali degli ultimi 30 giorni o 12 mesi.
 
 ![Approfondimenti in Workspace](assets/insights.png)
 
