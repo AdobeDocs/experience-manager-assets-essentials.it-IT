@@ -10,9 +10,9 @@ feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
 source-git-commit: 95720f448d45e1e3f36d10dacbe5c0903a83b3e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -41,10 +41,10 @@ ht-degree: 96%
 + [Gestire le raccolte](manage-collections.md)
 + [Osservare risorse, cartelle e raccolte](manage-notifications.md)
 + [Gestire i rapporti](manage-reports.md)
-+ [Gestione tag](tagging-management.md)
++ [Gestire i tag](tagging-management.md)
 + Integrazione con altre soluzioni {#integration-with-other-solutions}
    + [Panoramica](integration.md)
    + [Integrazione con Creative Cloud per Enterprise](integrate-with-creative-cloud.md)
    + [Integrazione con Adobe Workfront](integrate-with-workfront.md)
 + [Video](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=it)
-+ [Visualizzazione risorse](assets-view-introduction.md)
++ [Vista risorse](assets-view-introduction.md)
