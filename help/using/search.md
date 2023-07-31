@@ -6,7 +6,7 @@ exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: 5942762ec76b25cc89168015edfbe3fce4c4368f
 workflow-type: tm+mt
 source-wordcount: '1042'
-ht-degree: 86%
+ht-degree: 99%
 
 ---
 
@@ -162,13 +162,13 @@ Puoi selezionare le risorse da visualizzare nei risultati della ricerca ed effet
 
 * **Assegna attività**: assegna attività agli utenti per una risorsa.
 
-* **Condividi collegamento**: [Condividere collegamenti](share-links-for-assets.md) per una risorsa con altri utenti in modo che possano accedervi e scaricarla.
+* **Condividi collegamento**: [condividi collegamenti](share-links-for-assets.md) per una risorsa con altri utenti in modo che possano accedervi e scaricarla.
 
-* **Osserva**: [Monitorare le operazioni](manage-notifications.md) eseguita su una risorsa.
+* **Osserva**: [monitora le operazioni](manage-notifications.md) eseguite su una risorsa.
 
 * **Mostra percorso file**: passa alla posizione della cartella delle risorse.
 
-* **Aggiungi all&#39;accesso rapido**: [Fissa una risorsa](my-workspace.md) per un accesso più rapido quando necessario in un secondo momento. Tutti gli elementi fissati vengono visualizzati nella **Accesso rapido** sezione di My Workspace.
+* **Fissa in Accesso rapido**: [fissa una risorsa](my-workspace.md) per un accesso più rapido quando necessario in un secondo momento. Tutti gli elementi fissati vengono visualizzati nella sezione **Accesso rapido** dell’area di lavoro personale.
 
 ## Passaggi successivi {#next-steps}
 

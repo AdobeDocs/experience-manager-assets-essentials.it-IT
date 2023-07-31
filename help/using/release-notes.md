@@ -7,7 +7,7 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: c61a22ad3c44b26762a8afbb93422197a5cf92ca
 workflow-type: tm+mt
 source-wordcount: '2154'
-ht-degree: 84%
+ht-degree: 96%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 84%
 
 L’attuale versione di Assets Essentials è stata rilasciata il 27 luglio 2023.
 
-L’elenco delle funzioni incluse nella versione è il seguente:
+L’elenco delle funzioni incluse in tale versione comprende:
 
 <!--
 
@@ -67,15 +67,15 @@ In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un fee
 
 ### Versione di giugno {#june2023-release}
 
-**Assegnazione di tag gerarchici alle risorse per velocizzare l’esperienza di ricerca**
+**Assegnazione tag gerarchica alle risorse per un’esperienza di ricerca più veloce**
 
-Le liste piatte di vocabolari controllati diventano ingestibili nel tempo. Assets Essentials ora supporta la struttura gerarchica dei tag, che semplifica l’applicazione di metadati rilevanti, la classificazione delle risorse, il supporto della ricerca, il riutilizzo dei tag, il miglioramento dell’individuabilità e così via.
+Gli elenchi semplici dei vocabolari controllati diventano ingestibili nel tempo. Assets Essentials ora supporta la struttura gerarchica dell’assegnazione tag, che semplifica l’applicazione di metadati rilevanti, la classificazione delle risorse, il supporto della ricerca, il riutilizzo dei tag, il miglioramento della reperibilità e così via.
 
-![Gestione dei tag](assets/tags-hierarchy.png)
+![Gestione dell’assegnazione tag](assets/tags-hierarchy.png)
 
-**Aggiungi file, cartelle e raccolte per un accesso rapido**
+**Fissare file, cartelle e raccolte per un accesso rapido**
 
-È ora possibile fissare file, cartelle e raccolte per accedere più rapidamente a tali elementi quando saranno necessari in un secondo momento. Gli elementi bloccati vengono visualizzati nel **Accesso rapido** sezione di My Workspace. È possibile accedervi utilizzando l&#39;area di lavoro personale anziché passare alla posizione in cui sono stati salvati nel repository.
+È ora possibile fissare file, cartelle e raccolte per accedervi più rapidamente quando se ne avrà bisogno. Gli elementi fissati vengono visualizzati nella sezione **Accesso rapido** dell’area di lavoro personale. È possibile accedervi utilizzando l’area di lavoro personale anziché passare alla posizione in cui sono stati salvati nell’archivio.
 
 ![Attività nell’area di lavoro](assets/quick-access.png)
 
@@ -83,23 +83,23 @@ Le liste piatte di vocabolari controllati diventano ingestibili nel tempo. Asset
 
 Assets Essentials ora consente di filtrare le risorse disponibili nella cartella Cestino. Puoi applicare filtri standard o personalizzati per cercare le risorse appropriate all’interno della cartella Cestino per ripristinarle o eliminarle definitivamente.
 
-**Anteprime miniature per risorse 3D**
+**Anteprime delle miniature per risorse 3D**
 
-Assets Essentials ora genera anteprime di miniature per i formati di file 3D comuni, tra cui gLB, USDz, FBX, 3DS, OBJ e SBSAR. Quando questi file vengono caricati in Assets Essentials, per impostazione predefinita le miniature vengono generate automaticamente dal sistema.
+Assets Essentials ora genera anteprime di miniature per i formati comuni di file 3D, tra cui gLB, USDz, FBX, 3DS, OBJ e SBSAR. Quando questi file vengono caricati in Assets Essentials, per impostazione predefinita le miniature vengono generate automaticamente dal sistema.
 
 ![Attività nell’area di lavoro](assets/3d-preview.png)
 
-**Visualizza i termini più cercati**
+**Visualizzare i termini più cercati**
 
-Assets Essentials ora supporta la visualizzazione dei termini più ricercati nell’implementazione di Assets Essentials utilizzando **Approfondimenti** sezione di My Workspace. Puoi anche passare a Insights dettagliato per visualizzare le ricerche principali negli ultimi 30 giorni o 12 mesi.
+Assets Essentials ora supporta la visualizzazione dei termini più ricercati nella distribuzione di Assets Essentials utilizzando la sezione **Approfondimenti** dell’area di lavoro personale. Puoi anche passare alla sezione Approfondimenti per visualizzare le ricerche principali degli ultimi 30 giorni o 12 mesi.
 
 ![Attività nell’area di lavoro](assets/insights-top-searches.png)
 
 **Miglioramenti al modulo metadati**
 
-Assets Essentials ora consente di aggiungere ai moduli di metadati componenti di testo con più valori e proprietà di elenchi a discesa.
+Assets Essentials ora consente di aggiungere componenti di proprietà di testo multi-valore ed elenchi a discesa ai moduli metadati.
 
-### Versioni multiple nel 2023 {#multiple-releases-2023}
+### Più versioni nel 2023 {#multiple-releases-2023}
 
 L’elenco delle funzioni aggiunte di recente include:
 
