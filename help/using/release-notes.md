@@ -5,15 +5,15 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: c61a22ad3c44b26762a8afbb93422197a5cf92ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2154'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-L’attuale versione di Assets Essentials è stata rilasciata il 27 luglio 2023.
+La versione attuale di Assets Essentials è stata rilasciata il 27 luglio 2023.
 
 L’elenco delle funzioni incluse in tale versione comprende:
 
@@ -29,13 +29,13 @@ You can now assign metadata form to a specific folder within your Assets Essenti
 
 **Framework di intelligenza artificiale migliorato per i tag avanzati delle immagini**
 
-Experience Manager Assets ora utilizza un framework di intelligenza artificiale migliorato per i tag avanzati delle immagini. Offre un livello di intelligence sui contenuti che migliora la pertinenza e la precisione dei tag avanzati per tutte le risorse di immagini al momento della loro acquisizione.
+Experience Manager Assets ora utilizza un framework di intelligenza artificiale migliorato per i tag avanzati delle immagini. Offre un livello di intelligence sui contenuti che migliora la pertinenza e la precisione dei tag avanzati per tutte le risorse di tipo immagine al momento della loro acquisizione.
 
 **Configurare la visualizzazione delle colonne per la vista Elenco risorse**
 
-Assets Essentials ora consente di selezionare le colonne da visualizzare nella vista Elenco risorse, ad esempio Stato, Formato, Dimension, Dimensione e così via.
+Assets Essentials ora consente di selezionare le colonne da visualizzare nella vista Elenco risorse, ad esempio Stato, Formato, Dimensioni, Dimensione file e così via.
 
-![Configurare le colonne](/help/using/assets/configure-columns.png)
+![Colonne configurabili](/help/using/assets/configure-columns.png)
 
 **Ordinare i risultati della ricerca in base alla rilevanza**
 
