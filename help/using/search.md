@@ -4,9 +4,9 @@ description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: 5942762ec76b25cc89168015edfbe3fce4c4368f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1042'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -50,7 +50,7 @@ Puoi filtrare i risultati della ricerca in base ai seguenti parametri.
 
 * Filtri personalizzati: [aggiungi filtri personalizzati](#custom-filters) all’interfaccia utente di Assets Essentials. Per perfezionare i risultati della ricerca, applica i filtri personalizzati in aggiunta a quelli standard.
 
-Puoi ordinare le risorse trovate in ordine crescente o decrescente per `Name`, `Relevance`, `Size`, `Modified` e `Created`. Le risorse trovate sono ordinate in base a `Relevance`, per impostazione predefinita.
+Puoi ordinare le risorse trovate in ordine crescente o decrescente per `Name`, `Relevance`, `Size`, `Modified` e `Created`. Per impostazione predefinita, le risorse trovate sono ordinate per `Relevance`.
 
 ## Gestire i filtri personalizzati {#custom-filters}
 
