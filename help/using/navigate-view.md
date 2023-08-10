@@ -4,9 +4,9 @@ description: Comprendere l’interfaccia utente e la navigazione in [!DNL Assets
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: 4f3141fe95a0c33b22042da4f234dd2a921cbac6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1000'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -114,13 +114,13 @@ Other use cases after previewing.
 
 ## Configurare la visualizzazione delle colonne per la vista Elenco risorse {#configure-columns-list-view}
 
-Puoi selezionare le colonne da visualizzare nella vista Elenco risorse, ad esempio Stato, Formato, Dimension, Dimensione e così via:
+Puoi selezionare le colonne da visualizzare nella vista Elenco risorse, ad esempio Stato, Formato, Dimensioni, Dimensione file e così via:
 
-1. Seleziona **[!UICONTROL Risorse]** dal riquadro di navigazione a sinistra, passa alla vista Elenco risorse e fai clic su ![icona impostazioni](assets/settings-icon.svg).
+1. Seleziona **[!UICONTROL Risorse]** nel riquadro di navigazione a sinistra, passa alla vista Elenco risorse e fai clic sull’![icona Impostazioni](assets/settings-icon.svg).
 
 1. Seleziona le colonne da visualizzare nella vista a elenco e fai clic su **[!UICONTROL Conferma]**.
 
-   ![Configurare le colonne](/help/using/assets/configure-columns.png)
+   ![Colonne configurabili](/help/using/assets/configure-columns.png)
 
 ## Passaggi successivi {#next-steps}
 
