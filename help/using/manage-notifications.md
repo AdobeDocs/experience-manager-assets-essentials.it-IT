@@ -5,7 +5,7 @@ exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
 source-git-commit: 07457e86a37b5d39a6c843c2c2cf8750a6acb354
 workflow-type: tm+mt
 source-wordcount: '665'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -98,7 +98,7 @@ Allo stesso modo, per annullare l’iscrizione a una risorsa, cartella o raccolt
 
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
->title="Integrazione Adobi Express"
+>title="Integrazione Adobe Express"
 >abstract="[!DNL Experience Manager Assets] fornisce molti campi di metadati standard per impostazione predefinita. Le organizzazioni hanno l’esigenza di aggiungere altri metadati e ulteriori campi di metadati, specifici per l’azienda. I moduli di metadati consentono alle aziende di aggiungere campi di metadati personalizzati alla pagina Dettagli di una risorsa. I metadati specifici per l’azienda migliorano la governance e l’individuazione delle risorse."
 
 Le notifiche vengono visualizzate all’estremità destra della barra dei menu nell’interfaccia utente di Assets Essentials.
