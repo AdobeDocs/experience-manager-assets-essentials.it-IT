@@ -3,10 +3,10 @@ title: Modificare le immagini
 description: Modifica le immagini utilizzando le opzioni baate su [!DNL Adobe Photoshop Express] e salva le immagini aggiornate come versioni.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: 10709417b2656ab15a3bade94bea701f50ec5ae3
+source-git-commit: c34fa28a698523dee00f972ede0781305aee6e60
 workflow-type: tm+mt
-source-wordcount: '868'
-ht-degree: 53%
+source-wordcount: '896'
+ht-degree: 52%
 
 ---
 
@@ -22,7 +22,12 @@ Dopo aver modificato un’immagine, puoi salvarla come nuova versione. Se necess
 
 <!--The editing actions that are available are Spot healing, Crop and straighten, Resize image, and Adjust image.-->
 
-## Modifica immagini tramite [!DNL Adobe Express] {#edit-using-express}
+## Modifica immagini con Adobi Express {#edit-using-express}
+
+>[!CONTEXTUALHELP]
+>id="assets_express_integration"
+>title="Integrazione Adobe Express"
+>abstract="Strumenti di editing delle immagini semplici e intuitivi basati su Adobi Express disponibili direttamente in AEM Assets per aumentare il riutilizzo dei contenuti e velocizzarne la realizzazione."
 
 ### Ridimensionare l’immagine {#resize-image-using-express}
 
