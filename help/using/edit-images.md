@@ -3,24 +3,89 @@ title: Modificare le immagini
 description: Modifica le immagini utilizzando le opzioni baate su [!DNL Adobe Photoshop Express] e salva le immagini aggiornate come versioni.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
-source-wordcount: '544'
-ht-degree: 100%
+source-git-commit: 10709417b2656ab15a3bade94bea701f50ec5ae3
+workflow-type: tm+mt
+source-wordcount: '868'
+ht-degree: 53%
 
 ---
 
 # Modificare le immagini in [!DNL Assets Essentials] {#edit-images}
 
-[!DNL Assets Essentials] offre opzioni di modifica intuitive basate su [!DNL Adobe Photoshop Express]. Le azioni di modifica disponibili consentono di corregee al volo, ritagliare e raddrizzare, ridimensionare e regolare le immagini.
+[!DNL Assets Essentials] offre opzioni di modifica intuitive basate su [!DNL Adobe Express] e [!DNL Adobe Photoshop Express]. Le azioni di modifica disponibili tramite [!DNL Adobe Express] sono Ridimensiona immagine, Rimuovi sfondo, Ritaglia immagine e Converti JPEG in PNG.
 
-Dopo aver modificato un’immagine, puoi salvarla come nuova versione. Se necessario, il controllo delle versioni consente di ripristinare la risorsa originale in un secondo momento. Per modificare un’immagine, [apri l’anteprima](/help/using/navigate-view.md#preview-assets) e fai clic su **[!UICONTROL Modifica immagine]** ![icona Modifica](assets/do-not-localize/edit-icon.png) nella barra a destra.
+Dopo aver modificato un’immagine, puoi salvarla come nuova versione. Se necessario, il controllo delle versioni consente di ripristinare la risorsa originale in un secondo momento. Per modificare un&#39;immagine: [apri l’anteprima](/help/using/navigate-view.md#preview-assets) e fai clic su **[!UICONTROL Modifica immagine]**.
 
-![Opzioni per modificare un’immagine](assets/edit-image2.png)
+>[!NOTE]
+>
+>È possibile modificare le immagini dei tipi di file PNG e JPEG utilizzando [!DNL Adobe Express].
 
-*Figura: Le opzioni per la modifica delle immagini si basano su [!DNL Adobe Photoshop Express].*
+<!--The editing actions that are available are Spot healing, Crop and straighten, Resize image, and Adjust image.-->
 
-## Correggere immagini al volo {#spot-heal-images}
+## Modifica immagini tramite [!DNL Adobe Express] {#edit-using-express}
+
+### Ridimensionare l’immagine {#resize-image-using-express}
+
+Spesso occorre ridimensionare un’immagine a una dimensione specifica. [!DNL Assets Essentials] consente di ridimensionare rapidamente le immagini per adattarle alle dimensioni comuni delle foto, fornendo nuove risoluzioni precalcolate per dimensioni specifiche. Per ridimensionare l&#39;immagine utilizzando [!DNL Assets Essentials], effettua le seguenti operazioni:
+
+1. Seleziona un’immagine e fai clic su **Modifica**.
+2. Clic **[!DNL Resize Image]** dalle azioni rapide disponibili nel riquadro a sinistra.
+3. Seleziona la piattaforma di social media appropriata dalla sezione **[!UICONTROL Ridimensiona per]** e selezionare le dimensioni dell&#39;immagine tra le opzioni visualizzate.
+4. Ridimensionare l&#39;immagine, se necessario, utilizzando **[!UICONTROL Scala immagine]** campo.
+5. Clic **[!DNL Apply]** per applicare le modifiche.
+   ![Editing di immagini con Adobi Express](/help/using/assets/adobe-express-resize-image.png)
+
+   L&#39;immagine modificata è disponibile per il download. Puoi salvare la risorsa modificata come nuova versione della stessa risorsa oppure salvarla come nuova risorsa.
+   ![Salva immagine con Adobe Express](/help/using/assets/adobe-express-resize-save.png)
+
+### Rimuovi sfondo {#remove-background-using-express}
+
+È possibile rimuovere lo sfondo da un&#39;immagine in pochi semplici passaggi, come indicato di seguito:
+
+1. Seleziona un’immagine e fai clic su **Modifica**.
+2. Clic **[!DNL Remove Background]** dalle azioni rapide disponibili nel riquadro a sinistra. In Experience Manager Assets l&#39;immagine viene visualizzata senza sfondo.
+3. Clic **[!DNL Apply]** per applicare le modifiche.
+   ![Salva immagine con Adobe Express](/help/using/assets/adobe-express-remove-background.png)
+
+   L&#39;immagine modificata è disponibile per il download. Puoi salvare la risorsa modificata come nuova versione della stessa risorsa oppure salvarla come nuova risorsa.
+
+### Ritaglia immagine {#crop-image-using-express}
+
+La trasformazione di un&#39;immagine in una dimensione perfetta è facile grazie all&#39;utilizzo di [!DNL Adobe Express] azioni rapide.
+
+1. Seleziona un’immagine e fai clic su **Modifica**.
+2. Clic **[!DNL Crop Image]** dalle azioni rapide disponibili nel riquadro a sinistra.
+3. Trascina le maniglie sugli angoli dell’immagine per creare il ritaglio desiderato.
+4. Fai clic su **[!DNL Apply]**.
+   ![Salva immagine con Adobe Express](/help/using/assets/adobe-express-crop-image.png)
+L’immagine ritagliata è disponibile per il download. Puoi salvare la risorsa modificata come nuova versione della stessa risorsa oppure salvarla come nuova risorsa.
+
+### Converti JPEG in PNG {#convert-jpeg-to-png-using-express}
+
+Potete convertire rapidamente un&#39;immagine JPEG in formato PNG utilizzando Adobi Express. Esegui i seguenti passaggi:
+
+1. Seleziona un’immagine e fai clic su **Modifica**.
+2. Clic **[!DNL JPEG to PNG]** dalle azioni rapide disponibili nel riquadro a sinistra.
+   ![Converti in PNG con Adobe Express](/help/using/assets/adobe-express-convert-image.png)
+3. Fai clic su **[!UICONTROL Scarica]**.
+
+### Limitazioni {#limitations-adobe-express}
+
+* Risoluzione immagine supportata: minima - 50 pixel, massima - 6000 pixel per dimensione
+
+* Dimensione massima del file supportata: 17 MB
+
+## Modifica immagini tramite [!DNL Adobe Photoshop Express] {#edit-using-photoshop-express}
+
+<!--
+After editing an image, you can save the new image as a new version. Versioning helps you to revert to the original asset later, if needed. To edit an image, [open its preview](/help/using/navigate-view.md#preview-assets) and click **[!UICONTROL Edit Image]** ![edit icon](assets/do-not-localize/edit-icon.png) from the rail on the right.
+
+![Options to edit an image](assets/edit-image2.png)
+
+*Figure: The options to edit images are powered by [!DNL Adobe Photoshop Express].*
+-->
+
+### Correggere immagini al volo {#spot-heal-images-using-photoshop-express}
 
 Se in un’immagine sono presenti piccole macchie o oggetti indesiderati, puoi modificarli e rimuoverli utilizzando il pennello Correzione al volo fornito da Adobe Photoshop.
 
@@ -33,9 +98,9 @@ TBD: See if we should give backlinks to PS docs for these concepts.
 For more information about how Spot Healing works in Photoshop, see [retouching and repairing photos](https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html). 
 -->
 
-## Ritagliare e raddrizzare le immagini {#crop-straighten-images}
+### Ritagliare e raddrizzare le immagini {#crop-straighten-images-using-photoshop-express}
 
-Utilizzando l’opzione di ritaglio e raddrizzamento è possibile eseguire ritaglio di base, ruotare l’immagine, capovolgerla in orizzontale o in verticale e ritagliarla con le proporzioni più adatte per i social media più popolari.
+Utilizzando l’opzione di ritaglio e raddrizzamento è possibile eseguire ritaglio di base, ruotare l’immagine, capovolgerla in orizzontale o in verticale e ritagliarla con le dimensioni adatte ai social media più diffusi.
 
 Per salvare le modifiche, fai clic su **[!UICONTROL Ritaglia immagine]**. Dopo la modifica, puoi salvare la nuova immagine come versione.
 
@@ -43,15 +108,15 @@ Per salvare le modifiche, fai clic su **[!UICONTROL Ritaglia immagine]**. Dopo l
 
 Molte opzioni predefinite consentono di ritagliare l’immagine alle proporzioni più adatte a vari profili e post di social media.
 
-## Ridimensionare l’immagine {#resize-image}
+### Ridimensionare l’immagine {#resize-image-using-photoshop-express}
 
-Spesso occorre ridimensionare un’immagine a una dimensione specifica. [!DNL Assets Essentials] consente di ridimensionare rapidamente le immagini per adattarle alle dimensioni comuni delle foto, fornendo nuove risoluzioni precalcolate per dimensioni specifiche. Puoi visualizzare le dimensioni comuni delle foto in centimetri o pollici per conoscerne la grandezza. Per impostazione predefinita, il metodo di ridimensionamento mantiene le proporzioni originali. Per modificare manualmente le proporzioni, fai clic su ![](assets/do-not-localize/lock-closed-icon.png).
+Puoi visualizzare le dimensioni comuni delle foto in centimetri o pollici per conoscerne la grandezza. Per impostazione predefinita, il metodo di ridimensionamento mantiene le proporzioni originali. Per modificare manualmente le proporzioni, fai clic su ![](assets/do-not-localize/lock-closed-icon.png).
 
 Inserisci le dimensioni e fai clic su **[!UICONTROL Ridimensiona immagine]** per ridimensionare l’immagine. Prima di salvare le modifiche come versione, puoi fare clic su [!UICONTROL Annulla] per annullare tutte le modifiche apportate prima di salvarle; oppure, per modificare un passaggio di modifica specifico, fai clic su [!UICONTROL Ripristina].
 
 ![Opzioni per ridimensionre un’immagine](assets/resize-image.png)
 
-## Regolare l’immagine {#adjust-image}
+### Regolare l’immagine {#adjust-image-using-photoshop-express}
 
 [!DNL Assets Essentials] consente di regolare il colore, il tono, il contrasto e molto altro con pochi clic. Fai clic su **[!UICONTROL Regola immagine]** nella finestra di modifica. Nella barra laterale a destra sono disponibili le seguenti opzioni:
 
@@ -67,7 +132,7 @@ Inserisci le dimensioni e fai clic su **[!UICONTROL Ridimensiona immagine]** per
 TBD: Insert a video of the available social media options.
 -->
 
-## Passaggi successivi {#next-steps}
+### Passaggi successivi {#next-steps}
 
 * Fornisci feedback sui prodotti utilizzando l’opzione [!UICONTROL Feedback] disponibile nell’interfaccia utente di Assets Essentials
 

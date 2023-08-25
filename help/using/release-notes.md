@@ -4,16 +4,16 @@ description: Note sulla versione e problemi noti di [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: c61a22ad3c44b26762a8afbb93422197a5cf92ca
-workflow-type: ht
-source-wordcount: '2154'
-ht-degree: 100%
+source-git-commit: de90b6958e4db44e8706d4a74558006702c3057c
+workflow-type: tm+mt
+source-wordcount: '2298'
+ht-degree: 93%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-La versione attuale di Assets Essentials è stata rilasciata il 27 luglio 2023.
+L’attuale versione di Assets Essentials è stata rilasciata il 24 agosto 2023.
 
 L’elenco delle funzioni incluse in tale versione comprende:
 
@@ -27,19 +27,23 @@ You can now assign metadata form to a specific folder within your Assets Essenti
 
 -->
 
-**Framework di intelligenza artificiale migliorato per i tag avanzati delle immagini**
+**Importare risorse in blocco da origini dati**
 
-Experience Manager Assets ora utilizza un framework di intelligenza artificiale migliorato per i tag avanzati delle immagini. Offre un livello di intelligence sui contenuti che migliora la pertinenza e la precisione dei tag avanzati per tutte le risorse di tipo immagine al momento della loro acquisizione.
+Gli amministratori ora possono importare un numero elevato di risorse da un’origine dati ad AEM Assets. Gli amministratori non devono più caricare singole risorse o cartelle in AEM Assets. Le origini dati supportate per l’importazione in blocco includono Azure, AWS, Google Cloud e Dropbox.
 
-**Configurare la visualizzazione delle colonne per la vista Elenco risorse**
+![Importare risorse in blocco da un’origine dati](/help/using/assets/bulk-import.png)
 
-Assets Essentials ora consente di selezionare le colonne da visualizzare nella vista Elenco risorse, ad esempio Stato, Formato, Dimensioni, Dimensione file e così via.
+**Strumenti di modifica delle immagini basati su Adobi Express**
 
-![Colonne configurabili](/help/using/assets/configure-columns.png)
+Strumenti di editing delle immagini semplici e intuitivi basati su Adobi Express disponibili direttamente in AEM Assets per aumentare il riutilizzo dei contenuti e velocizzarne la realizzazione.
 
-**Ordinare i risultati della ricerca in base alla rilevanza**
+![Editing di immagini con Adobi Express](/help/using/assets/edit-adobe-express.png)
 
-Per impostazione predefinita, Assets Essentials ora ordina i risultati della ricerca in base alla rilevanza. Puoi ordinare le risorse trovate in ordine crescente o decrescente per `Name`, `Relevance`, `Size`, `Modified` e `Created`.
+**Flessibilità durante l&#39;inserimento di elementi nell&#39;area di lavoro Accesso rapido**
+
+Possibilità di selezionare e fissare gli elementi per te, per l’intera organizzazione o per un elenco di gruppi in modo che vengano visualizzati nella sezione Accesso rapido di Area di lavoro personale in base alla selezione.
+
+![Fissa elementi per gruppi](assets/pin-items-for-groups.png)
 
 **Miglioramenti in base al feedback ricevuto dai clienti**
 
@@ -65,7 +69,23 @@ In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un fee
 
 ## Versioni precedenti {#past-releases}
 
-### Versione di giugno {#june2023-release}
+### Versione di luglio 2023 {#july2023-release}
+
+**Framework di intelligenza artificiale migliorato per i tag avanzati delle immagini**
+
+Experience Manager Assets ora utilizza un framework di intelligenza artificiale migliorato per i tag avanzati delle immagini. Offre un livello di intelligence sui contenuti che migliora la pertinenza e la precisione dei tag avanzati per tutte le risorse di tipo immagine al momento della loro acquisizione.
+
+**Configurare la visualizzazione delle colonne per la vista Elenco risorse**
+
+Assets Essentials ora consente di selezionare le colonne da visualizzare nella vista Elenco risorse, ad esempio Stato, Formato, Dimensioni, Dimensione file e così via.
+
+![Colonne configurabili](/help/using/assets/configure-columns.png)
+
+**Ordinare i risultati della ricerca in base alla rilevanza**
+
+Per impostazione predefinita, Assets Essentials ora ordina i risultati della ricerca in base alla rilevanza. Puoi ordinare le risorse trovate in ordine crescente o decrescente per `Name`, `Relevance`, `Size`, `Modified` e `Created`.
+
+### Versione di giugno 2023 {#june2023-release}
 
 **Assegnazione tag gerarchica alle risorse per un’esperienza di ricerca più veloce**
 
