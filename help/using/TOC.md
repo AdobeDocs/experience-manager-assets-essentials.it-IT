@@ -9,10 +9,10 @@ feature-set: Experience Manager Assets,Experience Manager
 feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
-source-git-commit: 95720f448d45e1e3f36d10dacbe5c0903a83b3e8
-workflow-type: ht
-source-wordcount: '131'
-ht-degree: 100%
+source-git-commit: e6720e7f3f19e81b50feece7e7adaddca0b861d8
+workflow-type: tm+mt
+source-wordcount: '134'
+ht-degree: 97%
 
 ---
 
@@ -33,6 +33,7 @@ ht-degree: 100%
 + [Tipi di file supportati e casi d’uso](supported-file-formats.md)
 + [Visualizzare le risorse](navigate-view.md)
 + [Caricare e aggiungere risorse](add-delete.md)
++ [Risorse di importazione in blocco](bulk-import-assets-view.md)
 + [Cercare e individuare le risorse](search.md)
 + [Attività di gestione risorse](manage-organize.md)
 + [Modificare le immagini](edit-images.md)
