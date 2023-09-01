@@ -3,10 +3,10 @@ title: Modificare le immagini
 description: Modifica le immagini utilizzando le opzioni baate su [!DNL Adobe Photoshop Express] e salva le immagini aggiornate come versioni.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: c34fa28a698523dee00f972ede0781305aee6e60
+source-git-commit: 701da4ddf9dcadb9e8ad3070877788344d0210fc
 workflow-type: tm+mt
-source-wordcount: '896'
-ht-degree: 52%
+source-wordcount: '908'
+ht-degree: 51%
 
 ---
 
@@ -34,10 +34,10 @@ Dopo aver modificato un’immagine, puoi salvarla come nuova versione. Se necess
 Spesso occorre ridimensionare un’immagine a una dimensione specifica. [!DNL Assets Essentials] consente di ridimensionare rapidamente le immagini per adattarle alle dimensioni comuni delle foto, fornendo nuove risoluzioni precalcolate per dimensioni specifiche. Per ridimensionare l&#39;immagine utilizzando [!DNL Assets Essentials], effettua le seguenti operazioni:
 
 1. Seleziona un’immagine e fai clic su **Modifica**.
-2. Clic **[!DNL Resize Image]** dalle azioni rapide disponibili nel riquadro a sinistra.
+2. Clic **[!UICONTROL Ridimensiona immagine]** dalle azioni rapide disponibili nel riquadro a sinistra.
 3. Seleziona la piattaforma di social media appropriata dalla sezione **[!UICONTROL Ridimensiona per]** e selezionare le dimensioni dell&#39;immagine tra le opzioni visualizzate.
 4. Ridimensionare l&#39;immagine, se necessario, utilizzando **[!UICONTROL Scala immagine]** campo.
-5. Clic **[!DNL Apply]** per applicare le modifiche.
+5. Clic **[!UICONTROL Applica]** per applicare le modifiche.
    ![Editing di immagini con Adobi Express](/help/using/assets/adobe-express-resize-image.png)
 
    L&#39;immagine modificata è disponibile per il download. Puoi salvare la risorsa modificata come nuova versione della stessa risorsa oppure salvarla come nuova risorsa.
@@ -48,8 +48,8 @@ Spesso occorre ridimensionare un’immagine a una dimensione specifica. [!DNL As
 È possibile rimuovere lo sfondo da un&#39;immagine in pochi semplici passaggi, come indicato di seguito:
 
 1. Seleziona un’immagine e fai clic su **Modifica**.
-2. Clic **[!DNL Remove Background]** dalle azioni rapide disponibili nel riquadro a sinistra. In Experience Manager Assets l&#39;immagine viene visualizzata senza sfondo.
-3. Clic **[!DNL Apply]** per applicare le modifiche.
+2. Clic **[!UICONTROL Rimuovi sfondo]** dalle azioni rapide disponibili nel riquadro a sinistra. In Experience Manager Assets l&#39;immagine viene visualizzata senza sfondo.
+3. Clic **[!UICONTROL Applica]** per applicare le modifiche.
    ![Salva immagine con Adobe Express](/help/using/assets/adobe-express-remove-background.png)
 
    L&#39;immagine modificata è disponibile per il download. Puoi salvare la risorsa modificata come nuova versione della stessa risorsa oppure salvarla come nuova risorsa.
@@ -59,9 +59,9 @@ Spesso occorre ridimensionare un’immagine a una dimensione specifica. [!DNL As
 La trasformazione di un&#39;immagine in una dimensione perfetta è facile grazie all&#39;utilizzo di [!DNL Adobe Express] azioni rapide.
 
 1. Seleziona un’immagine e fai clic su **Modifica**.
-2. Clic **[!DNL Crop Image]** dalle azioni rapide disponibili nel riquadro a sinistra.
+2. Clic **[!UICONTROL Ritaglia immagine]** dalle azioni rapide disponibili nel riquadro a sinistra.
 3. Trascina le maniglie sugli angoli dell’immagine per creare il ritaglio desiderato.
-4. Fai clic su **[!DNL Apply]**.
+4. Clic **[!UICONTROL Applica]**.
    ![Salva immagine con Adobe Express](/help/using/assets/adobe-express-crop-image.png)
 L’immagine ritagliata è disponibile per il download. Puoi salvare la risorsa modificata come nuova versione della stessa risorsa oppure salvarla come nuova risorsa.
 
@@ -70,7 +70,7 @@ L’immagine ritagliata è disponibile per il download. Puoi salvare la risorsa 
 Potete convertire rapidamente un&#39;immagine JPEG in formato PNG utilizzando Adobi Express. Esegui i seguenti passaggi:
 
 1. Seleziona un’immagine e fai clic su **Modifica**.
-2. Clic **[!DNL JPEG to PNG]** dalle azioni rapide disponibili nel riquadro a sinistra.
+2. Clic **[!UICONTROL Da JPEG a PNG]** dalle azioni rapide disponibili nel riquadro a sinistra.
    ![Converti in PNG con Adobe Express](/help/using/assets/adobe-express-convert-image.png)
 3. Fai clic su **[!UICONTROL Scarica]**.
 
