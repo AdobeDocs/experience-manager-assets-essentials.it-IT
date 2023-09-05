@@ -1,16 +1,25 @@
 ---
 title: Importare in blocco le risorse tramite la vista Risorse
 description: Scopri come importare in blocco le risorse utilizzando la nuova interfaccia utente Assets (vista Assets). Consente agli amministratori di importare un numero elevato di risorse da un’origine dati ad AEM Assets.
-source-git-commit: ceadd99c1d846a97752ed13097bafd0d10bb2a35
+source-git-commit: 946dc5ea27c61eb5f2dc74054ebdd65cdbdb71a8
 workflow-type: tm+mt
-source-wordcount: '992'
-ht-degree: 3%
+source-wordcount: '1244'
+ht-degree: 2%
 
 ---
 
 # Importare in blocco le risorse tramite la vista Risorse  {#bulk-import-assets-view}
 
+>[!CONTEXTUALHELP]
+>id="assets_bulk_import"
+>title="Risorse di importazione in blocco"
+>abstract="Gli amministratori ora possono importare un numero elevato di risorse da un’origine dati a Experience Manager Assets utilizzando la vista Risorse. Gli amministratori non devono più caricare singole risorse o cartelle in Experience Manager Assets. I provider di archiviazione cloud supportati per l’importazione in blocco includono Azure, AWS, Google Cloud e Dropbox."
+
 L’importazione in blocco nella vista AEM Assets consente agli amministratori di importare in AEM Assets un numero elevato di risorse da un’origine dati. Gli amministratori non devono più caricare singole risorse o cartelle in AEM Assets.
+
+>[!NOTE]
+>
+>L’importazione in blocco della vista Risorse utilizza lo stesso backend dell’importazione in blocco della vista Amministratore. Tuttavia, offre più origini dati da cui importare e un’esperienza utente più semplice.
 
 Puoi importare le risorse dalle seguenti origini dati:
 
@@ -58,6 +67,14 @@ Per creare una configurazione di importazione in blocco, effettua le seguenti op
    ![Esegui importazione in blocco](assets/bulk-import-run.png)
 
 1. Clic **[!UICONTROL Salva]** per eseguire l&#39;opzione selezionata.
+
+### Gestione dei nomi dei file durante l’importazione in blocco {#filename-handling-bulkimport-assets-view}
+
+Quando importi risorse o cartelle in blocco, [!DNL Experience Manager Assets] importa l&#39;intera struttura di ciò che esiste nell&#39;origine di importazione. [!DNL Experience Manager] segue le regole predefinite per i caratteri speciali nei nomi delle risorse e delle cartelle; pertanto, questi nomi di file devono essere bonificati. Sia per il nome della cartella che per quello della risorsa, il titolo definito dall’utente rimane invariato e viene memorizzato in `jcr:title`.
+
+Durante l’importazione in blocco, [!DNL Experience Manager] cerca le cartelle esistenti per evitare di reimportare le risorse e le cartelle e verifica inoltre le regole di bonifica applicate nella cartella principale in cui avviene l’importazione. Se le regole di bonifica vengono applicate nella cartella padre, le stesse regole vengono applicate all&#39;origine di importazione. Per le nuove importazioni, per gestire i nomi file di risorse e cartelle vengono applicate le seguenti regole di bonifica.
+
+Per ulteriori informazioni sui nomi non consentiti, sulla gestione dei nomi delle risorse e sulla gestione dei nomi delle cartelle durante l’importazione in blocco, consulta [Gestione dei nomi dei file durante l’importazione in blocco nella vista Amministrazione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=en#filename-handling-bulkimport).
 
 ## Visualizzare le configurazioni di importazione in blocco esistenti {#view-import-configuration}
 
