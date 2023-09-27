@@ -4,10 +4,10 @@ description: Gestire i metadati delle risorse in [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 1897989934b12b0f88b56461c76833273ca04447
-workflow-type: ht
-source-wordcount: '1558'
-ht-degree: 100%
+source-git-commit: 1df4ab7705b5478c86531a5b4cae57b09ef5a0d5
+workflow-type: tm+mt
+source-wordcount: '1686'
+ht-degree: 92%
 
 ---
 
@@ -135,25 +135,21 @@ Di seguito è riportata una panoramica di ciascun tipo di proprietà e della rel
 | Parole chiave | Aggiungi parole chiave in formato libero (mappate a dc:subject). |
 | Tag avanzati | Migliora le funzionalità di ricerca aggiungendo automaticamente tag di metadati. |
 
-<!--
+### Assegnare il modulo metadati a una cartella {#assign-metadata-form-folder}
 
-### Assign metadata form to a folder {#assign-metadata-form-folder}
+Puoi anche assegnare un modulo di metadati a una cartella all’interno della distribuzione di Assets Essentials. Il modulo metadati assegnato a una cartella in base al tipo MIME viene sovrascritto quando si applica manualmente un modulo metadati a una cartella. Tutte le risorse nella cartella, comprese le risorse nelle sottocartelle, quindi visualizzano le proprietà definite nel modulo metadati.
 
-You can also assign a metadata form to a folder within your Assets Essentials deployment. The metadata form assigned to a folder as per the MIME type is overwritten when you apply a metadata form to a folder manually. All assets in the folder, including assets in the sub-folders, then display properties defined in the metadata form.
+Per assegnare un modulo di metadati a una cartella:
 
-To assign a metadata form to a folder:
+1. Accedi a **[!UICONTROL Impostazioni]** > **[!UICONTROL Forms metadati]** e seleziona un modulo di metadati.
 
-1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Metadata Forms]** and select a metadata form.
+2. Clic **[!UICONTROL Assegna a cartella]**.
 
-2. Click **[!UICONTROL Assign to Folder]**.
+3. Seleziona la cartella e fai clic su **[!UICONTROL Assegna]**.
 
-3. Select the folder and click **[!UICONTROL Assign]**.
+   ![assegnare il modulo metadati a una cartella](/help/using/assets/assign-to-folder.png)
 
-   ![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
-
-   You can also navigate to the folder details page and select a metadata form from the folder properties available in the right pane to assign the metadata form to the folder.
-
--->
+   È inoltre possibile passare alla pagina dei dettagli della cartella e selezionare un modulo di metadati dalle proprietà della cartella disponibili nel riquadro di destra per assegnare il modulo di metadati alla cartella.
 
 ## Passaggi successivi {#next-steps}
 
