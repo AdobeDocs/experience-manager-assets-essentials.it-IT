@@ -1,14 +1,14 @@
 ---
-title: Come gestire i tag nella Vista risorse?
-description: Scopri come gestire i tag nella Vista risorse. I tag consentono di categorizzare le risorse così da poter essere sfogliate e cercate in modo più efficiente.
-source-git-commit: 22786c182ac959739396f694f0a63d84efa28ae5
-workflow-type: ht
-source-wordcount: '1422'
-ht-degree: 100%
+title: Come si gestiscono i tag negli Assets Essentials?
+description: Scopri come gestire i tag negli Assets Essentials. I tag consentono di categorizzare le risorse così da poter essere sfogliate e cercate in modo più efficiente.
+source-git-commit: 8708a9140b283ab2f45db7d466c069e53fb28b2a
+workflow-type: tm+mt
+source-wordcount: '1292'
+ht-degree: 88%
 
 ---
 
-# Gestire i tag nella Vista risorse {#view-assets-and-details}
+# Gestire i tag negli Assets Essentials {#view-assets-and-details}
 
 
 >[!CONTEXTUALHELP]
@@ -32,7 +32,7 @@ L’assegnazione tag offre molti vantaggi, ad esempio:
 
 * I tag possono evolvere nel tempo in funzione dei cambiamenti del vocabolario organizzativo.
 
-* I tag gestiti nella Vista amministrazione rimangono sincronizzati con i tag gestiti nella Vista risorse garantendo la governance e l’integrità dei metadati.
+* I tag gestiti in Assets as a Cloud Service rimangono sincronizzati con i tag gestiti negli Assets Essentials, il che garantisce la governance e l’integrità dei metadati.
 
 Per poter applicare tag alle risorse, è necessario prima creare uno spazio dei nomi, quindi creare e aggiungervi i tag. È possibile anche creare dei tag e aggiungerli a uno spazio dei nomi esistente. Tutti i tag creati a livello di radice vengono aggiunti automaticamente allo spazio dei nomi Tag standard. È possibilie quindi aggiungere il campo Tag al modulo dei metadati in modo che venga visualizzato nella pagina dei dettagli della risorsa. Dopo aver configurato queste impostazioni, puoi iniziare ad applicare i tag alle risorse.
 
@@ -42,7 +42,7 @@ Per poter applicare tag alle risorse, è necessario prima creare uno spazio dei 
 
 ![Gestione dell’assegnazione tag](assets/tagging-taxonomy-management.png)
 
-Nella Vista amministrazione, sono disponibili ulteriori funzionalità oltre a quelle indicate in questo articolo, tra cui unione, ridenominazione, localizzazione e pubblicazione di tag.
+In Assets as a Cloud Service sono disponibili funzionalità aggiuntive oltre a quelle indicate in questo articolo, come l’unione, la ridenominazione, la localizzazione e la pubblicazione di tag.
 
 ## Creazione di uno spazio dei nomi {#creating-a-namespace}
 
@@ -92,7 +92,7 @@ Per creare un tag standard, fai clic su `Create Tag` a livello di radice. Specif
 
 >[!NOTE]
 >
->Se elimini lo spazio dei nomi `Standard Tags` utilizzando la vista Amministratore, i tag creati a livello di radice non vengono visualizzati nell’elenco dei tag disponibili.
+>Se elimini `Standard Tags` spazio dei nomi utilizzando Assets as a Cloud Service, i tag creati a livello principale non vengono visualizzati nell’elenco dei tag disponibili.
 
 ## Spostamento dei tag {#moving-tags}
 
@@ -115,7 +115,7 @@ Per modificare il titolo del tag, selezionalo e fai clic su `Edit`. Specifica il
 >[!NOTE]
 >
 >* Il `Name` di un tag non può essere aggiornato. Anche il percorso principale di un tag è basato sul nome del tag. Il percorso rimane invariato anche se si aggiorna il campo `Title`.
->* Ulteriori operazioni, quali unione, localizzazione e pubblicazione, sono disponibili nella vista Amministratore.
+>* In Assets as a Cloud Service sono disponibili operazioni aggiuntive come unione, localizzazione e pubblicazione.
 
 ## Eliminazione dei tag {#deleting-tags}
 
@@ -134,7 +134,7 @@ Per eliminare i tag, effettua le seguenti operazioni:
 
 ## Aggiunta del componente Tag al modulo Metadati {#adding-tags-to-metadata-form}
 
-Il componente Tag viene aggiunto al modulo metadati `default` automaticamente. Puoi progettare un [modulo metadati](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=it#metadata-forms) utilizzando un modello o da zero. Se non utilizzi un modello di modulo Metadati esistente, puoi modificare il modulo Metadati e aggiungere il componente Tag. La mappatura della proprietà dei metadati viene compilata automaticamente e non può essere modificata in questo momento. Gli utenti nella vista Amministratore possono aggiornare la mappatura per memorizzare i valori dei tag utilizzando spazi dei nomi personalizzati ed esporre solo sottoinsiemi di gerarchie utilizzando percorsi principali.
+Il componente Tag viene aggiunto al modulo metadati `default` automaticamente. Puoi progettare un [modulo metadati](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=it#metadata-forms) utilizzando un modello o da zero. Se non utilizzi un modello di modulo Metadati esistente, puoi modificare il modulo Metadati e aggiungere il componente Tag. La mappatura della proprietà dei metadati viene compilata automaticamente e non può essere modificata in questo momento. Gli utenti as a Cloud Service di Assets possono aggiornare la mappatura per memorizzare i valori dei tag utilizzando spazi dei nomi personalizzati ed esporre solo sottoinsiemi di gerarchie utilizzando percorsi principali.
 
 Guarda questo video rapido per vedere come aggiungere il componente Tag al modulo di metadati:
 
@@ -149,17 +149,7 @@ Guarda questo video rapido per vedere come aggiungere il componente Tag al modul
    ![Assegnazione di tag alle risorse](assets/adding-tags-to-assets.png)
 
 1. Seleziona uno o più tag. Il tag secondario viene selezionato automaticamente insieme al tag principale o allo spazio dei nomi.
-I tag modificati nella vista Risorse vengono applicati anche nella vista Amministratore.
-
-## Limitazioni {#limitations}
-
-Le seguenti funzionalità avanzate di tassonomia non sono al momento disponibili in Visualizza Risorse e sono accessibili solo in Visualizza Amministratore:
-
-* **Localizzazione:** qualsiasi localizzazione deve essere eseguita nella vista Amministratore.
-* **Percorso principale:** i percorsi principali non sono configurabili. Tutti gli spazi dei nomi memorizzati in Gestione tassonomia sono esposti nella proprietà Tag in Visualizza Risorse.
-* **Tag standard:** i tag Standard applicati in Visualizza Amministrazione sono visibili in Visualizza Risorse. Non è possibile aggiungere nuovi tag standard in Visualizza Risorse della pagina Dettagli risorse. I valori esistenti memorizzati nei tag standard vengono applicati alla pagina Dettagli risorse.
-* **Spazi dei nomi personalizzati:** i tag non possono essere mappati su spazi dei nomi personalizzati.
-* **Visualizzazione dei riferimenti:** gli amministratori possono visualizzare l’utilizzo dei tag in Visualizza Risorse. Ciò vale per tutte le risorse che utilizzano attivamente un tag. Tuttavia, gli amministratori non possono visualizzare risorse singole utilizzando il tag nei riferimenti.
+I tag modificati negli Assets Essentials vengono applicati anche in Assets as a Cloud Service.
 
 <!--
 *   Overview

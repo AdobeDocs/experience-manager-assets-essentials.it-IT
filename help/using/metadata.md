@@ -4,14 +4,14 @@ description: Gestire i metadati delle risorse in [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 1df4ab7705b5478c86531a5b4cae57b09ef5a0d5
+source-git-commit: 8708a9140b283ab2f45db7d466c069e53fb28b2a
 workflow-type: tm+mt
 source-wordcount: '1686'
 ht-degree: 92%
 
 ---
 
-# Metadati in Visualizza Risorse {#metadata}
+# Metadati negli Assets Essentials {#metadata}
 
 Con metadati si intendono i dati o la descrizione dei dati. Ad esempio, le immagini come risorsa possono contenere informazioni sulla fotocamera con cui sono state scattate o su eventuale copyright. Queste informazioni sono metadati dell’immagine. I metadati sono fondamentali per una gestione efficiente delle risorse. I metadati raccolgono tutti i dati disponibili per una risorsa, ma non sono necessariamente contenuti in essa.
 
