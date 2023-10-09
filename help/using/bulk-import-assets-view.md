@@ -1,10 +1,11 @@
 ---
 title: Importare in blocco le risorse tramite Assets Essentials
 description: Scopri come importare in blocco le risorse utilizzando la nuova interfaccia utente Assets (Assets Essentials). Consente agli amministratori di importare un numero elevato di risorse da un’origine dati ad AEM Assets.
-source-git-commit: 8708a9140b283ab2f45db7d466c069e53fb28b2a
+exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
+source-git-commit: 77accbc70d973a9b4afddde1c8bcd60c37ff636d
 workflow-type: tm+mt
 source-wordcount: '1245'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
@@ -13,7 +14,7 @@ ht-degree: 5%
 >[!CONTEXTUALHELP]
 >id="assets_bulk_import"
 >title="Importare in blocco le risorse"
->abstract="Gli amministratori ora possono importare un numero elevato di risorse da un’origine dati a Experience Manager Assets utilizzando gli Assets Essentials. Gli amministratori non devono più caricare singole risorse o cartelle in Experience Manager Assets. I provider di archiviazione cloud supportati per l’importazione in blocco includono Azure, AWS, Google Cloud e Dropbox."
+>abstract="Gli amministratori ora possono importare un numero elevato di risorse da un’origine dati a Experience Manager Assets utilizzando Assets Essentials. Gli amministratori non devono più caricare singole risorse o cartelle in Experience Manager Assets. I provider di archiviazione cloud supportati per l’importazione in blocco includono Azure, AWS, Google Cloud e Dropbox."
 
 L’importazione in blocco in AEM Assets Essentials consente agli amministratori di importare in AEM Assets un numero elevato di risorse da un’origine dati. Gli amministratori non devono più caricare singole risorse o cartelle in AEM Assets.
 
@@ -138,4 +139,3 @@ Fai clic su ... corrispondente al nome della configurazione esistente in **[!UIC
 ## Passare alle risorse dopo l&#39;importazione in blocco {#view-assets-after-bulk-import}
 
 Per visualizzare il percorso di destinazione delle risorse in cui vengono importate dopo l’esecuzione del processo di importazione in blocco, fai clic su ... corrispondente al nome della configurazione, quindi fai clic su **[!UICONTROL Visualizza risorse]**.
-
