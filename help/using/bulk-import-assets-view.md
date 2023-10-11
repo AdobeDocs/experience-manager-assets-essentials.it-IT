@@ -2,9 +2,9 @@
 title: Importare in blocco le risorse tramite Assets Essentials
 description: Scopri come importare in blocco le risorse utilizzando la nuova interfaccia utente Assets (Assets Essentials). Consente agli amministratori di importare un numero elevato di risorse da un’origine dati ad AEM Assets.
 exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
-source-git-commit: db664a94a8e0c8bddcd415477518ab9d354faee0
+source-git-commit: 73721e8ee5c130ccad2ef2bdccba2e8412e031f2
 workflow-type: tm+mt
-source-wordcount: '1263'
+source-wordcount: '1245'
 ht-degree: 7%
 
 ---
@@ -15,7 +15,6 @@ ht-degree: 7%
 >id="assets_bulk_import"
 >title="Importare in blocco le risorse"
 >abstract="Gli amministratori ora possono importare un numero elevato di risorse da un’origine dati a Experience Manager Assets utilizzando Assets Essentials. Gli amministratori non devono più caricare singole risorse o cartelle in Experience Manager Assets. I provider di archiviazione cloud supportati per l’importazione in blocco includono Azure, AWS, Google Cloud e Dropbox."
->additional-url="https://images-tv.adobe.com/mpcv3/4477/513abbee-d037-44dc-bc3a-47a91d4b0078_1696935015.854x480at800_h264.mp4" text="Guarda la funzione in azione"
 
 L’importazione in blocco in AEM Assets Essentials consente agli amministratori di importare in AEM Assets un numero elevato di risorse da un’origine dati. Gli amministratori non devono più caricare singole risorse o cartelle in AEM Assets.
 
