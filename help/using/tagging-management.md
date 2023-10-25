@@ -1,7 +1,8 @@
 ---
 title: Come si gestiscono i tag negli Assets Essentials?
 description: Scopri come gestire i tag negli Assets Essentials. I tag consentono di categorizzare le risorse così da poter essere sfogliate e cercate in modo più efficiente.
-source-git-commit: 8708a9140b283ab2f45db7d466c069e53fb28b2a
+exl-id: da9e8d56-c190-4006-9579-c3c8401c5e5f
+source-git-commit: 74f78f0675e01c09a8654d7f7d0db14a0ee674a2
 workflow-type: tm+mt
 source-wordcount: '1292'
 ht-degree: 88%
@@ -150,21 +151,3 @@ Guarda questo video rapido per vedere come aggiungere il componente Tag al modul
 
 1. Seleziona uno o più tag. Il tag secondario viene selezionato automaticamente insieme al tag principale o allo spazio dei nomi.
 I tag modificati negli Assets Essentials vengono applicati anche in Assets as a Cloud Service.
-
-<!--
-*   Overview
-*   Benefits
-*   Prerequisites and Permissions
-*   Configuration
-*   Managing Tags
-    *   Creating a Namespace
-    *   Adding Tags to a Namespace
-    *   Adding Tags to Standard Tags
-    *   Moving Tags
-    *   Editing Tags
-    *   Deleting Tags
-*   Applying Tags
-    *   Adding Tags to the Metadata form
-    *   Adding Tags to Assets
-*   Limitations
--->
