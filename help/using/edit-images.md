@@ -6,7 +6,7 @@ exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: 701da4ddf9dcadb9e8ad3070877788344d0210fc
 workflow-type: tm+mt
 source-wordcount: '908'
-ht-degree: 53%
+ht-degree: 100%
 
 ---
 
@@ -14,73 +14,73 @@ ht-degree: 53%
 
 [!DNL Assets Essentials] offre opzioni di modifica intuitive basate su [!DNL Adobe Express] e [!DNL Adobe Photoshop Express]. Le azioni di modifica disponibili tramite [!DNL Adobe Express] sono Ridimensiona immagine, Rimuovi sfondo, Ritaglia immagine e Converti JPEG in PNG.
 
-Dopo aver modificato un’immagine, puoi salvarla come nuova versione. Se necessario, il controllo delle versioni consente di ripristinare la risorsa originale in un secondo momento. Per modificare un&#39;immagine: [apri l’anteprima](/help/using/navigate-view.md#preview-assets) e fai clic su **[!UICONTROL Modifica immagine]**.
+Dopo aver modificato un’immagine, puoi salvarla come nuova versione. Se necessario, il controllo delle versioni consente di ripristinare la risorsa originale in un secondo momento. Per modificare un’immagine: [apri l’anteprima](/help/using/navigate-view.md#preview-assets) e fai clic su **[!UICONTROL Modifica immagine]**.
 
 >[!NOTE]
 >
->È possibile modificare le immagini dei tipi di file PNG e JPEG utilizzando [!DNL Adobe Express].
+>È possibile modificare le immagini PNG e JPEG utilizzando [!DNL Adobe Express].
 
 <!--The editing actions that are available are Spot healing, Crop and straighten, Resize image, and Adjust image.-->
 
-## Modifica immagini con Adobi Express {#edit-using-express}
+## Modificare le immagini con Adobe Express {#edit-using-express}
 
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
 >title="Integrazione Adobe Express"
->abstract="Strumenti di editing delle immagini semplici e intuitivi gestiti da Adobe Express disponibili direttamente in AEM Assets per aumentare il riutilizzo dei contenuti e accelerarne la velocità."
+>abstract="Strumenti di editing delle immagini semplici e intuitivi gestiti da Adobe Express e disponibili direttamente in AEM Assets per aumentare il riutilizzo dei contenuti e velocizzarne la creazione."
 
 ### Ridimensionare l’immagine {#resize-image-using-express}
 
-Spesso occorre ridimensionare un’immagine a una dimensione specifica. [!DNL Assets Essentials] consente di ridimensionare rapidamente le immagini per adattarle alle dimensioni comuni delle foto, fornendo nuove risoluzioni precalcolate per dimensioni specifiche. Per ridimensionare l&#39;immagine utilizzando [!DNL Assets Essentials], effettua le seguenti operazioni:
+Spesso occorre ridimensionare un’immagine a una dimensione specifica. [!DNL Assets Essentials] consente di ridimensionare rapidamente le immagini per adattarle alle dimensioni comuni delle foto, fornendo nuove risoluzioni precalcolate per dimensioni specifiche. Per ridimensionare l’immagine utilizzando [!DNL Assets Essentials], effettua le seguenti operazioni:
 
 1. Seleziona un’immagine e fai clic su **Modifica**.
-2. Clic **[!UICONTROL Ridimensiona immagine]** dalle azioni rapide disponibili nel riquadro a sinistra.
-3. Seleziona la piattaforma di social media appropriata dalla sezione **[!UICONTROL Ridimensiona per]** e selezionare le dimensioni dell&#39;immagine tra le opzioni visualizzate.
-4. Ridimensionare l&#39;immagine, se necessario, utilizzando **[!UICONTROL Scala immagine]** campo.
-5. Clic **[!UICONTROL Applica]** per applicare le modifiche.
-   ![Editing di immagini con Adobi Express](/help/using/assets/adobe-express-resize-image.png)
+2. Fai clic su **[!UICONTROL Ridimensiona immagine]** dalle azioni rapide disponibili nel riquadro a sinistra.
+3. Seleziona la piattaforma di social media appropriata dall’elenco a discesa **[!UICONTROL Ridimensiona per]** e seleziona le dimensioni dell’immagine tra le opzioni visualizzate.
+4. Ridimensiona l’immagine, se necessario, utilizzando il campo **[!UICONTROL Scala immagine]**.
+5. Fai clic su **[!UICONTROL Applica]** per applicare le modifiche.
+   ![Editing di immagini con Adobe Express](/help/using/assets/adobe-express-resize-image.png)
 
-   L&#39;immagine modificata è disponibile per il download. Puoi salvare la risorsa modificata come nuova versione della stessa risorsa oppure salvarla come nuova risorsa.
-   ![Salva immagine con Adobe Express](/help/using/assets/adobe-express-resize-save.png)
+   L’immagine modificata è disponibile per il download. Puoi salvare la risorsa modificata come nuova versione della stessa risorsa oppure salvarla come nuova risorsa.
+   ![Salvare un’immagine con Adobe Express](/help/using/assets/adobe-express-resize-save.png)
 
-### Rimuovi sfondo {#remove-background-using-express}
+### Rimuovere lo sfondo {#remove-background-using-express}
 
-È possibile rimuovere lo sfondo da un&#39;immagine in pochi semplici passaggi, come indicato di seguito:
-
-1. Seleziona un’immagine e fai clic su **Modifica**.
-2. Clic **[!UICONTROL Rimuovi sfondo]** dalle azioni rapide disponibili nel riquadro a sinistra. In Experience Manager Assets l&#39;immagine viene visualizzata senza sfondo.
-3. Clic **[!UICONTROL Applica]** per applicare le modifiche.
-   ![Salva immagine con Adobe Express](/help/using/assets/adobe-express-remove-background.png)
-
-   L&#39;immagine modificata è disponibile per il download. Puoi salvare la risorsa modificata come nuova versione della stessa risorsa oppure salvarla come nuova risorsa.
-
-### Ritaglia immagine {#crop-image-using-express}
-
-La trasformazione di un&#39;immagine in una dimensione perfetta è facile grazie all&#39;utilizzo di [!DNL Adobe Express] azioni rapide.
+È possibile rimuovere lo sfondo da un’immagine in pochi semplici passaggi, come indicato di seguito:
 
 1. Seleziona un’immagine e fai clic su **Modifica**.
-2. Clic **[!UICONTROL Ritaglia immagine]** dalle azioni rapide disponibili nel riquadro a sinistra.
-3. Trascina le maniglie sugli angoli dell’immagine per creare il ritaglio desiderato.
-4. Clic **[!UICONTROL Applica]**.
-   ![Salva immagine con Adobe Express](/help/using/assets/adobe-express-crop-image.png)
+2. Fai clic su **[!UICONTROL Rimuovi sfondo]** dalle azioni rapide disponibili nel riquadro a sinistra. In Experience Manager Assets l’immagine viene visualizzata senza sfondo.
+3. Fai clic su **[!UICONTROL Applica]** per applicare le modifiche.
+   ![Salvare un’immagine con Adobe Express](/help/using/assets/adobe-express-remove-background.png)
+
+   L’immagine modificata è disponibile per il download. Puoi salvare la risorsa modificata come nuova versione della stessa risorsa oppure salvarla come nuova risorsa.
+
+### Ritagliare un’immagine {#crop-image-using-express}
+
+Utilizzando alcune azioni rapide di [!DNL Adobe Express], è facile trasformare un’immagine affinché sia di dimensioni perfette.
+
+1. Seleziona un’immagine e fai clic su **Modifica**.
+2. Fai clic su **[!UICONTROL Ritaglia immagine]** dalle azioni rapide nel riquadro a sinistra.
+3. Trascina le maniglie agli angoli dell’immagine per creare il ritaglio desiderato.
+4. Fai clic su **[!UICONTROL Applica]**.
+   ![Salvare un’immagine con Adobe Express](/help/using/assets/adobe-express-crop-image.png)
 L’immagine ritagliata è disponibile per il download. Puoi salvare la risorsa modificata come nuova versione della stessa risorsa oppure salvarla come nuova risorsa.
 
-### Converti JPEG in PNG {#convert-jpeg-to-png-using-express}
+### Convertire da JPEG in PNG {#convert-jpeg-to-png-using-express}
 
-Potete convertire rapidamente un&#39;immagine JPEG in formato PNG utilizzando Adobi Express. Esegui i seguenti passaggi:
+Puoi convertire rapidamente un’immagine JPEG in formato PNG utilizzando Adobe Express. Esegui i passaggi seguenti:
 
 1. Seleziona un’immagine e fai clic su **Modifica**.
-2. Clic **[!UICONTROL Da JPEG a PNG]** dalle azioni rapide disponibili nel riquadro a sinistra.
-   ![Converti in PNG con Adobe Express](/help/using/assets/adobe-express-convert-image.png)
+2. Fai clic su **[!UICONTROL Da JPEG a PNG]** dalle azioni rapide nel riquadro a sinistra.
+   ![Convertire in PNG con Adobe Express](/help/using/assets/adobe-express-convert-image.png)
 3. Fai clic su **[!UICONTROL Scarica]**.
 
 ### Limitazioni {#limitations-adobe-express}
 
 * Risoluzione immagine supportata: minima - 50 pixel, massima - 6000 pixel per dimensione
 
-* Dimensione massima del file supportata: 17 MB
+* Dimensione massima file supportata: 17 MB
 
-## Modifica immagini tramite [!DNL Adobe Photoshop Express] {#edit-using-photoshop-express}
+## Modificare le immagini utilizzando [!DNL Adobe Photoshop Express] {#edit-using-photoshop-express}
 
 <!--
 After editing an image, you can save the new image as a new version. Versioning helps you to revert to the original asset later, if needed. To edit an image, [open its preview](/help/using/navigate-view.md#preview-assets) and click **[!UICONTROL Edit Image]** ![edit icon](assets/do-not-localize/edit-icon.png) from the rail on the right.
@@ -105,7 +105,7 @@ For more information about how Spot Healing works in Photoshop, see [retouching 
 
 ### Ritagliare e raddrizzare le immagini {#crop-straighten-images-using-photoshop-express}
 
-Utilizzando l’opzione di ritaglio e raddrizzamento è possibile eseguire ritaglio di base, ruotare l’immagine, capovolgerla in orizzontale o in verticale e ritagliarla con le dimensioni adatte ai social media più diffusi.
+Utilizzando l’opzione di ritaglio e raddrizzamento è possibile eseguire un ritaglio di base, ruotare l’immagine, capovolgerla in orizzontale o in verticale e ritagliarla con le proporzioni più adatte per i social media più popolari.
 
 Per salvare le modifiche, fai clic su **[!UICONTROL Ritaglia immagine]**. Dopo la modifica, puoi salvare la nuova immagine come versione.
 

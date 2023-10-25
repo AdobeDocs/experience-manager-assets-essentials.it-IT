@@ -5,7 +5,7 @@ exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
 source-git-commit: 1db631a927e806d4b8ed83b1e0fc4a1e4f5bef71
 workflow-type: tm+mt
 source-wordcount: '739'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 88%
 
 Assets ora include un’area di lavoro personalizzabile che fornisce widget per l’accesso semplificato alle aree chiave dell’interfaccia utente di Assets e alle informazioni più pertinenti per l’utente. Questa pagina funge da soluzione unica per fornire una panoramica degli elementi di lavoro e consentire un accesso rapido ai flussi di lavoro chiave. L’accesso più comodo a queste opzioni aumenta l’efficienza e la velocità dei contenuti.
 
-Per accedere all’area di lavoro personale, fai clic su **[!UICONTROL Area di lavoro personale]** dagli elementi disponibili nel riquadro di navigazione a sinistra. La mia area di lavoro include diversi widget che mostrano Accesso rapido, Approfondimenti, Attività e Contenuto. Puoi configurare la modalità di visualizzazione di questi widget nell’area di lavoro in base alle tue preferenze.
+Per accedere all’area di lavoro personale, fai clic su **[!UICONTROL Area di lavoro personale]** dagli elementi disponibili nel riquadro di navigazione a sinistra. L’area di lavoro personale include diversi widget che mostrano accesso rapido, approfondimenti, attività e contenuto. Puoi configurare la modalità di visualizzazione di questi widget nell’area di lavoro in base alle tue preferenze.
 
 >[!NOTE]
 >
@@ -42,14 +42,14 @@ Fissa file, cartelle e raccolte per un accesso più rapido a questi elementi qua
 
 Per fissare una risorsa, una cartella o una raccolta:
 
-1. Seleziona l’elemento e fai clic su **[!UICONTROL Aggiungi all&#39;accesso rapido]**.
+1. Seleziona l’elemento e fai clic su **[!UICONTROL Fissa in Accesso rapido]**.
 
-1. Selezionare questa opzione per fissare l&#39;articolo solo per l&#39;utente, per l&#39;intera organizzazione o per i gruppi selezionati. Se si seleziona **[!UICONTROL Per i gruppi]**, definiscono i nomi dei gruppi nella **[!UICONTROL Fissa per gruppi]** campo.
+1. Seleziona questa opzione per fissare l’elemento solo per l’utente, per l’intera organizzazione o per i gruppi selezionati. Se selezioni **[!UICONTROL Per i gruppi]**, definisci i nomi dei gruppi nel campo **[!UICONTROL Fissa per gruppi]**.
 
    ![Fissa elementi per gruppi](assets/pin-items-for-groups.png)
-1. Clic **[!UICONTROL Fissa]**.
+1. Fai clic su **[!UICONTROL Fissa]**.
 
-   L’elemento selezionato viene visualizzato nel **[!UICONTROL Accesso rapido]** sezione di My Workspace.
+   Gli elementi selezionati vengono visualizzati nella sezione **[!UICONTROL Accesso rapido]** dell’area di lavoro personale.
    ![Attività nell’area di lavoro](assets/quick-access.png)
 
 **Approfondimenti**
