@@ -4,42 +4,28 @@ description: Note sulla versione e problemi noti di [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 1df4ab7705b5478c86531a5b4cae57b09ef5a0d5
+source-git-commit: 347ec8c64daa46f603b41dd3845503863a1ccedd
 workflow-type: tm+mt
-source-wordcount: '2342'
-ht-degree: 92%
+source-wordcount: '2435'
+ht-degree: 93%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-L’attuale versione degli Assets Essentials è stata rilasciata il 21 settembre 2023.
+L’attuale versione degli Assets Essentials è stata rilasciata il 26 ottobre 2023.
 
-L’elenco delle funzioni aggiunte di recente include:
+Le nuove funzioni includono:
 
-**Assegnare il modulo metadati a una cartella**
+**Importa risorse in blocco dall&#39;origine dati di OneDrive**
 
-Ora puoi assegnare il modulo metadati a una cartella specifica all’interno della distribuzione Assets Essentials. Tutte le risorse nella cartella, comprese le risorse nelle sottocartelle, quindi visualizzano le proprietà definite nel modulo metadati assegnato.
+Gli amministratori possono ora [importa un numero elevato di risorse da OneDrive ad AEM Assets](/help/using/bulk-import-assets-view.md). L&#39;elenco aggiornato delle origini dati supportate per l&#39;importazione in blocco include Azure, AWS, Google Cloud, Dropbox e OneDrive.
 
-![assegnare il modulo metadati a una cartella](/help/using/assets/assign-to-folder.png)
+![assegnare il modulo metadati a una cartella](/help/using/assets/bulk-import-source-details.png)
 
-**Importare risorse in blocco da origini dati**
+**Supporto di diritti per più organizzazioni per le librerie**
 
-Gli amministratori ora possono importare un numero elevato di risorse da un’origine dati ad AEM Assets. Gli amministratori non devono più caricare singole risorse o cartelle in AEM Assets. Le origini dati supportate per l’importazione in blocco includono Azure, AWS, Google Cloud e Dropbox.
-
-![Importare risorse in blocco da un’origine dati](/help/using/assets/bulk-import.png)
-
-**Strumenti di modifica delle immagini basati su Adobi Express**
-
-Strumenti di editing delle immagini semplici e intuitivi gestiti da Adobe Express disponibili direttamente in AEM Assets per aumentare il riutilizzo dei contenuti e accelerarne la velocità.
-
-![Editing di immagini con Adobi Express](/help/using/assets/edit-adobe-express.png)
-
-**Flessibilità durante l&#39;inserimento di elementi nell&#39;area di lavoro Accesso rapido**
-
-Possibilità di selezionare e fissare gli elementi per te, per l’intera organizzazione o per un elenco di gruppi in modo che vengano visualizzati nella sezione Accesso rapido di Area di lavoro personale in base alla selezione.
-
-![Fissa elementi per gruppi](assets/pin-items-for-groups.png)
+Experience Manager Assets ora consente di configurare l’accesso alle librerie Creative Cloud in un’organizzazione IMS diversa. Consente di accedere più facilmente ai flussi di lavoro più recenti tra Creative Cloud e Experience Manager, riducendo i tempi e gli sforzi dei creativi.
 
 **Miglioramenti in base al feedback ricevuto dai clienti**
 
@@ -64,6 +50,33 @@ L’elenco dei problemi noti di [!DNL Assets Essentials] viene regolarmente rivi
 In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un feedback](#provide-feedback) al team.
 
 ## Versioni precedenti {#past-releases}
+
+### Versione di settembre 2023 {#september2023-release}
+
+**Assegnare il modulo metadati a una cartella**
+
+Ora puoi assegnare il modulo metadati a una cartella specifica all’interno della distribuzione Assets Essentials. Tutte le risorse nella cartella, comprese le risorse nelle sottocartelle, quindi visualizzano le proprietà definite nel modulo metadati assegnato.
+
+![assegnare il modulo metadati a una cartella](/help/using/assets/assign-to-folder.png)
+
+**Importazione in blocco dalle origini dati**
+
+Gli amministratori ora possono importare un numero elevato di risorse da un’origine dati a AEM Assets. Gli amministratori non devono più caricare singole risorse o cartelle in AEM Assets. Le origini dati supportate per l’importazione in blocco includono Azure, AWS, Google Cloud e Dropbox.
+
+![Importazione in blocco da un’origine dati](/help/using/assets/bulk-import.png)
+
+**Strumenti di editing delle immagini basati su Adobe Express**
+
+Strumenti di editing delle immagini semplici e intuitivi gestiti da Adobe Express disponibili direttamente in AEM Assets per aumentare il riutilizzo dei contenuti e velocizzarne la creazione.
+
+![Editing di immagini con Adobe Express](/help/using/assets/edit-adobe-express.png)
+
+**Flessibilità durante il fissaggio di elementi in Accesso rapido dell’area di lavoro personale**
+
+Possibilità di selezionare e fissare gli elementi per te, per l’intera organizzazione o per un elenco di gruppi in modo che vengano visualizzati nella sezione Accesso rapido dell’Area di lavoro personale in base alla selezione.
+
+![Fissa elementi per gruppi](assets/pin-items-for-groups.png)
+
 
 ### Versione di luglio 2023 {#july2023-release}
 

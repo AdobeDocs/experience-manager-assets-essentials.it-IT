@@ -2,10 +2,10 @@
 title: Importare in blocco le risorse tramite Assets Essentials
 description: Scopri come importare in blocco le risorse utilizzando la nuova interfaccia utente Assets (Assets Essentials). Consente agli amministratori di importare un numero elevato di risorse da un’origine dati ad AEM Assets.
 exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
-source-git-commit: 73721e8ee5c130ccad2ef2bdccba2e8412e031f2
+source-git-commit: d7e239008c5235cc423f0a2d168f37c315a0118e
 workflow-type: tm+mt
-source-wordcount: '1245'
-ht-degree: 80%
+source-wordcount: '1796'
+ht-degree: 56%
 
 ---
 
@@ -28,6 +28,7 @@ Puoi importare le risorse dalle seguenti origini dati:
 * AWS
 * Google Cloud
 * Dropbox
+* OneDrive
 
 ## Prerequisiti {#prerequisites}
 
@@ -37,8 +38,80 @@ Puoi importare le risorse dalle seguenti origini dati:
 | AWS | <ul> <li>Area geografica AWS </li> <li> Bucket AWS <li> Chiave di accesso AWS </li><li> Segreto di accesso AWS </li></ul> |
 | Google Cloud | <ul> <li>Bucket GCP </li> <li> E-mail account servizio GCP <li> Chiave privata account servizio GCP</li></ul> |
 | Dropbox | <ul> <li>ID client Dropbox </li> <li> Segreto client Dropbox</li></ul> |
+| OneDrive | <ul> <li>ID tenant di OneDrive  </li> <li> ID client OneDrive</li><li> Segreto client OneDrive</li></ul> |
 
 Oltre a questi prerequisiti basati sull’origine dati, è necessario conoscere il nome della cartella di origine disponibile nell’origine dati che contiene tutte le risorse che devono essere importate in AEM Assets.
+
+## Configurare l’applicazione per sviluppatori di Dropbox {#dropbox-developer-application}
+
+Prima di importare le risorse dall’account di Dropbox ad AEM Assets, crea e configura l’applicazione per sviluppatori di Dropbox.
+
+Esegui i passaggi seguenti:
+
+1. Accedi al tuo [Account Dropbox](https://www.dropbox.com/developers) e fai clic su **[!UICONTROL Creare le app]**.
+
+1. In **[!UICONTROL Scegli un’API]** , selezionare l&#39;unico pulsante di opzione disponibile.
+
+1. In **[!UICONTROL Scegli il tipo di accesso necessario]** , selezionare una delle opzioni seguenti:
+
+   * Seleziona **[!UICONTROL Cartella app]**, se hai bisogno di accedere a una singola cartella creata all’interno dell’applicazione nel tuo account di Dropbox.
+
+   * Seleziona **[!UICONTROL Dropbox completo]**, se hai bisogno di accedere a tutti i file e le cartelle all’interno del tuo account di Dropbox.
+
+1. Specifica un nome per l’applicazione e fai clic su **[!UICONTROL Crea app]**.
+
+1. In **[!UICONTROL Impostazioni]** nell&#39;applicazione, aggiungi quanto segue alla scheda **[!UICONTROL URI di reindirizzamento]** sezione:
+
+   * https://exc-unifiedcontent.experience.adobe.net
+
+   * https://exc-unifiedcontent.experience-stage.adobe.net (valido solo per gli ambienti Stage)
+
+1. Copia i valori per **[!UICONTROL Chiave app]** e **[!UICONTROL Segreto app]** campi. I valori sono necessari durante la configurazione dello strumento di importazione in blocco in AEM Assets.
+
+1. Il giorno **[!UICONTROL Autorizzazioni]** , aggiungi le seguenti autorizzazioni all&#39;interno della scheda **[!UICONTROL Singoli ambiti]** sezione.
+
+   * account_info.read
+
+   * files.metadata.read
+
+   * files.content.read
+
+   * files.content.write
+
+1. Clic **[!UICONTROL Invia]** per salvare le modifiche.
+
+## Configurare l&#39;applicazione per sviluppatori OneDrive {#onedrive-developer-application}
+
+Prima di importare risorse dall&#39;account OneDrive in AEM Assets, crea e configura l&#39;applicazione per sviluppatori OneDrive.
+
+Esegui i passaggi seguenti:
+
+1. Accedi al tuo [Account OneDrive](https://portal.azure.com/#view/Microsoft_AAD_RegisteredApps/ApplicationsListBlade) e fai clic su **[!UICONTROL Nuova registrazione]**.
+
+1. Specifica un nome per l’applicazione, seleziona **[!UICONTROL Solo account in questa directory organizzativa (solo Adobe: singolo tenant)]** da **[!UICONTROL Tipi di account supportati]** e fai clic su **[!UICONTROL Registrati]**. Creazione dell&#39;applicazione completata.
+
+1. Copia i valori per i campi ID client applicazione e ID tenant. I valori sono necessari durante la configurazione dello strumento di importazione in blocco in AEM Assets.
+
+1. Per aggiungere un certificato, effettua le seguenti operazioni:
+   1. Nella pagina di panoramica dell’applicazione, fai clic su **[!UICONTROL Aggiungi un certificato o un segreto]** e quindi fare clic su **[!UICONTROL Nuovo segreto client]**.
+   1. Specifica la descrizione e la scadenza del segreto client e fai clic su **[!UICONTROL Aggiungi]**.
+   1. Dopo aver creato il segreto client, copia il **[!UICONTROL Valore]** (non copiare il campo ID segreto). È necessario per configurare l’importazione in blocco in AEM Assets.
+
+1. Per aggiungere URI di reindirizzamento, effettua le seguenti operazioni:
+   1. Nella pagina di panoramica dell’applicazione, fai clic su **[!UICONTROL Aggiungere un URI di reindirizzamento]** > **[!UICONTROL Aggiungi una piattaforma]** > **[!UICONTROL Web]**.
+   1. Aggiungi quanto segue a **[!UICONTROL URI di reindirizzamento]** sezione:
+
+      * https://exc-unifiedcontent.experience.adobe.net
+
+      * https://exc-unifiedcontent.experience-stage.adobe.net (valido solo per gli ambienti Stage)
+
+      Aggiungi il primo URI e fai clic su **[!UICONTROL Configura]** per aggiungerlo. Puoi aggiungerne altre facendo clic su **[!UICONTROL Aggiungi URI]** opzione disponibile in **[!UICONTROL Web]** sezione sul **[!UICONTROL Autenticazione]** pagina.
+
+1. Per aggiungere le autorizzazioni API per l’applicazione, effettua le seguenti operazioni:
+   1. Clic **[!UICONTROL Autorizzazioni API]** nel riquadro a sinistra e fare clic su **[!UICONTROL Aggiungere un’autorizzazione]**.
+   1. Clic **[!UICONTROL Grafico Microsoft]** > **[!UICONTROL Autorizzazioni delegate]**. Il **[!UICONTROL Seleziona autorizzazione]** mostra le autorizzazioni disponibili.
+   1. Seleziona `offline_access` autorizzazione da `OpenId permissions` e `Files.ReadWrite.All` autorizzazione da `Files`.
+   1. Clic **[!UICONTROL Aggiungere autorizzazioni]** per salvare gli aggiornamenti.
 
 ## Creare una configurazione di importazione in blocco {#create-bulk-import-configuration}
 
@@ -49,6 +122,13 @@ Per creare una configurazione di importazione in blocco, effettua le seguenti op
 1. Specifica un nome per la configurazione dell’importazione in blocco nel campo **[!UICONTROL Nome]**.
 1. Specifica le credenziali specifiche dell’origine dati, come indicato nei [Prerequisiti](#prerequisites).
 1. Immetti il nome della cartella principale che contiene le risorse nell’origine dati nel campo **[!UICONTROL Cartella di origine]**.
+
+   >[!NOTE]
+   >
+   >Se si utilizza Dropbox come origine dati, specificare il percorso della cartella di origine in base alle regole seguenti:
+   >* Se si seleziona **Dropbox completo** durante la creazione dell’applicazione di Dropbox, la cartella che contiene le risorse è già presente in `https://www.dropbox.com/home/bulkimport-assets`, quindi specifica `bulkimport-assets` nel **[!UICONTROL Cartella di origine]** campo.
+   >* Se si seleziona **Cartella app** durante la creazione dell’applicazione di Dropbox, la cartella che contiene le risorse è già presente in `https://www.dropbox.com/home/Apps/BulkImportAppFolderScope/bulkimport-assets`, quindi specifica `bulkimport-assets` nel **[!UICONTROL Cartella di origine]** campo, dove `BulkImportAppFolderScope` fa riferimento al nome dell’applicazione. `Apps` viene aggiunto automaticamente dopo `home` in questo caso.
+
 1. (Facoltativo) Seleziona l’opzione **[!UICONTROL Elimina il file di origine dopo l’importazione]** per eliminare i file originali dall’archivio dati di origine dopo l’importazione in Experience Manager Assets.
 1. Seleziona la **[!UICONTROL Modalità di importazione]**. Seleziona **[!UICONTROL Ignora]**, **[!UICONTROL Sostituisci]** o **[!UICONTROL Crea versione]**. La modalità Ignora è l’impostazione predefinita e, in questa modalità, l’importazione di una risorsa viene ignorata se esiste già.
    ![Importa dettagli origine](assets/bulk-import-source-details.png)
