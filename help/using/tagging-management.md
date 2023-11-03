@@ -9,7 +9,7 @@ ht-degree: 88%
 
 ---
 
-# Gestire i tag negli Assets Essentials {#view-assets-and-details}
+# Gestire i tag in Assets Essentials {#view-assets-and-details}
 
 
 >[!CONTEXTUALHELP]
