@@ -2,10 +2,10 @@
 title: Area di lavoro personale per Assets
 description: L’area di lavoro personale è una pagina che offre moduli visivi personalizzabili per un accesso comodo alle aree chiave dell’interfaccia utente di Assets e alle informazioni più rilevanti per l’utente.
 exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
-source-git-commit: 8a52d79ecd1ce8fdafd181e0f9b166e8d827c665
+source-git-commit: 55418ab5b6346785bcc14bf32322a2e69738895d
 workflow-type: tm+mt
 source-wordcount: '738'
-ht-degree: 96%
+ht-degree: 93%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 96%
 >[!CONTEXTUALHELP]
 >id="assets_my_workspace"
 >title="Area di lavoro personale"
->abstract="Assets include un’area di lavoro personalizzabile che fornisce widget per accedere agevolmente ad aree chiave dell’interfaccia utente di Assets e alle informazioni più rilevanti per te. Questa pagina funge da soluzione unica per fornire una panoramica degli elementi di lavoro e consentire un accesso rapido ai flussi di lavoro chiave."
+>abstract="Assets include un’area di lavoro personalizzabile che fornisce widget per accedere agevolmente ad aree chiave dell’interfaccia utente di Assets e alle informazioni più rilevanti per te. Questa pagina funge da soluzione completa per fornire una panoramica degli elementi di lavoro e facilitare l’accesso rapido ai flussi di lavoro chiave."
 
 Assets ora include un’area di lavoro personalizzabile che fornisce widget per l’accesso semplificato alle aree chiave dell’interfaccia utente di Assets e alle informazioni più pertinenti per l’utente. Questa pagina funge da soluzione unica per fornire una panoramica degli elementi di lavoro e consentire un accesso rapido ai flussi di lavoro chiave. L’accesso più comodo a queste opzioni aumenta l’efficienza e la velocità dei contenuti.
 
