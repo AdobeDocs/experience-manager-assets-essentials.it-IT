@@ -2,19 +2,14 @@
 title: Gestire i rapporti in Assets Essentials
 description: Accedi ai dati nella sezione dei rapporti di Assets Essentials per valutare l’utilizzo di prodotti e funzionalità e ottenere informazioni approfondite sulle metriche di successo chiave.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 7bda2024fd9e9d2ad05ccffccf76a51b16a113fa
+source-git-commit: 43ecb9862b6553ffd34cf1e116eb018505eff28e
 workflow-type: tm+mt
-source-wordcount: '839'
-ht-degree: 100%
+source-wordcount: '827'
+ht-degree: 95%
 
 ---
 
 # Gestire i rapporti {#manage-reports}
-
->[!CONTEXTUALHELP]
->id="assets_reports"
->title="Rapporti"
->abstract="La funzionalità di reporting sulle risorse offre agli amministratori visibilità sulle attività dell’ambiente Adobe Experience Manager Assets Essentials. Questi dati forniscono informazioni utili su come gli utenti interagiscono con i contenuti e il prodotto. Tutti gli utenti possono accedere alla dashboard Insight e quelli assegnati al profilo di prodotto Amministratori possono creare rapporti definiti dall’utente."
 
 La funzionalità di reporting sulle risorse offre agli amministratori visibilità sulle attività dell’ambiente Adobe Experience Manager Assets Essentials. Questi dati forniscono informazioni utili su come gli utenti interagiscono con i contenuti e il prodotto. Tutti gli utenti possono accedere alla dashboard Insight e quelli assegnati al profilo di prodotto Amministratori possono creare rapporti definiti dall’utente.
 
@@ -23,6 +18,11 @@ La funzionalità di reporting sulle risorse offre agli amministratori visibilit�
 Tutti gli utenti assegnati al [profilo di prodotto per amministratori di Assets Essentials](deploy-administer.md) possono accedere alla dashboard Insight e creare rapporti definiti dagli utenti in Assets Essentials.
 
 ## Visualizzare gli approfondimenti {#view-live-statistics}
+
+>[!CONTEXTUALHELP]
+>id="assets_reports"
+>title="Rapporti"
+>abstract="La dashboard Approfondimenti consente di visualizzare le metriche degli eventi in tempo reale per l’ambiente Experience Manager Assets negli ultimi 30 giorni o 12 mesi. L’elenco degli eventi include il numero di download, caricamenti, ricerche principali e così via."
 
 Assets Essentials consente di visualizzare in tempo reale i dati del tuo ambiente Assets Essentials, con la dashboard Insight. Puoi visualizzare le metriche degli eventi in tempo reale negli ultimi 30 giorni o negli ultimi 12 mesi.
 
