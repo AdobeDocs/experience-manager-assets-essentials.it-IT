@@ -5,7 +5,7 @@ exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 43ecb9862b6553ffd34cf1e116eb018505eff28e
 workflow-type: tm+mt
 source-wordcount: '827'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ Tutti gli utenti assegnati al [profilo di prodotto per amministratori di Assets 
 >[!CONTEXTUALHELP]
 >id="assets_reports"
 >title="Rapporti"
->abstract="La dashboard Approfondimenti consente di visualizzare le metriche degli eventi in tempo reale per l’ambiente Experience Manager Assets negli ultimi 30 giorni o 12 mesi. L’elenco degli eventi include il numero di download, caricamenti, ricerche principali e così via."
+>abstract="La dashboard Insights consente di visualizzare le metriche degli eventi in tempo reale per l’ambiente Experience Manager Assets negli ultimi 30 giorni o 12 mesi. L’elenco degli eventi include il numero di download, caricamenti, ricerche principali e così via."
 
 Assets Essentials consente di visualizzare in tempo reale i dati del tuo ambiente Assets Essentials, con la dashboard Insight. Puoi visualizzare le metriche degli eventi in tempo reale negli ultimi 30 giorni o negli ultimi 12 mesi.
 
