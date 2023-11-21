@@ -2,9 +2,9 @@
 title: Gestire i rapporti in Assets Essentials
 description: Accedi ai dati nella sezione dei rapporti di Assets Essentials per valutare l’utilizzo di prodotti e funzionalità e ottenere informazioni approfondite sulle metriche di successo chiave.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: aee57f5a83bfa5a292e9c0c50e2cb00499dbb08c
+source-git-commit: 37a0692c47d4fa14e9c2582a34000ec8bf975692
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '910'
 ht-degree: 90%
 
 ---
@@ -40,7 +40,7 @@ In the **[!UICONTROL Reports]** screen, various components are shown in the tabu
 
 Assets Essentials consente di visualizzare in tempo reale i dati del tuo ambiente Assets Essentials, con la dashboard Insight. Puoi visualizzare le metriche degli eventi in tempo reale negli ultimi 30 giorni o negli ultimi 12 mesi.
 
-![Opzioni nella barra degli strumenti quando si seleziona una risorsa](assets/assets-essentials-live-statistics.png)
+<!--![Toolbar options when you select an asset](assets/assets-essentials-live-statistics.png)-->
 
 Fai clic su **[!UICONTROL Approfondimenti]** disponibile nel riquadro di navigazione a sinistra per visualizzare i seguenti grafici generati automaticamente:
 
@@ -52,7 +52,7 @@ Fai clic su **[!UICONTROL Approfondimenti]** disponibile nel riquadro di navigaz
 
 * **Utilizzo archiviazione**: utilizzo dell’archiviazione, in byte, per l’ambiente di Assets Essentials rappresentato utilizzando un grafico a barre, a seconda della facilità di utilizzo.
 
-  ![Archiviazione](assets/storage.png)
+  <!--![Storage](assets/storage.png)-->
 
 
 * **Consegna**: il grafico mostra il conteggio delle risorse come date di consegna.
@@ -60,6 +60,9 @@ Fai clic su **[!UICONTROL Approfondimenti]** disponibile nel riquadro di navigaz
 * **Conteggio risorse per tipo di risorsa**: rappresenta il conteggio dei vari tipi MIME delle risorse disponibili. Ad esempio, application/zip, image/png, video/mp4, application/postscripte.
 
 * **Ricerche principali**: visualizza i termini più cercati e il numero di volte in cui tali termini sono stati cercati nell’ambiente Assets Essentials negli ultimi 30 giorni o 12 mesi rappresentato in formato tabulare.
+
+  ![Approfondimenti](assets/insights1.png)
+  ![Approfondimenti](assets/insights2.png)
 
 ## Creare un rapporto sui download {#create-download-report}
 
