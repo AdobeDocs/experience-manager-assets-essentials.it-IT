@@ -2,10 +2,10 @@
 title: Gestire i rapporti in Assets Essentials
 description: Accedi ai dati nella sezione dei rapporti di Assets Essentials per valutare l’utilizzo di prodotti e funzionalità e ottenere informazioni approfondite sulle metriche di successo chiave.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 37a0692c47d4fa14e9c2582a34000ec8bf975692
+source-git-commit: b065a56bbd0ce86bc9dd6ac568364de30d77be4e
 workflow-type: tm+mt
-source-wordcount: '910'
-ht-degree: 90%
+source-wordcount: '850'
+ht-degree: 96%
 
 ---
 
@@ -48,21 +48,23 @@ Fai clic su **[!UICONTROL Approfondimenti]** disponibile nel riquadro di navigaz
 
 * **Caricamenti**: numero di risorse caricate nell’ambiente Assets Essentials negli ultimi 30 giorni o 12 mesi rappresentato da un grafico a linee.
 
-* **Conteggio risorse per dimensione**: divisione del conteggio delle risorse in base alla loro gamma di varie dimensioni, da 0 MB a 100 GB.
+<!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
 * **Utilizzo archiviazione**: utilizzo dell’archiviazione, in byte, per l’ambiente di Assets Essentials rappresentato utilizzando un grafico a barre, a seconda della facilità di utilizzo.
 
   <!--![Storage](assets/storage.png)-->
 
 
-* **Consegna**: il grafico mostra il conteggio delle risorse come date di consegna.
+<!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
-* **Conteggio risorse per tipo di risorsa**: rappresenta il conteggio dei vari tipi MIME delle risorse disponibili. Ad esempio, application/zip, image/png, video/mp4, application/postscripte.
+<!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
 * **Ricerche principali**: visualizza i termini più cercati e il numero di volte in cui tali termini sono stati cercati nell’ambiente Assets Essentials negli ultimi 30 giorni o 12 mesi rappresentato in formato tabulare.
 
-  ![Approfondimenti](assets/insights1.png)
-  ![Approfondimenti](assets/insights2.png)
+  <!--
+   ![Insights](assets/insights1.png)
+   ![Insights](assets/insights2.png)
+   -->
 
 ## Creare un rapporto sui download {#create-download-report}
 
