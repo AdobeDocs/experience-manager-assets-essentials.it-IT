@@ -2,7 +2,7 @@
 title: Gestire i rapporti in Assets Essentials
 description: Accedi ai dati nella sezione dei rapporti di Assets Essentials per valutare l’utilizzo di prodotti e funzionalità e ottenere informazioni approfondite sulle metriche di successo chiave.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: cf5cba28d20d1633566881a7f651da6bcaa48c7b
+source-git-commit: 7ceeeda677e845cc7cb31964edaa687c806f3afe
 workflow-type: tm+mt
 source-wordcount: '851'
 ht-degree: 96%
@@ -44,6 +44,8 @@ Assets Essentials consente di visualizzare in tempo reale i dati del tuo ambient
 
 Fai clic su **[!UICONTROL Approfondimenti]** disponibile nel riquadro di navigazione a sinistra per visualizzare i seguenti grafici generati automaticamente:
 
+![Approfondimenti](assets/insights.png)
+
 * **Download**: numero di risorse scaricate dall’ambiente Assets Essentials negli ultimi 30 giorni o 12 mesi rappresentato da un grafico a linee.
 
 * **Caricamenti**: numero di risorse caricate nell’ambiente Assets Essentials negli ultimi 30 giorni o 12 mesi rappresentato da un grafico a linee.
@@ -58,9 +60,7 @@ Fai clic su **[!UICONTROL Approfondimenti]** disponibile nel riquadro di navigaz
 
 * **Ricerche principali**: visualizza i termini più cercati e il numero di volte in cui tali termini sono stati cercati nell’ambiente Assets Essentials negli ultimi 30 giorni o 12 mesi rappresentato in formato tabulare.
 
-![Approfondimenti](assets/insights.png)
-
-<!--
+  <!--
    ![Insights](assets/insights1.png)
    ![Insights](assets/insights2.png)
    -->
