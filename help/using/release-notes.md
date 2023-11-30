@@ -4,28 +4,48 @@ description: Note sulla versione e problemi noti di [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 347ec8c64daa46f603b41dd3845503863a1ccedd
+source-git-commit: 7a34bf9aa740c647530306c3edde6e493f80790a
 workflow-type: tm+mt
-source-wordcount: '2435'
-ht-degree: 93%
+source-wordcount: '2548'
+ht-degree: 89%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-L’attuale versione degli Assets Essentials è stata rilasciata il 26 ottobre 2023.
+L’attuale versione di Assets Essentials è stata rilasciata il 30 novembre 2023.
 
 Le nuove funzioni includono:
 
-**Importa risorse in blocco dall&#39;origine dati di OneDrive**
+**Editor Adobe Express incorporato in AEM Assets**
 
-Gli amministratori possono ora [importa un numero elevato di risorse da OneDrive ad AEM Assets](/help/using/bulk-import-assets-view.md). L&#39;elenco aggiornato delle origini dati supportate per l&#39;importazione in blocco include Azure, AWS, Google Cloud, Dropbox e OneDrive.
+Gli utenti con accesso a Express ora dispongono di strumenti integrati per la modifica e la creazione di immagini da Adobi Express e Adobe Firefly disponibili direttamente in AEM Assets per migliorare il riutilizzo dei contenuti e accelerarne la velocità.
 
-![assegnare il modulo metadati a una cartella](/help/using/assets/bulk-import-source-details.png)
+![assegnare il modulo metadati a una cartella](/help/using/assets/adobe-express-aem-assets.png)
 
-**Supporto di diritti per più organizzazioni per le librerie**
+<!--
 
-Experience Manager Assets ora consente di configurare l’accesso alle librerie Creative Cloud in un’organizzazione IMS diversa. Consente di accedere più facilmente ai flussi di lavoro più recenti tra Creative Cloud e Experience Manager, riducendo i tempi e gli sforzi dei creativi.
+**Smart tags blocklist** 
+
+Assets Essentials now enables you to define a list of blocked tags. These tags are automatically removed from the auto-generated smart tags when you upload assets to the repository. This capability performs tags governance and saves a lot of time as you can add a tag to the block list and Assets Essentials automatically excludes it from the list of tags for any of the assets that are added to the repository.
+
+  ![storage usage insights](/help/using/assets/block-tags.png)
+
+-->
+
+**Rapporti sull’utilizzo dello spazio di archiviazione in Insights**:
+
+Gli amministratori ora possono visualizzare i rapporti sull’utilizzo dello storage disponibili come parte di Insights.
+
+![informazioni sull&#39;utilizzo dello storage](/help/using/assets/storage-usage-insights.png)
+
+**Cerca la prima configurazione della homepage**
+
+Assets Essentials ora consente di configurare l’esperienza della pagina home per la tua organizzazione. Se si seleziona Cerca come pagina iniziale, è possibile configurare l&#39;allineamento della barra di ricerca, l&#39;immagine di sfondo e il logo per l&#39;organizzazione.
+
+![cerca prima configurazione](/help/using/assets/search-first-configuration.png)
+
+
 
 **Miglioramenti in base al feedback ricevuto dai clienti**
 
@@ -50,6 +70,18 @@ L’elenco dei problemi noti di [!DNL Assets Essentials] viene regolarmente rivi
 In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un feedback](#provide-feedback) al team.
 
 ## Versioni precedenti {#past-releases}
+
+### Versione di ottobre 2023 {#october2023-release}
+
+**Importa risorse in blocco dall&#39;origine dati di OneDrive**
+
+Gli amministratori possono ora [importa un numero elevato di risorse da OneDrive ad AEM Assets](/help/using/bulk-import-assets-view.md). L&#39;elenco aggiornato delle origini dati supportate per l&#39;importazione in blocco include Azure, AWS, Google Cloud, Dropbox e OneDrive.
+
+![assegnare il modulo metadati a una cartella](/help/using/assets/bulk-import-source-details.png)
+
+**Supporto di diritti per più organizzazioni per le librerie**
+
+Experience Manager Assets ora consente di configurare l’accesso alle librerie Creative Cloud in un’organizzazione IMS diversa. Consente di accedere più facilmente ai flussi di lavoro più recenti tra Creative Cloud e Experience Manager, riducendo i tempi e gli sforzi dei creativi.
 
 ### Versione di settembre 2023 {#september2023-release}
 
