@@ -3,10 +3,10 @@ title: Cercare e individuare le risorse in [!DNL Assets Essentials]
 description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 8a52d79ecd1ce8fdafd181e0f9b166e8d827c665
+source-git-commit: 2a885eb87d29be19f2e1206fe44e592137e43fe2
 workflow-type: tm+mt
-source-wordcount: '1041'
-ht-degree: 100%
+source-wordcount: '1303'
+ht-degree: 76%
 
 ---
 
@@ -56,7 +56,7 @@ Puoi ordinare le risorse trovate in ordine crescente o decrescente per `Name`, `
 
 **Autorizzazioni richieste:** `Can Edit`, `Owner` o Amministratore.
 
-Assets Essentials consente inoltre di aggiungere filtri personalizzati all’interfaccia utente. Puoi applicare i filtri personalizzati in aggiunta ai [filtri standard](#refine-search-results), per perfezionare i risultati della ricerca.
+Gli Assets Essentials consentono inoltre di aggiungere filtri personalizzati all’interfaccia utente. Puoi applicare i filtri personalizzati in aggiunta ai [filtri standard](#refine-search-results), per perfezionare i risultati della ricerca.
 
 Assets Essentials fornisce i seguenti filtri personalizzati:
 
@@ -123,7 +123,7 @@ Per rimuovere i filtri personalizzati:
 
 ## Ricerche salvate {#saved-search}
 
-La funzionalità di ricerca di [!DNL Assets Essentials] è semplice. Nella casella di ricerca, puoi sia digitare una parola chiave e premere Invio per visualizzare i risultati, sia cercare rapidamente con un solo clic, richiamando parole chiave già utilizzate di recente.
+La funzionalità di ricerca di [!DNL Assets Essentials] è semplice. Dall&#39;interno della casella di ricerca, è possibile non solo digitare una parola chiave e premere Invio per visualizzare i risultati, ma anche cercare rapidamente di nuovo le parole chiave recentemente cercate con un solo clic.
 
 Puoi anche filtrare i risultati della ricerca in base a criteri specifici, secondo i metadati e il tipo di risorse. [!DNL Assets Essentials] consente di salvare i parametri dei filtri utilizzati di frequente, per migliorare l’esperienza di ricerca. Puoi quindi selezionare una ricerca salvata per eseguirla di nuovo applicandone il filtro con un solo clic.
 
@@ -169,6 +169,39 @@ Puoi selezionare le risorse da visualizzare nei risultati della ricerca ed effet
 * **Mostra percorso file**: passa alla posizione della cartella delle risorse.
 
 * **Fissa in Accesso rapido**: [fissa una risorsa](my-workspace.md) per un accesso più rapido quando necessario in un secondo momento. Tutti gli elementi fissati vengono visualizzati nella sezione **Accesso rapido** dell’area di lavoro personale.
+
+## Configurazione della prima home page di ricerca {#configuring-search-first-homepage}
+
+La prima home page di Search consente di spostarsi all&#39;istante tra i vari file e cartelle. Consente di navigare facilmente tra i tipi di risorse, i metadati, i tag avanzati e persino il contenuto stesso senza conoscere la parola chiave esatta. [!DNL Assets Essentials] consente di configurare la home page controllando cosa deve apparire quando si accede a [!DNL Assets Essentials].
+
+Per configurare la prima home page di ricerca, eseguire i passaggi seguenti:
+
+1. Accedi a **[!UICONTROL Impostazioni]** > **[!UICONTROL Impostazioni generali]**.
+1. Seleziona **[!UICONTROL Cerca prima]**. Apre inoltre la ricerca per la prima configurazione correlata. È possibile impostare [allineamento](#setting-alignment-search-bar) o [imposta sfondo e immagine logo](#setting-background-image-and-logo) della tua home page.
+
+### Impostazione dell&#39;allineamento della barra di ricerca {#setting-alignment-search-bar}
+
+[!DNL Assets Essentials] consente di modificare l’allineamento della barra di ricerca. È possibile fare in modo che la barra di ricerca venga visualizzata al centro o in alto. Seleziona l’allineamento appropriato e fai clic su **[!UICONTROL Salva]**.
+
+![Cerca primo allineamento home page](assets/search-first-alignment.png)
+
+### Impostazione dello sfondo e dell&#39;immagine del logo della home page {#setting-background-image-and-logo}
+
+Puoi aggiungere il logo del brand e l’immagine di sfondo alla prima pagina iniziale della ricerca. Esegui i passaggi seguenti:
+
+1. Accedi a **[!UICONTROL Sfondo e immagine del logo]** sezione in **[!UICONTROL Homepage]**.
+1. Clic **[!UICONTROL Sostituisci]** per sfogliare le immagini dall’archivio risorse esistente.
+1. Fai clic su **[!UICONTROL Salva]**. [Anteprima](#preview-configured-homepage) le modifiche per ripassare le modifiche.
+
+### Anteprima pagina home configurata {#preview-configured-homepage}
+
+È possibile visualizzare un&#39;anteprima per controllare il layout e la formattazione della prima home page di ricerca. Utilizzo di **[!UICONTROL Anteprima]**, è possibile correggere il layout o apportare modifiche in base al requisito. Per visualizzare in anteprima la pagina home configurata, esegui i passaggi seguenti:
+
+1. Clic **[!UICONTROL Impostazioni generali]** e seleziona **[!UICONTROL Cerca prima]**.
+1. Accedi a **[!UICONTROL Personalizza la prima pagina iniziale della ricerca]** e fai clic su **[!UICONTROL Anteprima]**. Passaggio **[!UICONTROL Tema scuro]** per visualizzare l&#39;anteprima della home page in un tema scuro o chiaro.
+1. Clic **[!UICONTROL Chiudi]** per chiudere la schermata di anteprima.
+
+   ![Cerca anteprima prima home page](assets/search-first-preview.gif)
 
 ## Passaggi successivi {#next-steps}
 
