@@ -3,10 +3,10 @@ title: Cercare e individuare le risorse in [!DNL Assets Essentials]
 description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 2a885eb87d29be19f2e1206fe44e592137e43fe2
+source-git-commit: dee5bde4837795b800fad6307d18914ed4c90af9
 workflow-type: tm+mt
-source-wordcount: '1303'
-ht-degree: 76%
+source-wordcount: '1295'
+ht-degree: 77%
 
 ---
 
@@ -172,7 +172,7 @@ Puoi selezionare le risorse da visualizzare nei risultati della ricerca ed effet
 
 ## Configurazione della prima home page di ricerca {#configuring-search-first-homepage}
 
-La prima home page di Search consente di spostarsi all&#39;istante tra i vari file e cartelle. Consente di navigare facilmente tra i tipi di risorse, i metadati, i tag avanzati e persino il contenuto stesso senza conoscere la parola chiave esatta. [!DNL Assets Essentials] consente di configurare la home page controllando cosa deve apparire quando si accede a [!DNL Assets Essentials].
+Assets Essentials consente di selezionare la pagina di destinazione predefinita per la tua organizzazione. Quando si utilizza la pagina Home di Search First, è possibile personalizzare il marchio della pagina configurando lo sfondo e le immagini del logo in base al marchio.
 
 Per configurare la prima home page di ricerca, eseguire i passaggi seguenti:
 
@@ -191,7 +191,7 @@ Puoi aggiungere il logo del brand e l’immagine di sfondo alla prima pagina ini
 
 1. Accedi a **[!UICONTROL Sfondo e immagine del logo]** sezione in **[!UICONTROL Homepage]**.
 1. Clic **[!UICONTROL Sostituisci]** per sfogliare le immagini dall’archivio risorse esistente.
-1. Fai clic su **[!UICONTROL Salva]**. [Anteprima](#preview-configured-homepage) le modifiche per ripassare le modifiche.
+1. Fai clic su **[!UICONTROL Salva]**. [Anteprima](#preview-configured-homepage) le modifiche per esaminare le modifiche.
 
 ### Anteprima pagina home configurata {#preview-configured-homepage}
 
