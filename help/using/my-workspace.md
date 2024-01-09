@@ -3,8 +3,8 @@ title: Area di lavoro personale per Assets
 description: L’area di lavoro personale è una pagina che offre moduli visivi personalizzabili per un accesso comodo alle aree chiave dell’interfaccia utente di Assets e alle informazioni più rilevanti per l’utente.
 exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
 source-git-commit: 21db2f77de3245f6fa40964b64ec8ac2c45d13e9
-workflow-type: tm+mt
-source-wordcount: '738'
+workflow-type: ht
+source-wordcount: '741'
 ht-degree: 100%
 
 ---
