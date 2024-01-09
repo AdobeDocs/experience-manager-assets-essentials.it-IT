@@ -3,10 +3,10 @@ title: Cercare e individuare le risorse in [!DNL Assets Essentials]
 description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 608cd11dbdee46606e898fe3c79ffbad0101cebc
+source-git-commit: 638d1cef41c5cde1f4f16e231eef5852d779b7e1
 workflow-type: tm+mt
-source-wordcount: '1401'
-ht-degree: 69%
+source-wordcount: '1442'
+ht-degree: 67%
 
 ---
 
@@ -32,11 +32,16 @@ Per cercare le risorse, effettua le operazioni seguenti:
 
 ## Cercare risorse con Adobe Firefly
 
-Con l&#39;integrazione di [!UICONTROL Adobe Firefly] e [!UICONTROL Adobe Experience Manager Assets], puoi cercare in modo efficiente le risorse non disponibili in nessuna delle cartelle risorse. <br> Ad esempio, puoi cercare una risorsa utilizzando la parola chiave `Bugatti Type 57`. Durante la ricerca di `Bugatti Type 57`, non è stato trovato alcun risultato.
+Se cerchi una risorsa non disponibile in nessuna delle cartelle di risorse, utilizza [!UICONTROL Adobe Firefly] funzione di ricerca risorse in [!UICONTROL Adobe Experience Manager Assets]. Questa funzione consente di cercare in modo efficiente le risorse che potrebbero non essere memorizzate nelle cartelle specificate.  <br> Ad esempio, puoi cercare una risorsa utilizzando la parola chiave `Bugatti Type 57`. Durante la ricerca di `Bugatti Type 57`, non è stato trovato alcun risultato. <br>
+Nella barra di ricerca, immetti il nome della risorsa e fai clic su **[!UICONTROL Genera]**.
 
-Nella barra di ricerca, immetti il nome della risorsa e fai clic su **[!UICONTROL Genera]**. Le risorse di esempio vengono visualizzate sullo schermo. Puoi caricare queste risorse nella cartella preferita per accedervi facilmente.
+![Integrazione del Firefly](firefly-integration.jpg)
+*Figura: Nessun risultato trovato per Bugatti Type 57 nella cartella delle risorse.*
+
+Le risorse di esempio vengono visualizzate sullo schermo. Puoi caricare queste risorse nella cartella preferita per accedervi facilmente.
 
 ![Integrazione del Firefly](assets/bugatti-type-57.jpg)
+*Figura: Riferimento alle risorse trovate utilizzando la funzione di ricerca di risorse Adobe Firefly.*
 
 ## Filtrare i risultati della ricerca {#refine-search-results}
 

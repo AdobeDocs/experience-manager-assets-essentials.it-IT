@@ -4,10 +4,10 @@ description: Sposta, elimina, copia, rinomina, aggiorna e crea versioni delle ri
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: e13e204482e480b3a66b48263e965787bd980842
+source-git-commit: 638d1cef41c5cde1f4f16e231eef5852d779b7e1
 workflow-type: tm+mt
-source-wordcount: '1026'
-ht-degree: 100%
+source-wordcount: '1152'
+ht-degree: 90%
 
 ---
 
@@ -17,19 +17,43 @@ Puoi eseguire facilmente diverse attività di gestione delle risorse digitali (D
 
 Utilizza [!DNL Assets Essentials] per eseguire le seguenti attività di gestione risorse. Quando selezioni una risorsa, nella barra degli strumenti in alto vengono visualizzate le seguenti opzioni.
 
-![Opzioni nella barra degli strumenti quando si seleziona una risorsa](assets/toolbar-image-selected.png)
+![Opzioni nella barra degli strumenti quando si seleziona una risorsa](assets/asset-options.png)
 
 *Figura: Opzioni disponibili nella barra degli strumenti per un’immagine selezionata.*
 
+Puoi selezionare le risorse da visualizzare nei risultati della ricerca ed effettuare le seguenti operazioni:
+
 * ![icona Deseleziona](assets/do-not-localize/close-icon.png) Deseleziona la selezione.
+
+* ![icona trova simile](assets/do-not-localize/find-similar.svg) Trova una risorsa di immagine simile nell’interfaccia utente Assets in base ai metadati e ai tag avanzati.
+
 * ![icona Dettagli](assets/do-not-localize/edit-in-icon.png) Fai clic sull’icona per visualizzare l’anteprima di una risorsa e i metadati dettagliati. In anteprima, puoi visualizzare le versioni e modificare un’immagine.
+
 * ![icona di download](assets/do-not-localize/download-icon.png) Scarica nel file system locale la risorsa selezionata.
+
+* ![icona aggiungi raccolta](assets/do-not-localize/add-collection.svg) Aggiungi la risorsa selezionata a una raccolta.
+
+* ![Fissa icona risorse](assets/do-not-localize/pin-quick-access.svg) Fissa una risorsa per un accesso più rapido quando necessario in un secondo momento. Tutti gli elementi fissati vengono visualizzati nella sezione **Accesso rapido** dell’area di lavoro personale.
+
+* ![icona modifica in express](assets/do-not-localize/edit-e.svg) Modifica un’immagine nell’Adobe Express integrato in Adobe Experience Manager Assets.
+
+* ![icona modifica risorsa](assets/do-not-localize/edit-e.svg) Modifica l’immagine utilizzando l’Adobe Express.
+
+* ![icona condividi collegamento risorsa](assets/do-not-localize/share-link.svg) per una risorsa con altri utenti in modo che possano accedervi e scaricarla.
+
 * ![icona Elimina](assets/do-not-localize/delete-icon.png) Elimina la risorsa o la cartella selezionata.
-* ![icona Ritira](assets/do-not-localize/checkout-icon.png) Ritira la risorsa selezionata.
+
 * ![icona Copia](assets/do-not-localize/copy-icon.png) Copia il file o la cartella selezionati.
+
 * ![icona Sposta](assets/do-not-localize/move-icon.png) Sposta la risorsa o la cartella selezionata in una posizione diversa nella gerarchia dell’archivio.
+
 * ![icona Rinomina](assets/do-not-localize/rename-icon.png) Rinomina la risorsa o la cartella selezionata. Utilizza un nome univoco; in caso contrario la ridenominazione non riesce e viene visualizzato un’avvertenza. Riprova con un nuovo nome.
+
+* ![icona copia libreria](assets/do-not-localize/copy-icon.png) Aggiungi una risorsa alla libreria.
+
 * ![icona Assegna attività](assets/do-not-localize/review-delegate-icon.png) Assegna attività ad altri utenti per collaborare a una risorsa.
+
+* ![icona assegna attività](assets/do-not-localize/watch-asset.svg) Monitora le operazioni eseguite su una risorsa.
 
 Le stesse opzioni sono disponibili anche sulle miniature delle risorse.
 
@@ -148,9 +172,3 @@ Per aggiungere al modulo il campo di metadati Data di scadenza, trascina nel mod
 * Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
 
 * Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&amp;lang=it#support)
-
-
-
-<!-- * ![find similar icon](assets/do-not-localize/find-similar-image-icon.svg) Find similar image asset in the Assets UI based on the metadata and smart tags.
-* ![Add to Collection]() Add the selected asset to a collection.
-* **Pin to Quick Access**: Pin an asset to quickly access the asset when you need it later. -->
