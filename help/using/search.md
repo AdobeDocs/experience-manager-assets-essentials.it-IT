@@ -3,10 +3,10 @@ title: Cercare e individuare le risorse in [!DNL Assets Essentials]
 description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 638d1cef41c5cde1f4f16e231eef5852d779b7e1
+source-git-commit: 41cbb7a26d632ef24f6997ab6fe741e5d060e70a
 workflow-type: tm+mt
-source-wordcount: '1442'
-ht-degree: 67%
+source-wordcount: '1451'
+ht-degree: 66%
 
 ---
 
@@ -32,7 +32,7 @@ Per cercare le risorse, effettua le operazioni seguenti:
 
 ## Cercare risorse con Adobe Firefly
 
-Se cerchi una risorsa non disponibile in nessuna delle cartelle di risorse, utilizza [!UICONTROL Adobe Firefly] funzione di ricerca risorse in [!UICONTROL Adobe Experience Manager Assets]. Questa funzione consente di cercare in modo efficiente le risorse che potrebbero non essere memorizzate nelle cartelle specificate.  <br> Ad esempio, puoi cercare una risorsa utilizzando la parola chiave `Bugatti Type 57`. Durante la ricerca di `Bugatti Type 57`, non è stato trovato alcun risultato. <br>
+Se cerchi una risorsa non disponibile in nessuna delle cartelle di risorse, utilizza [!UICONTROL Adobe Firefly] funzione di ricerca risorse in [!UICONTROL Adobe Experience Manager Assets]. Consente di cercare in modo efficiente le risorse che potrebbero non essere memorizzate nelle cartelle specificate. Questa funzione è attualmente accessibile solo agli utenti autorizzati a Express.  <br> Ad esempio, puoi cercare una risorsa utilizzando la parola chiave `Bugatti Type 57`. Durante la ricerca di `Bugatti Type 57`, non è stato trovato alcun risultato. <br>
 Nella barra di ricerca, immetti il nome della risorsa e fai clic su **[!UICONTROL Genera]**.
 
 ![Integrazione del Firefly](firefly-integration.jpg)
