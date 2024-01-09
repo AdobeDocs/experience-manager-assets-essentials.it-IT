@@ -3,10 +3,10 @@ title: Cercare e individuare le risorse in [!DNL Assets Essentials]
 description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: dee5bde4837795b800fad6307d18914ed4c90af9
+source-git-commit: 608cd11dbdee46606e898fe3c79ffbad0101cebc
 workflow-type: tm+mt
-source-wordcount: '1295'
-ht-degree: 77%
+source-wordcount: '1401'
+ht-degree: 69%
 
 ---
 
@@ -29,6 +29,14 @@ Per cercare le risorse, effettua le operazioni seguenti:
    * Cerca utilizzando una parola chiave e, se necessario, cambia la cartella. Premi Invio.
 
    * Per iniziare a lavorare su una risorsa visualizzata di recente, fai clic nella casella di ricerca e seleziona una delle risorse visualizzate di recente che vengono proposte.
+
+## Cercare risorse con Adobe Firefly
+
+Con l&#39;integrazione di [!UICONTROL Adobe Firefly] e [!UICONTROL Adobe Experience Manager Assets], puoi cercare in modo efficiente le risorse non disponibili in nessuna delle cartelle risorse. <br> Ad esempio, puoi cercare una risorsa utilizzando la parola chiave `Bugatti Type 57`. Durante la ricerca di `Bugatti Type 57`, non è stato trovato alcun risultato.
+
+Nella barra di ricerca, immetti il nome della risorsa e fai clic su **[!UICONTROL Genera]**. Le risorse di esempio vengono visualizzate sullo schermo. Puoi caricare queste risorse nella cartella preferita per accedervi facilmente.
+
+![Integrazione del Firefly](assets/bugatti-type-57.jpg)
 
 ## Filtrare i risultati della ricerca {#refine-search-results}
 
@@ -146,11 +154,21 @@ When userA is searching and userB add an asset that matches search results, will
 
 Puoi selezionare le risorse da visualizzare nei risultati della ricerca ed effettuare le seguenti operazioni:
 
+* **Trova immagine simile**: trova una risorsa di immagine simile nell’interfaccia utente Assets in base ai metadati e ai tag avanzati.
+
 * **Dettagli**: visualizza e modifica le proprietà della risorsa.
+
+* **Scarica**: scarica una risorsa.
 
 * **Aggiungi a raccolta**: aggiungi la risorsa selezionata a una raccolta.
 
-* **Scarica**: scarica una risorsa.
+* **Fissa in Accesso rapido**: [fissa una risorsa](my-workspace.md) per un accesso più rapido quando necessario in un secondo momento. Tutti gli elementi fissati vengono visualizzati nella sezione **Accesso rapido** dell’area di lavoro personale.
+
+* **Apri in Adobe Express**: modifica un’immagine nell’Adobe Express integrato dalla schermata Adobe Experience Manager Assets.
+
+* **Modifica**: modifica l’immagine utilizzando l’Adobe Express.
+
+* **Condividi collegamento**: [condividi collegamenti](share-links-for-assets.md) per una risorsa con altri utenti in modo che possano accedervi e scaricarla.
 
 * **Elimina**: elimina una risorsa.
 
@@ -160,15 +178,11 @@ Puoi selezionare le risorse da visualizzare nei risultati della ricerca ed effet
 
 * **Rinomina**: rinomina una risorsa.
 
+* **Copia in librerie**: aggiungi una risorsa alla libreria.
+
 * **Assegna attività**: assegna attività agli utenti per una risorsa.
 
-* **Condividi collegamento**: [condividi collegamenti](share-links-for-assets.md) per una risorsa con altri utenti in modo che possano accedervi e scaricarla.
-
 * **Osserva**: [monitora le operazioni](manage-notifications.md) eseguite su una risorsa.
-
-* **Mostra percorso file**: passa alla posizione della cartella delle risorse.
-
-* **Fissa in Accesso rapido**: [fissa una risorsa](my-workspace.md) per un accesso più rapido quando necessario in un secondo momento. Tutti gli elementi fissati vengono visualizzati nella sezione **Accesso rapido** dell’area di lavoro personale.
 
 ## Configurazione della prima home page di ricerca {#configuring-search-first-homepage}
 
@@ -191,7 +205,7 @@ Puoi aggiungere il logo del brand e l’immagine di sfondo alla prima pagina ini
 
 1. Accedi a **[!UICONTROL Sfondo e immagine del logo]** sezione in **[!UICONTROL Homepage]**.
 1. Clic **[!UICONTROL Sostituisci]** per sfogliare le immagini dall’archivio risorse esistente.
-1. Fai clic su **[!UICONTROL Salva]**. [Anteprima](#preview-configured-homepage) le modifiche per esaminare le modifiche.
+1. Clic **[!UICONTROL Salva]**. [Anteprima](#preview-configured-homepage) le modifiche per esaminare le modifiche.
 
 ### Anteprima pagina home configurata {#preview-configured-homepage}
 
