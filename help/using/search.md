@@ -3,10 +3,10 @@ title: Cercare e individuare le risorse in [!DNL Assets Essentials]
 description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 41cbb7a26d632ef24f6997ab6fe741e5d060e70a
+source-git-commit: 92cfe963d37df919b8bc29c49da7c8e9bd62638e
 workflow-type: tm+mt
-source-wordcount: '1451'
-ht-degree: 66%
+source-wordcount: '1524'
+ht-degree: 63%
 
 ---
 
@@ -29,19 +29,6 @@ Per cercare le risorse, effettua le operazioni seguenti:
    * Cerca utilizzando una parola chiave e, se necessario, cambia la cartella. Premi Invio.
 
    * Per iniziare a lavorare su una risorsa visualizzata di recente, fai clic nella casella di ricerca e seleziona una delle risorse visualizzate di recente che vengono proposte.
-
-## Cercare risorse con Adobe Firefly
-
-Se cerchi una risorsa non disponibile in nessuna delle cartelle di risorse, utilizza [!UICONTROL Adobe Firefly] funzione di ricerca risorse in [!UICONTROL Adobe Experience Manager Assets]. Consente di cercare in modo efficiente le risorse che potrebbero non essere memorizzate nelle cartelle specificate. Questa funzione è attualmente accessibile solo agli utenti autorizzati a Express.  <br> Ad esempio, puoi cercare una risorsa utilizzando la parola chiave `Bugatti Type 57`. Durante la ricerca di `Bugatti Type 57`, non è stato trovato alcun risultato. <br>
-Nella barra di ricerca, immetti il nome della risorsa e fai clic su **[!UICONTROL Genera]**.
-
-![Integrazione del Firefly](firefly-integration.jpg)
-*Figura: Nessun risultato trovato per Bugatti Type 57 nella cartella delle risorse.*
-
-Le risorse di esempio vengono visualizzate sullo schermo. Puoi caricare queste risorse nella cartella preferita per accedervi facilmente.
-
-![Integrazione del Firefly](assets/bugatti-type-57.jpg)
-*Figura: Riferimento alle risorse trovate utilizzando la funzione di ricerca di risorse Adobe Firefly.*
 
 ## Filtrare i risultati della ricerca {#refine-search-results}
 
@@ -133,6 +120,37 @@ Per rimuovere i filtri personalizzati:
 
 1. Fai clic su **[!UICONTROL Conferma]** per rimuovere i filtri dall’interfaccia utente.
 
+## Cercare risorse tramite [!DNL Adobe Firefly] {#search-firefly}
+
+Puoi cercare una risorsa non disponibile in nessuna cartella di risorse utilizzando [!DNL Adobe Firefly] funzione di ricerca risorse in [!DNL Experience Manager Assets]. Questo consente di generare in modo efficiente in tempo reale le risorse che non sono memorizzate nelle cartelle di risorse.
+
+### Prima di iniziare
+
+È necessario disporre di un [!DNL Adobe Express] abbonamento.
+
+### Generare risorse
+
+Per generare nuove risorse tramite [!DNL Adobe Firefly]:
+
+1. Accedi a [!DNL AEM Assets] Workspace.
+1. Immetti il nome della risorsa nella barra di ricerca nella parte superiore della pagina.<br>
+Ad esempio, puoi cercare una risorsa utilizzando la parola chiave `Bugatti Type 57`. Durante la ricerca della risorsa, non viene trovato alcun risultato, perché la risorsa non è presente in nessuna cartella di risorse.
+1. Digita il nome della risorsa nella barra di ricerca al centro della pagina e fai clic su **[!UICONTROL Genera]**.
+   ![Integrazione del Firefly](firefly-integration.jpg)
+   *Figura: Nessun risultato trovato per Bugatti Type 57 nella cartella delle risorse.*<br>
+Le nuove risorse sono state generate correttamente.
+   ![Integrazione del Firefly](assets/bugatti-type-57.jpg)
+   *Figura: Risorse di riferimento cercate tramite [!DNL Adobe Firefly] funzione di ricerca risorse.* <br>
+Puoi caricare queste risorse nella cartella preferita per accedervi facilmente.
+
+### Caricare le risorse
+
+Per caricare la risorsa generata nell’archivio delle risorse:
+
+1. Clic **[!UICONTROL Carica]**.
+1. Seleziona la cartella di risorse in cui devi caricare la risorsa e fai clic su **[!UICONTROL Seleziona cartella]**.
+   ![Carica risorsa](assets/upload-asset-firefly.jpg)
+   *Figura: Selezionare la cartella in cui caricare la risorsa.*
 
 ## Ricerche salvate {#saved-search}
 
@@ -169,7 +187,7 @@ Puoi selezionare le risorse da visualizzare nei risultati della ricerca ed effet
 
 * **Fissa in Accesso rapido**: [fissa una risorsa](my-workspace.md) per un accesso più rapido quando necessario in un secondo momento. Tutti gli elementi fissati vengono visualizzati nella sezione **Accesso rapido** dell’area di lavoro personale.
 
-* **Apri in Adobe Express**: modifica un’immagine nell’Adobe Express integrato dalla schermata Adobe Experience Manager Assets.
+* **Apri in Adobe Express**: modifica un’immagine nell’Adobe Express integrato dalla schermata Experience Manager Assets.
 
 * **Modifica**: modifica l’immagine utilizzando l’Adobe Express.
 
