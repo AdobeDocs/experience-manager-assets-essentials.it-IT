@@ -5,9 +5,9 @@ role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: 638d1cef41c5cde1f4f16e231eef5852d779b7e1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1152'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -25,21 +25,21 @@ Puoi selezionare le risorse da visualizzare nei risultati della ricerca ed effet
 
 * ![icona Deseleziona](assets/do-not-localize/close-icon.png) Deseleziona la selezione.
 
-* ![icona trova simile](assets/do-not-localize/find-similar.svg) Trova una risorsa di immagine simile nell’interfaccia utente Assets in base ai metadati e ai tag avanzati.
+* ![icona Trova simile](assets/do-not-localize/find-similar.svg): trova una risorsa di immagine simile nell’interfaccia utente di Assets in base ai metadati e ai tag avanzati.
 
 * ![icona Dettagli](assets/do-not-localize/edit-in-icon.png) Fai clic sull’icona per visualizzare l’anteprima di una risorsa e i metadati dettagliati. In anteprima, puoi visualizzare le versioni e modificare un’immagine.
 
 * ![icona di download](assets/do-not-localize/download-icon.png) Scarica nel file system locale la risorsa selezionata.
 
-* ![icona aggiungi raccolta](assets/do-not-localize/add-collection.svg) Aggiungi la risorsa selezionata a una raccolta.
+* ![icona Aggiungi a raccolta](assets/do-not-localize/add-collection.svg): aggiungi la risorsa selezionata a una raccolta.
 
-* ![Fissa icona risorse](assets/do-not-localize/pin-quick-access.svg) Fissa una risorsa per un accesso più rapido quando necessario in un secondo momento. Tutti gli elementi fissati vengono visualizzati nella sezione **Accesso rapido** dell’area di lavoro personale.
+* ![icona Fissa risorse](assets/do-not-localize/pin-quick-access.svg): fissa una risorsa per un accesso più rapido quando necessario in un secondo momento. Tutti gli elementi fissati vengono visualizzati nella sezione **Accesso rapido** della tua area di lavoro.
 
-* ![icona modifica in express](assets/do-not-localize/edit-e.svg) Modifica un’immagine nell’Adobe Express integrato in Adobe Experience Manager Assets.
+* ![icona Modifica in Express](assets/do-not-localize/edit-e.svg) Modifica un’immagine nell’editor Adobe Express integrato in Adobe Experience Manager Assets.
 
-* ![icona modifica risorsa](assets/do-not-localize/edit-e.svg) Modifica l’immagine utilizzando l’Adobe Express.
+* ![icona Modifica risorsa](assets/do-not-localize/edit-e.svg) Modifica l’immagine utilizzando Adobe Express.
 
-* ![icona condividi collegamento risorsa](assets/do-not-localize/share-link.svg) per una risorsa con altri utenti in modo che possano accedervi e scaricarla.
+* ![icona Condividi collegamento risorsa](assets/do-not-localize/share-link.svg) Condividi una risorsa con altri utenti così che possano accedervi e scaricarla.
 
 * ![icona Elimina](assets/do-not-localize/delete-icon.png) Elimina la risorsa o la cartella selezionata.
 
@@ -49,11 +49,11 @@ Puoi selezionare le risorse da visualizzare nei risultati della ricerca ed effet
 
 * ![icona Rinomina](assets/do-not-localize/rename-icon.png) Rinomina la risorsa o la cartella selezionata. Utilizza un nome univoco; in caso contrario la ridenominazione non riesce e viene visualizzato un’avvertenza. Riprova con un nuovo nome.
 
-* ![icona copia libreria](assets/do-not-localize/copy-icon.png) Aggiungi una risorsa alla libreria.
+* ![icona Copia libreria](assets/do-not-localize/copy-icon.png) Aggiungi una risorsa alla libreria.
 
 * ![icona Assegna attività](assets/do-not-localize/review-delegate-icon.png) Assegna attività ad altri utenti per collaborare a una risorsa.
 
-* ![icona assegna attività](assets/do-not-localize/watch-asset.svg) Monitora le operazioni eseguite su una risorsa.
+* ![icona Assegna attività](assets/do-not-localize/watch-asset.svg) Monitora le operazioni eseguite su una risorsa.
 
 Le stesse opzioni sono disponibili anche sulle miniature delle risorse.
 
