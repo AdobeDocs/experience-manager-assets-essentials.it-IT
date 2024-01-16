@@ -4,9 +4,9 @@ description: “[!DNL Assets Essentials] si integra con altre soluzioni Adobe e 
 role: User
 exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
 source-git-commit: 5bcd55313d1fb8bcf3dedbb24742eca5e2663aa8
-workflow-type: tm+mt
-source-wordcount: '450'
-ht-degree: 82%
+workflow-type: ht
+source-wordcount: '385'
+ht-degree: 100%
 
 ---
 
@@ -26,11 +26,11 @@ L’esperienza [!DNL Assets Essentials] incorporata può integrarsi con le segue
 
   [Guarda un video per configurare l’integrazione di Adobe Workfront e Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=it)
 
-## Integrazione con l’authoring basato su documenti per i Edge Delivery Services {#integrate-doc-authoring-edge-and-assets}
+## Integrazione con l’authoring basato su documenti per Edge Delivery Services {#integrate-doc-authoring-edge-and-assets}
 
-Edge Delivery consente di creare siti web veloci e coinvolgenti in cui gli autori possono aggiornare e pubblicare rapidamente i contenuti e nuovi siti possono essere avviati rapidamente.
+Edge Delivery consente di creare siti web coinvolgenti e rapidi in cui gli autori possono aggiornare e pubblicare rapidamente i contenuti e che consentono il lancio rapido di nuovi siti.
 
-Integra AEM Assets con l’authoring basato su documenti per Edge Delivery Services per consentire agli autori di siti web di utilizzare le immagini disponibili negli archivi AEM Assets durante l’authoring di documenti nei documenti Microsoft Word o Google. Per ulteriori informazioni, consulta [Integrare AEM Assets con l’authoring basato su documenti](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/edge-delivery/using.html#integrate-assets-edge).
+Integra AEM Assets con l’authoring basato su documenti per Edge Delivery Services per consentire agli autori di siti web di utilizzare le immagini disponibili negli archivi di AEM Assets durante l’authoring di documenti in Microsoft Word o Documenti Google. Per ulteriori informazioni, consulta [Integrare AEM Assets con l’authoring basato su documenti](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/edge-delivery/using.html?lang=it#integrate-assets-edge).
 
 ## Passaggi successivi {#next-steps}
 
