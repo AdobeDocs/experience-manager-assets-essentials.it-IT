@@ -5,13 +5,13 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: b14d8533854df448e2cb7b527ef5b7e69c072380
-workflow-type: tm+mt
-source-wordcount: '1664'
-ht-degree: 92%
+workflow-type: ht
+source-wordcount: '1652'
+ht-degree: 100%
 
 ---
 
-# Metadati negli Assets Essentials {#metadata}
+# Metadati in Assets Essentials {#metadata}
 
 Con metadati si intendono i dati o la descrizione dei dati. Ad esempio, le immagini come risorsa possono contenere informazioni sulla fotocamera con cui sono state scattate o su eventuale copyright. Queste informazioni sono metadati dell’immagine. I metadati sono fondamentali per una gestione efficiente delle risorse. I metadati raccolgono tutti i dati disponibili per una risorsa, ma non sono necessariamente contenuti in essa.
 
@@ -134,21 +134,21 @@ Di seguito è riportata una panoramica di ciascun tipo di proprietà e della rel
 | Parole chiave | Aggiungi parole chiave in formato libero (mappate a dc:subject). |
 | Tag avanzati | Migliora le funzionalità di ricerca aggiungendo automaticamente tag di metadati. |
 
-### Assegnare il modulo metadati a una cartella {#assign-metadata-form-folder}
+### Assegnare un modulo di metadati a una cartella {#assign-metadata-form-folder}
 
-Puoi anche assegnare un modulo di metadati a una cartella all’interno della distribuzione di Assets Essentials. Il modulo metadati assegnato a una cartella in base al tipo MIME viene sovrascritto quando si applica manualmente un modulo metadati a una cartella. Tutte le risorse nella cartella, comprese le risorse nelle sottocartelle, quindi visualizzano le proprietà definite nel modulo metadati.
+Puoi anche assegnare un modulo di metadati a una cartella specifica all’interno dell’implementazione di Assets Essentials. Il modulo di metadati assegnato a una cartella in base al tipo MIME viene sovrascritto quando si applica manualmente un modulo di metadati a una cartella. Per tutte le risorse nella cartella, comprese le risorse nelle sottocartelle, vengono quindi visualizzate le proprietà definite nel modulo di metadati.
 
 Per assegnare un modulo di metadati a una cartella:
 
-1. Accedi a **[!UICONTROL Impostazioni]** > **[!UICONTROL Forms metadati]** e seleziona un modulo di metadati.
+1. Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Moduli di metadati]** e seleziona un modulo di metadati.
 
-2. Clic **[!UICONTROL Assegna a cartella]**.
+2. Fai clic su **[!UICONTROL Assegna a cartella]**.
 
 3. Seleziona la cartella e fai clic su **[!UICONTROL Assegna]**.
 
-   ![assegnare il modulo metadati a una cartella](/help/using/assets/assign-to-folder.png)
+   ![assegnare un modulo di metadati a una cartella](/help/using/assets/assign-to-folder.png)
 
-   È inoltre possibile passare alla pagina dei dettagli della cartella e selezionare un modulo di metadati dalle proprietà della cartella disponibili nel riquadro di destra per assegnare il modulo di metadati alla cartella.
+   Per assegnare un modulo di metadati alla cartella, puoi anche passare alla pagina dei dettagli della cartella e selezionare un modulo di metadati dalle proprietà della cartella, nel riquadro a destra.
 
 ## Passaggi successivi {#next-steps}
 
