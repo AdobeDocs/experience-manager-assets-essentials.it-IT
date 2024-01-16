@@ -1,11 +1,11 @@
 ---
-title: Come si gestiscono i tag negli Assets Essentials?
-description: Scopri come gestire i tag negli Assets Essentials. I tag consentono di categorizzare le risorse così da poter essere sfogliate e cercate in modo più efficiente.
+title: Come gestire i tag in Assets Essentials?
+description: Scopri come gestire i tag in Assets Essentials. I tag consentono di categorizzare le risorse così da poter essere sfogliate e cercate in modo più efficiente.
 exl-id: da9e8d56-c190-4006-9579-c3c8401c5e5f
 source-git-commit: 74f78f0675e01c09a8654d7f7d0db14a0ee674a2
-workflow-type: tm+mt
-source-wordcount: '1292'
-ht-degree: 88%
+workflow-type: ht
+source-wordcount: '1284'
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ L’assegnazione tag offre molti vantaggi, ad esempio:
 
 * I tag possono evolvere nel tempo in funzione dei cambiamenti del vocabolario organizzativo.
 
-* I tag gestiti in Assets as a Cloud Service rimangono sincronizzati con i tag gestiti negli Assets Essentials, il che garantisce la governance e l’integrità dei metadati.
+* I tag gestiti in Assets as a Cloud Service rimangono sincronizzati con i tag gestiti in Assets Essentials garantendo la governance e l’integrità dei metadati.
 
 Per poter applicare tag alle risorse, è necessario prima creare uno spazio dei nomi, quindi creare e aggiungervi i tag. È possibile anche creare dei tag e aggiungerli a uno spazio dei nomi esistente. Tutti i tag creati a livello di radice vengono aggiunti automaticamente allo spazio dei nomi Tag standard. È possibilie quindi aggiungere il campo Tag al modulo dei metadati in modo che venga visualizzato nella pagina dei dettagli della risorsa. Dopo aver configurato queste impostazioni, puoi iniziare ad applicare i tag alle risorse.
 
@@ -43,7 +43,7 @@ Per poter applicare tag alle risorse, è necessario prima creare uno spazio dei 
 
 ![Gestione dell’assegnazione tag](assets/tagging-taxonomy-management.png)
 
-In Assets as a Cloud Service sono disponibili funzionalità aggiuntive oltre a quelle indicate in questo articolo, come l’unione, la ridenominazione, la localizzazione e la pubblicazione di tag.
+In Assets as a Cloud Service., sono disponibili ulteriori funzionalità oltre a quelle indicate in questo articolo, tra cui unione, ridenominazione, localizzazione e pubblicazione di tag.
 
 ## Creazione di uno spazio dei nomi {#creating-a-namespace}
 
@@ -93,7 +93,7 @@ Per creare un tag standard, fai clic su `Create Tag` a livello di radice. Specif
 
 >[!NOTE]
 >
->Se elimini `Standard Tags` spazio dei nomi utilizzando Assets as a Cloud Service, i tag creati a livello principale non vengono visualizzati nell’elenco dei tag disponibili.
+>Se elimini lo spazio dei nomi `Standard Tags` utilizzando Assets as a Cloud Service, i tag creati a livello di radice non vengono visualizzati nell’elenco dei tag disponibili.
 
 ## Spostamento dei tag {#moving-tags}
 
@@ -116,7 +116,7 @@ Per modificare il titolo del tag, selezionalo e fai clic su `Edit`. Specifica il
 >[!NOTE]
 >
 >* Il `Name` di un tag non può essere aggiornato. Anche il percorso principale di un tag è basato sul nome del tag. Il percorso rimane invariato anche se si aggiorna il campo `Title`.
->* In Assets as a Cloud Service sono disponibili operazioni aggiuntive come unione, localizzazione e pubblicazione.
+>* Ulteriori operazioni, quali unione, localizzazione e pubblicazione, sono disponibili in Assets as a Cloud Service.
 
 ## Eliminazione dei tag {#deleting-tags}
 
@@ -135,7 +135,7 @@ Per eliminare i tag, effettua le seguenti operazioni:
 
 ## Aggiunta del componente Tag al modulo Metadati {#adding-tags-to-metadata-form}
 
-Il componente Tag viene aggiunto al modulo metadati `default` automaticamente. Puoi progettare un [modulo metadati](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=it#metadata-forms) utilizzando un modello o da zero. Se non utilizzi un modello di modulo Metadati esistente, puoi modificare il modulo Metadati e aggiungere il componente Tag. La mappatura della proprietà dei metadati viene compilata automaticamente e non può essere modificata in questo momento. Gli utenti as a Cloud Service di Assets possono aggiornare la mappatura per memorizzare i valori dei tag utilizzando spazi dei nomi personalizzati ed esporre solo sottoinsiemi di gerarchie utilizzando percorsi principali.
+Il componente Tag viene aggiunto al modulo metadati `default` automaticamente. Puoi progettare un [modulo metadati](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=it#metadata-forms) utilizzando un modello o da zero. Se non utilizzi un modello di modulo Metadati esistente, puoi modificare il modulo Metadati e aggiungere il componente Tag. La mappatura della proprietà dei metadati viene compilata automaticamente e non può essere modificata in questo momento. Gli utenti di Assets as a Cloud Service possono aggiornare la mappatura per memorizzare i valori dei tag utilizzando spazi dei nomi personalizzati ed esporre solo sottoinsiemi di gerarchie utilizzando percorsi principali.
 
 Guarda questo video rapido per vedere come aggiungere il componente Tag al modulo di metadati:
 
@@ -150,4 +150,4 @@ Guarda questo video rapido per vedere come aggiungere il componente Tag al modul
    ![Assegnazione di tag alle risorse](assets/adding-tags-to-assets.png)
 
 1. Seleziona uno o più tag. Il tag secondario viene selezionato automaticamente insieme al tag principale o allo spazio dei nomi.
-I tag modificati negli Assets Essentials vengono applicati anche in Assets as a Cloud Service.
+I tag modificati in Assets Essentials vengono applicati anche in Assets as a Cloud Service.
