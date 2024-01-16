@@ -10,9 +10,9 @@ feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
 source-git-commit: 9260de0c52b21d17a1c2f64c2c3da6d2a42046f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 88%
 + [Gestire i tag](tagging-management.md)
 + Integrazione con altre soluzioni {#integration-with-other-solutions}
    + [Panoramica](integration.md)
-   + [Integrare con Adobe Asset Link](integrate-with-creative-cloud.md)
+   + [Integrazione con Adobe Asset Link](integrate-with-creative-cloud.md)
    + [Integrazione con Adobe Workfront](integrate-with-workfront.md)
 + Integrazione con Creative Cloud {#integration-with-creative-cloud}
    + [Connettere AEM Assets a Creative Cloud](connect-assets-with-creative-cloud.md)
