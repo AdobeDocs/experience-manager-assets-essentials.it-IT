@@ -4,9 +4,9 @@ description: Modifica le immagini utilizzando le opzioni baate su [!DNL Adobe Ph
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: dee5bde4837795b800fad6307d18914ed4c90af9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1147'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -80,35 +80,35 @@ Puoi convertire rapidamente un’immagine JPEG in formato PNG utilizzando Adobe 
 
 * Dimensione massima file supportata: 17 MB
 
-## Modificare le immagini con l’editor incorporato di Adobi Express {#edit-using-embedded-editor}
+## Modificare le immagine utilizzando l’editor integrato Adobe Express {#edit-using-embedded-editor}
 
-Gli utenti con accesso a Express ora dispongono di strumenti integrati per la modifica e la creazione di immagini da Adobi Express e Adobe Firefly disponibili direttamente all’interno di Assets Essentials, per migliorare il riutilizzo dei contenuti e accelerarne la velocità. Puoi anche utilizzare elementi predefiniti per rendere la risorsa straordinaria o eseguire azioni rapide per modificare l’immagine con pochi clic.
+Gli utenti con accesso a Express ora dispongono di strumenti integrati per la modifica e la creazione di immagini da Adobe Express e Adobe Firefly disponibili direttamente all’interno di Assets Essentials, per migliorare il riutilizzo dei contenuti e accelerarne la velocità. Puoi anche utilizzare elementi predefiniti per migliorare la risorsa o eseguire azioni rapide per modificare l’immagine con pochi clic.
 
-Per modificare le immagini mediante [!DNL Adobe Express] nell’editor incorporato, segui i passaggi seguenti:
+Per modificare le immagini mediante l’editor integrato [!DNL Adobe Express], effettua le seguenti operazioni:
 
-1. Seleziona un’immagine dal tuo [!DNL Experience Manager] Archivio risorse.
-1. Clic **[!UICONTROL Apri in Adobe Express]**.
+1. Seleziona un’immagine dal tuo archivio di [!DNL Experience Manager] Assets.
+1. Fai clic su **[!UICONTROL Apri in Adobe Express]**.
 
-   ![Editor incorporato Adobi Express](assets/embedded-editor.png)
+   ![Editor integrato Adobe Express](assets/embedded-editor.png)
 
-   Puoi sfruttare le funzionalità di [!DNL Adobe Express] per eseguire tutte le azioni correlate alla modifica delle immagini, ad esempio [ridimensiona immagine](https://helpx.adobe.com/in/express/using/resize-image.html), [rimuovere o modificare il colore di sfondo](https://helpx.adobe.com/in/express/using/remove-background.html), [ritaglia immagine](https://helpx.adobe.com/in/express/using/crop-image.html)e molto altro.
+   Puoi sfruttare le funzionalità di [!DNL Adobe Express] per eseguire tutte le azioni correlate alla modifica delle immagini, ad esempio per [ridimensionare l’immagine](https://helpx.adobe.com/it/express/using/resize-image.html), [rimuovere o modificare il colore di sfondo](https://helpx.adobe.com/it/express/using/remove-background.html), [ritagliare l’immagine](https://helpx.adobe.com/it/express/using/crop-image.html) e molto altro.
 
 1. Una volta completata la modifica dell’immagine, puoi scaricare una risorsa come nuova risorsa o salvarla come nuova versione.
 
-## Creare nuove risorse con Adobi Express {#create-new-embedded-editor}
+## Creare nuove risorse con Adobe Express {#create-new-embedded-editor}
 
-[!DNL Assets Essentials] consente di creare un nuovo modello da zero utilizzando [!DNL Adobe Express] editor incorporato. Per creare una nuova risorsa tramite [!DNL Adobe Express], esegui i seguenti passaggi:
+[!DNL Assets Essentials] consente di creare un nuovo modello da zero utilizzando l’editor integrato [!DNL Adobe Express]. Per creare una nuova risorsa tramite [!DNL Adobe Express], effettua le seguenti operazioni:
 
-1. Accedi a **[!UICONTROL Area di lavoro personale]** e fai clic su **[!UICONTROL Crea]** all’interno del banner di Adobe Express visualizzato sopra il [!UICONTROL Accesso rapido] sezione. [!DNL Adobe Express] un’area di lavoro vuota viene visualizzata all’interno del [!DNL Assets Essentials] dell&#39;utente.
-1. Crea i contenuti con [Modelli](https://helpx.adobe.com/in/express/using/work-with-templates.html). In caso contrario, passa a **[!UICONTROL La tua roba]** per modificare il contenuto esistente.
-1. Dopo aver completato la modifica, fai clic su **[!UICONTROL Salva come nuova risorsa]**.
+1. Accedi a **[!UICONTROL La mia area di lavoro]** e fai clic su **[!UICONTROL Crea]** all’interno del banner di Adobe Express visualizzato sopra la sezione [!UICONTROL Accesso rapido]. Un’area di lavoro vuota di [!DNL Adobe Express] viene visualizzata all’interno dell’interfaccia utente di [!DNL Assets Essentials].
+1. Crea i contenuti utilizzando i [modelli](https://helpx.adobe.com/it/express/using/work-with-templates.html). In caso contrario, passa a **[!UICONTROL Le tue risorse]** per modificare contenuti esistenti.
+1. Al termine, fai clic su **[!UICONTROL Salva come nuova risorsa]**.
 1. Specifica il percorso di destinazione della risorsa creata e fai clic su **[!UICONTROL Salva]**.
 
 >[!NOTE]
 >
->* Puoi modificare solo le immagini di `JPEG` e `PNG` tipi di formato.
+>* Puoi modificare solo le immagini in formato `JPEG` e `PNG`.
 >* La dimensione della risorsa deve essere inferiore a 14 MB.
->* È possibile salvare un&#39;immagine in `PDF`, `JPEG`, o `PNG` formati.
+>* Puoi salvare un’immagine in formato `PDF`, `JPEG` o `PNG`.
 
 ## Modificare le immagini utilizzando [!DNL Adobe Photoshop Express] {#edit-using-photoshop-express}
 
