@@ -3,9 +3,9 @@ title: Gestire i rapporti in Assets Essentials
 description: Accedi ai dati nella sezione dei rapporti di Assets Essentials per valutare l’utilizzo di prodotti e funzionalità e ottenere informazioni approfondite sulle metriche di successo chiave.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: b24113299b5f8d32b3c4aef453923b23dc775228
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '857'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ In the **[!UICONTROL Reports]** screen, various components are shown in the tabu
 * **Created**: Gives information of the date when the report was generated.
 -->
 
-## Visualizzare gli approfondimenti {#view-live-statistics}
+## Visualizzare gli insight {#view-live-statistics}
 
 >[!CONTEXTUALHELP]
 >id="assets_reports"
@@ -42,9 +42,9 @@ Assets Essentials consente di visualizzare in tempo reale i dati del tuo ambient
 
 <!--![Toolbar options when you select an asset](assets/assets-essentials-live-statistics.png)-->
 
-Fai clic su **[!UICONTROL Approfondimenti]** disponibile nel riquadro di navigazione a sinistra per visualizzare i seguenti grafici generati automaticamente:
+Fai clic su **[!UICONTROL Insight]** nel riquadro di navigazione a sinistra per visualizzare i seguenti grafici generati automaticamente:
 
-![Approfondimenti](assets/insights.png)
+![Insight](assets/insights.png)
 
 * **Download**: numero di risorse scaricate dall’ambiente Assets Essentials negli ultimi 30 giorni o 12 mesi rappresentato da un grafico a linee.
 
