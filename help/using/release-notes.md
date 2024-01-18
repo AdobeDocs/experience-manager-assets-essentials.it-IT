@@ -7,7 +7,7 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 196fa10fd6788b306aaad3c63100e5763be566b2
 workflow-type: tm+mt
 source-wordcount: '2666'
-ht-degree: 86%
+ht-degree: 98%
 
 ---
 
@@ -21,35 +21,35 @@ Alcune delle funzioni aggiunte di recente includono:
 
 Assets Essentials ora consente di definire il inserisco nell&#39;elenco Bloccati di targeting per le parole che non devono essere aggiunte come tag avanzati alle risorse quando vengono caricate nell’archivio. Questa funzionalità consente di mantenere la conformità al marchio e di ridurre gli sforzi per moderare i tag avanzati.
 
-![informazioni sull&#39;utilizzo dello storage](/help/using/assets/block-tags.png)
+![insight sull’utilizzo dell’archiviazione](/help/using/assets/block-tags.png)
 
-**Creare immagini GenAI con Adobe Firefly**
+**Creare immagini basate su IA generativa con Adobe Firefly**
 
 Creazione di nuove immagini basate su query di ricerca con integrazione della funzione testo-immagine di Adobe Firefly (richiede una licenza Adobe Firefly).
 
-![Integrazione del Firefly Assets](/help/using/assets/assets-firefly-integration.png)
+![Integrazione Firefly per Assets](/help/using/assets/assets-firefly-integration.png)
 
-**Trova immagini simili**
+**Trovare immagini simili**
 
-Ora è possibile trovare facilmente il contenuto selezionando un’immagine e visualizzando immagini simili nell’archivio Experience Manager Assets.
+Ora è possibile trovare facilmente il contenuto selezionando un’immagine e visualizzando immagini simili nell’archivio di Experience Manager Assets.
 
 **Editor Adobe Express incorporato in AEM Assets**
 
-Gli utenti con accesso a Express ora dispongono di strumenti integrati per la modifica e la creazione di immagini da Adobi Express e Adobe Firefly disponibili direttamente in AEM Assets per migliorare il riutilizzo dei contenuti e accelerarne la velocità.
+Gli utenti con accesso a Express ora dispongono di strumenti integrati per la modifica e la creazione di immagini da Adobe Express e Adobe Firefly disponibili direttamente in AEM Assets, per migliorare il riutilizzo dei contenuti e accelerarne la creazione.
 
-![assegnare il modulo metadati a una cartella](/help/using/assets/adobe-express-aem-assets.png)
+![assegnare un modulo di metadati a una cartella](/help/using/assets/adobe-express-aem-assets.png)
 
 **Rapporti sull’utilizzo dello spazio di archiviazione in Insights**:
 
-Gli amministratori ora possono visualizzare i rapporti sull’utilizzo dello storage disponibili come parte di Insights.
+Gli amministratori ora possono visualizzare i rapporti sull’utilizzo dello spazio di archiviazione, disponibili come parte di Insights.
 
-![informazioni sull&#39;utilizzo dello storage](/help/using/assets/storage-usage-insights.png)
+![insight sull’utilizzo dell’archiviazione](/help/using/assets/storage-usage-insights.png)
 
-**Cerca la prima configurazione della homepage**
+**Configurazione della pagina Home Cerca prima**
 
-Assets Essentials ora consente di configurare l’esperienza della pagina home per la tua organizzazione. Se si seleziona Cerca come pagina iniziale, è possibile configurare l&#39;allineamento della barra di ricerca, l&#39;immagine di sfondo e il logo per l&#39;organizzazione.
+Assets Essentials ora consente di configurare l’esperienza della pagina home per la tua organizzazione. Se, per la pagina Home, selezioni l’opzione Cerca prima, puoi configurare l’allineamento della barra di ricerca, l’immagine di sfondo e il logo della tua organizzazione.
 
-![cerca prima configurazione](/help/using/assets/search-first-configuration.png)
+![configurazione di Cerca prima](/help/using/assets/search-first-configuration.png)
 
 
 
@@ -79,23 +79,23 @@ In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un fee
 
 ### Versione di ottobre 2023 {#october2023-release}
 
-**Importa risorse in blocco dall&#39;origine dati di OneDrive**
+**Importazione in blocco di risorse da un’origine dati OneDrive**
 
-Gli amministratori possono ora [importa un numero elevato di risorse da OneDrive ad AEM Assets](/help/using/bulk-import-assets-view.md). L&#39;elenco aggiornato delle origini dati supportate per l&#39;importazione in blocco include Azure, AWS, Google Cloud, Dropbox e OneDrive.
+Gli amministratori ora possono [importare un numero elevato di risorse da OneDrive a AEM Assets](/help/using/bulk-import-assets-view.md). L’elenco aggiornato delle origini dati supportate per l’importazione in blocco include Azure, AWS, Google Cloud, Dropbox e OneDrive.
 
-![assegnare il modulo metadati a una cartella](/help/using/assets/bulk-import-source-details.png)
+![assegnare un modulo di metadati a una cartella](/help/using/assets/bulk-import-source-details.png)
 
-**Supporto di diritti per più organizzazioni per le librerie**
+**Supporto di diritti tra diverse organizzazioni per le librerie**
 
-Experience Manager Assets ora consente di configurare l’accesso alle librerie Creative Cloud in un’organizzazione IMS diversa. Consente di accedere più facilmente ai flussi di lavoro più recenti tra Creative Cloud e Experience Manager, riducendo i tempi e gli sforzi dei creativi.
+Experience Manager Assets ora consente di configurare l’accesso alle librerie Creative Cloud in un’organizzazione IMS diversa. Questo consente di accedere più facilmente ai flussi di lavoro di prodotti più recenti tra Creative Cloud e Experience Manager, riducendo i tempi e agevolando il lavoro dei creativi.
 
 ### Versione di settembre 2023 {#september2023-release}
 
-**Assegnare il modulo metadati a una cartella**
+**Assegnare un modulo di metadati a una cartella**
 
-Ora puoi assegnare il modulo metadati a una cartella specifica all’interno della distribuzione Assets Essentials. Tutte le risorse nella cartella, comprese le risorse nelle sottocartelle, quindi visualizzano le proprietà definite nel modulo metadati assegnato.
+Ora puoi assegnare un modulo di metadati a una cartella specifica all’interno dell’implementazione di Assets Essentials. Per tutte le risorse nella cartella, comprese le risorse nelle sottocartelle, vengono quindi visualizzate le proprietà definite nel modulo di metadati assegnato.
 
-![assegnare il modulo metadati a una cartella](/help/using/assets/assign-to-folder.png)
+![assegnare un modulo di metadati a una cartella](/help/using/assets/assign-to-folder.png)
 
 **Importazione in blocco dalle origini dati**
 

@@ -6,7 +6,7 @@ exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: 92cfe963d37df919b8bc29c49da7c8e9bd62638e
 workflow-type: tm+mt
 source-wordcount: '1524'
-ht-degree: 63%
+ht-degree: 85%
 
 ---
 
@@ -56,7 +56,7 @@ Puoi ordinare le risorse trovate in ordine crescente o decrescente per `Name`, `
 
 **Autorizzazioni richieste:** `Can Edit`, `Owner` o Amministratore.
 
-Gli Assets Essentials consentono inoltre di aggiungere filtri personalizzati all’interfaccia utente. Puoi applicare i filtri personalizzati in aggiunta ai [filtri standard](#refine-search-results), per perfezionare i risultati della ricerca.
+Assets Essentials consente inoltre di aggiungere filtri personalizzati all’interfaccia utente. Puoi applicare i filtri personalizzati in aggiunta ai [filtri standard](#refine-search-results), per perfezionare i risultati della ricerca.
 
 Assets Essentials fornisce i seguenti filtri personalizzati:
 
@@ -154,7 +154,7 @@ Per caricare la risorsa generata nell’archivio delle risorse:
 
 ## Ricerche salvate {#saved-search}
 
-La funzionalità di ricerca di [!DNL Assets Essentials] è semplice. Dall&#39;interno della casella di ricerca, è possibile non solo digitare una parola chiave e premere Invio per visualizzare i risultati, ma anche cercare rapidamente di nuovo le parole chiave recentemente cercate con un solo clic.
+La funzionalità di ricerca di [!DNL Assets Essentials] è semplice. Nella casella di ricerca, puoi sia digitare una parola chiave e premere Invio per visualizzare i risultati, sia cercare rapidamente con un solo clic, richiamando parole chiave già utilizzate di recente.
 
 Puoi anche filtrare i risultati della ricerca in base a criteri specifici, secondo i metadati e il tipo di risorse. [!DNL Assets Essentials] consente di salvare i parametri dei filtri utilizzati di frequente, per migliorare l’esperienza di ricerca. Puoi quindi selezionare una ricerca salvata per eseguirla di nuovo applicandone il filtro con un solo clic.
 
@@ -177,7 +177,7 @@ When userA is searching and userB add an asset that matches search results, will
 
 Puoi selezionare le risorse da visualizzare nei risultati della ricerca ed effettuare le seguenti operazioni:
 
-* **Trova immagine simile**: trova una risorsa di immagine simile nell’interfaccia utente Assets in base ai metadati e ai tag avanzati.
+* **Trova immagine simile**: trova una risorsa di immagine simile nell’interfaccia utente di Assets in base ai metadati e ai tag avanzati.
 
 * **Dettagli**: visualizza e modifica le proprietà della risorsa.
 
@@ -189,7 +189,7 @@ Puoi selezionare le risorse da visualizzare nei risultati della ricerca ed effet
 
 * **Apri in Adobe Express**: modifica un’immagine nell’Adobe Express integrato dalla schermata Experience Manager Assets.
 
-* **Modifica**: modifica l’immagine utilizzando l’Adobe Express.
+* **Modifica**: modifica l’immagine utilizzando Adobe Express.
 
 * **Condividi collegamento**: [condividi collegamenti](share-links-for-assets.md) per una risorsa con altri utenti in modo che possano accedervi e scaricarla.
 
@@ -207,38 +207,38 @@ Puoi selezionare le risorse da visualizzare nei risultati della ricerca ed effet
 
 * **Osserva**: [monitora le operazioni](manage-notifications.md) eseguite su una risorsa.
 
-## Configurazione della prima home page di ricerca {#configuring-search-first-homepage}
+## Configurazione della pagina Home Cerca prima {#configuring-search-first-homepage}
 
-Assets Essentials consente di selezionare la pagina di destinazione predefinita per la tua organizzazione. Quando si utilizza la pagina Home di Search First, è possibile personalizzare il marchio della pagina configurando lo sfondo e le immagini del logo in base al marchio.
+Assets Essentials consente di selezionare la pagina di destinazione predefinita per la tua organizzazione. Quando si utilizza la pagina Home Cerca prima, è possibile personalizzare il marchio della pagina configurando le immagini dello sfondo e del logo in base al proprio marchio.
 
-Per configurare la prima home page di ricerca, eseguire i passaggi seguenti:
+Per configurare la pagina Home Cerca prima, esegui i passaggi seguenti:
 
-1. Accedi a **[!UICONTROL Impostazioni]** > **[!UICONTROL Impostazioni generali]**.
-1. Seleziona **[!UICONTROL Cerca prima]**. Apre inoltre la ricerca per la prima configurazione correlata. È possibile impostare [allineamento](#setting-alignment-search-bar) o [imposta sfondo e immagine logo](#setting-background-image-and-logo) della tua home page.
+1. Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Impostazioni generali]**.
+1. Seleziona **[!UICONTROL Cerca prima]**. Viene aperta la configurazione correlata Cerca prima. È possibile impostare l’[allineamento](#setting-alignment-search-bar) o [impostare l’immagine di sfondo e il logo](#setting-background-image-and-logo) della pagina Home.
 
-### Impostazione dell&#39;allineamento della barra di ricerca {#setting-alignment-search-bar}
+### Impostazione dell’allineamento della barra di ricerca {#setting-alignment-search-bar}
 
 [!DNL Assets Essentials] consente di modificare l’allineamento della barra di ricerca. È possibile fare in modo che la barra di ricerca venga visualizzata al centro o in alto. Seleziona l’allineamento appropriato e fai clic su **[!UICONTROL Salva]**.
 
-![Cerca primo allineamento home page](assets/search-first-alignment.png)
+![Allineamento nella pagina Home Cerca prima](assets/search-first-alignment.png)
 
-### Impostazione dello sfondo e dell&#39;immagine del logo della home page {#setting-background-image-and-logo}
+### Impostazione dell’immagine di sfondo e del logo nella pagina Home {#setting-background-image-and-logo}
 
-Puoi aggiungere il logo del brand e l’immagine di sfondo alla prima pagina iniziale della ricerca. Esegui i passaggi seguenti:
+Puoi aggiungere il logo del tuo brand e l’immagine di sfondo alla pagina Home Cerca prima. Esegui i passaggi seguenti:
 
-1. Accedi a **[!UICONTROL Sfondo e immagine del logo]** sezione in **[!UICONTROL Homepage]**.
-1. Clic **[!UICONTROL Sostituisci]** per sfogliare le immagini dall’archivio risorse esistente.
-1. Clic **[!UICONTROL Salva]**. [Anteprima](#preview-configured-homepage) le modifiche per esaminare le modifiche.
+1. Accedi alla sezione **[!UICONTROL Immagine di sfondo e logo]** nella **[!UICONTROL pagina Home]**.
+1. Fai clic su **[!UICONTROL Sostituisci]** per sfogliare le immagini dall’archivio risorse esistente.
+1. Fai clic su **[!UICONTROL Salva]**. Visualizza l’[anteprima](#preview-configured-homepage) delle modifiche per esaminarle.
 
-### Anteprima pagina home configurata {#preview-configured-homepage}
+### Visualizzare l’anteprima della pagina Home configurata {#preview-configured-homepage}
 
-È possibile visualizzare un&#39;anteprima per controllare il layout e la formattazione della prima home page di ricerca. Utilizzo di **[!UICONTROL Anteprima]**, è possibile correggere il layout o apportare modifiche in base al requisito. Per visualizzare in anteprima la pagina home configurata, esegui i passaggi seguenti:
+È possibile visualizzare un’anteprima per controllare il layout e la formattazione della pagina Home Cerca prima. Utilizzando **[!UICONTROL Anteprima]**, è possibile correggere il layout o apportare modifiche in base alle necessità. Per visualizzare in anteprima la pagina Home configurata, esegui i passaggi seguenti:
 
-1. Clic **[!UICONTROL Impostazioni generali]** e seleziona **[!UICONTROL Cerca prima]**.
-1. Accedi a **[!UICONTROL Personalizza la prima pagina iniziale della ricerca]** e fai clic su **[!UICONTROL Anteprima]**. Passaggio **[!UICONTROL Tema scuro]** per visualizzare l&#39;anteprima della home page in un tema scuro o chiaro.
-1. Clic **[!UICONTROL Chiudi]** per chiudere la schermata di anteprima.
+1. Fai clic su **[!UICONTROL Impostazioni generali]** e seleziona **[!UICONTROL Cerca prima]**.
+1. Accedi a **[!UICONTROL Personalizza la pagina Home Cerca prima]** e fai clic su **[!UICONTROL Anteprima]**. Attiva o disattiva **[!UICONTROL Tema scuro]** per visualizzare l’anteprima della pagina Home con tema scuro o chiaro.
+1. Fai clic su **[!UICONTROL Chiudi]** per chiudere la schermata di anteprima.
 
-   ![Cerca anteprima prima home page](assets/search-first-preview.gif)
+   ![Anteprima della pagina Home Cerca prima](assets/search-first-preview.gif)
 
 ## Passaggi successivi {#next-steps}
 
