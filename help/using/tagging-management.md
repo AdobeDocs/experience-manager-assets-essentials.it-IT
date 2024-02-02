@@ -3,9 +3,9 @@ title: Come gestire i tag in Assets Essentials?
 description: Scopri come gestire i tag in Assets Essentials. I tag consentono di categorizzare le risorse così da poter essere sfogliate e cercate in modo più efficiente.
 exl-id: da9e8d56-c190-4006-9579-c3c8401c5e5f
 source-git-commit: eef4aec6f67700d0a5b096577b9637d96949b488
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1748'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 65%
 
 I tag consentono di categorizzare le risorse così da poter essere sfogliate e cercate in modo più efficiente. L’assegnazione tag consente di estendere la tassonomia appropriata ad altri utenti e flussi di lavoro.
 
-Gli elenchi semplici di vocabolari controllati possono diventare ingestibili nel tempo. Gli amministratori possono utilizzare la struttura gerarchica dei tag, che facilita l’applicazione di metadati rilevanti, la classificazione delle risorse, il supporto della ricerca, il riutilizzo dei tag, il miglioramento dell’individuabilità e così via.
+Gli elenchi semplici di vocabolari controllati possono diventare ingestibili nel tempo. Gli amministratori possono utilizzare la struttura gerarchica dell’assegnazione di tag, che facilita l’applicazione di metadati rilevanti, la classificazione delle risorse, il supporto della ricerca, il riutilizzo dei tag, il miglioramento della reperibilità e così via.
 
 Puoi creare uno spazio dei nomi a livello di radice e creare al suo interno una struttura gerarchica di sottotag. Ad esempio, puoi creare uno spazio dei nomi `Activities` a livello di radice e assegnare i tag `Cycling`, `Hiking` e `Running` al suo interno. Puoi assegnare ulteriori sottotag `Clothing` e `Shoes` all’interno di `Running`.
 
@@ -29,13 +29,13 @@ L’assegnazione tag offre molti vantaggi, ad esempio:
 
 * l’assegnazione tag consente agli autori di organizzare facilmente risorse differenti tramite una tassonomia comune. Gli autori possono cercare e organizzare rapidamente le risorse in base a tag comuni.
 
-* I tag gerarchici sono flessibili e rappresentano un modo eccellente di organizzare i termini in modo logico. Tramite spazi dei nomi, tag e tag secondari, è possibile rappresentare interi sistemi tassonomici.
+* I tag gerarchici sono flessibili e costituiscono un modo eccellente di organizzare i termini in modo logico. È possibile rappresentare interi sistemi tassonomici tramite spazi dei nomi, tag e sottotag.
 
 * I tag possono evolvere nel tempo in funzione dei cambiamenti del vocabolario organizzativo.
 
-* I tag gestiti in Assets as a Cloud Service rimangono sincronizzati con i tag gestiti negli Assets Essentials, il che garantisce la governance e l’integrità dei metadati.
+* I tag gestiti in Assets as a Cloud Service rimangono sincronizzati con i tag gestiti in Assets Essentials garantendo la governance e l’integrità dei metadati.
 
-Per poter applicare tag alle risorse, devi innanzitutto creare uno spazio dei nomi, quindi crearlo e aggiungervi tag. È possibile anche creare dei tag e aggiungerli a uno spazio dei nomi esistente. Tutti i tag creati a livello di radice vengono aggiunti automaticamente allo spazio dei nomi Tag standard. È possibilie quindi aggiungere il campo Tag al modulo dei metadati in modo che venga visualizzato nella pagina dei dettagli della risorsa. Dopo aver configurato queste impostazioni, puoi iniziare ad applicare i tag alle risorse.
+Per poter applicare tag alle risorse, è necessario prima creare uno spazio dei nomi, quindi creare e aggiungervi i tag. È possibile anche creare dei tag e aggiungerli a uno spazio dei nomi esistente. Tutti i tag creati a livello di radice vengono aggiunti automaticamente allo spazio dei nomi Tag standard. È possibilie quindi aggiungere il campo Tag al modulo dei metadati in modo che venga visualizzato nella pagina dei dettagli della risorsa. Dopo aver configurato queste impostazioni, puoi iniziare ad applicare i tag alle risorse.
 
 >[!NOTE]
 >
@@ -59,11 +59,11 @@ Per creare uno spazio dei nomi, esegui le seguenti operazioni:
 
 1. Fai clic su `Save`.
 
-## Aggiungere tag a uno spazio dei nomi {#add-tags-to-namespace}
+## Aggiungere di tag a uno spazio dei nomi {#add-tags-to-namespace}
 
 Per aggiungere tag a uno spazio dei nomi, esegui le seguenti operazioni:
 
-1. Vai a **[!UICONTROL Gestione tassonomia]**.
+1. Passa a **[!UICONTROL Gestione della tassonomia]**.
 1. Seleziona lo spazio dei nomi e fai clic su `Create` per creare il tag al livello superiore nello spazio dei nomi. Se devi creare un sottotag in un tag esistente in uno spazio dei nomi, seleziona il tag e fai clic su `Create`.
    ![Gerarchia dei tag](assets/hierarchy-of-tags.png)
 
@@ -89,7 +89,7 @@ Per creare un tag standard, fai clic su `Create Tag` a livello di radice. Specif
 >
 >Se elimini lo spazio dei nomi `Standard Tags` utilizzando Assets as a Cloud Service, i tag creati a livello di radice non vengono visualizzati nell’elenco dei tag disponibili.
 
-## Sposta tag {#move-tags}
+## Spostare i tag {#move-tags}
 
 Se i tag vengono memorizzati in una gerarchia errata o se la tassonomia cambia nel tempo, è possibile spostare i tag selezionati per mantenere l’integrità dei dati. Durante lo spostamento dei tag è necessario tenere presenti le seguenti condizioni:
 
@@ -103,7 +103,7 @@ Per spostare i tag da una posizione a un’altra, effettua le seguenti operazion
 1. Nella finestra di dialogo Sposta, seleziona il nuovo tag di destinazione o spazio dei nomi utilizzando la sezione `Select Tag`.
 1. Fai clic su `Save`. Il tag viene visualizzato nella nuova posizione.
 
-## Modifica tag {#edit-tags}
+## Modificare i tag {#edit-tags}
 
 Per modificare il titolo del tag, selezionalo e fai clic su `Edit`. Specifica il nuovo titolo e fai clic su `Save`.
 
@@ -112,7 +112,7 @@ Per modificare il titolo del tag, selezionalo e fai clic su `Edit`. Specifica il
 >* Il `Name` di un tag non può essere aggiornato. Anche il percorso principale di un tag è basato sul nome del tag. Il percorso rimane invariato anche se si aggiorna il campo `Title`.
 >* Ulteriori operazioni, quali unione, localizzazione e pubblicazione, sono disponibili in Assets as a Cloud Service.
 
-## Elimina tag {#delete-tags}
+## Eliminare i tag {#delete-tags}
 
 È possibile eliminare più spazi dei nomi o tag contemporaneamente. L’operazione di eliminazione non può essere annullata.
 
@@ -129,7 +129,7 @@ Per eliminare i tag, effettua le seguenti operazioni:
 
 ## Aggiungere il componente Tag al modulo Metadati {#add-tags-to-metadata-form}
 
-Il componente Tag viene aggiunto al modulo metadati `default` automaticamente. Puoi progettare un [modulo metadati](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=it#metadata-forms) utilizzando un modello o da zero. Se non utilizzi un modello di modulo Metadati esistente, puoi modificare il modulo Metadati e aggiungere il componente Tag. La mappatura della proprietà dei metadati viene compilata automaticamente e non può essere modificata in questo momento. [!DNL Assets as a Cloud Service] gli utenti possono aggiornare la mappatura per memorizzare i valori dei tag utilizzando spazi dei nomi personalizzati ed esporre solo sottoinsiemi di gerarchie utilizzando percorsi principali.
+Il componente Tag viene aggiunto al modulo metadati `default` automaticamente. Puoi progettare un [modulo metadati](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=it#metadata-forms) utilizzando un modello o da zero. Se non utilizzi un modello di modulo Metadati esistente, puoi modificare il modulo Metadati e aggiungere il componente Tag. La mappatura della proprietà dei metadati viene compilata automaticamente e non può essere modificata in questo momento. Gli utenti di [!DNL Assets as a Cloud Service] possono aggiornare la mappatura per memorizzare i valori dei tag utilizzando spazi dei nomi personalizzati ed esporre solo sottoinsiemi di gerarchie utilizzando percorsi principali.
 
 Guarda questo video rapido per vedere come aggiungere il componente Tag al modulo di metadati:
 
@@ -146,62 +146,62 @@ Guarda questo video rapido per vedere come aggiungere il componente Tag al modul
 1. Seleziona uno o più tag. Il tag secondario viene selezionato automaticamente insieme al tag principale o allo spazio dei nomi.
 I tag modificati in Assets Essentials vengono applicati anche in Assets as a Cloud Service.
 
-## Aggiungere tag al inserisco nell&#39;elenco Bloccati di selezione dei tipi di carattere {#blocklist-essentials}
+## Aggiungere tag nell’elenco Bloccati {#blocklist-essentials}
 
-[!DNL Assets Essentials] consente di configurare un inserisco nell&#39;elenco Bloccati di che include parole che non devono essere aggiunte come tag avanzati alle risorse quando vengono caricate nell’archivio. Questa funzionalità consente di mantenere la conformità al marchio e di ridurre gli sforzi nella moderazione dei tag avanzati.
+[!DNL Assets Essentials] consente di definire l’elenco Bloccati per le parole che non devono essere aggiunte come tag avanzati alle risorse quando vengono caricate nell’archivio. Questa funzionalità consente di mantenere la conformità al marchio e di ridurre gli sforzi nella moderazione dei tag avanzati.
 
 <!--
 ### Block smart tags for single asset {#block-smart-tags-for-single-asset}
 ![block smart tags](assets/block-smart-tags.png)
 -->
 
-### Blocca i tag avanzati per tutte le risorse {#block-smart-tags-for-all-assets}
+### Bloccare i tag avanzati per tutte le risorse {#block-smart-tags-for-all-assets}
 
-[!DNL Assets Essentials] consente a un amministratore di bloccare i tag avanzati per le risorse esistenti e appena aggiunte. Per bloccare i tag, esegui i seguenti passaggi:
+[!DNL Assets Essentials] consente a un amministratore di bloccare i tag avanzati per le risorse esistenti e appena aggiunte. Per bloccare i tag, esegui le seguenti operazioni:
 
-1. Accedi a **[!UICONTROL Tag bloccati]** in **[!UICONTROL Impostazioni]**.
-1. Clic **[!UICONTROL Aggiungi tag bloccato]**.
+1. Passa a **[!UICONTROL Tag bloccati]** in **[!UICONTROL Impostazioni]**.
+1. Fai clic su **[!UICONTROL Aggiungi tag bloccato]**.
 1. Digita i tag nella casella di testo da bloccare e fai clic su **[!UICONTROL Invio]**.
-1. Al termine dell’aggiunta dei tag, fai clic su **[!UICONTROL Aggiungi]**. I tag immessi vengono elencati nell&#39;elenco dei tag bloccati.
+1. Una volta aggiunti i tag, fai clic su **[!UICONTROL Aggiungi]**. I tag inseriti vengono inseriti nell’elenco dei tag bloccati.
 
    >[!NOTE]
    >
-   >Puoi aggiungere un massimo di 25 tag all’elenco contemporaneamente. Ripeti i passaggi per aggiungere altri tag al inserisco nell&#39;elenco Bloccati di.
+   >Puoi aggiungere un massimo di 25 tag all’elenco contemporaneamente. Ripeti i passaggi per aggiungere altri tag nell’elenco Bloccati.
 
-Puoi anche bloccare i tag avanzati per una singola risorsa. Passa ai dettagli di una risorsa. Sotto **[!UICONTROL Tag]** , rimuovere gli smart tag indesiderati e fare clic su **[!UICONTROL Salva]**. I tag sono elencati nel elenco Bloccati di della risorsa selezionata.
+Puoi anche bloccare i tag avanzati per una singola risorsa. Passa ai dettagli di una risorsa. Nella scheda **[!UICONTROL Tag]**, rimuovi i tag avanzati indesiderati e fai clic su **[!UICONTROL Salva]**. I tag sono inseriti nell’elenco Bloccati della risorsa selezionata.
 
-### Azioni eseguite sul inserisco nell&#39;elenco Bloccati di {#blocklist-actions}
+### Azioni eseguite nell’elenco Bloccati {#blocklist-actions}
 
-* **Rimuovi tag:** È inoltre possibile rimuovere i tag dal inserisco nell&#39;elenco Bloccati di. A questo scopo, seleziona uno o più tag da rimuovere. Clic **[!UICONTROL Rimuovi]**. Puoi rimuovere un massimo di 25 tag dall’elenco contemporaneamente.
-* **Seleziona tutto:** Seleziona la casella di controllo adiacente a **Nome tag** per selezionare tutti i tag nel inserisco nell&#39;elenco Bloccati di.
-* **Ordinamento:** Puoi ordinare il inserisco nell&#39;elenco Bloccati di in ordine crescente o decrescente. A tale scopo, fare clic sulla freccia accanto a **Nome tag**.
+* **Rimuovi tag:** puoi anche rimuovere i tag dall’elenco Bloccati. Per farlo, seleziona uno o più tag da rimuovere. Fai clic su **[!UICONTROL Rimuovi]**. Puoi rimuovere un massimo di 25 tag dall’elenco contemporaneamente.
+* **Seleziona tutto:** seleziona la casella di controllo adiacente a **Nome tag** per selezionare tutti i tag nell’elenco Bloccati.
+* **Ordinamento:** puoi ordinare l’elenco Bloccati in ordine crescente o decrescente. Per farlo, fai clic sulla freccia accanto a **Nome tag**.
 
   ![blocca tag](assets/blocklist.gif)
 
   >[!NOTE]
   >
-  >Non utilizzare caratteri speciali durante l’aggiunta di un tag nel inserisco nell&#39;elenco Bloccati di. È possibile utilizzare caratteri quali a-z, A-Z, 0-9 e -.
+  >Quando aggiungi un tag nell’elenco Bloccati, non utilizzare caratteri speciali. Puoi utilizzare caratteri quali a-z, A-Z, 0-9 e -.
 
-### Esporta inserisco nell&#39;elenco Bloccati di{#export-blocklist}
+### Esportare un elenco Bloccati{#export-blocklist}
 
-Assets Essentials consente di esportare i tag bloccati elencati in formato CSV. Per esportare la inserisce nell&#39;elenco Bloccati di, esegui i passaggi seguenti:
+Assets Essentials consente di esportare i tag bloccati elencati in formato CSV. Per esportare l’elenco Bloccati, effettua le seguenti operazioni:
 
-1. Clic **[!UICONTROL Esporta come CSV]**.
-1. Scegli il percorso appropriato per salvare il file CSV. Puoi anche rinominare il file in base al requisito.
-1. Fai clic su **[!UICONTROL Salva]**. L&#39;elenco esportato in formato CSV viene scaricato nel percorso selezionato.
+1. Fai clic su **[!UICONTROL Esporta come CSV]**.
+1. Scegli la posizione appropriata per salvare il file CSV. Puoi anche rinominare il file in base alle esigenze.
+1. Fai clic su **[!UICONTROL Salva]**. L’elenco esportato in formato CSV viene scaricato nel percorso selezionato.
 
-### Inserire nell&#39;elenco Bloccati Importa{#import-blocklist}
+### Importare un elenco Bloccati{#import-blocklist}
 
-Assets Essentials consente di importare tag bloccati da un’origine dati (CSV). Per importare il inserisco nell&#39;elenco Bloccati di, esegui i passaggi seguenti:
+Assets Essentials consente di importare tag bloccati da un’origine dati (CSV). Per importare l’elenco Bloccati, effettua le seguenti operazioni:
 
-1. Clic **[!UICONTROL Importa come CSV]**.
-1. Scegli il file CSV dal tuo dispositivo. Clic **[!UICONTROL seleziona un file]** per passare al file dal dispositivo. In alternativa, puoi trascinare e rilasciare il file CSV dal dispositivo.
-1. Clic **[!UICONTROL Carica]**. I tag del file CSV sono elencati nell’elenco dei tag bloccati.
+1. Fai clic su **[!UICONTROL Importa come CSV]**.
+1. Scegli il file CSV dal tuo dispositivo. Fai clic su **[!UICONTROL Seleziona un file]** per passare al file dal dispositivo. In alternativa, puoi trascinare e rilasciare il file CSV dal dispositivo.
+1. Fai clic su **[!UICONTROL Carica]**. I tag dal file CSV vengono inseriti nell’elenco dei tag bloccati.
 
-   ![Importa elenco di tag bloccati](assets/import-blocked-tags.png)
+   ![Importa elenco dei tag bloccati](assets/import-blocked-tags.png)
 
-Per scaricare un modello di tag bloccato, effettua le seguenti operazioni:
+Per scaricare un modello di tag bloccati, effettua le seguenti operazioni:
 
-1. Clic **[!UICONTROL Scarica modello]**.
-1. Scegli il percorso appropriato per salvare il file CSV. Puoi anche rinominare il file in base al requisito.
-1. Fai clic su **[!UICONTROL Salva]**. Il modello di tag di blocco in formato CSV viene scaricato nella posizione selezionata.
+1. Fai clic su **[!UICONTROL Scarica modello]**.
+1. Scegli la posizione appropriata per salvare il file CSV. Puoi anche rinominare il file in base alle esigenze.
+1. Fai clic su **[!UICONTROL Salva]**. I modelli dei tag bloccati in formato CSV vengono scaricati nella posizione selezionata.
