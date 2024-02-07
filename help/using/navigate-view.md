@@ -3,10 +3,10 @@ title: "Interfaccia utente di [!DNL Assets Essentials]"
 description: Comprendere l’interfaccia utente e la navigazione in [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 4f3141fe95a0c33b22042da4f234dd2a921cbac6
-workflow-type: ht
-source-wordcount: '1000'
-ht-degree: 100%
+source-git-commit: 7dbba95fef582cff32fa705a529f8da8b7e98124
+workflow-type: tm+mt
+source-wordcount: '992'
+ht-degree: 91%
 
 ---
 
@@ -47,7 +47,9 @@ Quando accedi a [!DNL Assets Essentials], viene visualizzata la seguente interfa
 * [Raccolte](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=it): una raccolta è un set di risorse, cartelle o altre raccolte all’interno di Adobe Experience Manager Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti. A differenza delle cartelle, una raccolta può includere risorse da posizioni diverse. Puoi condividere più raccolte con un utente. Ogni raccolta contiene riferimenti alle risorse. L’integrità dei riferimenti alle risorse viene mantenuta tra le varie raccolte.
 
 * [Approfondimenti](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=it#view-live-statistics): in [!DNL Assets Essentials], puoi visualizzare insight in tempo reale nella tua dashboard. Assets Essentials consente di visualizzare in tempo reale i dati del tuo ambiente Assets Essentials, con la dashboard Insight. Puoi visualizzare le metriche degli eventi in tempo reale negli ultimi 30 giorni o negli ultimi 12 mesi.
-* **Cestino**: mostra l’elenco delle risorse eliminate dalla cartella principale **[!UICONTROL Risorse]**. È possibile selezionare una risorsa nella cartella Cestino per ripristinarla nella posizione originale o eliminarla definitivamente. Puoi anche specificare una parola chiave o applicare filtri standard o personalizzati per cercare le risorse appropriate all’interno della cartella Cestino. Per ulteriori informazioni sull’utilizzo di filtri standard e personalizzati, consulta [Cercare risorse in Assets Essentials](search.md).
+
+* **Cestino**: mostra l’elenco delle risorse eliminate dalla cartella principale **[!UICONTROL Risorse]**. Puoi selezionare una risorsa nella cartella Cestino per ripristinarla alla posizione originale o eliminarla definitivamente. Puoi specificare una parola chiave o applicare filtri quali stato della risorsa, tipo di file, tipo di mime, dimensione dell’immagine, creazione della risorsa, modifica e date di scadenza, nonché filtrare in base alle risorse eliminate dall’utente corrente. Puoi anche applicare filtri personalizzati per cercare le risorse appropriate all’interno della cartella Cestino. Per ulteriori informazioni sull&#39;utilizzo di filtri standard e personalizzati, vedere procedura [cercare risorse negli Assets Essentials](search.md).
+
 * **Impostazioni**: puoi utilizzare **Impostazioni** per configurare diverse opzioni di Assets Essentials, ad esempio i moduli dei metadati, i rapporti e la gestione delle tassonomie.
 
 <!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
