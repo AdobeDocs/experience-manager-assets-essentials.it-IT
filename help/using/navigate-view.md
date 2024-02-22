@@ -4,9 +4,9 @@ description: Comprendere l’interfaccia utente e la navigazione in [!DNL Assets
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: 3b70810a264dac062032b07dc3d8ce169b56b4cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '982'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Quando accedi a [!DNL Assets Essentials], viene visualizzata la seguente interfa
 
 ![[!DNL Assets Essentials] - Interfaccia utente](assets/essentials-interface.png)
 
-**A**: barra laterale a sinistra per sfogliare l’archivio e accedere ad alcune altre opzioni **B**: visualizza o comprimi la barra laterale a sinistra per aumentare l’area di visualizzazione delle risorse **C**: Filtra i risultati della ricerca **D**: seleziona tutto il contenuto della cartella selezionata **E**: opzioni per ordinare le risorse **F**: casella di ricerca **G**: carica o trascina i file tramite `Add Assets` pulsante **H**: crea una nuova cartella **I**: passaggio da una visualizzazione all’altra
+**A**: barra laterale sinistra per sfogliare l’archivio, fornisce l’accesso ad alcune altre opzioni **B**: visualizzare o comprimere la barra laterale sinistra per aumentare l’area di visualizzazione delle risorse **C**: filtrare i risultati della ricerca **D**: selezionare tutti i contenuti della cartella selezionata **E**: opzioni di ordinamento delle risorse **F**: casella di ricerca **G**: caricare o trascinare file utilizzando il pulsante `Add Assets` **H**: creare una nuova cartella **I**: passare da una visualizzazione all’altra
 
 <!-- TBD: Need an embedded video here with narration. It has to be hosted on MPC to be embeddable. -->
 
@@ -40,7 +40,7 @@ Quando accedi a [!DNL Assets Essentials], viene visualizzata la seguente interfa
 
 * [Approfondimenti](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=it#view-live-statistics): in [!DNL Assets Essentials], puoi visualizzare insight in tempo reale nella tua dashboard. Assets Essentials consente di visualizzare in tempo reale i dati del tuo ambiente Assets Essentials, con la dashboard Insight. Puoi visualizzare le metriche degli eventi in tempo reale negli ultimi 30 giorni o negli ultimi 12 mesi.
 
-* **Cestino**: mostra l’elenco delle risorse eliminate dalla cartella principale **[!UICONTROL Risorse]**. Puoi selezionare una risorsa nella cartella Cestino per ripristinarla alla posizione originale o eliminarla definitivamente. Puoi specificare una parola chiave o applicare filtri quali stato della risorsa, tipo di file, tipo di mime, dimensione dell’immagine, creazione della risorsa, modifica e date di scadenza, nonché filtrare in base alle risorse eliminate dall’utente corrente. Puoi anche applicare filtri personalizzati per cercare le risorse appropriate all’interno della cartella Cestino. Per ulteriori informazioni sull’utilizzo di filtri standard e personalizzati, consulta [Cercare risorse in Assets Essentials](search.md).
+* **Cestino**: mostra l’elenco delle risorse eliminate dalla cartella principale **[!UICONTROL Risorse]**. Puoi selezionare una risorsa nella cartella Cestino per ripristinarla nella posizione originale o eliminarla definitivamente. Puoi specificare una parola chiave o applicare filtri quali stato della risorsa, tipo di file, tipo di mime, dimensione dell’immagine, creazione della risorsa, modifica e date di scadenza, nonché filtrare in base alle risorse eliminate dall’utente corrente. Puoi anche applicare filtri personalizzati per cercare le risorse appropriate all’interno della cartella Cestino. Per ulteriori informazioni sull’utilizzo di filtri standard e personalizzati, consulta [Cercare risorse in Assets Essentials](search.md).
 
 * **Impostazioni**: puoi utilizzare **Impostazioni** per configurare diverse opzioni di Assets Essentials, ad esempio i moduli dei metadati, i rapporti e la gestione delle tassonomie.
 
@@ -76,7 +76,7 @@ Per visualizzare in anteprima una risorsa, selezionala e fai clic sull’[!UICON
 
 ![Visualizzare l’anteprima di una risorsa](assets/preview-asset-2.png)
 
-**A**: torna alla cartella corrente o al risultato della ricerca corrente nell’archivio **B**: nome e formato del file che si sta visualizzando in anteprima **C**: Assegna attività **D**: metadati avanzati **E**: parole chiave e tag avanzati **F**: commenta e annota **G**: visualizza le attività relative alla risorsa selezionata **H**: visualizzare e gestire le versioni **I**: visualizza le rappresentazioni dell’immagine **J**: modifica immagine **K**: metadati di base **L**: metadati avanzati **M**: parole chiave e tag avanzati **N**: visualizza un’anteprima più dettagliata. Zoom, schermo intero e altre opzioni **O**: passa alla risorsa precedente o successiva nella cartella corrente senza tornare alla cartella
+**A**: tornare alla cartella corrente o al risultato della ricerca corrente nell’archivio **B**: nome e formato del file che si sta visualizzando in anteprima **C**: assegnare le attività **D**: metadati avanzati **E**: parole chiave e tag avanzati **F**: commentare e annotare **G**: visualizzare le attività relative alla risorsa selezionata **H**: visualizzare e gestire le versioni **I**: visualizzare le rappresentazioni dell&#39;immagine **J**: modificare l’immagine **K**: metadati di base **L**: metadati avanzati **M**: parole chiave e tag avanzati **N**: visualizzare un’anteprima più dettagliata. Zoom, schermo intero e altre opzioni **O**: passare alla risorsa precedente o successiva nella cartella corrente senza tornare alla cartella
 
 Puoi anche visualizzare in anteprima i video.
 
