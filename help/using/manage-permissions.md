@@ -3,8 +3,8 @@ title: Come gestire le autorizzazioni per le cartelle in AEM Assets Essentials?
 description: Assets Essentials consente agli amministratori di gestire i livelli di accesso per le cartelle disponibili nell’archivio. Crea gruppi di utenti e assegna le autorizzazioni a tali gruppi per gestire i livelli di accesso. In qualità di amministratore, puoi anche delegare i privilegi di gestione delle autorizzazioni ai gruppi di utenti a livello di cartella.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
 source-git-commit: a77513f925203f9ad6cad9fd517f28989385af95
-workflow-type: tm+mt
-source-wordcount: '1657'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
