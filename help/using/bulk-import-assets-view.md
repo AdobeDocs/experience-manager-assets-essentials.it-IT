@@ -2,8 +2,8 @@
 title: Importazione in blocco delle risorse utilizzando Assets Essentials
 description: Scopri come importare in blocco le risorse utilizzando la nuova interfaccia utente di Assets (Assets Essentials). Consente agli amministratori di importare un numero elevato di risorse da un’origine dati ad AEM Assets.
 exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
-source-git-commit: 530880cdd7536a4370cc0315f0d485d258d40102
-workflow-type: ht
+source-git-commit: 4d4b239b0b75ac8a26a7c3001e5b28dcb6243f63
+workflow-type: tm+mt
 source-wordcount: '1812'
 ht-degree: 100%
 
@@ -25,11 +25,11 @@ L’importazione in blocco in AEM Assets Essentials consente agli amministratori
 
 Puoi importare le risorse dalle seguenti origini dati:
 
-* Azure
 * AWS
 * Google Cloud
 * Dropbox
 * OneDrive
+* Azure
 
 ## Prerequisiti {#prerequisites}
 
