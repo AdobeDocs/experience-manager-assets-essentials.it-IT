@@ -2,10 +2,10 @@
 title: Gestire le raccolte
 description: Una raccolta è un insieme di risorse in Experience Manager Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: 27ac4035863924dfda1abf2593da9278a57b02a2
 workflow-type: tm+mt
-source-wordcount: '793'
-ht-degree: 100%
+source-wordcount: '916'
+ht-degree: 87%
 
 ---
 
@@ -48,6 +48,8 @@ Per gestire e utilizzare le raccolte, puoi eseguire le seguenti attività:
 
 * [Eliminare una raccolta](#delete-collection)
 
+* [Gestire le autorizzazioni per una raccolta privata](#manage-permissions-to-a-private-collection)
+
 ## Creare una raccolta {#create-collection}
 
 Per creare una raccolta:
@@ -60,7 +62,7 @@ Per creare una raccolta:
 
 1. Fai clic su **[!UICONTROL Crea]** per creare la raccolta.
 
-![Creare la raccolta](assets/create-collection.png)
+   ![Creare la raccolta](assets/create-collection.png)
 
 <!--
    
@@ -154,7 +156,7 @@ Per visualizzare e modificare i metadati di una raccolta:
 1. Visualizza i metadati della raccolta utilizzando la scheda **[!UICONTROL Base]**.
 1. Se necessario, modifica i campi di metadati. Puoi modificare i campi [!UICONTROL Titolo] e [!UICONTROL Descrizione].
 
-![Metadati di una raccolta](assets/collection-metadata.png)
+   ![Metadati di una raccolta](assets/collection-metadata.png)
 
 ## Condividere collegamenti per le raccolte {#share-collection-links}
 
@@ -185,6 +187,18 @@ Per eliminare una raccolta:
 1. Seleziona la raccolta da eliminare.
 
 1. Fai clic su **[!UICONTROL Elimina]**.
+
+## Gestire le autorizzazioni per una raccolta privata{#manage-permissions-private-collection}
+
+Puoi consentire agli amministratori di gestire [livelli di accesso](/help/using/manage-permissions.md#manage-permissions-on-folders) per le raccolte private disponibili nell’archivio. Puoi assegnare autorizzazioni quali `Can View` e `Can Edit` ai gruppi di utenti o agli utenti. Puoi anche delegare i privilegi di gestione delle autorizzazioni ai gruppi di utenti. Gli utenti che creano raccolte private sono i proprietari di tali raccolte. Possono utilizzare [!UICONTROL Gestisci autorizzazioni] azione per concedere l&#39;accesso agli altri utenti. Inoltre, gli amministratori possono visualizzare e gestire le autorizzazioni delle raccolte private in [!DNL Experience Manager] archivio.
+
+>[!NOTE]
+>
+>Adobe sconsiglia di assegnare autorizzazioni agli utenti.
+
+Per informazioni su come assegnare le autorizzazioni disponibili ai gruppi di utenti, consulta [Aggiungere autorizzazioni ai gruppi di utenti](/help/using/manage-permissions.md#add-permissions).
+
+Per ulteriori informazioni sul flusso di lavoro end-to-end, consulta [gestire le autorizzazioni](/help/using/manage-permissions.md).
 
 ## Passaggi successivi {#next-steps}
 
