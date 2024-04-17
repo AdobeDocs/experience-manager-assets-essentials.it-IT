@@ -5,7 +5,7 @@ exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 source-git-commit: d0884f7c5a50d89cb8ce4166dc038814bd7fd07d
 workflow-type: tm+mt
 source-wordcount: '907'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 86%
 
 >[!CONTEXTUALHELP]
 >id="assets_collections"
->title="Gestisci raccolte"
+>title="Gestire le raccolte"
 >abstract="Una raccolta è un set di risorse, cartelle o altre raccolte all’interno di Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti. A differenza delle cartelle, una raccolta può includere risorse da posizioni diverse. Puoi condividere più raccolte con un utente. Ogni raccolta contiene riferimenti alle risorse. L’integrità dei riferimenti alle risorse viene mantenuta tra le varie raccolte."
 
 Una raccolta è un set di risorse, cartelle o altre raccolte all’interno di Adobe Experience Manager Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti.
@@ -190,7 +190,7 @@ Per eliminare una raccolta:
 
 ## Gestire le autorizzazioni per una raccolta privata{#manage-permissions-private-collection}
 
-Puoi consentire agli amministratori di gestire [livelli di accesso](/help/using/manage-permissions.md#manage-permissions-on-folders) per le raccolte private disponibili nell’archivio. Puoi assegnare autorizzazioni quali `Can View` e `Can Edit` ai gruppi di utenti o agli utenti. Puoi anche delegare i privilegi di gestione delle autorizzazioni ai gruppi di utenti. Gli utenti che creano raccolte private sono i proprietari di tali raccolte. Possono utilizzare [!UICONTROL Gestisci autorizzazioni] azione per concedere l&#39;accesso agli altri utenti. Inoltre, gli amministratori possono visualizzare e gestire le autorizzazioni delle raccolte private in [!DNL Experience Manager] archivio.
+Puoi consentire agli amministratori di gestire i [livelli di accesso](/help/using/manage-permissions.md#manage-permissions-on-folders) per le raccolte private disponibili nell’archivio. Puoi assegnare le autorizzazioni come `Can View` e `Can Edit` ai gruppi di utenti o agli utenti. Puoi anche delegare i privilegi di gestione delle autorizzazioni ai gruppi di utenti. Gli utenti che creano raccolte private sono i proprietari di tali raccolte. Possono utilizzare l’azione [!UICONTROL Gestisci autorizzazioni] per concedere l’accesso agli altri utenti. Inoltre, gli amministratori possono visualizzare e gestire le autorizzazioni delle raccolte private nell’archivio di [!DNL Experience Manager].
 <!--
 >[!NOTE]
 >
@@ -206,4 +206,4 @@ Per ulteriori informazioni sul flusso di lavoro end-to-end, consulta [gestire le
 
 * Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
 
-* Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&amp;lang=it#support)
+* Contatta il [Servizio clienti](https://experienceleague.adobe.com/it?support-solution=General#support)
