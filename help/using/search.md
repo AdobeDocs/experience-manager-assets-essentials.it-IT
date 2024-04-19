@@ -3,10 +3,10 @@ title: Cercare e individuare le risorse in [!DNL Assets Essentials]
 description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 92cfe963d37df919b8bc29c49da7c8e9bd62638e
+source-git-commit: 0da570c129407b6ecaf3e41223f61ce279a308d0
 workflow-type: tm+mt
-source-wordcount: '1524'
-ht-degree: 85%
+source-wordcount: '1890'
+ht-degree: 81%
 
 ---
 
@@ -120,37 +120,34 @@ Per rimuovere i filtri personalizzati:
 
 1. Fai clic su **[!UICONTROL Conferma]** per rimuovere i filtri dall’interfaccia utente.
 
-## Cercare risorse tramite [!DNL Adobe Firefly] {#search-firefly}
+## Cercare risorse utilizzando [!DNL Adobe Firefly] {#search-firefly}
 
-Puoi cercare una risorsa non disponibile in nessuna cartella di risorse utilizzando [!DNL Adobe Firefly] funzione di ricerca risorse in [!DNL Experience Manager Assets]. Questo consente di generare in modo efficiente in tempo reale le risorse che non sono memorizzate nelle cartelle di risorse.
+Puoi cercare una risorsa non disponibile in qualsiasi cartella di risorse utilizzando la funzione di ricerca risorse [!DNL Adobe Firefly] in [!DNL Experience Manager Assets]. Questa consente di generare in modo efficiente e in tempo reale le risorse che non sono memorizzate nelle cartelle risorse.
 
 ### Prima di iniziare
 
-È necessario disporre di un [!DNL Adobe Express] abbonamento.
+È necessario disporre di un abbonamento attivo a [!DNL Adobe Express].
 
 ### Generare risorse
 
 Per generare nuove risorse tramite [!DNL Adobe Firefly]:
 
-1. Accedi a [!DNL AEM Assets] Workspace.
-1. Immetti il nome della risorsa nella barra di ricerca nella parte superiore della pagina.<br>
-Ad esempio, puoi cercare una risorsa utilizzando la parola chiave `Bugatti Type 57`. Durante la ricerca della risorsa, non viene trovato alcun risultato, perché la risorsa non è presente in nessuna cartella di risorse.
+1. accedi all’area di lavoro di [!DNL AEM Assets].
+1. Immetti il nome della risorsa nella barra di ricerca nella parte superiore della pagina.<br>Ad esempio, supponiamo di cercare una risorsa utilizzando la parola chiave `Bugatti Type 57`. Durante la ricerca della risorsa, non viene trovato alcun risultato, perché la risorsa non è presente in nessuna cartella di risorse.
 1. Digita il nome della risorsa nella barra di ricerca al centro della pagina e fai clic su **[!UICONTROL Genera]**.
-   ![Integrazione del Firefly](firefly-integration.jpg)
-   *Figura: Nessun risultato trovato per Bugatti Type 57 nella cartella delle risorse.*<br>
-Le nuove risorse sono state generate correttamente.
-   ![Integrazione del Firefly](assets/bugatti-type-57.jpg)
-   *Figura: Risorse di riferimento cercate tramite [!DNL Adobe Firefly] funzione di ricerca risorse.* <br>
-Puoi caricare queste risorse nella cartella preferita per accedervi facilmente.
+   ![Integrazione di Firefly](firefly-integration.jpg)
+   *Figura: nessun risultato trovato per Bugatti Type 57 nella cartella risorse.*<br>Le nuove risorse sono state generate correttamente.
+   ![Integrazione di Firefly](assets/bugatti-type-57.jpg)
+   *Figura: risorse di riferimento cercate tramite la funzione di ricerca risorse [!DNL Adobe Firefly].* <br>Puoi caricare queste risorse nella cartella preferita per accedervi facilmente.
 
 ### Caricare le risorse
 
 Per caricare la risorsa generata nell’archivio delle risorse:
 
-1. Clic **[!UICONTROL Carica]**.
-1. Seleziona la cartella di risorse in cui devi caricare la risorsa e fai clic su **[!UICONTROL Seleziona cartella]**.
+1. Fai clic su **[!UICONTROL Carica]**.
+1. Seleziona la cartella risorse in cui devi caricare la risorsa e fai clic su **[!UICONTROL Seleziona cartella]**.
    ![Carica risorsa](assets/upload-asset-firefly.jpg)
-   *Figura: Selezionare la cartella in cui caricare la risorsa.*
+   *Figura: seleziona la cartella in cui caricare la risorsa.*
 
 ## Ricerche salvate {#saved-search}
 
@@ -187,7 +184,7 @@ Puoi selezionare le risorse da visualizzare nei risultati della ricerca ed effet
 
 * **Fissa in Accesso rapido**: [fissa una risorsa](my-workspace.md) per un accesso più rapido quando necessario in un secondo momento. Tutti gli elementi fissati vengono visualizzati nella sezione **Accesso rapido** dell’area di lavoro personale.
 
-* **Apri in Adobe Express**: modifica un’immagine nell’Adobe Express integrato dalla schermata Experience Manager Assets.
+* **Apri in Adobe Express**: modifica un’immagine nell’editor Adobe Express integrato, dalla schermata di Adobe Experience Manager Assets.
 
 * **Modifica**: modifica l’immagine utilizzando Adobe Express.
 
@@ -205,9 +202,9 @@ Puoi selezionare le risorse da visualizzare nei risultati della ricerca ed effet
 
 * **Assegna attività**: assegna attività agli utenti per una risorsa.
 
-* **Osserva**: [monitora le operazioni](manage-notifications.md) eseguite su una risorsa.
+* **Osserva**: [monitora le operazioni](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/search-assets) eseguite su una risorsa.
 
-## Configurazione della pagina Home Cerca prima {#configuring-search-first-homepage}
+## Configura prima home page di ricerca {#configuring-search-first-homepage}
 
 Assets Essentials consente di selezionare la pagina di destinazione predefinita per la tua organizzazione. Quando si utilizza la pagina Home Cerca prima, è possibile personalizzare il marchio della pagina configurando le immagini dello sfondo e del logo in base al proprio marchio.
 
@@ -239,6 +236,92 @@ Puoi aggiungere il logo del tuo brand e l’immagine di sfondo alla pagina Home 
 1. Fai clic su **[!UICONTROL Chiudi]** per chiudere la schermata di anteprima.
 
    ![Anteprima della pagina Home Cerca prima](assets/search-first-preview.gif)
+
+## Ricerca contestuale {#contextual-search}
+
+Puoi anche cercare le risorse disponibili nell’archivio definendo prompt di testo. Experience Manager Assets trasforma automaticamente le richieste di testo in filtri di ricerca e visualizza i risultati della ricerca. È possibile visualizzare e modificare i filtri automatici utilizzando il riquadro Filtri per limitare ulteriormente i risultati della ricerca.
+
+### Accedere alla ricerca contestuale {#access-contextual-search}
+
+Per accedere alla ricerca contestuale in Experience Manager Assets:
+
+1. Clic **[!UICONTROL Ricerca]** nel riquadro a sinistra.
+
+   ![Ricerca contestuale](/help/using/assets/access-contextual-search.png)
+
+1. Definire il prompt di testo nella casella di testo Cerca e fare clic su **[!UICONTROL Ricerca contestuale]**.
+
+   ![Prompt del testo di ricerca contestuale](/help/using/assets/contextual-search-text-prompt.png)
+
+   [!DNL Experience Manager Assets] visualizza i risultati della ricerca.
+
+
+### Filtri supportati {#supported-filters}
+
+La ricerca contestuale supporta i seguenti filtri pronti all’uso. Basare le richieste di testo su questi filtri per visualizzare i risultati di ricerca appropriati.
+
+* Altezza immagine
+
+* Larghezza immagine
+
+* Tipo di file: immagine, documento, video o cartella.
+
+* Tipo MIME: JPG, PNG, TIFF, GIF, MP4, PDF, PPTX, DOCX o XLSX
+
+* Data di creazione
+
+* Data modifica
+
+* Data scadenza
+
+* Stato risorsa: Approvato, Rifiutato o Tutto
+
+* Risorse scadute
+
+### Esempi per i prompt di testo {#text-prompts-examples}
+
+**Esempio 1**
+
+**Prompt testo**: immagini create questo mese.
+
+[!DNL Experience Manager Assets] applica automaticamente i seguenti filtri e visualizza i risultati della ricerca:
+
+![Esempio di ricerca contestuale 1](/help/using/assets/contextual-search-example1.png)
+
+**Esempio 2**
+
+**Prompt testo**: immagini alte almeno 200 px e larghe 100 px con spiaggia e cielo limpido.
+
+[!DNL Experience Manager Assets] applica automaticamente i seguenti filtri e visualizza i risultati della ricerca:
+
+![Esempio di ricerca contestuale 2](/help/using/assets/contextual-search-example2.png)
+
+**Esempio 3**
+
+**Prompt testo**: ho bisogno di immagini del cielo blu con altezza tra 1500 e 2500 pixel, create lo scorso mese e non scadute né approvate.
+
+[!DNL Experience Manager Assets] applica automaticamente i seguenti filtri e visualizza i risultati della ricerca:
+
+![Esempio di ricerca contestuale 3](/help/using/assets/contextual-search-example3.png)
+
+Il video seguente illustra il processo end-to-end dall’accesso all’interfaccia utente di ricerca contestuale alla definizione dei prompt di testo e alla visualizzazione dei risultati della ricerca.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3428407)
+
+### Disattiva ricerca contestuale {#disable-contextual-search}
+
+Gli amministratori possono inoltre disattivare la ricerca contestuale per gli utenti dell’organizzazione. A questo scopo, esegui i seguenti passaggi:
+
+1. Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Impostazioni generali]**.
+
+1. In [!UICONTROL Ricerca contestuale] , spegnere il **[!UICONTROL Abilitare la ricerca contestuale per l’organizzazione]** attiva per disabilitare la funzione di ricerca contestuale per tutti gli utenti dell’organizzazione.
+
+### Feedback sulla ricerca contestuale {#contextual-search-feedback}
+
+Per fornire un feedback sulla funzione di ricerca contestuale, fai clic su ![Icona Ricerca contestuale](assets/do-not-localize/contextual-search-icon.png)  e fai clic sull’icona Feedback. Seleziona il tipo di feedback, specifica l’oggetto e la descrizione, quindi fai clic su **[!UICONTROL Invia]**.
+
+![Feedback sulla ricerca contestuale](/help/using/assets/contextual-search-feedback.png)
+
 
 ## Passaggi successivi {#next-steps}
 
