@@ -2,9 +2,9 @@
 title: Come gestire le autorizzazioni per le cartelle in AEM Assets Essentials?
 description: Assets Essentials consente agli amministratori di gestire i livelli di accesso per le cartelle disponibili nell’archivio. Crea gruppi di utenti e assegna le autorizzazioni a tali gruppi per gestire i livelli di accesso. In qualità di amministratore, puoi anche delegare i privilegi di gestione delle autorizzazioni ai gruppi di utenti a livello di cartella.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: a77513f925203f9ad6cad9fd517f28989385af95
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: ec723ae4222254c64e8ddc2e03f8a523203f9f8a
+workflow-type: tm+mt
+source-wordcount: '1657'
 ht-degree: 100%
 
 ---
@@ -118,7 +118,7 @@ Per assegnare le autorizzazioni di gruppo alle cartelle:
 
 1. Nella finestra di dialogo **[!UICONTROL Gestisci autorizzazioni]** specifica il nome del gruppo o di un utente nel campo **[!UICONTROL Gruppi e utenti]**.
 
-1. Seleziona il [livello di accesso](#manage-permissions-folders) dall’elenco a discesa **[!UICONTROL Accesso]**.
+1. Seleziona il [livello di accesso](#manage-permissions-on-folders) dall’elenco a discesa **[!UICONTROL Accesso]**.
 
 1. Fai clic su **[!UICONTROL Aggiungi]** per apportare una modifica immediata alle autorizzazioni per l’utente o il gruppo di utenti.
 
@@ -144,7 +144,7 @@ Per modificare le autorizzazioni assegnate ai gruppi di utenti per le cartelle:
 
 1. Seleziona la cartella e fai clic su **[!UICONTROL Gestisci autorizzazioni]**.
 
-1. Nella finestra di dialogo **[!UICONTROL Gestisci autorizzazioni]**, modifica il [livello di accesso](#manage-permissions-folders) dall’elenco a discesa **[!UICONTROL Accesso]**.
+1. Nella finestra di dialogo **[!UICONTROL Gestisci autorizzazioni]**, modifica il [livello di accesso](#manage-permissions-on-folders) dall’elenco a discesa **[!UICONTROL Accesso]**.
 
 1. [Aggiungi altri gruppi di utenti o utenti](#add-permissions) alle regole di autorizzazione esistenti, se necessario.
 
