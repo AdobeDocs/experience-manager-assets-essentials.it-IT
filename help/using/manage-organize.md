@@ -5,9 +5,9 @@ role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: a49bfcdf3dbd6601ed15ae8a3309922c0483b3d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1195'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -48,9 +48,9 @@ Puoi selezionare le risorse da visualizzare nei risultati della ricerca ed effet
 * ![icona Sposta](assets/do-not-localize/move-icon.png) Sposta la risorsa o la cartella selezionata in una posizione diversa nella gerarchia dell’archivio.
 
 * ![icona Rinomina](assets/do-not-localize/rename-icon.png) Rinomina la risorsa o la cartella selezionata. Utilizza un nome univoco; in caso contrario la ridenominazione non riesce e viene visualizzato un’avvertenza. Riprova con un nuovo nome.
-Inoltre, puoi fare clic sul titolo di una risorsa o cartella per rinominarla. Menzionare il nuovo testo nel **Rinomina risorsa** casella di testo e fare clic su **Salva**. Questa funzionalità è disponibile nelle viste Griglia, Galleria, Cascata ed Elenco.
+Inoltre, puoi fare clic sul titolo di una risorsa o di una cartella per rinominarla. Menziona il nuovo testo nella casella di testo **Rinomina risorsa** e fai clic su **Salva**. Questa funzionalità è disponibile nelle viste griglia, galleria, cascata ed elenco.
 
-* ![icona della vista cascata](assets/do-not-localize/waterfall-view.png) [!UICONTROL Vista a cascata].
+* ![icona vista cascata](assets/do-not-localize/waterfall-view.png) [!UICONTROL Vista cascata].
 
 * ![icona Copia libreria](assets/do-not-localize/copy-icon.png) Aggiungi una risorsa alla libreria.
 
@@ -81,7 +81,7 @@ Puoi selezionare una o più risorse o cartelle o una combinazione di entrambe, e
 <!-- 
 TBD: query for engineering: How many versions are maintained. What happens when we reach that limit? Are old versions automatically removed? -->
 
-[!DNL Assets Essentials] crea versioni delle risorse quando queste vengono caricate di nuovo dopo essere state aggiornate o modificate. Puoi visualizzare la cronologia delle versioni precedenti e, se necessario, ripristinare una di queste come versione più recente. Le versioni delle risorse vengono create nei seguenti scenari:
+[!DNL Assets Essentials] crea versioni delle risorse quando queste vengono caricate di nuovo dopo essere state aggiornate o modificate. Puoi visualizzare la cronologia delle versioni precedenti e, se necessario, ripristinare una versione delle risorse precedente come versione più recente. Le versioni delle risorse vengono create nei seguenti scenari:
 
 * Quando si carica una nuova risorsa con lo stesso nome file e nella stessa cartella della risorsa esistente. [!DNL Assets Essentials] richiede di sovrascrivere la risorsa precedente o di salvare la nuova risorsa come versione. Consulta [Caricare risorse duplicate](/help/using/add-delete.md#resolve-upload-fails).
 
@@ -168,10 +168,10 @@ Per aggiungere al modulo il campo di metadati Data di scadenza, trascina nel mod
 
 ## Passaggi successivi {#next-steps}
 
-* [Guarda un video per gestire le risorse in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/managing.html?lang=it)
+* [Guarda un video per gestire le risorse in Assets Essentials](https://experienceleague.adobe.com/it/docs/experience-manager-learn/assets-essentials/basics/managing)
 
 * Fornisci feedback sui prodotti utilizzando l’opzione [!UICONTROL Feedback] disponibile nell’interfaccia utente di Assets Essentials
 
 * Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
 
-* Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&amp;lang=it#support)
+* Contatta il [Servizio clienti](https://experienceleague.adobe.com/it?support-solution=General#support)
