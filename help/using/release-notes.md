@@ -4,22 +4,81 @@ description: Note sulla versione e problemi noti di [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 196fa10fd6788b306aaad3c63100e5763be566b2
+source-git-commit: 8ad7c9e02e94656200b715047bb25ed79bdbf06d
 workflow-type: tm+mt
-source-wordcount: '2666'
-ht-degree: 98%
+source-wordcount: '2865'
+ht-degree: 93%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-L’attuale versione di Assets Essentials è stata rilasciata il venerdì 11 gennaio 2024.
+L’attuale versione di Assets Essentials è stata rilasciata l’venerdì 18 aprile 2024.
 
 Alcune delle funzioni aggiunte di recente includono:
 
-**Inserisco nell&#39;elenco Bloccati di tag avanzati**
+**Ricerca contestuale**
 
-Assets Essentials ora consente di definire il inserisco nell&#39;elenco Bloccati di targeting per le parole che non devono essere aggiunte come tag avanzati alle risorse quando vengono caricate nell’archivio. Questa funzionalità consente di mantenere la conformità al marchio e di ridurre gli sforzi per moderare i tag avanzati.
+Ora puoi anche cercare le risorse disponibili nell’archivio definendo prompt di testo. Experience Manager Assets trasforma automaticamente le richieste di testo in filtri di ricerca e visualizza i risultati della ricerca. È possibile visualizzare e modificare i filtri automatici utilizzando il riquadro Filtri per limitare ulteriormente i risultati della ricerca.
+
+![insight sull’utilizzo dell’archiviazione](/help/using/assets/contextual-search-text-prompt1.png)
+
+<!--
+
+**Dynamic renditions**
+
+You can now view and download dynamic renditions (including smart crops) in Experience Manager Assets. Dynamic renditions are customized versions of image assets created in real-time to meet specific needs, such as resizing images based on device resolution or cropping to fit different aspect ratios. These renditions enable organizations to deliver personalized and optimized experiences to diverse audience needs.
+
+![storage usage insights](/help/using/assets/renditions-view-download.png)
+
+-->
+
+**Rinominazione diretta di risorse e cartelle**
+
+Experience Manager Assets ora offre un’esperienza utente semplificata grazie alla possibilità di rinominare una risorsa o una cartella tramite un singolo clic.
+
+**Azioni rapide video**
+
+Experience Manager Assets ora include strumenti di editing video semplici e intuitivi basati su Adobi Express per aumentare il riutilizzo dei contenuti e velocizzarne la realizzazione. La modifica leggera dei video in AEM Assets non richiede una conoscenza approfondita degli strumenti e dei concetti di editing video. Le opzioni di modifica includono il ritaglio, il ritaglio, il ridimensionamento di un video e la conversione di un file MP4 in un file GIF.
+
+![ritaglia video con Adobe Express](/help/using/assets/adobe-express-crop-video.png)
+
+**Assegnare o rimuovere il modulo metadati in più cartelle**
+
+Ora puoi assegnare o rimuovere il modulo metadati da più cartelle.
+
+**Gestire le autorizzazioni per le raccolte private**
+
+Puoi consentire agli amministratori di gestire i livelli di accesso per le raccolte private disponibili nell’archivio. Puoi assegnare le autorizzazioni come `Can View` e `Can Edit` ai gruppi di utenti o agli utenti. Puoi anche delegare i privilegi di gestione delle autorizzazioni ai gruppi di utenti.
+
+
+**Miglioramenti in base al feedback ricevuto dai clienti**
+
+Miglioramenti e correzioni di bug in base al feedback ricevuto dai clienti.
+
+
+## Problemi noti {#known-issues}
+
+L’elenco dei problemi noti di [!DNL Assets Essentials] viene regolarmente rivisto e aggiornato:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* Le raccolte private sono disponibili per l’utente che le crea e gli utenti con privilegi di amministratore. In qualità di amministratore, non puoi delegare ad altri utenti le autorizzazioni di accesso alla raccolta.
+
+In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un feedback](#provide-feedback) al team.
+
+## Versioni precedenti {#past-releases}
+
+### Versione di gennaio 2024 {#january-2024-release}
+
+**Tag avanzati nell’elenco Bloccati**
+
+Assets Essentials ora consente di definire l’elenco Bloccati per le parole che non devono essere aggiunte come tag avanzati alle risorse quando vengono caricate nell’archivio. Questa funzionalità consente di mantenere la conformità al marchio e di ridurre gli sforzi nella moderazione dei tag avanzati.
 
 ![insight sull’utilizzo dell’archiviazione](/help/using/assets/block-tags.png)
 
@@ -50,32 +109,6 @@ Gli amministratori ora possono visualizzare i rapporti sull’utilizzo dello spa
 Assets Essentials ora consente di configurare l’esperienza della pagina home per la tua organizzazione. Se, per la pagina Home, selezioni l’opzione Cerca prima, puoi configurare l’allineamento della barra di ricerca, l’immagine di sfondo e il logo della tua organizzazione.
 
 ![configurazione di Cerca prima](/help/using/assets/search-first-configuration.png)
-
-
-
-**Miglioramenti in base al feedback ricevuto dai clienti**
-
-Miglioramenti e correzioni di bug in base al feedback ricevuto dai clienti.
-
-
-## Problemi noti {#known-issues}
-
-L’elenco dei problemi noti di [!DNL Assets Essentials] viene regolarmente rivisto e aggiornato:
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* Le raccolte private sono disponibili per l’utente che le crea e gli utenti con privilegi di amministratore. In qualità di amministratore, non puoi delegare ad altri utenti le autorizzazioni di accesso alla raccolta.
-
-* In qualità di amministratore, non puoi delegare ad altri utenti le autorizzazioni di accesso alla raccolta.
-
-In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un feedback](#provide-feedback) al team.
-
-## Versioni precedenti {#past-releases}
 
 ### Versione di ottobre 2023 {#october2023-release}
 
