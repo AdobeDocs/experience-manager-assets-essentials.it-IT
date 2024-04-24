@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: 37beb971f1e675162eb4b8e9ab008b20a241c066
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1773'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -134,7 +134,7 @@ Di seguito è riportata una panoramica di ciascun tipo di proprietà e della rel
 | Parole chiave | Aggiungi parole chiave in formato libero (mappate a dc:subject). |
 | Tag avanzati | Migliora le funzionalità di ricerca aggiungendo automaticamente tag di metadati. |
 
-### Assegnare il modulo metadati alle cartelle {#assign-metadata-form-folder}
+### Assegnare un modulo di metadati alle cartelle {#assign-metadata-form-folder}
 
 Puoi anche assegnare un modulo di metadati a una cartella specifica all’interno dell’implementazione di Assets Essentials. Il modulo di metadati assegnato a una cartella in base al tipo MIME viene sovrascritto quando si applica manualmente un modulo di metadati a una cartella. Per tutte le risorse nella cartella, comprese le risorse nelle sottocartelle, vengono quindi visualizzate le proprietà definite nel modulo di metadati.
 
@@ -142,9 +142,9 @@ Per assegnare un modulo di metadati a una cartella:
 
 1. Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Moduli di metadati]** e seleziona un modulo di metadati.
 
-2. Clic **[!UICONTROL Assegna a cartelle]**.
+2. Fai clic su **[!UICONTROL Assegna a cartella]**.
 
-3. Seleziona le cartelle e fai clic su **[!UICONTROL Assegna]**. È possibile selezionare le cartelle facendo clic sui nomi delle cartelle.
+3. Seleziona la cartella e fai clic su **[!UICONTROL Assegna]**. Puoi selezionare le cartelle facendo clic sui nomi delle cartelle.
 
    ![assegnare un modulo di metadati a una cartella](/help/using/assets/assign-to-folder.png)
 
@@ -152,7 +152,7 @@ Per assegnare un modulo di metadati a una cartella:
 
    ![proprietà cartella modulo metadati](/help/using/assets/folder-properties-metadata-forms.png)
 
-### Rimuovi modulo metadati dalle cartelle {#remove-metadata-form-folder}
+### Rimuovere un modulo metadati dalle cartelle {#remove-metadata-form-folder}
 
 Dopo aver assegnato un modulo metadati a una o più cartelle, Experience Manager Assets consente inoltre di rimuovere il modulo metadati dalle cartelle selezionate.
 
@@ -160,11 +160,11 @@ Per rimuovere un modulo di metadati da una cartella:
 
 1. Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Moduli di metadati]** e seleziona un modulo di metadati.
 
-1. Clic **[!UICONTROL Rimuovi da cartelle]**. Viene visualizzato l’elenco delle cartelle assegnate al modulo metadati.
+1. Fai clic su **[!UICONTROL Rimuovi da cartelle]**. Viene visualizzato l’elenco delle cartelle assegnate al modulo di metadati.
 
-1. Seleziona la cartella e fai clic su **[!UICONTROL Rimuovi]**. È inoltre possibile selezionare più cartelle dall&#39;elenco.
+1. Seleziona la cartella e fai clic su **[!UICONTROL Rimuovi]**. È anche possibile selezionare più cartelle dall’elenco.
 
-Puoi anche passare alla pagina dei dettagli della cartella e selezionare **[!UICONTROL Modulo metadati mappato dal sistema]** dal **[!UICONTROL Forms metadati]** per rimuovere il modulo di metadati assegnato da una cartella.
+Puoi passare anche alla pagina dei dettagli della cartella e selezionare **[!UICONTROL Modulo di metadati mappato dal sistema]** dal campo **[!UICONTROL Moduli di metadati]**, per rimuovere il modulo di metadati assegnato da una cartella.
 
 ## Passaggi successivi {#next-steps}
 

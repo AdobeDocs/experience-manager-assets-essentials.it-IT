@@ -4,9 +4,9 @@ description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: 0da570c129407b6ecaf3e41223f61ce279a308d0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1890'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -202,9 +202,9 @@ Puoi selezionare le risorse da visualizzare nei risultati della ricerca ed effet
 
 * **Assegna attività**: assegna attività agli utenti per una risorsa.
 
-* **Osserva**: [monitora le operazioni](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/search-assets) eseguite su una risorsa.
+* **Osserva**: [monitora le operazioni](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/manage/search-assets) eseguite su una risorsa.
 
-## Configura prima home page di ricerca {#configuring-search-first-homepage}
+## Configurare la pagina Home Cerca prima {#configuring-search-first-homepage}
 
 Assets Essentials consente di selezionare la pagina di destinazione predefinita per la tua organizzazione. Quando si utilizza la pagina Home Cerca prima, è possibile personalizzare il marchio della pagina configurando le immagini dello sfondo e del logo in base al proprio marchio.
 
@@ -239,17 +239,17 @@ Puoi aggiungere il logo del tuo brand e l’immagine di sfondo alla pagina Home 
 
 ## Ricerca contestuale {#contextual-search}
 
-Puoi anche cercare le risorse disponibili nell’archivio definendo prompt di testo. Experience Manager Assets trasforma automaticamente le richieste di testo in filtri di ricerca e visualizza i risultati della ricerca. È possibile visualizzare e modificare i filtri automatici utilizzando il riquadro Filtri per limitare ulteriormente i risultati della ricerca.
+Puoi anche cercare le risorse disponibili nell’archivio definendo prompt di testo. Experience Manager Assets trasforma automaticamente i prompt di testo in filtri di ricerca e visualizza i risultati della ricerca. È possibile visualizzare e modificare i filtri automatici utilizzando il riquadro Filtri per limitare ulteriormente i risultati della ricerca.
 
 ### Accedere alla ricerca contestuale {#access-contextual-search}
 
 Per accedere alla ricerca contestuale in Experience Manager Assets:
 
-1. Clic **[!UICONTROL Ricerca]** nel riquadro a sinistra.
+1. Fai clic su **[!UICONTROL Ricerca]** nel riquadro a sinistra.
 
    ![Ricerca contestuale](/help/using/assets/access-contextual-search.png)
 
-1. Definire il prompt di testo nella casella di testo Cerca e fare clic su **[!UICONTROL Ricerca contestuale]**.
+1. Definisci il prompt di testo nella casella di testo Cerca e fai clic su **[!UICONTROL Ricerca contestuale]**.
 
    ![Prompt del testo di ricerca contestuale](/help/using/assets/contextual-search-text-prompt.png)
 
@@ -258,7 +258,7 @@ Per accedere alla ricerca contestuale in Experience Manager Assets:
 
 ### Filtri supportati {#supported-filters}
 
-La ricerca contestuale supporta i seguenti filtri pronti all’uso. Basare le richieste di testo su questi filtri per visualizzare i risultati di ricerca appropriati.
+La ricerca contestuale supporta i seguenti filtri predefiniti. Basa i prompt di testo su questi filtri per visualizzare i risultati di ricerca appropriati.
 
 * Altezza immagine
 
@@ -274,7 +274,7 @@ La ricerca contestuale supporta i seguenti filtri pronti all’uso. Basare le ri
 
 * Data scadenza
 
-* Stato risorsa: Approvato, Rifiutato o Tutto
+* Stato risorsa: approvato, rifiutato o tutto
 
 * Risorse scadute
 
@@ -282,7 +282,7 @@ La ricerca contestuale supporta i seguenti filtri pronti all’uso. Basare le ri
 
 **Esempio 1**
 
-**Prompt testo**: immagini create questo mese.
+**Prompt di testo**: immagini create questo mese.
 
 [!DNL Experience Manager Assets] applica automaticamente i seguenti filtri e visualizza i risultati della ricerca:
 
@@ -290,7 +290,7 @@ La ricerca contestuale supporta i seguenti filtri pronti all’uso. Basare le ri
 
 **Esempio 2**
 
-**Prompt testo**: immagini alte almeno 200 px e larghe 100 px con spiaggia e cielo limpido.
+**Prompt di testo**: immagini alte almeno 200 px e larghe 100 px con spiaggia e cielo limpido.
 
 [!DNL Experience Manager Assets] applica automaticamente i seguenti filtri e visualizza i risultati della ricerca:
 
@@ -298,27 +298,27 @@ La ricerca contestuale supporta i seguenti filtri pronti all’uso. Basare le ri
 
 **Esempio 3**
 
-**Prompt testo**: ho bisogno di immagini del cielo blu con altezza tra 1500 e 2500 pixel, create lo scorso mese e non scadute né approvate.
+**Prompt di testo**: ho bisogno di immagini del cielo blu con altezza tra 1500 e 2500 pixel, create lo scorso mese e non scadute, né approvate.
 
 [!DNL Experience Manager Assets] applica automaticamente i seguenti filtri e visualizza i risultati della ricerca:
 
 ![Esempio di ricerca contestuale 3](/help/using/assets/contextual-search-example3.png)
 
-Il video seguente illustra il processo end-to-end dall’accesso all’interfaccia utente di ricerca contestuale alla definizione dei prompt di testo e alla visualizzazione dei risultati della ricerca.
+Il video seguente illustra il processo end-to-end dall’accesso all’interfaccia utente della ricerca contestuale alla definizione dei prompt di testo e alla visualizzazione dei risultati della ricerca.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428407)
 
-### Disattiva ricerca contestuale {#disable-contextual-search}
+### Disabilitare la ricerca contestuale {#disable-contextual-search}
 
-Gli amministratori possono inoltre disattivare la ricerca contestuale per gli utenti dell’organizzazione. A questo scopo, esegui i seguenti passaggi:
+Gli amministratori possono inoltre disabilitare la ricerca contestuale per gli utenti dell’organizzazione. Per farlo, esegui le seguenti operazioni:
 
 1. Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Impostazioni generali]**.
 
-1. In [!UICONTROL Ricerca contestuale] , spegnere il **[!UICONTROL Abilitare la ricerca contestuale per l’organizzazione]** attiva per disabilitare la funzione di ricerca contestuale per tutti gli utenti dell’organizzazione.
+1. Nella sezione [!UICONTROL Ricerca contestuale], disabilita l’interruttore **[!UICONTROL Abilita la ricerca contestuale per l’organizzazione]** per disabilitare la funzione di ricerca contestuale per tutti gli utenti dell’organizzazione.
 
 ### Feedback sulla ricerca contestuale {#contextual-search-feedback}
 
-Per fornire un feedback sulla funzione di ricerca contestuale, fai clic su ![Icona Ricerca contestuale](assets/do-not-localize/contextual-search-icon.png)  e fai clic sull’icona Feedback. Seleziona il tipo di feedback, specifica l’oggetto e la descrizione, quindi fai clic su **[!UICONTROL Invia]**.
+Per fornire un feedback sulla funzione di ricerca contestuale, fai clic sull’icona ![Ricerca contestuale](assets/do-not-localize/contextual-search-icon.png) e quindi su quella Feedback. Seleziona il tipo di feedback, specifica l’oggetto e la descrizione, quindi fai clic su **[!UICONTROL Invia]**.
 
 ![Feedback sulla ricerca contestuale](/help/using/assets/contextual-search-feedback.png)
 
