@@ -5,21 +5,21 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: ae72670b4e66b79ac531f4050703951e0e7852e0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2847'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-L’attuale versione di Assets Essentials è stata rilasciata l’venerdì 18 aprile 2024.
+L’attuale versione di Assets Essentials è stata rilasciata il 18 aprile 2024.
 
 Alcune delle funzioni aggiunte di recente includono:
 
 **Ricerca contestuale**
 
-Ora puoi anche cercare le risorse disponibili nell’archivio definendo prompt di testo. Experience Manager Assets trasforma automaticamente le richieste di testo in filtri di ricerca e visualizza i risultati della ricerca. È possibile visualizzare e modificare i filtri automatici utilizzando il riquadro Filtri per limitare ulteriormente i risultati della ricerca.
+Ora puoi cercare le risorse disponibili nell’archivio definendo i prompt di testo. Experience Manager Assets trasforma automaticamente i prompt di testo in filtri di ricerca e visualizza i risultati della ricerca. È possibile visualizzare e modificare i filtri automatici utilizzando il riquadro Filtri per limitare ulteriormente i risultati della ricerca.
 
 ![insight sull’utilizzo dell’archiviazione](/help/using/assets/contextual-search-text-prompt1.png)
 
@@ -33,21 +33,21 @@ You can now view and download dynamic renditions (including smart crops) in Expe
 
 -->
 
-**Rinominazione diretta di risorse e cartelle**
+**Ridenominazione diretta di risorse e cartelle**
 
 Experience Manager Assets ora offre un’esperienza utente semplificata grazie alla possibilità di rinominare una risorsa o una cartella tramite un singolo clic.
 
-**Azioni rapide video**
+**Azioni rapide per video Express**
 
-Experience Manager Assets ora include strumenti di editing video semplici e intuitivi basati su Adobi Express per aumentare il riutilizzo dei contenuti e velocizzarne la realizzazione. Le opzioni di modifica includono il ritaglio, il ritaglio, il ridimensionamento di un video e la conversione di un file MP4 in un file GIF.
+Experience Manager Assets ora include strumenti di editing video semplici e intuitivi basati su Adobe Express per aumentare il riutilizzo dei contenuti e velocizzarne la realizzazione. Le opzioni di modifica includono il taglio, il ritaglio, il ridimensionamento di un video e anche la conversione di un file MP4 in GIF.
 
-![ritaglia video con Adobe Express](/help/using/assets/adobe-express-crop-video.png)
+![ritagliare video con Adobe Express](/help/using/assets/adobe-express-crop-video.png)
 
 **Assegnare o rimuovere il modulo metadati in più cartelle**
 
-Ora puoi assegnare o rimuovere il modulo metadati da più cartelle.
+Ora puoi assegnare o rimuovere il modulo metadati in più cartelle.
 
-**Gestire le autorizzazioni per le raccolte private**
+**Gestire autorizzazioni per le raccolte private**
 
 Puoi consentire agli amministratori di gestire i livelli di accesso per le raccolte private disponibili nell’archivio. Puoi assegnare le autorizzazioni come `Can View` e `Can Edit` ai gruppi di utenti o agli utenti. Puoi anche delegare i privilegi di gestione delle autorizzazioni ai gruppi di utenti.
 
