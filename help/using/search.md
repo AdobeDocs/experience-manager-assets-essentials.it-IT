@@ -3,9 +3,9 @@ title: Cercare e individuare le risorse in [!DNL Assets Essentials]
 description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 0da570c129407b6ecaf3e41223f61ce279a308d0
+source-git-commit: 5d6cc2c27fc416d3f616a25db0e6497d9ad946c1
 workflow-type: ht
-source-wordcount: '1890'
+source-wordcount: '1834'
 ht-degree: 100%
 
 ---
@@ -308,17 +308,19 @@ Il video seguente illustra il processo end-to-end dall’accesso all’interfacc
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428407)
 
-### Disabilitare la ricerca contestuale {#disable-contextual-search}
+<!--
+### Disable Contextual Search {#disable-contextual-search}
 
-Gli amministratori possono inoltre disabilitare la ricerca contestuale per gli utenti dell’organizzazione. Per farlo, esegui le seguenti operazioni:
+Administrators also have the option to disable Contextual Search for users in your organization. To do so, execute the following steps:
 
-1. Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Impostazioni generali]**.
+1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL General Settings]**.
 
-1. Nella sezione [!UICONTROL Ricerca contestuale], disabilita l’interruttore **[!UICONTROL Abilita la ricerca contestuale per l’organizzazione]** per disabilitare la funzione di ricerca contestuale per tutti gli utenti dell’organizzazione.
+1. In the [!UICONTROL Contextual Search] section, turn off the **[!UICONTROL Enable Contextual Search for your organization]** toggle to disable the Contextual Search feature for all users in your organization.  
+-->
 
 ### Feedback sulla ricerca contestuale {#contextual-search-feedback}
 
-Per fornire un feedback sulla funzione di ricerca contestuale, fai clic sull’icona ![Ricerca contestuale](assets/do-not-localize/contextual-search-icon.png) e quindi su quella Feedback. Seleziona il tipo di feedback, specifica l’oggetto e la descrizione, quindi fai clic su **[!UICONTROL Invia]**.
+Per fornire un feedback sulla funzione di ricerca contestuale, fai clic sull’icona ![Ricerca contestuale](assets/do-not-localize/Smock_Help_18_N.svg) e quindi su quella Feedback. Seleziona il tipo di feedback, specifica l’oggetto e la descrizione, quindi fai clic su **[!UICONTROL Invia]**.
 
 ![Feedback sulla ricerca contestuale](/help/using/assets/contextual-search-feedback.png)
 
