@@ -2,10 +2,10 @@
 title: Come si condividono i collegamenti alle risorse?
 description: Generare un collegamento e condividere le risorse con altri utenti che non hanno accesso all’applicazione [!DNL Assets Essentials] .
 exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
-source-wordcount: '407'
-ht-degree: 100%
+source-git-commit: 0ce79167583178f2b81b7ac9f91dd518455cc49f
+workflow-type: tm+mt
+source-wordcount: '413'
+ht-degree: 76%
 
 ---
 
@@ -20,6 +20,11 @@ Per generare un collegamento per una risorsa o una cartella contenente risorse:
 1. Seleziona le risorse e/o le cartelle contenenti le risorse e fai clic su **[!UICONTROL Condividi collegamento]**.
 
 1. Se desideri modificarlo, fai clic sull’icona Calendario per definire una data di scadenza del collegamento utilizzando il campo **[!UICONTROL Data di scadenza]**. Puoi anche specificare una data direttamente nel formato `yyyy-mm-dd`. Per impostazione predefinita, la data di scadenza di un collegamento è impostata su 2 settimane dalla data di condivisione.
+
+>[!NOTE]
+> Il formato della data cambia in base alla lingua scelta.
+> Ad esempio, il `de-DE` utilizza `dd-mm-yyyy`, `ja-JA` utilizza `yyyy-mm-dd`, considerando quanto segue: `en-EN` utilizza `mm-dd-yyyy`.
+>
 
 1. Copia il collegamento dal campo **[!UICONTROL Condividi collegamento]**.
 
@@ -43,10 +48,10 @@ Per scaricare tutte le risorse contemporaneamente, passa alla **[!UICONTROL Vist
 
 ## Passaggi successivi {#next-steps}
 
-* [Guarda un video su come condividere i collegamenti per le risorse in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html?lang=it)
+* [Guarda un video per condividere i collegamenti per le risorse negli Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html?lang=it).
 
-* Fornisci feedback sui prodotti utilizzando l’opzione [!UICONTROL Feedback] disponibile nell’interfaccia utente di Assets Essentials
+* Fornire feedback sul prodotto utilizzando [!UICONTROL Feedback] disponibile nell’interfaccia utente di Assets Essentials.
 
-* Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
+* Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modificare la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile nella barra laterale a destra.
 
-* Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&amp;lang=it#support)
+* Contatto [Assistenza clienti](https://experienceleague.adobe.com/?support-solution=General&amp;lang=it#support).
