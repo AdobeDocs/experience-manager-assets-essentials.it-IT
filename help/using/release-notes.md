@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: eac31e102b9e26241cd513b1aeb8774802120a9d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2903'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -44,15 +44,15 @@ Experience Manager Assets ora include strumenti di editing video semplici e intu
 ![ritagliare video con Adobe Express](/help/using/assets/adobe-express-crop-video.png)
 
 >[!NOTE]
-> Diritti di accesso [!DNL Adobe Express] è obbligatorio e almeno un ambiente in AEM Assets. L’ambiente può essere uno qualsiasi degli archivi in [!DNL Assets as a Cloud Service] o [!DNL Assets Essentials].
+> Sono obbligatori i diritti di accesso a [!DNL Adobe Express] e almeno un ambiente in AEM Assets. L’ambiente può essere uno qualsiasi degli archivi all’interno di [!DNL Assets as a Cloud Service] o [!DNL Assets Essentials].
 
 **Assegnare o rimuovere il modulo metadati in più cartelle**
 
-È ora possibile assegnare o rimuovere un modulo di metadati da più cartelle.
+Ora è possibile assegnare o rimuovere un modulo di metadati da più cartelle.
 
 **Gestire autorizzazioni per le raccolte private**
 
-Puoi consentire agli amministratori o ai non amministratori (altri utenti) di gestire i livelli di accesso per le raccolte private disponibili nell’archivio. Puoi assegnare le autorizzazioni come `Can View` e `Can Edit` ai gruppi di utenti o agli utenti. Puoi anche delegare i privilegi di gestione delle autorizzazioni ai gruppi di utenti.
+Puoi consentire agli amministratori o non amministratori (altri utenti) di gestire i livelli di accesso per le raccolte private disponibili nell’archivio. Puoi assegnare le autorizzazioni come `Can View` e `Can Edit` ai gruppi di utenti o agli utenti. Puoi anche delegare i privilegi di gestione delle autorizzazioni ai gruppi di utenti.
 
 
 **Miglioramenti in base al feedback ricevuto dai clienti**
@@ -62,7 +62,7 @@ Miglioramenti e correzioni di bug in base al feedback ricevuto dai clienti.
 
 ## Problemi noti {#known-issues}
 
-L’elenco dei problemi noti di [!DNL Assets Essentials] L&#39;offerta viene regolarmente rivista e aggiornata.
+L’elenco dei problemi noti di [!DNL Assets Essentials] viene regolarmente rivisto e aggiornato:
 
 <!--
 
@@ -109,7 +109,7 @@ Gli amministratori ora possono visualizzare i rapporti sull’utilizzo dello spa
 
 **Configurazione della pagina Home Cerca prima**
 
-Assets Essentials ora consente di configurare l’esperienza della pagina home per la tua organizzazione. Se si seleziona Cerca come pagina iniziale, è possibile configurare l&#39;allineamento della barra di ricerca, l&#39;immagine di sfondo e il logo per l&#39;organizzazione. Scelta [!UICONTROL Impostazioni generali] sostituisce la pagina di destinazione predefinita. Ad esempio, la destinazione predefinita è [!UICONTROL Area di lavoro personale] per amministratori e [!UICONTROL Cerca prima] per i non amministratori, la scelta di una delle opzioni in Impostazioni generali viene applicata a tutti gli utenti
+Assets Essentials ora consente di configurare l’esperienza della pagina home per la tua organizzazione. Se, per la pagina Home, selezioni l’opzione Cerca prima, puoi configurare l’allineamento della barra di ricerca, l’immagine di sfondo e il logo della tua organizzazione. Scegliendo [!UICONTROL Impostazioni generali] viene sostituita la pagina di destinazione predefinita. Ad esempio, la destinazione predefinita è [!UICONTROL La mia area di lavoro] per amministratori e [!UICONTROL Cerca prima] per i non amministratori, la scelta di una delle opzioni in Impostazioni generali viene applicata a tutti gli utenti
 
 ![configurazione di Cerca prima](/help/using/assets/search-first-configuration.png)
 
@@ -212,7 +212,7 @@ Nell’area di lavoro personale, nella sezione [!UICONTROL Contenuto] vengono or
 
 **Aggiornamenti in blocco dei metadati delle risorse**
 
-Gli aggiornamenti in blocco dei metadati consentono di eseguire aggiornamenti di metadati comuni su più risorse contemporaneamente. Non è necessario aggiornare i record singolarmente e puoi applicare rapidamente le proprietà alle risorse o alle cartelle a cui si accede tramite la ricerca. Inoltre, gli aggiornamenti in blocco dei metadati sovrascrivono eventuali valori esistenti, il che significa che le parole chiave esistenti vengono sovrascritte dall’aggiornamento in blocco dei metadati.
+Gli aggiornamenti in blocco dei metadati consentono di eseguire aggiornamenti di metadati comuni su più risorse contemporaneamente. Non è necessario aggiornare i record singolarmente ed è possibile applicare rapidamente le proprietà alle risorse o alle cartelle accessibili tramite ricerca. Inoltre, gli aggiornamenti in blocco dei metadati sovrascrivono eventuali valori esistenti, il che significa che le parole chiave esistenti vengono sovrascritte dall’aggiornamento in blocco dei metadati.
 
 **Area di lavoro personale con widget configurabili**
 

@@ -3,9 +3,9 @@ title: Come si condividono i collegamenti alle risorse?
 description: Generare un collegamento e condividere le risorse con altri utenti che non hanno accesso all’applicazione [!DNL Assets Essentials] .
 exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
 source-git-commit: 0ce79167583178f2b81b7ac9f91dd518455cc49f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '413'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ Per generare un collegamento per una risorsa o una cartella contenente risorse:
 
 >[!NOTE]
 > Il formato della data cambia in base alla lingua scelta.
-> Ad esempio, il `de-DE` utilizza `dd-mm-yyyy`, `ja-JA` utilizza `yyyy-mm-dd`, considerando quanto segue: `en-EN` utilizza `mm-dd-yyyy`.
+> Ad esempio, `de-DE` utilizza `dd-mm-yyyy`, `ja-JA` utilizza `yyyy-mm-dd`, mentre `en-EN` utilizza `mm-dd-yyyy`.
 >
 
 1. Copia il collegamento dal campo **[!UICONTROL Condividi collegamento]**.
@@ -48,10 +48,10 @@ Per scaricare tutte le risorse contemporaneamente, passa alla **[!UICONTROL Vist
 
 ## Passaggi successivi {#next-steps}
 
-* [Guarda un video per condividere i collegamenti per le risorse negli Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html?lang=it).
+* [Guarda un video su come condividere i collegamenti per le risorse in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html?lang=it).
 
-* Fornire feedback sul prodotto utilizzando [!UICONTROL Feedback] disponibile nell’interfaccia utente di Assets Essentials.
+* Fornisci feedback sui prodotti utilizzando l’opzione [!UICONTROL Feedback] disponibile nell’interfaccia utente di Assets Essentials.
 
-* Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modificare la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile nella barra laterale a destra.
+* Fornisci feedback sulla documentazione utilizzando [!UICONTROL Modifica questa pagina], ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema], ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale a destra.
 
-* Contatto [Assistenza clienti](https://experienceleague.adobe.com/?support-solution=General&amp;lang=it#support).
+* Contatta l’[Assistenza clienti](https://experienceleague.adobe.com/?support-solution=General&amp;lang=it#support).
