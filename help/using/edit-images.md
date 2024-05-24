@@ -4,9 +4,9 @@ description: Modifica le immagini utilizzando le opzioni baate su [!DNL Adobe Ex
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: f65e4eb7e0877e8b8d7ba4d5dd88c64b4423f152
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '796'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -76,9 +76,9 @@ Puoi convertire rapidamente un’immagine JPEG in formato PNG utilizzando Adobe 
 
 ### Limitazioni {#limitations-adobe-express}
 
-* Risoluzione immagine supportata: minima - 50 pixel, massima - 6000 pixel per dimensione.
+* Risoluzione immagine supportata: minima 50 pixel, massima 6000 pixel per dimensione.
 
-* Dimensione massima del file supportata: 17 MB.
+* Dimensione file massima supportata: 17 MB.
 
 ## Modificare le immagine utilizzando l’editor integrato Adobe Express {#edit-using-embedded-editor}
 
