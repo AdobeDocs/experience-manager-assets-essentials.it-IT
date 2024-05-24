@@ -3,7 +3,7 @@ title: Modificare i video
 description: Modifica video tramite [!DNL Adobe Express] opzioni avanzate e salva i video aggiornati come versioni.
 role: User
 exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
-source-git-commit: e775f6ebeda48ff01082c471a9f997c57e0dedb3
+source-git-commit: 456ffec077617909f98b66bed711921c0b7b3925
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 18%
@@ -87,7 +87,7 @@ Il video è disponibile in formato GIF per il download. Puoi salvare la risorsa 
 
 * La dimensione massima supportata per il file di origine è 200 MB.
 
-* I video supportati sono più grandi di 46 pixel e più piccoli di 3840 pixel su qualsiasi lato
+* I video supportati sono più grandi di 46 pixel e più piccoli di 3840 pixel su qualsiasi lato.
 
 * I browser Web supportati sono Google Chrome, Firefox, Safari ed Edge.
 
