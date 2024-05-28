@@ -3,7 +3,7 @@ title: Gestire i rapporti in Assets Essentials
 description: Accedi ai dati nella sezione dei rapporti di Assets Essentials per valutare l’utilizzo di prodotti e funzionalità e ottenere informazioni approfondite sulle metriche di successo chiave.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 8f91cd833712363e09b81a5f59b08e2f41237d90
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '862'
 ht-degree: 100%
 
