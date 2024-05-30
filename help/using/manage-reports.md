@@ -2,10 +2,10 @@
 title: Gestire i rapporti in Assets Essentials
 description: Accedi ai dati nella sezione dei rapporti di Assets Essentials per valutare l’utilizzo di prodotti e funzionalità e ottenere informazioni approfondite sulle metriche di successo chiave.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 8f91cd833712363e09b81a5f59b08e2f41237d90
+source-git-commit: 3f2c2cdb948a3a33c25e10588aa2bc8fa2a5a845
 workflow-type: tm+mt
-source-wordcount: '862'
-ht-degree: 100%
+source-wordcount: '929'
+ht-degree: 93%
 
 ---
 
@@ -65,6 +65,12 @@ Fai clic su **[!UICONTROL Insight]** nel riquadro di navigazione a sinistra per 
    ![Insights](assets/insights1.png)
    ![Insights](assets/insights2.png)
    -->
+
+* **Numero risorse per dimensione:** Segmenta il conteggio totale delle risorse nell’ambiente di visualizzazione delle risorse in intervalli di dimensioni diversi, evidenziando il conteggio e la percentuale di risorse in ciascun intervallo di dimensioni, rappresentate da un grafico ad anello.
+  ![insights-assets-count-by-size](/help/using/assets/insights-assets-count-by-size.svg)
+
+* **Conteggio risorse per tipo di risorsa:** Segmenta il conteggio totale delle risorse nell’ambiente di visualizzazione delle risorse, evidenziando il conteggio e la percentuale delle risorse in base ai rispettivi tipi di file, rappresentati da un grafico ad anello.
+  ![insights-assets-count-by-size](/help/using/assets/insights-assest-count-by-asset-type1.svg)
 
 ## Creare un rapporto sui download {#create-download-report}
 
