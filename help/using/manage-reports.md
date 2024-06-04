@@ -3,9 +3,9 @@ title: Gestire i rapporti in Assets Essentials
 description: Accedi ai dati nella sezione dei rapporti di Assets Essentials per valutare l’utilizzo di prodotti e funzionalità e ottenere informazioni approfondite sulle metriche di successo chiave.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 71a0381f5f7c32d3da1923778b3cd7b678391cae
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '862'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -86,7 +86,7 @@ Per creare un rapporto sui download:
 
 1. Nella scheda [!UICONTROL Colonne] seleziona i nomi delle colonne da visualizzare nel rapporto.
 
-1. Clic **[!UICONTROL Crea]**
+1. Fai clic su **[!UICONTROL Crea]**.
 
    ![Scaricare il rapporto](assets/download-reports-config.png)
 
