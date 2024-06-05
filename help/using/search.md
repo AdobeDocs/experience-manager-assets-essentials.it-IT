@@ -4,7 +4,7 @@ description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: a471074ec0eee8487222cc344046715ed5d90d0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1890'
 ht-degree: 100%
 
@@ -329,6 +329,6 @@ Per fornire un feedback sulla funzione di ricerca contestuale, fai clic sull’i
 
 * Fornisci feedback sui prodotti utilizzando l’opzione [!UICONTROL Feedback] disponibile nell’interfaccia utente di Assets Essentials
 
-* Fornisci feedback sulla documentazione utilizzando [!UICONTROL Modifica questa pagina], ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema], ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale a destra.
+* Fornisci feedback sulla documentazione utilizzando [!UICONTROL Modifica questa pagina], ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema], ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibili sulla barra laterale a destra.
 
 * Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&amp;lang=it#support)
