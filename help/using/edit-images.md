@@ -1,45 +1,45 @@
 ---
 title: Modificare le immagini
-description: Modifica le immagini utilizzando le opzioni baate su [!DNL Adobe Express] e salva le immagini aggiornate come versioni.
+description: Modifica le immagini utilizzando le opzioni basate su [!DNL Adobe Express] e salva le immagini aggiornate come versioni.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: 5947e7db586b691f1db3bf734481de8438e5a3b5
 workflow-type: tm+mt
 source-wordcount: '1116'
-ht-degree: 30%
+ht-degree: 89%
 
 ---
 
 # Modificare le immagini in [!DNL Assets Essentials] {#edit-images-in-assets-essentials}
 
-L’interfaccia utente di Assets Essentials consente di modificare le immagini di base, tra cui ridimensionamento, rimozione dello sfondo, ritaglio e conversione tra formati JPEG e PNG. Inoltre, permette di realizzare editing avanzato attraverso l&#39;integrazione con Adobe Express. Dopo aver modificato un’immagine, puoi salvarla come nuova versione. Se necessario, il controllo delle versioni consente di ripristinare la risorsa originale in un secondo momento. Per modificare un’immagine: [apri l’anteprima](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) e fai clic su **Modifica immagine**.
+L’interfaccia utente di Assets Essentials consente di modificare le immagini di base, tra cui ridimensionamento, rimozione dello sfondo, ritaglio e conversione tra formati JPEG e PNG. Inoltre, permette di apportare modifiche avanzate attraverso l’integrazione con Adobe Express. Dopo aver modificato un’immagine, puoi salvarla come nuova versione. Il controllo delle versioni consente di ripristinare la risorsa originale in un secondo momento, se necessario. Per modificare un’immagine: [apri l’anteprima](https://experienceleague.adobe.com/it/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) e fai clic su **Modifica immagine**.
 
 >[!NOTE]
 >
->Potete modificare le immagini dei tipi di file PNG e JPEG utilizzando Adobe Express.
+>È possibile modificare le immagini dei tipi di file PNG e JPEG utilizzando Adobe Express.
 
 <!--The editing actions that are available are Spot healing, Crop and straighten, Resize image, and Adjust image.-->
 
 ## Modifica immagine {#edit-images}
 
 Nell’interfaccia utente degli Assets Essentials, utilizza il collegamento: [Interfaccia utente Assets Essentials](https://experience.adobe.com/#/assets) e selezionando l’archivio appropriato. Per ricevere l’accesso, contatta l’amministratore della tua organizzazione.
-Per ulteriori informazioni di riferimento, fare riferimento a [Introduzione all’utilizzo di Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started), [informazioni sull’interfaccia utente](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view), [Casi di utilizzo di Assets essentials](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started#use-cases) e [problemi noti](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/release-notes).
+Per ulteriori informazioni di riferimento, fare riferimento a [Introduzione all’utilizzo di Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/it/docs/experience-manager-assets-essentials/help/get-started), [informazioni sull’interfaccia utente](https://experienceleague.adobe.com/it/docs/experience-manager-assets-essentials/help/navigate-view), [Casi di utilizzo di Assets essentials](https://experienceleague.adobe.com/it/docs/experience-manager-assets-essentials/help/get-started#use-cases) e [problemi noti](https://experienceleague.adobe.com/it/docs/experience-manager-assets-essentials/help/release-notes).
 <!--
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
 >title="Adobe Express Integration"
 >abstract="Easy and intuitive image-editing tools powered by Adobe Express available directly within AEM Assets to increase content reuse and accelerate content velocity."-->
 
-### Modifica immagine nell’interfaccia utente di Essentials tramite Adobe Express {#edit-image-on-essentials-ui-using-adobe-express}
+### Modificare un’immagine nell’interfaccia utente di Essentials tramite Adobe Express {#edit-image-on-essentials-ui-using-adobe-express}
 
-Dopo aver effettuato l’accesso all’interfaccia utente di Essentials, fai clic su **Assets**, selezionare un&#39;immagine e quindi fare clic su **Modifica** dalla barra superiore. Nella nuova schermata vengono visualizzate le opzioni di modifica disponibili, tra cui il ridimensionamento, la rimozione dello sfondo, il ritaglio e la conversione tra i formati JPEG e PNG.
+Dopo aver effettuato l’accesso all’interfaccia utente di Essentials, fai clic su **Assets**, seleziona un’immagine e quindi fai clic su **Modifica** dalla barra superiore. Nella nuova schermata vengono visualizzate le opzioni di modifica disponibili, tra cui il ridimensionamento, la rimozione dello sfondo, il ritaglio e la conversione tra i formati JPEG e PNG.
 
 #### Ridimensionare l’immagine {#resize-image-using-express}
 
-Spesso occorre ridimensionare un’immagine a una dimensione specifica. Gli Assets Essentials consentono di ridimensionare rapidamente le immagini per adattarle alle dimensioni comuni delle foto, fornendo nuove risoluzioni precalcolate per dimensioni specifiche. Per ridimensionare l&#39;immagine utilizzando gli Assets Essentials, effettuare le seguenti operazioni:
+Spesso occorre ridimensionare un’immagine a una dimensione specifica. Assets Essentials consente di ridimensionare rapidamente le immagini per adattarle alle dimensioni comuni delle foto, fornendo nuove risoluzioni precalcolate per foto di dimensioni specifiche. Per ridimensionare l’immagine utilizzando Assets Essentials, effettua le seguenti operazioni:
 
-1. Clic **Ridimensiona immagine** dal riquadro di sinistra.
-2. Seleziona la piattaforma per social media appropriata dall’elenco a discesa Ridimensiona e scegli le dimensioni dell’immagine dalle opzioni visualizzate.
+1. Fai clic su **Ridimensiona immagine** dal riquadro di sinistra.
+2. Seleziona la piattaforma di social media appropriata dall’elenco a discesa Ridimensiona e seleziona le dimensioni dell’immagine tra le opzioni visualizzate.
 3. Ridimensiona l’immagine, se necessario, utilizzando il campo **Scala immagine**.
 4. Fai clic su **Applica** per applicare le modifiche.
    ![Editing di immagini con Adobe Express](/help/using/assets/adobe-express-resize-image.png)
@@ -49,9 +49,9 @@ Spesso occorre ridimensionare un’immagine a una dimensione specifica. Gli Asse
 
 #### Rimuovere lo sfondo {#remove-background-using-express}
 
-Per rimuovere lo sfondo da un&#39;immagine, effettuare le seguenti operazioni:
+È possibile rimuovere lo sfondo da un’immagine in pochi semplici passaggi, come indicato di seguito:
 
-1. Clic **Rimuovi sfondo** dal riquadro di sinistra. In Experience Manager Assets l’immagine viene visualizzata senza sfondo.
+1. Fai clic su **Rimuovi sfondo** dal riquadro a sinistra. In Experience Manager Assets l’immagine viene visualizzata senza sfondo.
 2. Fai clic su **[!UICONTROL Applica]** per applicare le modifiche.
    ![Salvare un’immagine con Adobe Express](/help/using/assets/adobe-express-remove-background.png)
 
@@ -59,19 +59,19 @@ Per rimuovere lo sfondo da un&#39;immagine, effettuare le seguenti operazioni:
 
 #### Ritagliare un’immagine {#crop-image-using-express}
 
-La trasformazione di un&#39;immagine in una dimensione perfetta è semplice con l&#39;utilizzo di [!DNL Adobe Express] azioni rapide.
+Utilizzando alcune azioni rapide di [!DNL Adobe Express], è facile trasformare un’immagine affinché sia di dimensioni perfette.
 
-1. Clic **[!UICONTROL Ritaglia immagine]** dal riquadro di sinistra.
+1. Fai clic su **[!UICONTROL Ritaglia immagine]** dal riquadro a sinistra.
 2. Trascina le maniglie agli angoli dell’immagine per creare il ritaglio desiderato.
 3. Fai clic su **[!UICONTROL Applica]**.
    ![Salvare un’immagine con Adobe Express](/help/using/assets/adobe-express-crop-image.png)
 L’immagine ritagliata è disponibile per il download. Puoi salvare la risorsa modificata come nuova versione della stessa risorsa oppure salvarla come nuova risorsa.
 
-#### Converti tra tipi di file immagine {#convert-image-types-using-express}
+#### Convertire tra tipi di file immagine {#convert-image-types-using-express}
 
-Potete convertire rapidamente i formati di immagine JPEG e PNG utilizzando Adobe Express. Esegui i passaggi seguenti:
+Puoi convertire rapidamente un’immagine JPEG in formato PNG utilizzando Adobe Express. Esegui i passaggi seguenti:
 
-1. Clic **Da JPEG a PNG** o **PNG a JPEG** dal riquadro di sinistra.
+1. Fai clic su **Da JPEG a PNG** o **Da PNG a JPEG** dal riquadro a sinistra.
    ![Convertire in PNG con Adobe Express](/help/using/assets/adobe-express-convert-image.png)
 2. Fai clic su **[!UICONTROL Scarica]**.
 
@@ -80,16 +80,15 @@ Potete convertire rapidamente i formati di immagine JPEG e PNG utilizzando Adobe
 * Risoluzione immagine supportata: minima 50 pixel, massima 6000 pixel per dimensione.
 * Dimensione file massima supportata: 17 MB.
 
-### Modificare le immagini nell’editor incorporato di Adobe Express {#edit-images-in-adobe-express-embedded-editor}
+### Modificare le immagine nell’editor integrato Adobe Express {#edit-images-in-adobe-express-embedded-editor}
 
-Gli utenti con diritto Express possono utilizzare l’editor Express incorporato dall’interfaccia utente di Assets Essentials per modificare facilmente i contenuti e crearne di nuovi con GenAI da Adobe Firefly. Ciò migliora il riutilizzo dei contenuti e velocizza la loro esecuzione. Puoi anche utilizzare elementi predefiniti per rendere la risorsa straordinaria o eseguire azioni rapide per modificare l’immagine con pochi clic.
-![interfaccia utente express in essentials](/help/using/assets/express-in-essentials-ui.jpg)
-Per modificare le immagini con l’editor incorporato di Adobe Express, effettua le seguenti operazioni:
+Gli utenti con diritti di Express possono utilizzare l’editor Express incorporato dall’interfaccia utente di Assets Essentials per modificare facilmente i contenuti e crearne di nuovi con GenAI da Adobe Firefly. Ciò migliora il riutilizzo dei contenuti e li velocizza. Puoi anche utilizzare elementi predefiniti per migliorare la risorsa o eseguire azioni rapide per modificare l’immagine con pochi clic.
+![Interfaccia utente Express in Essentials](/help/using/assets/express-in-essentials-ui.jpg) Per modificare le immagini utilizzando l’editor incorporato di Adobe Express, effettua le seguenti operazioni:
 
 1. Accedi all’interfaccia utente di AEM Assets Essentials tramite il collegamento: [Interfaccia utente di AEM Assets Essentials](https://experience.adobe.com/#/assets) e seleziona l’archivio appropriato.
-1. Clic **Assets**, immetti una cartella e seleziona un&#39;immagine.
-1. Clic **Apri in Adobe Express**. L’immagine si apre su un’area di lavoro express.
-1. Apportare le modifiche necessarie all&#39;immagine.
+1. Fai clic su **Risorse**, immetti una cartella e seleziona un’immagine.
+1. Fai clic su **Apri in Adobe Express**. L’immagine si apre in un’area di lavoro Express.
+1. Apporta le modifiche necessarie all’immagine.
 1. Se il progetto richiede l’aggiunta di altre pagine, fai clic su **Aggiungi**, seleziona le risorse, immetti una cartella, seleziona un’immagine da portare sulla pagina dell’area di lavoro, quindi apporta le modifiche necessarie all’immagine.
 1. Per salvare le immagini, fai clic su **Salva**. Viene visualizzata la finestra di dialogo Salva.
 
@@ -97,33 +96,33 @@ Per modificare le immagini con l’editor incorporato di Adobe Express, effettua
    >
    > **1. Per pagina singola**
    >
-   > **Salva come versione:** Questa funzione supporta il salvataggio di una sola risorsa. Selezionate questa opzione per esportare l&#39;immagine come nuova versione (mantenendo il formato originale) e salvarla nella stessa cartella.
-   > **Salva come nuova risorsa:** Seleziona questa opzione per esportare la risorsa in un formato diverso da quello originale e salvarla in una cartella come nuova risorsa.
+   > **Salva come versione:** questa funzione supporta il salvataggio di una sola risorsa. Seleziona questa opzione per esportare l’immagine come nuova versione (mantenendo il formato originale) e salvarla nella stessa cartella.
+   > **Salva come nuova risorsa:** seleziona questa opzione per esportare la risorsa in un formato diverso da quello originale e salvarla in una cartella come nuova risorsa.
    >  
    > **2. Per più pagine**
    >
-   > **Salva come versione:** Questa funzione supporta il salvataggio di una sola risorsa. Se vuoi salvare una singola pagina da più pagine, seleziona questa opzione per salvare la risorsa nel formato e nella posizione originali.\
-   > **Salva come nuova risorsa:** Con questa opzione, esportate più risorse o una singola risorsa in qualsiasi cartella e salvatele come nuove risorse con il loro formato di file originale o diverso.
+   > **Salva come versione:** questa funzione supporta il salvataggio di una sola risorsa. Se vuoi salvare una singola pagina da più pagine, seleziona questa opzione per salvare la risorsa nel formato e nella posizione originali.\
+   > **Salva come nuova risorsa:** con questa opzione, esporta più risorse o una singola risorsa in una qualsiasi cartella e salvale come nuove risorse con il lformato di file originale o diverso.
 
 1. Nella finestra di dialogo Salva:
-   1. Immetti un nome per il file nella sezione **Salva con nome** campo.
+   1. Immetti un nome per il file nel campo **Salva con nome**.
    1. Seleziona una cartella di destinazione.
-   1. Facoltativo: fornisci dettagli quali nome del progetto o della campagna, parole chiave, canali, intervallo di tempo e area geografica.
-1. Clic **Salva come versione** o **Salva come nuova risorsa** per salvare le risorse.
+   1. Facoltativo: fornisci dettagli quali nome del progetto o della campagna, parole chiave, canali, arco temporale e area geografica.
+1. Fai clic su **Salva come versione** o **Salva come nuova risorsa** per salvare le risorse.
 
-#### Limitazioni della modifica delle immagini in Express Editor {#limitations-of-editing-images-in-the-express-editor}
+#### Limitazioni della modifica delle immagini nell’editor di Express {#limitations-of-editing-images-in-the-express-editor}
 
 * Tipo di file supportato: JPEG o PNG.
 * Dimensione file massima supportata: 40 MB.
 * Intervallo di larghezza e altezza supportato: tra 50 e 8000 pixel.
-* Ricarica la pagina per visualizzare la nuova risorsa salvata più di recente nella cartella di origine.
+* Ricarica la pagina per visualizzare l’ultima nuova risorsa salvata nella cartella di origine.
 
 ### Creare nuove risorse con Adobe Express {#create-new-assets-using-embedded-editor}
 
-Assets Essentials consente di creare un nuovo modello da zero utilizzando l’editor incorporato di Adobe Express. Per creare una nuova risorsa utilizzando Adobe Express, esegui i passaggi seguenti:
+Assets Essentials consente di creare un nuovo modello da zero utilizzando l’editor integrato Adobe Express. Per creare una nuova risorsa utilizzando Adobe Express, effettua le seguenti operazioni:
 
-1. Accedi a **Il mio Workspace** e fai clic su **Crea** all’interno del banner dell’Adobe Express che viene visualizzato all’interno dell’Adobe Express nella parte superiore. Nell’interfaccia utente degli Adobi Express Assets Essentials viene visualizzata un’area di lavoro vuota.
-1. Crea i contenuti utilizzando i [modelli](https://helpx.adobe.com/it/express/using/work-with-templates.html). In caso contrario, accedi al tuo materiale per modificare il contenuto esistente.
+1. Accedi a **La mia area di lavoro** e fai clic su **Crea** all’interno del banner di Adobe Express visualizzato all’interno di Adobe Express nella parte superiore. Nell’interfaccia utente di Assets Essentials viene visualizzata un’area di lavoro di Adobe Express vuota.
+1. Crea i contenuti utilizzando i [modelli](https://helpx.adobe.com/it/express/using/work-with-templates.html). In caso contrario, accedi a Le tue risorse per modificare contenuti esistenti.
 1. Dopo aver completato la modifica, fai clic su **Salva**.
 1. Specifica il percorso di destinazione della risorsa creata e fai clic su **Salva come nuova risorsa**.
 
