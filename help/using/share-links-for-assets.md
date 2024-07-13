@@ -3,7 +3,7 @@ title: Come si condividono i collegamenti alle risorse?
 description: Generare un collegamento e condividere le risorse con altri utenti che non hanno accesso all’applicazione [!DNL Assets Essentials] .
 exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
 source-git-commit: 0ce79167583178f2b81b7ac9f91dd518455cc49f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 100%
 

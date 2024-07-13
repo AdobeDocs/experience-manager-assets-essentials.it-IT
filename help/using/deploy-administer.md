@@ -4,9 +4,9 @@ description: Casi di utilizzo relativi all’amministrazione, tra cui implementa
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
-source-wordcount: '1342'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '1304'
+ht-degree: 99%
 
 ---
 
@@ -131,7 +131,7 @@ Assets Essentials consente agli amministratori di gestire i livelli di accesso p
 
 Per ulteriori informazioni, consulta [Gestione delle autorizzazioni per le cartelle](manage-permissions.md).
 
-### Configurare i moduli di metadati (Facoltativo) {#metadata-forms}
+### Configura Forms metadati (facoltativo) {#metadata-forms}
 
 Per impostazione predefinita, Assets Essentials fornisce molti campi di metadati standard. Spesso le organizzazioni hanno l’esigenza di aggiungere altri metadati, specifici per l’azienda. I moduli di metadati consentono alle aziende di aggiungere campi di metadati personalizzati alla pagina [!UICONTROL Dettagli] di una risorsa. I metadati specifici per l’azienda migliorano la governance e l’individuazione delle risorse. Puoi creare nuovi moduli o riutilizzare quelli esistenti.
 
