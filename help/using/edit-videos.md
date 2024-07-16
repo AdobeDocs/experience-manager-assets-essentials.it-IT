@@ -6,7 +6,7 @@ exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
 source-git-commit: a9ef92194f55da9ad5352adf4251c85e3abcdcd1
 workflow-type: tm+mt
 source-wordcount: '833'
-ht-degree: 22%
+ht-degree: 24%
 
 ---
 
@@ -22,11 +22,11 @@ Ulteriori informazioni sull&#39;[interfaccia di anteprima](/help/using/navigate-
 
 Diritti di accesso a [!DNL Adobe Express] e ad almeno un ambiente in AEM Assets. L’ambiente può essere uno qualsiasi degli archivi all’interno di [!DNL Assets as a Cloud Service] o [!DNL Assets Essentials].
 
-## Modifica video con Adobe Express {#edit-video-using-express}
+## Modificare i video con Adobe Express {#edit-video-using-express}
 
 >[!CONTEXTUALHELP]
 >id="assets_express_integration_videos"
->title="Integrazione di Adobi Express per l&#39;editing video"
+>title="Integrazione di Adobe Express per l’editing video"
 >abstract="Experience Manager Assets ora include strumenti di editing video semplici e intuitivi basati su Adobe Express per aumentare il riutilizzo dei contenuti e velocizzarne la realizzazione. Le opzioni di modifica includono il taglio, il ritaglio, il ridimensionamento di un video e anche la conversione di un file MP4 in GIF."
 
 Trasformare un video in una dimensione e un orientamento perfetti è facile utilizzando [!DNL Adobe Express] azioni rapide incorporate.
