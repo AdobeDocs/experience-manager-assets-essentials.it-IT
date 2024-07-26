@@ -3,10 +3,10 @@ title: "Interfaccia utente di [!DNL Assets Essentials]"
 description: Comprendere l’interfaccia utente e la navigazione in [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: c6b04d1882347a4647a690939353856844b2a27a
+source-git-commit: 8debab75bb335d4a81279c9c0e84229c3b3ca2cd
 workflow-type: tm+mt
 source-wordcount: '1036'
-ht-degree: 90%
+ht-degree: 88%
 
 ---
 
@@ -55,7 +55,7 @@ Durante l’esplorazione delle risorse in una cartella, puoi utilizzare l’inte
 
 Puoi aprire o comprimere la barra laterale a sinistra per aumentare l’area disponibile per la visualizzazione delle risorse.
 
-In [!DNL Assets Essentials], puoi visualizzare le risorse, le cartelle e i risultati di ricerca in quattro diversi tipi di layout.
+In [!DNL Assets Essentials] è possibile visualizzare le risorse, le cartelle e i risultati di ricerca in quattro diversi tipi di layout:
 
 * ![icona della vista elenco](assets/do-not-localize/list-view.png) [!UICONTROL Vista a elenco]
 * ![icona della vista griglia](assets/do-not-localize/grid-view.png) [!UICONTROL Vista a griglia]
