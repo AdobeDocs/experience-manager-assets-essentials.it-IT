@@ -3,7 +3,7 @@ title: "Interfaccia utente di [!DNL Assets Essentials]"
 description: Comprendere l’interfaccia utente e la navigazione in [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 8debab75bb335d4a81279c9c0e84229c3b3ca2cd
+source-git-commit: 5abb9a2ca6136c08479f9a48855522f4fd982e95
 workflow-type: tm+mt
 source-wordcount: '1036'
 ht-degree: 88%
@@ -30,7 +30,7 @@ Quando accedi a [!DNL Assets Essentials], viene visualizzata la seguente interfa
 
 ## Sfogliare e visualizzare le risorse e le cartelle {#browse-repository}
 
-È possibile sfogliare le cartelle dall’interfaccia utente principale o dalla barra laterale a sinistra. In Experience Manager Assets ora vengono visualizzate anteprime visive del contenuto della cartella sulla miniatura della cartella durante la navigazione o la ricerca del contenuto, migliorando la reperibilità delle risorse disponibili nell’archivio di AEM Assets. Questa miniatura consente di risparmiare tempo nella ricerca di risorse specifiche all’interno di una cartella nell’archivio di AEM Assets.
+È possibile sfogliare le cartelle dall’interfaccia utente principale o dalla barra laterale a sinistra. In Experience Manager Assets ora vengono visualizzate anteprime visive del contenuto della cartella sulla miniatura della cartella durante la navigazione o la ricerca del contenuto, migliorando la reperibilità delle risorse disponibili nell’archivio di AEM Assets. Questa miniatura consente di risparmiare tempo nella ricerca di risorse specifiche all’interno di una cartella in AEM Assets Repository.
 Durante l’esplorazione delle risorse in una cartella, puoi utilizzare l’interfaccia per visualizzare le miniature delle risorse e sfogliare visivamente l’archivio oppure visualizzare i dettagli delle risorse per trovare rapidamente la risorsa desiderata. Le opzioni disponibili nella barra laterale a sinistra sono:
 
 * [La mia area di lavoro](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=it): Assets ora include un’area di lavoro personalizzabile che fornisce widget per accedere facilmente a specifiche aree dell’interfaccia di Assets e alle informazioni che ti interessano di più. Questa pagina funge da soluzione unica per fornire una panoramica degli elementi di lavoro e consentire un accesso rapido ai flussi di lavoro chiave. L’accesso più comodo a queste opzioni aumenta l’efficienza e la velocità dei contenuti.
