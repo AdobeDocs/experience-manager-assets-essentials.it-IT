@@ -5,27 +5,27 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 323e1ebd3ee81dfae0d15dc4120997ae3c4798b9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2976'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
 # Note sulla versione di [!DNL Assets Essentials] {#release-notes}
 
-La versione attuale di Assets Essentials è stata rilasciata il venerdì 25 luglio 2024.
+La versione attuale di Assets Essentials è stata rilasciata il 25 luglio 2024.
 
-Alcune delle funzioni aggiunte di recente includono:
+Ecco alcune delle funzioni aggiunte di recente:
 
-Integrazione di **Content credentials**
+**Integrazione di credenziali del contenuto**
 
-Experience Manager Assets ora supporta i content credentials per i formati di immagine supportati. Questo fornisce informazioni sulla derivazione della risorsa e su come è stata creata, compreso se è stata modificata utilizzando GenAI.
+Experience Manager Assets ora supporta le credenziali del contenuto per i formati di immagine supportati. Questo fornisce informazioni sulla derivazione della risorsa e su come è stata creata, compreso se è stata modificata utilizzando GenAI.
 
-![Content credentials](/help/using/assets/content-credentials.png)
+![Credenziali del contenuto](/help/using/assets/content-credentials.png)
 
 **Anteprime visive del contenuto della cartella**
 
-In Experience Manager Assets ora vengono visualizzate anteprime visive del contenuto della cartella sulla miniatura della cartella durante la navigazione o la ricerca del contenuto, migliorando la reperibilità delle risorse disponibili nell’archivio di AEM Assets.
+In Experience Manager Assets, durante la navigazione o la ricerca di contenuti, ora le miniature delle cartelle mostrano anteprime visive del loro contenuto, migliorando la reperibilità delle risorse disponibili nell’archivio di AEM Assets.
 
 **Ricerca contestuale**
 
