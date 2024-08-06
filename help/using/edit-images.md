@@ -3,10 +3,10 @@ title: Modificare le immagini
 description: Modifica le immagini utilizzando le opzioni basate su [!DNL Adobe Express] e salva le immagini aggiornate come versioni.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: 65e9f9414fe71d9e9add9b794856d77f87aed086
+source-git-commit: 56a2af8467f3e44855f26bd86a394c76e9f7ccf3
 workflow-type: tm+mt
 source-wordcount: '1182'
-ht-degree: 65%
+ht-degree: 63%
 
 ---
 
@@ -34,7 +34,7 @@ Per ulteriori informazioni di riferimento fare riferimento a - [Introduzione a A
 >title="Integrazione Adobe Express"
 >abstract="Strumenti di editing delle immagini semplici e intuitivi gestiti da Adobe Express disponibili direttamente in AEM Assets per aumentare il riutilizzo dei contenuti e velocizzarne la creazione."
 
-Dopo aver effettuato l’accesso all’interfaccia utente di Essentials, fai clic su **Assets**, seleziona un’immagine e quindi fai clic su **Modifica** dalla barra superiore. Nella nuova schermata vengono visualizzate le opzioni di modifica disponibili basate su Adobe Express, che includono il ridimensionamento, la rimozione dello sfondo, il ritaglio e la conversione tra i formati JPEG e PNG.
+Dopo essere passati all&#39;interfaccia utente di Essentials, fai clic su **Assets**, seleziona un&#39;immagine e quindi fai clic su **Modifica** nella barra superiore. Nella nuova schermata vengono visualizzate le opzioni di modifica disponibili basate su Adobe Express, che includono il ridimensionamento, la rimozione dello sfondo, il ritaglio e la conversione tra i formati JPEG e PNG.
 
 #### Ridimensionare l’immagine {#resize-image-using-express}
 
