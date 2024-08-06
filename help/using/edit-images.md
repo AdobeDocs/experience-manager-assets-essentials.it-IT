@@ -3,16 +3,18 @@ title: Modificare le immagini
 description: Modifica le immagini utilizzando le opzioni basate su [!DNL Adobe Express] e salva le immagini aggiornate come versioni.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: a9ef92194f55da9ad5352adf4251c85e3abcdcd1
+source-git-commit: 65e9f9414fe71d9e9add9b794856d77f87aed086
 workflow-type: tm+mt
-source-wordcount: '1138'
-ht-degree: 100%
+source-wordcount: '1182'
+ht-degree: 65%
 
 ---
 
 # Modificare le immagini in [!DNL Assets Essentials] {#edit-images-in-assets-essentials}
 
-L’interfaccia utente di Assets Essentials consente di modificare le immagini di base, ad esempio con il ridimensionamento, la rimozione dello sfondo, il ritaglio e la conversione tra i formati JPEG e PNG. Inoltre, permette di apportare modifiche avanzate attraverso l’integrazione con Adobe Express. Dopo aver modificato un’immagine, puoi salvarla come nuova versione. Il controllo delle versioni consente di ripristinare la risorsa originale in un secondo momento, se necessario. Per modificare un’immagine: [apri l’anteprima](https://experienceleague.adobe.com/it/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) e fai clic su **Modifica immagine**.
+L’interfaccia utente di Assets Essentials consente di eseguire semplici operazioni di modifica delle immagini, basate su Adobe Express e integrate nell’interfaccia utente di. Questa modifica include il ridimensionamento, la rimozione in background, il ritaglio e la conversione tra i formati JPEG e PNG. Consente inoltre di eseguire modifiche avanzate tramite l’interfaccia Adobe Express incorporata nell’interfaccia utente di Essentials.
+
+Dopo aver modificato un’immagine, puoi salvarla come nuova versione. Il controllo delle versioni consente di ripristinare la risorsa originale in un secondo momento, se necessario. Per modificare un’immagine: [apri l’anteprima](https://experienceleague.adobe.com/it/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) e fai clic su **Modifica immagine**.
 
 >[!NOTE]
 >
@@ -22,23 +24,23 @@ L’interfaccia utente di Assets Essentials consente di modificare le immagini d
 
 ## Modificare le immagini {#edit-images}
 
-Accedi all’interfaccia utente di Assets Essentials utilizzando il collegamento: [Interfaccia utente di Assets Essentials](https://experience.adobe.com/#/assets) e seleziona l’archivio appropriato. Per ricevere l’accesso, contatta l’amministratore della tua organizzazione.
-Per ulteriori informazioni di riferimento, consulta: [Introduzione all’utilizzo di Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/it/docs/experience-manager-assets-essentials/help/get-started), [Interfaccia utente](https://experienceleague.adobe.com/it/docs/experience-manager-assets-essentials/help/navigate-view), [Casi d’uso di Assets Essentials](https://experienceleague.adobe.com/it/docs/experience-manager-assets-essentials/help/get-started#use-cases) e i [problemi noti](https://experienceleague.adobe.com/it/docs/experience-manager-assets-essentials/help/release-notes).
+Passa all&#39;interfaccia utente Assets Essentials, utilizzando il collegamento - [Interfaccia utente Assets Essentials](https://experience.adobe.com/#/assets) e selezionando l&#39;archivio appropriato. Per ricevere l’accesso, contatta l’amministratore della tua organizzazione.
+Per ulteriori informazioni di riferimento fare riferimento a - [Introduzione a Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/it/docs/experience-manager-assets-essentials/help/get-started), [Informazioni sull&#39;interfaccia utente](https://experienceleague.adobe.com/it/docs/experience-manager-assets-essentials/help/navigate-view), [Assets Essentials casi d&#39;uso](https://experienceleague.adobe.com/it/docs/experience-manager-assets-essentials/help/get-started#use-cases) e [Problemi noti](https://experienceleague.adobe.com/it/docs/experience-manager-assets-essentials/help/release-notes).
 
-### Modificare le immagini utilizzando Adobe Express {#edit-images-using-adobe-express}
+### Modificare un’immagine nell’interfaccia utente di Essentials tramite Adobe Express{#edit-images-using-adobe-express}
 
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
 >title="Integrazione Adobe Express"
 >abstract="Strumenti di editing delle immagini semplici e intuitivi gestiti da Adobe Express disponibili direttamente in AEM Assets per aumentare il riutilizzo dei contenuti e velocizzarne la creazione."
 
-Dopo aver effettuato l’accesso all’interfaccia utente di Essentials, fai clic su **Assets**, seleziona un’immagine e quindi fai clic su **Modifica** dalla barra superiore. Nella nuova schermata vengono visualizzate le opzioni di modifica disponibili, tra cui il ridimensionamento, la rimozione dello sfondo, il ritaglio e la conversione tra i formati JPEG e PNG.
+Dopo aver effettuato l’accesso all’interfaccia utente di Essentials, fai clic su **Assets**, seleziona un’immagine e quindi fai clic su **Modifica** dalla barra superiore. Nella nuova schermata vengono visualizzate le opzioni di modifica disponibili basate su Adobe Express, che includono il ridimensionamento, la rimozione dello sfondo, il ritaglio e la conversione tra i formati JPEG e PNG.
 
 #### Ridimensionare l’immagine {#resize-image-using-express}
 
-Spesso occorre ridimensionare un’immagine a una dimensione specifica. Assets Essentials consente di ridimensionare rapidamente le immagini per adattarle alle dimensioni comuni delle foto, fornendo nuove risoluzioni precalcolate per foto di dimensioni specifiche. Per ridimensionare l’immagine utilizzando Assets Essentials, effettua le seguenti operazioni:
+Spesso occorre ridimensionare un’immagine a una dimensione specifica. Assets Essentials consente di ridimensionare rapidamente le immagini per adattarle alle dimensioni comuni delle foto, fornendo nuove risoluzioni precalcolate per foto di dimensioni specifiche. Per ridimensionare l’immagine all’interno dell’interfaccia Assets Essentials, effettua le seguenti operazioni:
 
-1. Fai clic su **Ridimensiona immagine** dal riquadro di sinistra.
+1. Fare clic su **Ridimensiona immagine** nel riquadro di sinistra. In una finestra di dialogo vengono visualizzate le funzionalità di ridimensionamento dell&#39;immagine fornite da Adobe Express.
 2. Seleziona la piattaforma di social media appropriata dall’elenco a discesa Ridimensiona e seleziona le dimensioni dell’immagine tra le opzioni visualizzate.
 3. Ridimensiona l’immagine, se necessario, utilizzando il campo **Scala immagine**.
 4. Fai clic su **Applica** per applicare le modifiche.
@@ -67,7 +69,7 @@ Utilizzando alcune azioni rapide di [!DNL Adobe Express], è facile trasformare 
    ![Salvare un’immagine con Adobe Express](/help/using/assets/adobe-express-crop-image.png)
 L’immagine ritagliata è disponibile per il download. Puoi salvare la risorsa modificata come nuova versione della stessa risorsa oppure salvarla come nuova risorsa.
 
-#### Convertire tra tipi di file immagine {#convert-image-types-using-express}
+#### Convertire da JPEG in PNG {#Convert-JPEG-to-PNG}
 
 Puoi convertire rapidamente un’immagine JPEG in formato PNG utilizzando Adobe Express. Esegui i passaggi seguenti:
 
@@ -82,33 +84,29 @@ Puoi convertire rapidamente un’immagine JPEG in formato PNG utilizzando Adobe 
 
 ### Modificare le immagine nell’editor integrato Adobe Express {#edit-images-in-adobe-express-embedded-editor}
 
-Gli utenti con diritti di Express possono utilizzare l’editor Express incorporato dall’interfaccia utente di Assets Essentials per modificare facilmente i contenuti e crearne di nuovi con GenAI da Adobe Firefly. Ciò migliora il riutilizzo dei contenuti e li velocizza. Puoi anche utilizzare elementi predefiniti per migliorare la risorsa o eseguire azioni rapide per modificare l’immagine con pochi clic.
-![Interfaccia utente Express in Essentials](/help/using/assets/express-in-essentials-ui.jpg) Per modificare le immagini utilizzando l’editor incorporato di Adobe Express, effettua le seguenti operazioni:
+Gli utenti con diritto Express possono utilizzare l’editor Express incorporato dall’interfaccia utente di Assets Essentials per modificare il contenuto e creare facilmente nuovi contenuti con GenAI da Adobe Firefly. Questa funzione migliora il riutilizzo dei contenuti e velocizza la loro esecuzione. Puoi anche utilizzare elementi predefiniti per migliorare la risorsa o eseguire azioni rapide per modificare l’immagine con pochi clic.
+![express nell&#39;interfaccia utente di essentials](/help/using/assets/express-in-essentials-ui.jpg)
+Per modificare le immagini all’interno dell’editor incorporato di Adobe Express, effettua le seguenti operazioni:
 
-1. Accedi all’interfaccia utente di AEM Assets Essentials utilizzando il collegamento [Interfaccia utente di AEM Assets Essentials](https://experience.adobe.com/#/assets) e seleziona l’archivio appropriato.
+1. Passa all’interfaccia utente di AEM Assets Essentials utilizzando il collegamento [Interfaccia utente di AEM Assets Essentials](https://experience.adobe.com/#/assets) e seleziona l’archivio appropriato.
 1. Fai clic su **Risorse**, immetti una cartella e seleziona un’immagine.
 1. Fai clic su **Apri in Adobe Express**. L’immagine si apre in un’area di lavoro Express.
 1. Apporta le modifiche necessarie all’immagine.
 1. Se il progetto richiede l’aggiunta di ulteriori pagine, fai clic su **Aggiungi**, seleziona Risorse, immetti una cartella, seleziona un’immagine da inserire nella pagina dell’area di lavoro, quindi apporta all’immagine le modifiche necessarie.
-1. Per salvare le immagini, fai clic su **Salva**. Viene visualizzata la finestra di dialogo Salva.
+1. Per salvare una o più risorse, fare clic su **Salva**. Nella finestra di dialogo Salva vengono visualizzate le opzioni di salvataggio. Per scegliere tra le opzioni di salvataggio, segui una delle istruzioni seguenti in linea con le tue esigenze:
+   1. Per salvare una singola pagina, fare clic su **Salva come versione** per esportare l&#39;immagine come nuova versione (mantenendo il formato originale) e salvarla nella stessa cartella.
 
-   >[!NOTE]
-   >
-   > **1. Per pagina singola**
-   >
-   > **Salva come versione:** questa funzione supporta il salvataggio di una sola risorsa. Seleziona questa opzione per esportare l’immagine come nuova versione (mantenendo il formato originale) e salvarla nella stessa cartella.
-   > **Salva come nuova risorsa:** seleziona questa opzione per esportare la risorsa in un formato diverso da quello originale e salvarla in una cartella come nuova risorsa.
-   >  
-   > **2. Per più pagine**
-   >
-   > **Salva come versione:** questa funzione supporta il salvataggio di una sola risorsa. Se vuoi salvare una singola pagina da più pagine, seleziona questa opzione per salvare la risorsa nel formato e nella posizione originali.\
-   > **Salva come nuova risorsa:** con questa opzione, esporta più risorse o una singola risorsa in una qualsiasi cartella e salvale come nuove risorse con il lformato di file originale o diverso.
+   1. Per salvare una singola pagina, fai clic su **Salva come nuova risorsa** per esportare la risorsa in un formato diverso e salvarla in qualsiasi cartella come nuova risorsa.
+
+   1. Per salvare una singola pagina da più pagine, fai clic su **Salva come versione** per salvare la risorsa nel formato e nel percorso originali.
+
+   1. Per salvare più pagine o una singola pagina tra più pagine, fai clic su **Salva come nuova risorsa**. Questa azione esporta le risorse singole o multiple in qualsiasi cartella e le salva come nuove risorse nel formato originale o in un formato diverso.
 
 1. Nella finestra di dialogo Salva:
    1. Immetti un nome per il file nel campo **Salva con nome**.
    1. Seleziona una cartella di destinazione.
    1. Facoltativo: fornisci dettagli quali nome del progetto o della campagna, parole chiave, canali, arco temporale e area geografica.
-1. Fai clic su **Salva come versione** o **Salva come nuova risorsa** per salvare le risorse.
+1. Fai clic su **Salva come versione** o **Salva come nuova risorsa** per salvare una o più risorse.
 
 #### Limitazioni della modifica delle immagini nell’editor di Express {#limitations-of-editing-images-in-the-express-editor}
 
@@ -119,7 +117,7 @@ Gli utenti con diritti di Express possono utilizzare l’editor Express incorpor
 
 ### Creare nuove risorse con Adobe Express {#create-new-assets-using-embedded-editor}
 
-Assets Essentials consente di creare un nuovo modello da zero utilizzando l’editor integrato Adobe Express. Per creare una nuova risorsa utilizzando Adobe Express, effettua le seguenti operazioni:
+Assets Essentials consente di creare un nuovo modello da zero utilizzando l’editor incorporato di Adobe Express. Per creare una nuova risorsa utilizzando Adobe Express, effettua le seguenti operazioni:
 
 1. Accedi a **La mia area di lavoro** e fai clic su **Crea** all’interno del banner di Adobe Express visualizzato all’interno di Adobe Express nella parte superiore. Nell’interfaccia utente di Assets Essentials viene visualizzata un’area di lavoro di Adobe Express vuota.
 1. Crea i contenuti utilizzando i [modelli](https://helpx.adobe.com/it/express/using/work-with-templates.html). In caso contrario, accedi a Le tue risorse per modificare contenuti esistenti.
