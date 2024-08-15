@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
 source-git-commit: 243a41aef81cd1fdcbad8f4355fe2d888db394d1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '527'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 94%
 [!DNL Assets Essentials] supporta un’ampia gamma di formati di file e ogni funzionalità supporta diversi tipi di file.
 
 * ![icona per file immagine](assets/image-icon.svg) Immagini: JPG, PNG, GIF, TIFF e altri
-* ![icona creative cloudtype](assets/creative-cloud-files.svg) file di Creative Cloud: PSD, PSB, AI e INDD
+* ![icona creative cloudtype](assets/creative-cloud-files.svg) File Creative Cloud: PSD, PSB, IA e INDD
 * ![icona per file da fotocamera](assets/camera-icon.svg) File Camera Raw: CR2/CR3, NEF, SRW/SRF e altri
 * ![icona per file documento](assets/document-icon.svg) Documenti: DOCX, PDF, PPTX e XLSX
 * ![icona per file video](assets/video-icon.svg) Video: MP4
@@ -45,7 +45,7 @@ I vari tipi di file sono supportati per diversi casi d’uso e funzioni, come ri
 | Cartelle | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | − | − |
 | Video MP4 | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
 | PDF | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
-| PSD, AI, PSB e INDD | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
+| PSD, IA, PSB e INDD | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
 | Altri file binari | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
 
 <!-- Hiding CC Libraries (considered beta) as per PM feedback.
@@ -77,7 +77,7 @@ I vari tipi di file sono supportati per diversi casi d’uso e funzioni, come ri
 | Video | − | ✓ | ✓ |
 | CC Libraries | − | − | − |
 | PDF | − | ✓ | ✓ |
-| PSD, PSB, AI e INDD | − | ✓ | ✓ |
+| PSD, PSB, IA e INDD | − | ✓ | ✓ |
 | Altri file binari | − | ✓ | ✓ |
 | DOC | − | ✓ | ✓ |
 | DOCX | − | ✓ | ✓ |
@@ -127,4 +127,4 @@ Gli utenti di [!DNL Adobe Asset Link] possono caricare e consegnare (caricare un
 
 * Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
 
-* Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&amp;lang=it#support)
+* Contatta il [Servizio clienti](https://experienceleague.adobe.com/it?support-solution=General#support)
