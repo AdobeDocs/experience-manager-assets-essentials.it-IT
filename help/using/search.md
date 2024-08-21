@@ -3,8 +3,8 @@ title: Cercare e individuare le risorse in [!DNL Assets Essentials]
 description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: a471074ec0eee8487222cc344046715ed5d90d0b
-workflow-type: tm+mt
+source-git-commit: 6b6f898f2232a03c69a517c3d315d565253b37b7
+workflow-type: ht
 source-wordcount: '1890'
 ht-degree: 100%
 
@@ -251,7 +251,7 @@ Per accedere alla ricerca contestuale in Experience Manager Assets:
 
 1. Definisci il prompt di testo nella casella di testo Cerca e fai clic su **[!UICONTROL Ricerca contestuale]**.
 
-   ![Prompt del testo di ricerca contestuale](/help/using/assets/contextual-search-text-prompt.png)
+   ![Prompt del testo di ricerca contestuale](/help/using/assets/wknd-contextual-search.png)
 
    [!DNL Experience Manager Assets] visualizza i risultati della ricerca.
 
