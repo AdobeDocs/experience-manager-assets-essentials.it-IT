@@ -3,8 +3,8 @@ title: Cercare e individuare le risorse in [!DNL Assets Essentials]
 description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 6b6f898f2232a03c69a517c3d315d565253b37b7
-workflow-type: tm+mt
+source-git-commit: ebd019640ddb984e0600fb4fb99b0f2d0afdba7d
+workflow-type: ht
 source-wordcount: '1890'
 ht-degree: 100%
 
@@ -332,3 +332,4 @@ Per fornire un feedback sulla funzione di ricerca contestuale, fai clic sull’i
 * Fornisci feedback sulla documentazione utilizzando [!UICONTROL Modifica questa pagina], ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema], ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibili sulla barra laterale a destra.
 
 * Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&amp;lang=it#support)
+
