@@ -3,9 +3,9 @@ title: Gestire i rapporti in Assets Essentials
 description: Accedi ai dati nella sezione dei rapporti di Assets Essentials per valutare l’utilizzo di prodotti e funzionalità e ottenere informazioni approfondite sulle metriche di successo chiave.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 810bb62cd5eb664e36a6ea267050dd025828e900
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1226'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ L’ambiente AEM Assets Essentials offre funzionalità di reporting complete tra
 
    **Nella scheda Configurazione:**
 
-   1. **Tipo di report:** Seleziona un tipo di report tra [!UICONTROL Carica] o [!UICONTROL Scarica].
+   1. **Tipo di rapporto:** seleziona un tipo di rapporto tra [!UICONTROL Caricamento] o [!UICONTROL Download].
    1. **Titolo:** aggiungi un titolo al rapporto.
    1. **Descrizione**: specifica una descrizione facoltativa per il rapporto.
    1. **Seleziona il percorso della cartella:** seleziona un percorso della cartella per generare il rapporto delle risorse caricate e scaricate all’interno di quella cartella specifica. Ad esempio, se hai bisogno del rapporto sulle risorse caricate in una cartella, specifica il percorso di tale cartella.
