@@ -2,7 +2,8 @@
 title: Rinominare e raggruppare le risorse rinominare in [!DNL Assets Essentials]
 description: Scopri come rinominare in blocco le risorse utilizzando la nuova interfaccia utente di Assets (Assets Essentials). Consente di rinominare più risorse contemporaneamente.
 role: User
-source-git-commit: 9232f1ccb1d71057c909330d7e4861d048310b7b
+exl-id: 5d18950f-1863-46c0-83d7-079ae95a6320
+source-git-commit: 0526340ed0491d33a5084ea3538fa872ec2899e5
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 17%
@@ -67,3 +68,4 @@ Di seguito sono riportati alcuni esempi di utilizzo dell’intelligenza artifici
 * Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
 
 * Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&amp;lang=it#support)
+
