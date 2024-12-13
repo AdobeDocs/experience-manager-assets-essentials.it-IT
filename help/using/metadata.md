@@ -4,10 +4,10 @@ description: Gestire i metadati delle risorse in [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 37beb971f1e675162eb4b8e9ab008b20a241c066
+source-git-commit: 09040ef6dc777aa631b00bb37108f86b83bdf583
 workflow-type: tm+mt
-source-wordcount: '1773'
-ht-degree: 100%
+source-wordcount: '1884'
+ht-degree: 94%
 
 ---
 
@@ -130,9 +130,11 @@ Di seguito è riportata una panoramica di ciascun tipo di proprietà e della rel
 | Elenchi a discesa | Aggiungi un elenco a discesa. |
 | Stato | Aggiungi la proprietà dello stato del repository (mappata a repo:state) |
 | Stato risorsa | Aggiungi la proprietà predefinita Stato risorsa (mappata a dam:assetStatus) |
+| Approvato per | |
 | Tag | Aggiungi un tag dai valori memorizzati in Gestione tassonomia (mappato a xcm:tags). |
 | Parole chiave | Aggiungi parole chiave in formato libero (mappate a dc:subject). |
 | Tag avanzati | Migliora le funzionalità di ricerca aggiungendo automaticamente tag di metadati. |
+| Collegamento | Aggiungi per abilitare gli URL esterni. |
 
 ### Assegnare un modulo di metadati alle cartelle {#assign-metadata-form-folder}
 
@@ -165,6 +167,19 @@ Per rimuovere un modulo di metadati da una cartella:
 1. Seleziona la cartella e fai clic su **[!UICONTROL Rimuovi]**. È anche possibile selezionare più cartelle dall’elenco.
 
 Puoi passare anche alla pagina dei dettagli della cartella e selezionare **[!UICONTROL Modulo di metadati mappato dal sistema]** dal campo **[!UICONTROL Moduli di metadati]**, per rimuovere il modulo di metadati assegnato da una cartella.
+
+### Utilizzo del componente Collegamento nel modulo metadati {#link-component-metadata-form}
+
+Il componente collegamento viene utilizzato per abilitare URL esterni, inclusi collegamenti di archiviazione, informazioni sul copyright, moduli di contatto e così via. Per utilizzare il componente Collega nel modulo metadati, devi [configurare il modulo metadati](#metadata-forms).
+
+Per utilizzare il componente Collega nel modulo metadati, segui i passaggi seguenti:
+
+1. Vai alla pagina dei dettagli della risorsa e passa a **[!UICONTROL URL collegamento]**.
+1. Aggiungi un URL da utilizzare per reindirizzare la risorsa selezionata.
+1. Fare clic su **[!UICONTROL Aggiungi collegamento]**. Eseguire una delle azioni seguenti:
+   * Fai clic sull&#39;![icona Copia](assets/do-not-localize/copy.svg) per copiare l&#39;URL.
+   * Fai clic su ![icona Modifica](assets/do-not-localize/edit.svg) per modificare l&#39;URL.
+1. Fai clic su **[!UICONTROL Salva]** per salvare le modifiche.
 
 ## Passaggi successivi {#next-steps}
 
