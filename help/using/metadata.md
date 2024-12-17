@@ -4,10 +4,10 @@ description: Gestire i metadati delle risorse in [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 0526340ed0491d33a5084ea3538fa872ec2899e5
+source-git-commit: f922e9191cc3bf6beef66665dec49fd3876bf33b
 workflow-type: tm+mt
-source-wordcount: '1884'
-ht-degree: 94%
+source-wordcount: '1964'
+ht-degree: 90%
 
 ---
 
@@ -130,11 +130,10 @@ Di seguito è riportata una panoramica di ciascun tipo di proprietà e della rel
 | Elenchi a discesa | Aggiungi un elenco a discesa. |
 | Stato | Aggiungi la proprietà dello stato del repository (mappata a repo:state) |
 | Stato risorsa | Aggiungi la proprietà predefinita Stato risorsa (mappata a dam:assetStatus) |
-| Approvato per | |
 | Tag | Aggiungi un tag dai valori memorizzati in Gestione tassonomia (mappato a xcm:tags). |
 | Parole chiave | Aggiungi parole chiave in formato libero (mappate a dc:subject). |
 | Tag avanzati | Migliora le funzionalità di ricerca aggiungendo automaticamente tag di metadati. |
-| Collegamento | Aggiungi per abilitare gli URL esterni. |
+| Collegamento | Aggiungi per abilitare gli URL esterni. Una volta configurato nel modulo Metadati, il componente URL può essere mappato su una particolare proprietà di metadati nella pagina Editor metadati. Questo [modulo metadati può essere assegnato alle cartelle](#assign-metadata-form-folder). |
 
 ### Assegnare un modulo di metadati alle cartelle {#assign-metadata-form-folder}
 
@@ -170,9 +169,9 @@ Puoi passare anche alla pagina dei dettagli della cartella e selezionare **[!UIC
 
 ### Utilizzo del componente Collegamento nel modulo metadati {#link-component-metadata-form}
 
-Il componente collegamento viene utilizzato per abilitare URL esterni, inclusi collegamenti di archiviazione, informazioni sul copyright, moduli di contatto e così via. Per utilizzare il componente Collega nel modulo metadati, devi [configurare il modulo metadati](#metadata-forms).
+Il componente collegamento viene utilizzato per abilitare URL esterni, inclusi collegamenti di archiviazione, informazioni sul copyright, moduli di contatto e così via. Per utilizzare il componente Collega nel modulo metadati, devi [configurare il modulo metadati](#metadata-forms). Il componente URL può essere mappato su una particolare proprietà di metadati nella pagina Editor metadati, che funziona come altri componenti di metadati. Questo modulo di metadati può essere assegnato alle cartelle. Pertanto, nella pagina dei dettagli della risorsa Cartella assegnata, potrebbe essere visualizzato il valore dei metadati del collegamento della risorsa.
 
-Per utilizzare il componente Collega nel modulo metadati, segui i passaggi seguenti:
+Per utilizzare il componente Collega nella pagina dei dettagli della risorsa, effettua le seguenti operazioni:
 
 1. Vai alla pagina dei dettagli della risorsa e passa a **[!UICONTROL URL collegamento]**.
 1. Aggiungi un URL da utilizzare per reindirizzare la risorsa selezionata.
