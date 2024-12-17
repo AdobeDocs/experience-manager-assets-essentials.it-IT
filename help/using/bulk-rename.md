@@ -3,7 +3,7 @@ title: Rinominare e raggruppare le risorse rinominare in [!DNL Assets Essentials
 description: Scopri come rinominare in blocco le risorse utilizzando la nuova interfaccia utente di Assets (Assets Essentials). Consente di rinominare più risorse contemporaneamente.
 role: User
 exl-id: 5d18950f-1863-46c0-83d7-079ae95a6320
-source-git-commit: 0526340ed0491d33a5084ea3538fa872ec2899e5
+source-git-commit: 631156a70271b6f480264e2c604314f09a820fc9
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 17%
@@ -51,7 +51,7 @@ Di seguito sono riportati alcuni esempi di utilizzo dell’intelligenza artifici
 * Rimuovere il prefisso e il suffisso, mantenendo solo la parte centrale del nome.
 * Aggiungi ai file il prefisso 001, 002, ecc. e tradurre in inglese.
 
-  >[!VIDEO](https://video.tv.adobe.com/v/3440975)
+>[!VIDEO](https://video.tv.adobe.com/v/3440975)
 
 >[!NOTE]
 >
