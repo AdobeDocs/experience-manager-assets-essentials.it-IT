@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: f922e9191cc3bf6beef66665dec49fd3876bf33b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1964'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -133,7 +133,7 @@ Di seguito è riportata una panoramica di ciascun tipo di proprietà e della rel
 | Tag | Aggiungi un tag dai valori memorizzati in Gestione tassonomia (mappato a xcm:tags). |
 | Parole chiave | Aggiungi parole chiave in formato libero (mappate a dc:subject). |
 | Tag avanzati | Migliora le funzionalità di ricerca aggiungendo automaticamente tag di metadati. |
-| Collegamento | Aggiungi per abilitare gli URL esterni. Una volta configurato nel modulo Metadati, il componente URL può essere mappato su una particolare proprietà di metadati nella pagina Editor metadati. Questo [modulo metadati può essere assegnato alle cartelle](#assign-metadata-form-folder). |
+| Collegamento | Aggiungi per abilitare URL esterni. Una volta configurato nel modulo di metadati, il componente URL può essere mappato a una specifica proprietà di metadati nella pagina dell’editor di metadati. Questo [modulo di metadati può essere assegnato alle cartelle](#assign-metadata-form-folder). |
 
 ### Assegnare un modulo di metadati alle cartelle {#assign-metadata-form-folder}
 
@@ -167,17 +167,17 @@ Per rimuovere un modulo di metadati da una cartella:
 
 Puoi passare anche alla pagina dei dettagli della cartella e selezionare **[!UICONTROL Modulo di metadati mappato dal sistema]** dal campo **[!UICONTROL Moduli di metadati]**, per rimuovere il modulo di metadati assegnato da una cartella.
 
-### Utilizzo del componente Collegamento nel modulo metadati {#link-component-metadata-form}
+### Utilizzare il componente Collegamento nel modulo di metadati {#link-component-metadata-form}
 
-Il componente collegamento viene utilizzato per abilitare URL esterni, inclusi collegamenti di archiviazione, informazioni sul copyright, moduli di contatto e così via. Per utilizzare il componente Collega nel modulo metadati, devi [configurare il modulo metadati](#metadata-forms). Il componente URL può essere mappato su una particolare proprietà di metadati nella pagina Editor metadati, che funziona come altri componenti di metadati. Questo modulo di metadati può essere assegnato alle cartelle. Pertanto, nella pagina dei dettagli della risorsa Cartella assegnata, potrebbe essere visualizzato il valore dei metadati del collegamento della risorsa.
+Il componente Collegamento viene utilizzato per abilitare URL esterni, tra cui link di archiviazione, informazioni sul copyright, moduli di contatto e così via. Per utilizzare il componente Collegamento nel modulo di metadati, è necessario [configurare il modulo di metadati](#metadata-forms). Il componente URL può essere mappato a una specifica proprietà di metadati nella pagina dell’editor di metadati, che funziona allo stesso modo degli altri componenti di metadati. Questo modulo di metadati può essere assegnato alle cartelle. Pertanto, nella pagina dei dettagli della risorsa Cartella assegnata, è possibile visualizzare il valore dei metadati del collegamento alla risorsa.
 
-Per utilizzare il componente Collega nella pagina dei dettagli della risorsa, effettua le seguenti operazioni:
+Per utilizzare il componente Collegamento nella pagina dei dettagli della risorsa, segui i passaggi seguenti:
 
-1. Vai alla pagina dei dettagli della risorsa e passa a **[!UICONTROL URL collegamento]**.
-1. Aggiungi un URL da utilizzare per reindirizzare la risorsa selezionata.
-1. Fare clic su **[!UICONTROL Aggiungi collegamento]**. Eseguire una delle azioni seguenti:
-   * Fai clic sull&#39;![icona Copia](assets/do-not-localize/copy.svg) per copiare l&#39;URL.
-   * Fai clic su ![icona Modifica](assets/do-not-localize/edit.svg) per modificare l&#39;URL.
+1. Passa alla pagina dei dettagli della risorsa, quindi a **[!UICONTROL URL collegamento]**.
+1. Aggiungi un URL da utilizzare per il reindirizzamento della risorsa selezionata.
+1. Fai clic su **[!UICONTROL Aggiungi collegamento]**. Effettua una delle seguenti operazioni:
+   * Fai clic su ![icona copia](assets/do-not-localize/copy.svg) per copiare l’URL.
+   * Fai clic su ![icona modifica](assets/do-not-localize/edit.svg) per modificare l’URL.
 1. Fai clic su **[!UICONTROL Salva]** per salvare le modifiche.
 
 ## Passaggi successivi {#next-steps}

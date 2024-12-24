@@ -10,9 +10,9 @@ feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
 source-git-commit: e6a83309f974736d30ee40de5b6bf857f8e7fde1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 98%
 + [Modificare le immagini](edit-images.md)
 + [Modificare i video](edit-videos.md)
 + [Gestire i metadati delle risorse](metadata.md)
-+ [Rinomina in blocco](bulk-rename.md)
++ [Rinominare in blocco](bulk-rename.md)
 + [Modifica in blocco dei metadati](/help/using/bulk-metadata-edit.md)
 + [Condividere le risorse](share-links-for-assets.md)
 + [Gestire le raccolte](manage-collections.md)
