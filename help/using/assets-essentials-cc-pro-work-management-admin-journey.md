@@ -2,10 +2,10 @@
 title: Configurare Assets Essentials per Creative Cloud Pro con le soluzioni di gestione del lavoro
 description: Questa esercitazione introduce un percorso di amministratori per consentire l’integrazione dell’applicazione Assets Essentials con le applicazioni desktop Creative Cloud e con le applicazioni Adobe Workfront. Le applicazioni desktop Creative Cloud includono Adobe Photoshop, Adobe Illustrator, Adobe InDesign e Adobe XD.
 exl-id: a5e9e0c3-35ec-41de-9656-f4f0f88946c7
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: b1ae487b4b4e9a88e0d9c39889d3893d92a766c9
 workflow-type: tm+mt
-source-wordcount: '870'
-ht-degree: 100%
+source-wordcount: '867'
+ht-degree: 98%
 
 ---
 
@@ -77,7 +77,7 @@ Dopo aver gestito le adesioni utente in Admin Console, gli amministratori posson
 
 * Impostare moduli di metadati
 
-[![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](deploy-administer.md)
+[![Consulta la Guida](assets/see-the-guide-sm.png)](deploy-administer.md)
 
 Dopo aver configurato e gestito l’applicazione Assets Essentials, [integra le applicazioni Creative Cloud con l’applicazione Experience Manager Assets Essentials](integrate-with-creative-cloud.md).
 
@@ -99,7 +99,7 @@ Obiettivi:
 
 * Utilizzare il collegamento Adobe Asset
 
-[![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-with-creative-cloud.md)
+[![Consulta la Guida](assets/see-the-guide-sm.png)](integrate-with-creative-cloud.md)
 
 Ora che hai integrato le applicazioni Creative Cloud con Assets Essentials, [integra Adobe Workfront con Experience Manager Assets Essentials](integrate-with-workfront.md).
 
@@ -119,4 +119,4 @@ Obiettivi:
 
 * Configurare l’integrazione Experience Manager Assets Essentials
 
-[![Consulta la Guida](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-with-workfront.md)
+[![Consulta la Guida](assets/see-the-guide-sm.png)](integrate-with-workfront.md)
