@@ -4,9 +4,9 @@ description: Scopri come creare modelli Dynamic Media utilizzando un editor di m
 hide: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: a06bdadcd2194e1ffce23c672e605cfb95f14bcf
+source-git-commit: 85b8fc64c6bb0243803df3d8e18c00d1b17b1868
 workflow-type: tm+mt
-source-wordcount: '2800'
+source-wordcount: '2758'
 ht-degree: 0%
 
 ---
@@ -86,8 +86,6 @@ Per [creare una cartella](/help/assets/add-delete-assets-view.md) in **[!UICONTR
 **Opzioni di menu nel riquadro a sinistra:** Utilizzare queste opzioni per le azioni comuni dell&#39;editor come indicato di seguito.
 
 * ![Modelli DM](/help/using/assets/layer-selector.svg): selezionare un livello.
-* ![modelli che supportano la personalizzazione](/help/using/assets/bring-forward.svg): fare clic per portare avanti un livello selezionato o premere **Ctrl** + **]** (Windows) o **Cmd** + **]** (Mac).
-* ![come creare un modello facilmente personalizzabile](/help/using/assets/send-backward.svg): fare clic per inviare indietro un livello selezionato o premere **Ctrl** + **[** (Windows) o **Cmd** + **[** (Mac).
 * ![crea un modello personalizzabile all&#39;istante](/help/using/assets/undo.svg): fare clic per annullare l&#39;ultima azione oppure premere **Ctrl** + **Z** (Windows) o **Cmd** + **Z** (Mac).
 * ![modello per creare rapidamente i banner](/help/using/assets/redo.svg): fare clic per ripetere l&#39;ultima azione oppure premere **Ctrl** + **Y** (Windows) o **Cmd** + **Y** (Mac).
 * ![modello per creare rapidamente i volantini](/help/using/assets/zoomin.svg): fare clic per ingrandire l&#39;area di lavoro o premere **Ctrl** + **+** (Windows) o Cmd + **+** (Mac).
