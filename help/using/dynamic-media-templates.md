@@ -4,16 +4,16 @@ description: Scopri come creare modelli Dynamic Media utilizzando un editor di m
 hide: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: 85b8fc64c6bb0243803df3d8e18c00d1b17b1868
+source-git-commit: e09573fb64567b2975d5e7e08c2cf2db62b72202
 workflow-type: tm+mt
-source-wordcount: '2758'
+source-wordcount: '2766'
 ht-degree: 0%
 
 ---
 
 # Modelli Dynamic Media{#dynamic-media-templates}
 
-| [Best practice per la ricerca](/help/assets/search-best-practices.md) | [Best practice per i metadati](/help/assets/metadata-best-practices.md) | [Content Hub](/help/assets/product-overview.md) | [Documentazione di AEM Assets per sviluppatori](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
+| [Best practice per la ricerca](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices) | [Best practice per i metadati](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices) | [Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview) | [Documentazione di AEM Assets per sviluppatori](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
 | ------------- | --------------------------- |---------|-----|
 
 Creare modelli Dynamic Media utilizzando un editor di modelli WYSIWYG e includere più immagini e livelli di testo per creare rapidamente banner e volantini e utilizzarli nelle applicazioni a valle. Puoi anche aggiungere parametri alle immagini e ai livelli di testo inclusi nel modello e utilizzare [URL Dynamic Media](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media) per aggiornare i valori di tali livelli in tempo reale.
@@ -44,10 +44,10 @@ Alcuni dei vantaggi principali dei modelli di Dynamic Media includono:
 Per creare un modello di Dynamic Media, è necessario disporre di:
 
 1. Accesso a Dynamic Media.
-1. [Ha sincronizzato le immagini disponibili nell&#39;istanza AEM Assets con Dynamic Media per utilizzarle per la creazione del modello](/help/assets/dynamic-media/config-dm.md).
+1. [Ha sincronizzato le immagini disponibili nell&#39;istanza AEM Assets con Dynamic Media per utilizzarle per la creazione del modello](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
 1. Nell’interfaccia utente touch, è stato verificato quanto segue:
-   * Nella **[!UICONTROL pagina Modifica configurazione Dynamic Media]**, la **[!UICONTROL modalità di sincronizzazione Dynamic Media]** impostata su **[!UICONTROL Disabilitata per impostazione predefinita]** non è applicata a tutte le cartelle AEM (**[!UICONTROL Sincronizza tutto il contenuto]** non è selezionata). Per ulteriori informazioni, vedere [configurazione del Cloud Service Dynamic Media](/help/assets/dynamic-media/config-dm.md).
-   * **[!UICONTROL La modalità di sincronizzazione di Dynamic Media]** è impostata su **[!UICONTROL Abilita per le sottocartelle]** per la cartella o sottocartella di destinazione in cui verrà salvato il modello dopo la creazione. Per ulteriori informazioni, vedere [configurazione del Cloud Service Dynamic Media](/help/assets/dynamic-media/config-dm.md).
+   * Nella **[!UICONTROL pagina Modifica configurazione Dynamic Media]**, la **[!UICONTROL modalità di sincronizzazione Dynamic Media]** impostata su **[!UICONTROL Disabilitata per impostazione predefinita]** non è applicata a tutte le cartelle AEM (**[!UICONTROL Sincronizza tutto il contenuto]** non è selezionata). Per ulteriori informazioni, vedere [configurazione del Cloud Service Dynamic Media](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
+   * **[!UICONTROL La modalità di sincronizzazione di Dynamic Media]** è impostata su **[!UICONTROL Abilita per le sottocartelle]** per la cartella o sottocartella di destinazione in cui verrà salvato il modello dopo la creazione. Per ulteriori informazioni, vedere [configurazione del Cloud Service Dynamic Media](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
 
 ## Crea modello WYSIWYG di Dynamic Media{#how-to-create-dynamic-media-wysiwyg-template}
 
@@ -69,7 +69,7 @@ Per creare un’area di lavoro vuota, effettua le seguenti operazioni:
 
 1. Fai clic su **[!UICONTROL Crea modello]** per salvare il modello in Dynamic Media Assets oppure passa a una cartella e fai clic su **[!UICONTROL Crea modello]** per salvare il modello in tale cartella. Viene visualizzata la finestra di dialogo **[!UICONTROL Nuovo modello]**.
    ![come creare modelli dinamici personalizzabili in tempo reale](/help/using/assets/new-template.png)
-Per [creare una cartella](/help/assets/add-delete-assets-view.md) in **[!UICONTROL Dynamic Media Assets]**, creare una cartella in **[!UICONTROL Assets]**. La struttura di cartelle in **[!UICONTROL Assets]** viene replicata in **[!UICONTROL Dynamic Media Assets]**.
+Per [creare una cartella](/help/using/add-delete.md) in **[!UICONTROL Dynamic Media Assets]**, creare una cartella in **[!UICONTROL Assets]**. La struttura di cartelle in **[!UICONTROL Assets]** viene replicata in **[!UICONTROL Dynamic Media Assets]**.
 1. Specifica un nome di modello, definisci la larghezza e l&#39;altezza dell&#39;area di lavoro e fai clic su **[!UICONTROL Crea]**. Viene visualizzata un&#39;area di lavoro vuota con opzioni di menu su entrambi i lati da utilizzare per la creazione del modello. Passa il puntatore del mouse sulle opzioni del menu per visualizzarne la descrizione comando.
    ![modello personalizzabile in tempo reale](/help/using/assets/blank-canvas-page.png)
 
@@ -89,7 +89,7 @@ Per [creare una cartella](/help/assets/add-delete-assets-view.md) in **[!UICONTR
 * ![crea un modello personalizzabile all&#39;istante](/help/using/assets/undo.svg): fare clic per annullare l&#39;ultima azione oppure premere **Ctrl** + **Z** (Windows) o **Cmd** + **Z** (Mac).
 * ![modello per creare rapidamente i banner](/help/using/assets/redo.svg): fare clic per ripetere l&#39;ultima azione oppure premere **Ctrl** + **Y** (Windows) o **Cmd** + **Y** (Mac).
 * ![modello per creare rapidamente i volantini](/help/using/assets/zoomin.svg): fare clic per ingrandire l&#39;area di lavoro o premere **Ctrl** + **+** (Windows) o Cmd + **+** (Mac).
-* ![modello per creare rapidamente i banner](/help/using/assets/zoomout.svg): fare clic per ridurre l&#39;area di lavoro o premere **Ctrl** + **-** (Windows) o **Cmd** + **-** (Mac).
+* ![modello per creare rapidamente i banner](/help/using/assets/ZoomOut-1.svg): fare clic per ridurre l&#39;area di lavoro o premere **Ctrl** + **-** (Windows) o **Cmd** + **-** (Mac).
 * Premi **Backspace** o **delete** per eliminare il livello selezionato se non si sta modificando testo o proprietà.
 
 Fai clic su ![modello per creare rapidamente i volantini](/help/using/assets/show-layers-list.svg) **>** ulteriori opzioni (![](/help/using/assets/three-dots.svg)) sul livello Canvas per modificare le dimensioni canvas in qualsiasi momento durante la creazione del modello.
@@ -121,7 +121,7 @@ Vedere il [**[!UICONTROL pannello Proprietà]**](#reposition-resize-delete-a-lay
 
 >[!NOTE]
 >
-> Per utilizzare un tipo di carattere diverso da quello predefinito della famiglia di caratteri Adobe Sans F2, è necessario caricare e pubblicare il file dei caratteri in AEM Assets e Dynamic Media. Se nell&#39;istanza sono presenti caratteri obsoleti, assicurati di [rielaborare](/help/assets/reprocessing-assets-view.md) per visualizzarli nell&#39;editor modelli.
+> Per utilizzare un tipo di carattere diverso da quello predefinito della famiglia di caratteri Adobe Sans F2, è necessario caricare e pubblicare il file dei caratteri in AEM Assets e Dynamic Media. Se nell&#39;istanza sono presenti caratteri obsoleti, assicurati di [rielaborare](/help/using/reprocessing.md) per visualizzarli nell&#39;editor modelli.
 
 ### Modificare o eliminare un livello {#edit-or-delete-a-layer}
 
@@ -281,5 +281,5 @@ Modifica il modello seguendo questi passaggi:
 
 ## Consulta anche
 
-1. Esplora [Dynamic Media e le sue funzionalità](/help/assets/dynamic-media/dynamic-media.md)
-1. Esplora [Dynamic Media con funzionalità OpenAPI](/help/assets/dynamic-media-open-apis-overview.md)
+1. Esplora [Dynamic Media e le sue funzionalità](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media)
+1. Esplora [Dynamic Media con funzionalità OpenAPI](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview)
