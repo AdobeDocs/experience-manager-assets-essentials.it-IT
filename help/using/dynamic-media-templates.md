@@ -4,9 +4,9 @@ description: Scopri come creare modelli Dynamic Media utilizzando un editor di m
 hide: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: 64123ef9b8f669da24b296a5c1ea6bd514778c32
+source-git-commit: 8bf4babf2fefb8735b14eb4d4cb08205c54a77bb
 workflow-type: tm+mt
-source-wordcount: '2766'
+source-wordcount: '2810'
 ht-degree: 1%
 
 ---
@@ -15,6 +15,12 @@ ht-degree: 1%
 
 | [Best practice per la ricerca](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices) | [Best practice per i metadati](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices) | [Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview) | [Documentazione di AEM Assets per sviluppatori](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
 | ------------- | --------------------------- |---------|-----|
+
+>[!CONTEXTUALHELP]
+>id="assets_dm_templates"
+>title="Gestire i modelli Dynamic Media"
+>abstract="Crea e personalizza al volo banner di immagini e testo, con un’interfaccia WYSIWYG di facile utilizzo e incorpora l’URL di Dynamic Media in qualsiasi applicazione di prima parte o di terze parti, per promuovere esperienze altamente coinvolgenti. Provateci!"
+>additional-url="https://images-tv.adobe.com/mpcv3/4477/b74738ca-888c-4a37-9a9e-14fabd68ee45_1738206841.854x480at800_h264.mp4" text="Guarda il video"
 
 Creare modelli Dynamic Media utilizzando un editor di modelli WYSIWYG e includere più immagini e livelli di testo per creare rapidamente banner e volantini e utilizzarli nelle applicazioni a valle. Puoi anche aggiungere parametri alle immagini e ai livelli di testo inclusi nel modello e utilizzare [URL Dynamic Media](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media) per aggiornare i valori di tali livelli in tempo reale.
 
