@@ -2,7 +2,7 @@
 title: Gestire le raccolte
 description: Una raccolta è un insieme di risorse in Experience Manager Assets Essentials. Puoi utilizzare le raccolte per condividere le risorse tra i vari utenti.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: d0884f7c5a50d89cb8ce4166dc038814bd7fd07d
+source-git-commit: 441136b23281185b82a5767aefc2c382512501a7
 workflow-type: tm+mt
 source-wordcount: '907'
 ht-degree: 100%
@@ -48,7 +48,7 @@ Per gestire e utilizzare le raccolte, puoi eseguire le seguenti attività:
 
 * [Eliminare una raccolta](#delete-collection)
 
-* [Gestire le autorizzazioni per una raccolta privata](#manage-permissions-to-a-private-collection)
+* [Gestire le autorizzazioni per una raccolta privata](#manage-permissions-private-collection)
 
 ## Creare una raccolta {#create-collection}
 
