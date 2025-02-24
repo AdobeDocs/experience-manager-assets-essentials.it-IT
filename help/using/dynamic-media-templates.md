@@ -1,5 +1,5 @@
 ---
-title: Come gestire i modelli di Dynamic Media?
+title: Come si gestiscono i modelli Dynamic Media?
 description: Scopri come creare modelli Dynamic Media utilizzando un editor di modelli WYSIWYG e includere più immagini e livelli di testo per creare rapidamente banner e volantini e utilizzarli nelle applicazioni a valle.
 hide: true
 role: User
@@ -7,7 +7,7 @@ exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
 source-git-commit: 8bf4babf2fefb8735b14eb4d4cb08205c54a77bb
 workflow-type: tm+mt
 source-wordcount: '2810'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -19,20 +19,20 @@ ht-degree: 1%
 >[!CONTEXTUALHELP]
 >id="assets_dm_templates"
 >title="Gestire i modelli Dynamic Media"
->abstract="Crea e personalizza al volo banner di immagini e testo, con un’interfaccia WYSIWYG di facile utilizzo e incorpora l’URL di Dynamic Media in qualsiasi applicazione di prima parte o di terze parti, per promuovere esperienze altamente coinvolgenti. Provateci!"
+>abstract="Crea e personalizza banner di immagini e testo all’istante, con un’interfaccia WYSIWYG di facile utilizzo e incorpora l’URL di Dynamic Media in qualsiasi applicazione di prime o terze parti, per promuovere esperienze altamente coinvolgenti. Provalo."
 >additional-url="https://images-tv.adobe.com/mpcv3/4477/b74738ca-888c-4a37-9a9e-14fabd68ee45_1738206841.854x480at800_h264.mp4" text="Guarda il video"
 
-Creare modelli Dynamic Media utilizzando un editor di modelli WYSIWYG e includere più immagini e livelli di testo per creare rapidamente banner e volantini e utilizzarli nelle applicazioni a valle. Puoi anche aggiungere parametri alle immagini e ai livelli di testo inclusi nel modello e utilizzare [URL Dynamic Media](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media) per aggiornare i valori di tali livelli in tempo reale.
+Crea modelli Dynamic Media tramite un editor di modelli WYSIWYG e includi più immagini e livelli di testo per creare rapidamente banner e volantini e utilizzarli nelle applicazioni a valle. Puoi anche aggiungere parametri alle immagini e ai livelli di testo inclusi nel modello e utilizzare [URL Dynamic Media](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media) per aggiornare i valori per tali livelli in tempo reale.
 
 Alcune delle caratteristiche principali includono:
 
-* **Editor modelli di Dynamic Media WYSIWYG:** creare banner personalizzabili con livelli immagine e testo.
+* **Editor modelli Dynamic Media WYSIWYG:** creare banner personalizzabili con livelli immagine e testo.
 * **Parametrizzazione livello:** Definisci coppie chiave-valore dinamiche per i livelli per abilitare gli aggiornamenti in tempo reale.
-* **Supporto URL Dynamic Media:** Utilizza gli URL di Dynamic Media per i modelli, integrando valori personalizzati da applicazioni di prima parte o di terze parti.
+* **Supporto URL Dynamic Media:** Utilizza gli URL Dynamic Media per i modelli, integrando valori personalizzati da applicazioni di prima o terze parti.
 * **Controllo visibilità livello:** nascondere o mostrare dinamicamente i livelli in base alle esigenze.
 * **Ridimensionamento automatico del testo:** Adatta automaticamente le dimensioni del testo alle aree designate.
 
-Alcuni dei vantaggi principali dei modelli di Dynamic Media includono:
+Alcuni dei vantaggi principali dei modelli Dynamic Media includono:
 
 * **Ottimizza Personalization 1:1:** Personalizza il contenuto per i segnali dei clienti in tempo reale.
 * **Riduzione dello sforzo manuale:** Automatizzazione e accelerazione della creazione e della gestione dei contenuti.
@@ -43,19 +43,19 @@ Alcuni dei vantaggi principali dei modelli di Dynamic Media includono:
 
 >[!NOTE]
 >
->I clienti con abbonamenti allo SKU Sicurezza avanzata non possono utilizzare alcuna funzionalità di Dynamic Media, inclusi i modelli di Dynamic Media, in tale programma di Cloud Service.
+>I clienti con abbonamenti allo SKU Sicurezza avanzata non possono utilizzare alcuna funzionalità Dynamic Media, inclusi i modelli Dynamic Media, in tale programma Cloud Services.
 
 ## Prima di iniziare{#prerequisites-for-dynamic-media-wysiwyg-template}
 
-Per creare un modello di Dynamic Media, è necessario disporre di:
+Per creare un modello Dynamic Media, è necessario disporre di:
 
 1. Accesso a Dynamic Media.
 1. [Ha sincronizzato le immagini disponibili nell&#39;istanza AEM Assets con Dynamic Media per utilizzarle per la creazione del modello](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
 1. Nell’interfaccia utente touch, è stato verificato quanto segue:
-   * Nella **[!UICONTROL pagina Modifica configurazione Dynamic Media]**, la **[!UICONTROL modalità di sincronizzazione Dynamic Media]** impostata su **[!UICONTROL Disabilitata per impostazione predefinita]** non è applicata a tutte le cartelle AEM (**[!UICONTROL Sincronizza tutto il contenuto]** non è selezionata). Per ulteriori informazioni, vedere [configurazione del Cloud Service Dynamic Media](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
-   * **[!UICONTROL La modalità di sincronizzazione di Dynamic Media]** è impostata su **[!UICONTROL Abilita per le sottocartelle]** per la cartella o sottocartella di destinazione in cui verrà salvato il modello dopo la creazione. Per ulteriori informazioni, vedere [configurazione del Cloud Service Dynamic Media](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
+   * Nella pagina **[!UICONTROL Modifica configurazione Dynamic Media]**, la **[!UICONTROL modalità di sincronizzazione Dynamic Media]** impostata su **[!UICONTROL Disabilitata per impostazione predefinita]** non è applicata a tutte le cartelle di AEM (**[!UICONTROL Sincronizza tutto il contenuto]** non è selezionata). Per ulteriori informazioni, vedere [configurazione di Dynamic Media Cloud Service](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
+   * **[!UICONTROL La modalità di sincronizzazione di Dynamic Media]** è impostata su **[!UICONTROL Abilita per le sottocartelle]** per la cartella o sottocartella di destinazione in cui verrà salvato il modello dopo la creazione. Per ulteriori informazioni, vedere [configurazione di Dynamic Media Cloud Service](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
 
-## Crea modello WYSIWYG di Dynamic Media{#how-to-create-dynamic-media-wysiwyg-template}
+## Creare un modello Dynamic Media WYSIWYG{#how-to-create-dynamic-media-wysiwyg-template}
 
 Per creare un modello DM, effettuare le seguenti operazioni:
 
@@ -69,7 +69,7 @@ Per creare un modello DM, effettuare le seguenti operazioni:
 
 Per creare un’area di lavoro vuota, effettua le seguenti operazioni:
 
-1. Passa agli Assets Essentials e fai clic su **[!UICONTROL Dynamic Media Assets]** disponibile nel pannello a sinistra.
+1. Passa ad Assets Essentials e fai clic su **[!UICONTROL Dynamic Media Assets]** disponibile nel pannello a sinistra.
 
    ![Modelli Dynamic Media](/help/using/assets/DM-Assets1.png)
 
@@ -217,13 +217,13 @@ Segui questi passaggi per assegnare lo stesso nome ai parametri di nascondi (![c
 1. Passa al pannello Parametri degli altri livelli selezionandoli dall&#39;area di lavoro e, se non sono parametrizzati, imposta il parametro **[!UICONTROL Nascondi]**.
 1. Sostituisci il nome del **[!UICONTROL parametro]** con il nome copiato.
 1. Fai clic su **[!UICONTROL Salva]** per raggruppare i livelli.
-1. Eseguire i passaggi 3 e 4 nella sezione [**[!UICONTROL Anteprima e Publish]**](#preview-and-publish-template-and-copy-template-deliver-url) per visualizzare le modifiche.
+1. Eseguire i passaggi 3 e 4 nella sezione [**[!UICONTROL Anteprima e pubblicazione]**](#preview-and-publish-template-and-copy-template-deliver-url) per visualizzare le modifiche.
 
 ## Anteprima e pubblicazione del modello per copiare l’URL di consegna{#preview-and-publish-template-and-copy-template-deliver-url}
 
 Per visualizzare in anteprima e pubblicare il modello e copiare l’URL di consegna, effettua le seguenti operazioni:
 
-1. Nella pagina dell&#39;area di lavoro fare clic su **[!UICONTROL Anteprima]**. È inoltre possibile passare a **[!UICONTROL Assets Essentials]** **>** **[!UICONTROL Dynamic Media Assets]** **>** trovare e selezionare il modello **>** fare clic su **[!UICONTROL Modifica modello]** **>** fare clic su **[!UICONTROL Anteprima]**. Nella pagina di anteprima vengono visualizzati il modello, i relativi parametri (livelli e proprietà con parametri), lo stato di pubblicazione e l&#39;opzione **[!UICONTROL Publish]**.
+1. Nella pagina dell&#39;area di lavoro fare clic su **[!UICONTROL Anteprima]**. È inoltre possibile passare a **[!UICONTROL Assets Essentials]** **>** **[!UICONTROL Dynamic Media Assets]** **>** trovare e selezionare il modello **>** fare clic su **[!UICONTROL Modifica modello]** **>** fare clic su **[!UICONTROL Anteprima]**. Nella pagina di anteprima vengono visualizzati il modello, i relativi parametri (livelli e proprietà con parametri), lo stato di pubblicazione e l&#39;opzione **[!UICONTROL Pubblica]**.
 1. Seleziona i parametri dal pannello **[!UICONTROL Parametri modello]** per modificarne i valori e aggiornare immediatamente il contenuto, le dimensioni, la posizione o la formattazione del testo del livello del modello corrispondente nell&#39;anteprima. Ad esempio:
    1. Selezionare un livello di testo e modificarne il testo oppure
    1. Seleziona un livello immagine, fai clic su ![creazione rapida di contenuto](/help/using/assets/add-image.svg), seleziona un&#39;immagine dal selettore risorse, quindi fai clic su **[!UICONTROL Aggiorna]**.
@@ -235,7 +235,7 @@ Per visualizzare in anteprima e pubblicare il modello e copiare l’URL di conse
    ![creazione rapida di contenuti](/help/using/assets/dm-templates-publish-status.png)
 Puoi anche attivare **[!UICONTROL Includi tutti i parametri]** per modificare tutti i valori dei parametri visualizzati e visualizzare gli aggiornamenti nell&#39;anteprima del modello.
    <br>
-1. Per pubblicare il modello nella pagina di anteprima, fare clic su **[!UICONTROL Publish]** e confermare la pubblicazione. Viene visualizzato il messaggio Publish Complete e lo stato di pubblicazione viene aggiornato su Pubblicato.
+1. Per pubblicare il modello nella pagina di anteprima, fai clic su **[!UICONTROL Pubblica]** e conferma la pubblicazione. Viene visualizzato il messaggio Pubblica completata e lo stato di pubblicazione viene aggiornato a Pubblicato.
 
 >[!NOTE]
 >
@@ -248,10 +248,10 @@ I parametri selezionati nella pagina **[!UICONTROL Anteprima]** diventano i para
 Per copiare l’URL del modello pubblicato visualizzato nell’anteprima:
 
 1. Fare clic su **[!UICONTROL Copia URL]**. Viene visualizzata la finestra di dialogo **[!UICONTROL Copia URL]**. Seleziona e copia l’URL visualizzato. Il primo parametro nell&#39;URL inizia dopo un punto interrogativo **(?)** e una coppia chiave-valore iniziano con **$** e terminano con **&amp;**. La chiave e il valore sono separati da un segno di uguale **(=)**, con la chiave a sinistra e il valore a destra.
-1. Incolla questo URL nella scheda del browser e visualizza il modello live. Personalizza il modello in tempo reale aggiornando il valore del parametro richiesto (valore della chiave) nell&#39;URL direttamente come mostrato nel [passaggio 2](#preview-and-publish-template-and-copy-template-deliver-url) della **sezione Anteprima e Publish**.
+1. Incolla questo URL nella scheda del browser e visualizza il modello live. Personalizza il modello in tempo reale aggiornando il valore del parametro richiesto (valore della chiave) nell&#39;URL direttamente come mostrato nel [passaggio 2](#preview-and-publish-template-and-copy-template-deliver-url) della sezione **Anteprima e pubblicazione**.
 1. Utilizza questo URL per accelerare il merchandising dei tuoi prodotti o servizi. Puoi condividere questo URL con i clienti o integrarlo nel tuo sito web o in qualsiasi applicazione di terze parti a valle per visualizzare il banner e aggiornarlo in tempo reale per riflettere le offerte in corso.
 
-Scopri come creare un modello di Dynamic Media passo dopo passo in questo video.
+Scopri come creare un modello Dynamic Media in questo video, passo dopo passo.
 >[!VIDEO](https://video.tv.adobe.com/v/3443281)
 
 ## Aggiornamenti in tempo reale al modello dall’URL{#update-the-template-from-the-url}
@@ -271,7 +271,7 @@ Incolla questo URL aggiornato nel browser per visualizzare le modifiche.
 
 Modifica il modello seguendo questi passaggi:
 
-1. Negli Assets Essentials, fare clic su **[!UICONTROL Dynamic Media Assets]**.
+1. In Assets Essentials, fai clic su **[!UICONTROL Dynamic Media Assets]**.
 2. Passa alla posizione del modello.
 3. Seleziona il modello.
 4. Fare clic su **[!UICONTROL Modifica modello]**. Nell&#39;area di lavoro del modello vengono visualizzati il modello e l&#39;elenco di tutti i relativi livelli nel pannello Livelli. Inizia a modificare il modello in base alle tue esigenze.
@@ -280,12 +280,12 @@ Modifica il modello seguendo questi passaggi:
 
 * Dopo aver creato un modello con livelli immagine con parametri per gli aggiornamenti dinamici, assicuratevi che le immagini destinate agli aggiornamenti futuri condividano le stesse dimensioni delle immagini con parametri. In questo modo le immagini si adattano perfettamente ai livelli senza traboccare o lasciare spazi vuoti. Attualmente, il modello non supporta le regolazioni automatiche delle quote per adattare le immagini ai livelli.
 * Non è disponibile alcun supporto per sottostringhe in un livello di testo. L&#39;utente non può applicare proprietà font diverse alla sottostringa di un livello di testo.
-* Il supporto di più società Dynamic Media non è attualmente disponibile con i modelli Dynamic Media.
-* In caso di copia o spostamento, il selettore di destinazione mostra tutte le cartelle (incluse le cartelle non sincronizzate con Dynamic Media). Inoltre, al momento non mostra le risorse Modello Dynamic Media (entrambe queste sono limitazioni del selettore di destinazione).
-* Qualsiasi operazione di aggiornamento su una cartella (ad esempio, Publish o Elimina) dalla sezione Assets ha effetto sui modelli di Dynamic Media disponibili all’interno di tale cartella.
-* Il cestino non funziona per i modelli Dynamic Media. Se una risorsa viene spostata nel cestino e quindi ripristinata, viene ripristinata nell’AEM ma non in Dynamic Media. Lo stesso vale per i modelli di Dynamic Media.
+* Al momento il supporto di più società Dynamic Media non è disponibile con i modelli Dynamic Media.
+* In caso di copia o spostamento, il Selettore di destinazione mostra tutte le cartelle (comprese le cartelle sincronizzate con elementi multimediali non dinamici). Inoltre, al momento non mostra le risorse Dynamic Media Template (entrambe queste sono limitazioni del selettore di destinazione).
+* Qualsiasi operazione di aggiornamento su una cartella (ad esempio, Pubblica o Elimina) da Assets influisce sui modelli Dynamic Media disponibili all’interno di tale cartella.
+* Il cestino non funziona per i modelli Dynamic Media. Se una risorsa viene spostata nel cestino e quindi ripristinata, viene ripristinata in AEM ma non in Dynamic Media. Lo stesso vale per i modelli Dynamic Media.
 
 ## Consulta anche
 
-1. Esplora [Dynamic Media e le sue funzionalità](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media)
+1. Esplora [Dynamic Media e le relative funzionalità](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media)
 1. Esplora [Dynamic Media con funzionalità OpenAPI](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview)
