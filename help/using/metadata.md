@@ -4,10 +4,10 @@ description: Gestire i metadati delle risorse in [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: f922e9191cc3bf6beef66665dec49fd3876bf33b
-workflow-type: ht
-source-wordcount: '1964'
-ht-degree: 100%
+source-git-commit: 1cda73b6ddc573d2736fdaa45b582198420ed5b1
+workflow-type: tm+mt
+source-wordcount: '2159'
+ht-degree: 89%
 
 ---
 
@@ -169,16 +169,47 @@ Puoi passare anche alla pagina dei dettagli della cartella e selezionare **[!UIC
 
 ### Utilizzare il componente Collegamento nel modulo di metadati {#link-component-metadata-form}
 
-Il componente Collegamento viene utilizzato per abilitare URL esterni, tra cui link di archiviazione, informazioni sul copyright, moduli di contatto e così via. Per utilizzare il componente Collegamento nel modulo di metadati, è necessario [configurare il modulo di metadati](#metadata-forms). Il componente URL può essere mappato a una specifica proprietà di metadati nella pagina dell’editor di metadati, che funziona allo stesso modo degli altri componenti di metadati. Questo modulo di metadati può essere assegnato alle cartelle. Pertanto, nella pagina dei dettagli della risorsa Cartella assegnata, è possibile visualizzare il valore dei metadati del collegamento alla risorsa.
+Il componente Collegamento viene utilizzato per abilitare URL esterni, tra cui link di archiviazione, informazioni sul copyright, moduli di contatto e così via. Per utilizzare il componente Collegamento nel modulo di metadati, è necessario [configurare il modulo di metadati](#metadata-forms). Il componente URL può essere mappato a una specifica proprietà di metadati nella pagina dell’editor di metadati, che funziona allo stesso modo degli altri componenti di metadati. Questo modulo di metadati può essere assegnato alle cartelle. Pertanto, nella pagina dei dettagli della risorsa Cartella assegnata, potrebbe essere visualizzato il valore dei metadati del collegamento della risorsa.
 
-Per utilizzare il componente Collegamento nella pagina dei dettagli della risorsa, segui i passaggi seguenti:
+Per utilizzare il componente Collega nella pagina dei dettagli della risorsa, effettua le seguenti operazioni:
 
-1. Passa alla pagina dei dettagli della risorsa, quindi a **[!UICONTROL URL collegamento]**.
+1. Vai alla pagina dei dettagli della risorsa e passa all&#39;**[!UICONTROL URL collegamento]**.
 1. Aggiungi un URL da utilizzare per il reindirizzamento della risorsa selezionata.
 1. Fai clic su **[!UICONTROL Aggiungi collegamento]**. Effettua una delle seguenti operazioni:
    * Fai clic su ![icona copia](assets/do-not-localize/copy.svg) per copiare l’URL.
    * Fai clic su ![icona modifica](assets/do-not-localize/edit.svg) per modificare l’URL.
 1. Fai clic su **[!UICONTROL Salva]** per salvare le modifiche.
+
+### Utilizzo del componente Tag nel modulo metadati {#tag-component-metadata-form}
+
+L’elemento principale rappresenta la struttura ad albero dei tag che è possibile associare alle risorse, per identificare la risorsa in base al tag assegnato. Inoltre, puoi limitare l’accesso a una tassonomia specifica durante la configurazione del modulo metadati nell’editor metadati.
+
+#### Configurazione del componente Tag {#tags-component-configuration}
+
+Configura il componente Tag eseguendo i passaggi seguenti:
+
+1. Vai all&#39;editor metadati, passa a **[!UICONTROL Tag]** e inseriscilo nell&#39;area di lavoro.
+1. Rinomina il componente nell’area di lavoro. A questo scopo, vai a **[!UICONTROL Etichetta]** sotto la [!UICONTROL proprietà metadati] nel pannello delle impostazioni e aggiungi il testo per la sua identificazione.
+1. Nella [!UICONTROL proprietà metadati] nel pannello delle impostazioni, cerca la proprietà metadati che desideri assegnare al componente.
+1. Fare clic su **[!UICONTROL Limita a tassonomia specifica]** per limitare il percorso della directory principale della tassonomia. A questo scopo, sfoglia i tag e scegli la tassonomia del percorso specifico.
+1. Fai clic su **[!UICONTROL Salva]** per salvare le modifiche.
+
+   ![Configurazione tag radice](assets/root-tag-config.png)
+1. [Assegna modulo metadati alle cartelle](#assign-metadata-form-folder).
+
+<!--
+#### Mapping between assets and taxonomy {#asset-taxonomy-mapping}
+
+See [Assign metadata form to folders](#assign-metadata-form-folder). Follow the steps below to perform mapping between folder and taxonomy:
+
+1. Go back to the Settings and click **[!UICONTROL Metadata forms]**.
+1. Select a Metadata form that needs mapping. 
+1. Click **[!UICONTROL Assign to folder(s)]**. **[!UICONTROL Select Folder(s)]** screen appears. 
+1. Navigate to the folder that you want to assign to the metadata form. You can select multiple folders.
+1. Click **[!UICONTROL Assign]**.
+-->
+
+Per visualizzare i tag principali configurati, vai alla pagina dei dettagli della risorsa in cui viene eseguito il mapping tra il modulo di metadati e i tag principali.
 
 ## Passaggi successivi {#next-steps}
 
