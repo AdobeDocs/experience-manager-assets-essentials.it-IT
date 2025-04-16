@@ -10,7 +10,7 @@ feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
 source-git-commit: bbc08d7762f1f8f87e5874977b65136522ba8a4a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
 ht-degree: 100%
 
@@ -44,7 +44,7 @@ ht-degree: 100%
 + [Modificare i metadati in blocco](/help/using/bulk-metadata-edit.md)
 + [Condividere le risorse](share-links-for-assets.md)
 + [Gestire le raccolte](manage-collections.md)
-+ [Relazioni risorsa](asset-relations.md)
++ [Relazioni delle risorse](asset-relations.md)
 + [Osservare risorse, cartelle e raccolte](manage-notifications.md)
 + [Gestire i rapporti](manage-reports.md)
 + [Rielaborazione](reprocessing.md)
