@@ -71,6 +71,7 @@ Per modificare in blocco i metadati di più risorse contemporaneamente, esegui i
    * **Parole chiave:** Aggiungi termini o stringhe di testo specifici che forniscano informazioni di alto livello sulle risorse per migliorarne la reperibilità. Aggiungete una parola chiave e premete Invio o Ritorna per aggiungerne un&#39;altra all&#39;elenco.
    * **Tag:** Fai clic sull&#39;icona ![tag](/help/using/assets/tags-icon.svg) per selezionare i tag tra le opzioni disponibili. I tag forniscono informazioni più specifiche sulle risorse e ne migliorano la reperibilità. I tag già applicati alle risorse selezionate vengono visualizzati nel pannello **Proprietà**. Se non riesci a trovare i tag rilevanti, creali e assegnali alle risorse selezionate. Consulta [Gestire i tag in Assets Essentials](/help/using/tagging-management.md) per informazioni dettagliate sulla creazione e l&#39;assegnazione di tag alle risorse.
    * Fai clic su **Salva** per applicare gli aggiornamenti dei metadati di cui sopra alle risorse selezionate. Una volta salvati, le parole chiave e i tag vengono aggiunti, mentre i dettagli aggiornati per Stato, Data di scadenza e Autore sostituiscono quelli esistenti.
+
      ![save-bulk-metadata-edit-properties](/help/using/assets/save-bulk-metadata-edit-properties2.png)
 
      >[!NOTE]
