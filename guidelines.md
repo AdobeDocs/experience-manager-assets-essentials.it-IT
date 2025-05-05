@@ -37,7 +37,7 @@ Fanno eccezione le note sulla versione, in cui possono essere elencati i problem
 
 È gradita come contributo qualsiasi idea che punti al miglioramento della documentazione di [!DNL Experience Manager]. Tuttavia, commenti, problemi e richieste sono intesi solo come *contributi*. L’obiettivo non è di rispondere a domande sull’utilizzo di [!DNL Experience Manager], su come implementare un progetto [!DNL Experience Manager] o risolvere problemi tecnici.
 
-Eventuali domande sull’utilizzo di [!DNL Experience Manager] o su errori tecnici possono essere segnalate attraverso il normale processo di assistenza tramite il [[!DNL Experience Manager] portale di assistenza](https://experienceleague.adobe.com/?support-solution=Experience+Manager&amp;lang=it#support) o discusse nella [community di Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
+Eventuali domande sull’utilizzo di [!DNL Experience Manager] o su errori tecnici possono essere segnalate attraverso il normale processo di assistenza tramite il [[!DNL Experience Manager] portale di assistenza](https://experienceleague.adobe.com/it?support-solution=Experience+Manager&amp;lang=it#support) o discusse nella [community di Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
 
 I contributi alla documentazione di ***[!DNL Experience Manager] non sostituiscono l’Assistenza clienti di Adobe***. Pertanto, verranno rifiutati tutti i contributi che richiedono risposte a domande correlate al supporto.
 

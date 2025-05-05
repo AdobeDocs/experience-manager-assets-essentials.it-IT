@@ -48,7 +48,7 @@ Grazie a questa funzione, è possibile condividere un file PDF a bassa risoluzio
 
 La creazione di relazioni origine/derivate tra risorse utilizzando la funzione risorse correlate è utile anche nei flussi di lavoro di traduzione. Quando esegui un flusso di lavoro di traduzione su una risorsa derivata, [!DNL Experience Manager Assets] recupera automaticamente qualsiasi risorsa a cui il file di origine fa riferimento e la include per la traduzione. In questo modo, la risorsa a cui fa riferimento la risorsa sorgente viene tradotta insieme alle risorse sorgente e derivate. Se il file di origine è correlato a un&#39;altra risorsa, [!DNL Experience Manager Assets] recupera la risorsa di riferimento e la include per la traduzione.
 
-Vedi [Tradurre le risorse in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/admin/translate-assets).
+Vedi [Tradurre le risorse in AEM](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/admin/translate-assets).
 
 ## Passaggi successivi {#next-steps}
 
@@ -61,5 +61,5 @@ Vedi [Tradurre le risorse in AEM](https://experienceleague.adobe.com/en/docs/exp
 >[!MORELIKETHIS]
 >
 >* [Visualizzare le versioni di una risorsa](manage-organize.md#view-versions)
->* [Traduci risorse in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
+>* [Traduci risorse in AEM](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
 >* [Formati di file supportati nella visualizzazione Assets](supported-file-formats.md).

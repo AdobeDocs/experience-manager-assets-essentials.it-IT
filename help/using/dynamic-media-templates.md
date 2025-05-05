@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Modelli Dynamic Media{#dynamic-media-templates}
 
-| [Best practice per la ricerca](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices) | [Best practice per i metadati](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices) | [Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview) | [Documentazione di AEM Assets per sviluppatori](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
+| [Best practice per la ricerca](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices) | [Best practice per i metadati](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices) | [Content Hub](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview) | [Documentazione di AEM Assets per sviluppatori](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
 | ------------- | --------------------------- |---------|-----|
 
 >[!CONTEXTUALHELP]
@@ -22,7 +22,7 @@ ht-degree: 2%
 >abstract="Crea e personalizza banner di immagini e testo all’istante, con un’interfaccia WYSIWYG di facile utilizzo e incorpora l’URL di Dynamic Media in qualsiasi applicazione di prime o terze parti, per promuovere esperienze altamente coinvolgenti. Provalo."
 >additional-url="https://images-tv.adobe.com/mpcv3/4477/b74738ca-888c-4a37-9a9e-14fabd68ee45_1738206841.854x480at800_h264.mp4" text="Guarda il video"
 
-Crea modelli Dynamic Media tramite un editor di modelli WYSIWYG e includi più immagini e livelli di testo per creare rapidamente banner e volantini e utilizzarli nelle applicazioni a valle. Puoi anche aggiungere parametri alle immagini e ai livelli di testo inclusi nel modello e utilizzare [URL Dynamic Media](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media) per aggiornare i valori per tali livelli in tempo reale.
+Crea modelli Dynamic Media tramite un editor di modelli WYSIWYG e includi più immagini e livelli di testo per creare rapidamente banner e volantini e utilizzarli nelle applicazioni a valle. Puoi anche aggiungere parametri alle immagini e ai livelli di testo inclusi nel modello e utilizzare [URL Dynamic Media](https://experienceleague.adobe.com/it/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media) per aggiornare i valori per tali livelli in tempo reale.
 
 Alcune delle caratteristiche principali includono:
 
@@ -109,7 +109,7 @@ Fai clic su ![modello per creare rapidamente i volantini](/help/using/assets/sho
 
 Per aggiungere immagini all’area di lavoro, effettua le seguenti operazioni:
 
-1. Fai clic su ![crea un banner in poco tempo](/help/using/assets/add-image.svg) per visualizzare il pannello [Selettore risorse](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/asset-selector/overview-asset-selector). Il pannello mostra le immagini dell’istanza di AEM Assets che sono sincronizzate con Dynamic Media.
+1. Fai clic su ![crea un banner in poco tempo](/help/using/assets/add-image.svg) per visualizzare il pannello [Selettore risorse](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/manage/asset-selector/overview-asset-selector). Il pannello mostra le immagini dell’istanza di AEM Assets che sono sincronizzate con Dynamic Media.
 1. Sfoglia il pannello o usa le parole chiave nella barra di ricerca per trovare un’immagine specifica.
 1. Trascina e rilascia un’immagine nell’area di lavoro per utilizzarla. Vedere il [**[!UICONTROL pannello Proprietà]**](#reposition-resize-delete-a-layer) per ridimensionare o riposizionare un livello nell&#39;area di lavoro.
    ![crea un banner in pochi secondi](/help/using/assets/add-image-to-canvas.png)
@@ -166,7 +166,7 @@ Per modificare un livello testo o immagine, consulta le seguenti azioni di modif
 
 Formatta il testo con il carattere, le dimensioni, il colore, lo stile e l&#39;allineamento desiderati (nel livello) modificandone i valori nei rispettivi campi nella sezione **[!UICONTROL Testo]** del pannello.
 
-**[!UICONTROL Ridimensionamento automatico del testo]** Assicurarsi di includere **[!UICONTROL Ridimensionamento automatico del testo]** ([Adattamento al testo](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/http-protocol-reference/text-formatting/r-copy-fitting)) per adattarlo in modo ottimale a qualsiasi testo nell&#39;area designata, modificandone in modo intelligente la dimensione e la lunghezza del carattere. Questa funzionalità impedisce l&#39;overflow del testo o riduce al minimo gli spazi in eccesso nella parte inferiore.
+**[!UICONTROL Ridimensionamento automatico del testo]** Assicurarsi di includere **[!UICONTROL Ridimensionamento automatico del testo]** ([Adattamento al testo](https://experienceleague.adobe.com/it/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/http-protocol-reference/text-formatting/r-copy-fitting)) per adattarlo in modo ottimale a qualsiasi testo nell&#39;area designata, modificandone in modo intelligente la dimensione e la lunghezza del carattere. Questa funzionalità impedisce l&#39;overflow del testo o riduce al minimo gli spazi in eccesso nella parte inferiore.
 ![creazione contenuto in pochissimo tempo](/help/using/assets/smart-text-resize.png)
 
 ### Livelli parametrizzati {#parameterise-a-layer}
@@ -287,5 +287,5 @@ Modifica il modello seguendo questi passaggi:
 
 ## Consulta anche
 
-1. Esplora [Dynamic Media e le relative funzionalità](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media)
-1. Esplora [Dynamic Media con funzionalità OpenAPI](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview)
+1. Esplora [Dynamic Media e le relative funzionalità](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media)
+1. Esplora [Dynamic Media con funzionalità OpenAPI](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview)
