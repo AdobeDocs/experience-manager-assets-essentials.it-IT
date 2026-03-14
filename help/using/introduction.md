@@ -95,4 +95,4 @@ Quando le tue esigenze business aumentano e hai bisogno di supporto per soddisfa
 
 >[!MORELIKETHIS]
 >
->* Pagina dei tutorial su[[!DNL Assets Essentials] ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=it)
+>* Pagina dei tutorial su[[!DNL Assets Essentials] &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=it)
