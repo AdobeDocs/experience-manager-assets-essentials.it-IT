@@ -1,13 +1,13 @@
 ---
 title: Note sulla versione
 description: Note sulla versione e problemi noti di [!DNL Assets Essentials]
-role: User,Leader,Admin,Architect,Developer
+role: User,Leader,Admin,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 323e1ebd3ee81dfae0d15dc4120997ae3c4798b9
-workflow-type: ht
-source-wordcount: '2976'
-ht-degree: 100%
+source-git-commit: b3c726122425c9a89a5d6c0ac35b652d20d8e0b9
+workflow-type: tm+mt
+source-wordcount: '3041'
+ht-degree: 97%
 
 ---
 
@@ -17,19 +17,19 @@ La versione attuale di Assets Essentials è stata rilasciata il 25 luglio 2024.
 
 Ecco alcune delle funzioni aggiunte di recente:
 
-**Integrazione di credenziali del contenuto**
+**Integrazione di dati Content Credentials**
 
-Experience Manager Assets ora supporta le credenziali del contenuto per i formati di immagine supportati. Questo fornisce informazioni sulla derivazione della risorsa e su come è stata creata, compreso se è stata modificata utilizzando GenAI.
+Experience Manager Assets ora supporta i dati Content Credentials per i formati di immagine supportati. Questo fornisce informazioni sulla derivazione della risorsa e su come è stata creata, comprese eventuali modifiche apportate tramite GenAI.
 
-![Credenziali del contenuto](/help/using/assets/content-credentials.png)
+![Content Credentials](/help/using/assets/content-credentials.png)
 
-**Anteprime visive del contenuto della cartella**
+**Anteprime visive del contenuto delle cartelle**
 
 In Experience Manager Assets, durante la navigazione o la ricerca di contenuti, ora le miniature delle cartelle mostrano anteprime visive del loro contenuto, migliorando la reperibilità delle risorse disponibili nell’archivio di AEM Assets.
 
 **Ricerca contestuale**
 
-Ora puoi cercare le risorse disponibili nell’archivio definendo i prompt di testo. Experience Manager Assets trasforma automaticamente i prompt di testo in filtri di ricerca e visualizza i risultati della ricerca. È possibile visualizzare e modificare i filtri automatici utilizzando il riquadro Filtri per limitare ulteriormente i risultati della ricerca.
+Ora puoi cercare le risorse disponibili nell’archivio definendo i prompt di testo. Experience Manager Assets trasforma automaticamente questi prompt di testo in filtri di ricerca e ne visualizza i risultati. È possibile visualizzare e modificare i filtri automatici utilizzando il riquadro Filtri per limitare ulteriormente i risultati della ricerca.
 
 ![insight sull’utilizzo dell’archiviazione](/help/using/assets/contextual-search-text-prompt1.png)
 
@@ -58,7 +58,7 @@ Experience Manager Assets ora include strumenti di editing video semplici e intu
 
 **Assegnare o rimuovere il modulo metadati in più cartelle**
 
-Ora è possibile assegnare o rimuovere un modulo di metadati da più cartelle.
+Ora è possibile assegnare o rimuovere un modulo metadati da più cartelle.
 
 **Gestire autorizzazioni per le raccolte private**
 
@@ -91,7 +91,7 @@ In caso di problemi o richieste di miglioramenti, ti invitiamo a [fornire un fee
 
 **Tag avanzati nell’elenco Bloccati**
 
-Assets Essentials ora consente di definire l’elenco Bloccati per le parole che non devono essere aggiunte come tag avanzati alle risorse quando vengono caricate nell’archivio. Questa funzionalità consente di mantenere la conformità al marchio e di ridurre gli sforzi nella moderazione dei tag avanzati.
+Assets Essentials ora consente di definire un elenco Bloccati per le parole che non devono essere aggiunte come tag avanzati alle risorse che vengono caricate nell’archivio. Questa funzionalità consente di mantenere la conformità al marchio e di ridurre il lavoro associato alla moderazione dei tag avanzati.
 
 ![insight sull’utilizzo dell’archiviazione](/help/using/assets/block-tags.png)
 
@@ -109,7 +109,7 @@ Ora è possibile trovare facilmente il contenuto selezionando un’immagine e vi
 
 Gli utenti con accesso a Express ora dispongono di strumenti integrati per la modifica e la creazione di immagini da Adobe Express e Adobe Firefly disponibili direttamente in AEM Assets, per migliorare il riutilizzo dei contenuti e accelerarne la creazione.
 
-![assegnare un modulo di metadati a una cartella](/help/using/assets/adobe-express-aem-assets.png)
+![assegnare un modulo metadati a una cartella](/help/using/assets/adobe-express-aem-assets.png)
 
 **Rapporti sull’utilizzo dello spazio di archiviazione in Insights**:
 
@@ -129,7 +129,7 @@ Assets Essentials ora consente di configurare l’esperienza della pagina home p
 
 Gli amministratori ora possono [importare un numero elevato di risorse da OneDrive a AEM Assets](/help/using/bulk-import-assets-view.md). L’elenco aggiornato delle origini dati supportate per l’importazione in blocco include Azure, AWS, Google Cloud, Dropbox e OneDrive.
 
-![assegnare un modulo di metadati a una cartella](/help/using/assets/bulk-import-source-details.png)
+![assegnare un modulo metadati a una cartella](/help/using/assets/bulk-import-source-details.png)
 
 **Supporto di diritti tra diverse organizzazioni per le librerie**
 
@@ -137,11 +137,11 @@ Experience Manager Assets ora consente di configurare l’accesso alle librerie 
 
 ### Versione di settembre 2023 {#september2023-release}
 
-**Assegnare un modulo di metadati a una cartella**
+**Assegnare un modulo metadati a una cartella**
 
-Ora puoi assegnare un modulo di metadati a una cartella specifica all’interno dell’implementazione di Assets Essentials. Per tutte le risorse nella cartella, comprese le risorse nelle sottocartelle, vengono quindi visualizzate le proprietà definite nel modulo di metadati assegnato.
+Ora puoi assegnare un modulo metadati a una cartella specifica all’interno dell’implementazione di Assets Essentials. Per tutte le risorse nella cartella, comprese le risorse nelle sottocartelle, vengono quindi visualizzate le proprietà definite nel modulo metadati assegnato.
 
-![assegnare un modulo di metadati a una cartella](/help/using/assets/assign-to-folder.png)
+![assegnare un modulo metadati a una cartella](/help/using/assets/assign-to-folder.png)
 
 **Importazione in blocco dalle origini dati**
 
@@ -196,9 +196,9 @@ Gli elenchi semplici dei vocabolari controllati diventano ingestibili nel tempo.
 
 Assets Essentials ora consente di filtrare le risorse disponibili nella cartella Cestino. Puoi applicare filtri standard o personalizzati per cercare le risorse appropriate all’interno della cartella Cestino per ripristinarle o eliminarle definitivamente.
 
-**Anteprime delle miniature per risorse 3D**
+**Miniature di anteprima per risorse 3D**
 
-Assets Essentials ora genera anteprime di miniature per i formati comuni di file 3D, tra cui gLB, USDz, FBX, 3DS, OBJ e SBSAR. Quando questi file vengono caricati in Assets Essentials, per impostazione predefinita le miniature vengono generate automaticamente dal sistema.
+Assets Essentials ora genera miniature di anteprima per i formati comuni di file 3D, tra cui gLB, USDz, FBX, 3DS, OBJ e SBSAR. Quando questi file vengono caricati in Assets Essentials, per impostazione predefinita le miniature vengono generate automaticamente dal sistema.
 
 ![Attività nell’area di lavoro](assets/3d-preview.png)
 
@@ -210,7 +210,7 @@ Assets Essentials ora supporta la visualizzazione dei termini più ricercati nel
 
 **Miglioramenti al modulo metadati**
 
-Assets Essentials ora consente di aggiungere componenti di proprietà di testo multi-valore ed elenchi a discesa ai moduli metadati.
+Assets Essentials ora consente di aggiungere componenti di proprietà per testo multi-valore ed elenchi a discesa ai moduli metadati.
 
 ### Più versioni nel 2023 {#multiple-releases-2023}
 
@@ -334,7 +334,7 @@ Le notifiche di Assets Essentials consentono di [monitorare le operazioni esegui
 
 **Reporting**
 
-La funzionalità di reporting sulle risorse consente agli amministratori di valutare le attività degli utenti in Adobe Experience Manager Assets Essentials. I rapporti e la dashboard delle statistiche live forniscono informazioni utili sul modo in cui gli utenti interagiscono con le risorse disponibili nell’implementazione. [Utilizza le informazioni contenute nei rapporti](manage-reports.md) per derivare le metriche di successo chiave con cui misurare il livello di adozione di Assets all’interno della tua azienda e da parte dei clienti.
+La funzionalità di reporting sulle risorse consente agli amministratori di valutare le attività degli utenti in Adobe Experience Manager Assets Essentials. I rapporti e la dashboard delle statistiche live forniscono informazioni utili sul modo in cui gli utenti interagiscono con le risorse disponibili nell’implementazione. [Utilizza le informazioni contenute nei report](manage-reports.md) per derivare le metriche di successo chiave con cui misurare il livello di adozione di Assets all&#39;interno della tua azienda e da parte dei clienti.
 
 Visualizza i rapporti di download delle risorse e il modulo della dashboard delle statistiche live per vedere quali risorse vengono scaricate e la frequenza dei download.
 
@@ -394,7 +394,7 @@ L’attuale versione di [!DNL Assets Essentials] è stata rilasciata il 12 maggi
 
 #### Modalità di navigazione in incognito in Chrome {#incognito-mode}
 
-Con questa versione stiamo ottimizzando le prestazioni della distribuzione dell’interfaccia utente e specifiche funzionalità di Assets Essentials (aggiunta di commenti alle risorse e modifica delle immagini) che dipendono dall’archiviazione locale del browser e dall’attivazione di cookie di terze parti. Per impostazione predefinita, la modalità di navigazione in incognito nel browser web Chrome blocca i cookie di terze, e gli utenti hanno alcune opzioni per continuare ad accedere a tutte le funzionalità:
+Con questa versione stiamo ottimizzando le prestazioni della distribuzione dell’interfaccia utente e specifiche funzionalità di Assets Essentials (aggiunta di commenti alle risorse e modifica delle immagini) che dipendono dall’archiviazione locale del browser e dall’abilitazione di cookie di terze parti. Per impostazione predefinita, la modalità di navigazione in incognito nel browser web Chrome blocca i cookie di terze, e gli utenti hanno alcune opzioni per continuare ad accedere a tutte le funzionalità:
 
 * Utilizzare i profili Chrome invece della modalità di navigazione in incognito, se l&#39;utente ha bisogno di sessioni browser separate
 
@@ -406,7 +406,7 @@ Con questa versione stiamo ottimizzando le prestazioni della distribuzione dell�
 
 * [!DNL Assets Essentials] ora consente di [generare un collegamento e condividere le risorse con le parti interessate](share-links-for-assets.md), che non hanno accesso all’applicazione [!DNL Assets Essentials]. Puoi definire una data di scadenza del collegamento e condividerlo con altri utilizzando il metodo di comunicazione preferito, ad esempio e-mail o servizi di messaggistica. I destinatari del collegamento possono visualizzare in anteprima le risorse e scaricarle.
 
-* [!DNL Assets Essentials] ora comprende [un profilo di prodotto amministratore](deploy-administer.md#add-users-to-essentials) su Admin Console, oltre ai profili di prodotto standard e consumer esistenti. Un amministratore può ora assegnare altri utenti al profilo di prodotto dell’amministratore.
+* [!DNL Assets Essentials] ora comprende [un profilo di prodotto per amministratori](deploy-administer.md#add-users-to-essentials) in Admin Console, oltre ai profili di prodotto esistenti per utenti standard e utenti consumer. Un amministratore può ora assegnare altri utenti al profilo di prodotto dell’amministratore.
 
 * Assets Essentials consente ora agli amministratori di [gestire i livelli di accesso per le cartelle disponibili nell’archivio](manage-permissions.md). In qualità di amministratore, puoi creare gruppi di utenti e assegnare autorizzazioni a tali gruppi per gestire i livelli di accesso. Puoi anche delegare i privilegi di gestione delle autorizzazioni ai gruppi di utenti a livello di cartella.
 
@@ -427,7 +427,9 @@ Inoltre, l’estensione [!DNL Adobe Asset Link] per Creative Cloud (Photoshop, I
 
 * Al termine del processo di provisioning, Adobe implementa automaticamente Assets Essentials. Gli amministratori non devono eseguire alcun passaggio aggiuntivo per implementare Assets Essentials tramite l’interfaccia utente di [!DNL Cloud Manager]. L’implementazione automatica sarà disponibile per gli ambienti per i quali è stato eseguito il provisioning dopo il 6 gennaio 2022.
 * In Adobe Exchange sono disponibili nuove versioni dei plug-in Creative Cloud che funzionano con Assets Essentials: [Adobe Asset Link per Adobe XD v. 2.1.0](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9) e [Adobe Asset Link for Photoshop/InDesign/Illustrator v. 3.1.65](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html).
-* Vari bug e miglioramenti dei prodotti, tra cui problemi noti precedenti (dopo il caricamento, le cartelle ora vengono visualizzate correttamente nella struttura di spostamento a sinistra<!-- CQ-4337638 -->; il caricamento mediante trascinamento della selezione consente di selezionare la cartella corrente o una sottocartella al momento del rilascio per il caricamento<!-- CQ-4327753 -->).
+* Vari bug e miglioramenti dei prodotti, tra cui problemi noti precedenti (dopo il caricamento, le cartelle ora vengono visualizzate correttamente nella struttura di navigazione a sinistra<!-- CQ-4337638 -->, il caricamento mediante trascinamento della selezione consente di selezionare la cartella corrente o una sottocartella al momento del rilascio per il caricamento).
+
+<!-- CQ-4327753 -->
 
 ### Versione 2021.8.0 {#august2021}
 
@@ -439,7 +441,7 @@ Inoltre, l’estensione [!DNL Adobe Asset Link] per Creative Cloud (Photoshop, I
 
 [!DNL Assets Essentials] 2021.7.0 è stato rilasciato il 29 luglio 2021 con i seguenti aggiornamenti:
 
-* Puoi creare e gestire moduli di metadati personalizzati da utilizzare per consentire agli utenti di visualizzare le proprietà dei metadati nella schermata dei dettagli delle risorse dall’opzione [!UICONTROL Moduli metadati] in [!DNL Settings]. Consulta [Moduli di metadati](metadata.md#metadata-forms).
+* Puoi creare e gestire moduli metadati personalizzati da utilizzare per consentire agli utenti di visualizzare le proprietà dei metadati nella schermata dei dettagli delle risorse dall’opzione [!UICONTROL Moduli metadati] in [!DNL Settings]. Consulta [Moduli metadati](metadata.md#metadata-forms).
 * Varie correzioni di bug e miglioramenti al prodotto, incluse migliori prestazioni durante il caricamento di cartelle nidificate contenenti numerose sottocartelle.
 
 ### Versione 2021.6.0 {#june2021}

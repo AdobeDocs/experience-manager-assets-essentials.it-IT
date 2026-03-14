@@ -1,12 +1,12 @@
 ---
 title: Formati di file supportati
 description: Formati di file supportati per i vari casi d’uso di [!DNL Assets Essentials]
-role: User,Leader,Admin,Architect,Developer
+role: User,Leader,Admin,Developer
 contentOwner: AG
 exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
-source-git-commit: 243a41aef81cd1fdcbad8f4355fe2d888db394d1
-workflow-type: ht
-source-wordcount: '527'
+source-git-commit: b3c726122425c9a89a5d6c0ac35b652d20d8e0b9
+workflow-type: tm+mt
+source-wordcount: '372'
 ht-degree: 100%
 
 ---
@@ -35,7 +35,8 @@ I vari tipi di file sono supportati per diversi casi d’uso e funzioni, come ri
 
 ## Aggiungere, caricare e visualizzare le risorse {#support-to-upload-view}
 
-<!-- TBD: For AEM, AI files require the PDF option to be selected when saving the AI file.
+<!-- 
+TBD: For AEM, AI files require the PDF option to be selected when saving the AI file.
 -->
 
 | Tipo risorsa | [Sfogliare](/help/using/navigate-view.md) | Copiare | [Caricare](/help/using/add-delete.md) | Creare | [Eliminare](/help/using/add-delete.md#delete-assets) | Dettagli | Zoom immagine | [Visualizzato di recente](/help/using/navigate-view.md) |
@@ -48,7 +49,8 @@ I vari tipi di file sono supportati per diversi casi d’uso e funzioni, come ri
 | PSD, IA, PSB e INDD | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
 | Altri file binari | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
 
-<!-- Hiding CC Libraries (considered beta) as per PM feedback.
+<!-- 
+Hiding CC Libraries (considered beta) as per PM feedback.
 | CC Libraries  | &#10003; | &minus;  | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
 -->
 
@@ -57,7 +59,7 @@ I vari tipi di file sono supportati per diversi casi d’uso e funzioni, come ri
 | Tipo risorsa | [Download](/help/using/manage-organize.md#download) | Inserimento tramite trascinamento | [Editor immagine](/help/using/edit-images.md) | [Ricerca](/help/using/search.md) | [Tag avanzati](/help/using/metadata.md#tags) | [Rinomina](/help/using/manage-organize.md) | [Versioni](/help/using/manage-organize.md#versions-of-assets) |
 |---------------|----------|---------------|--------------|----------|------------|----------|----------|
 | Immagini raster | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| File non elaborati | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ | ✓ |
+| File non elaborati | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
 | Cartelle | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
 | Video | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
 | CC Libraries | − | − | − | − | − | ✓ | ✓ |
@@ -104,7 +106,8 @@ I vari tipi di file sono supportati per diversi casi d’uso e funzioni, come ri
 
 Gli utenti di [!DNL Adobe Asset Link] possono caricare e consegnare (caricare una nuova versione) i file nell’archivio di [!DNL Assets Essentials] dalle applicazioni desktop [!DNL Adobe Creative Cloud] supportate.
 
-<!-- TBD: Saving the template table separately for later use.
+<!-- 
+TBD: Saving the template table separately for later use.
 | Asset type    | Features |
 |---------------|----------|
 | Raster images |          |

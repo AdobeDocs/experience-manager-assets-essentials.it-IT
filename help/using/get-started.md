@@ -3,10 +3,10 @@ title: Iniziare a utilizzare [!DNL Assets Essentials]
 description: Accesso, esperienza di accesso, casi di utilizzo supportati e problemi noti di [!DNL Assets Essentials].
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
-source-git-commit: fedcf02b5338d6640e557dad25ca03cfbd78d7e5
+source-git-commit: b3c726122425c9a89a5d6c0ac35b652d20d8e0b9
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 100%
+source-wordcount: '445'
+ht-degree: 97%
 
 ---
 
@@ -52,7 +52,7 @@ Di seguito sono indicate le varie attività di gestione delle risorse digitali (
 | Modificare le risorse | <ul> <li>[Modifiche nel browser con Adobe Photoshop Express](/help/using/edit-images.md)</li> <li>[Ritagliare in base a un profilo social media](/help/using/edit-images.md#crop-straighten-images)</li> <li>[Visualizzare e gestire le versioni](/help/using/manage-organize.md#view-versions)</li> <li>[Utilizzare [!DNL Adobe Asset Link]](/help/using/integration.md#integrations)</ul></ul> |
 | Cercare le risorse nell’archivio | <ul> <li>[Ricerca in una cartella specifica](/help/using/search.md#refine-search-results)</li> <li>[Ricerche salvate](/help/using/search.md#saved-search)</li> <li>[Cercare le risorse visualizzate di recente](/help/using/search.md)</li> <li>[Ricerca testuale](/help/using/search.md) |
 | Scaricare le risorse | <ul> <li> [Visualizzare in anteprima una risorsa](/help/using/navigate-view.md#preview-assets) </li> <li> [Scaricare le risorse](/help/using/manage-organize.md#download) <li> [Scaricare le rappresentazioni](/help/using/add-delete.md#renditions) </li></ul> |
-| Operazioni relative ai metadati | <ul> <li>[Visualizzare i metadati nel dettaglio](/help/using/metadata.md) </li> <li> [Aggiornare i metadati](/help/using/metadata.md#update-metadata)</li> <li> [Creare un nuovo modulo di metadati](/help/using/metadata.md#metadata-forms) </li> </ul> |
+| Operazioni relative ai metadati | <ul> <li>[Visualizzare i metadati nel dettaglio](/help/using/metadata.md) </li> <li> [Aggiornare i metadati](/help/using/metadata.md#update-metadata)</li> <li> [Creare un nuovo modulo metadati](/help/using/metadata.md#metadata-forms) </li> </ul> |
 | Integrazione con altre soluzioni | <ul> <li>[Utilizzare il selettore risorse in [!DNL Adobe Journey Optimizer]](/help/using/integration.md)</li> <li>[[!DNL Adobe Asset Link] per [!DNL Creative Cloud]](/help/using/integration.md)</li> <li>[Integrazione con [!DNL Adobe Workfront]](/help/using/integration.md)</li> </ul> |
 
 ## Passaggi successivi {#next-steps}
@@ -63,15 +63,15 @@ Di seguito sono indicate le varie attività di gestione delle risorse digitali (
 
 * Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
 
-* Contatta il [Servizio clienti](https://experienceleague.adobe.com/it?support-solution=General&amp;lang=it#support)
+* Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&lang=it#support)
 
 
-<!--TBD: Merge the below rows in the table when the use cases are documented/available.
+<!--
+TBD: Merge the below rows in the table when the use cases are documented/available.
 
 | How do I delete assets? | <ul> <li>[Delete assets](/help/using/manage-organize.md)</li> <li>Recover deleted assets</li> <li>Permanently delete assets</li> </ul> |
 | How do I share assets or find shared assets? | <ul> <li>Shared by me</li> <li>Shared with me</li> <li>Share for comments and review</li> <li>Unshare assets</li> </ul> |
 | How do I collaborate with others and get my assets reviewed | <ul> <li>Share for review</li> <li>Provide comments. Resolve and filter comments</li> <li>Annotations on images</li> <li>Assign tasks to specific users and prioritize</li> </ul> |
-
 -->
 
 <!-- 
@@ -94,6 +94,7 @@ To provide feedback for documentation, click [!UICONTROL Edit this page] ![edit 
 >* [Interfaccia utente](/help/using/navigate-view.md).
 >* [Note sulla versione e problemi noti](/help/using/release-notes.md).
 
-<!-- TBD: 
+<!-- 
+TBD: 
 >* [Supported file types](/help/using/supported-file-formats.md).
 -->

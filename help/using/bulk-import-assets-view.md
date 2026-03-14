@@ -2,10 +2,10 @@
 title: Importazione in blocco delle risorse utilizzando Assets Essentials
 description: Scopri come importare in blocco le risorse utilizzando la nuova interfaccia utente di Assets (Assets Essentials). Consente agli amministratori di importare un numero elevato di risorse da un’origine dati ad AEM Assets.
 exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
-source-git-commit: 4d4b239b0b75ac8a26a7c3001e5b28dcb6243f63
+source-git-commit: 2ad90f931f84bf8e0ceb51e4e6450d36a7b31a03
 workflow-type: tm+mt
-source-wordcount: '1812'
-ht-degree: 100%
+source-wordcount: '1849'
+ht-degree: 92%
 
 ---
 
@@ -49,7 +49,7 @@ Prima di importare le risorse dall’account di Dropbox ad AEM Assets, crea e co
 
 Esegui i passaggi seguenti:
 
-1. Accedi al tuo [Account Dropbox](https://www.dropbox.com/developers) e fai clic su **[!UICONTROL Create apps]** (Crea app). <br>Se utilizzi un account Dropbox Enterprise, devi avere accesso al ruolo di amministratore dei contenuti.
+1. Accedi al tuo [account Dropbox](https://www.dropbox.com/developers) e fai clic su **[!UICONTROL Crea app]**. <br>Se utilizzi un account Enterprise Dropbox, devi avere accesso al ruolo di amministratore dei contenuti.
 
 1. Nella sezione **[!UICONTROL Choose an API]** (Scegli un API), seleziona l’unico pulsante di scelta disponibile.
 
@@ -129,7 +129,7 @@ Per creare una configurazione di importazione in blocco in [!DNL Experience Mana
    >
    >Se utilizzi Dropbox come origine dati, specifica il percorso della cartella di origine in base alle regole seguenti:
    >* Se durante la creazione dell’applicazione di Dropbox hai selezionato **Full Dropbox** (Dropbox completo), la cartella che contiene le risorse è già presente in `https://www.dropbox.com/home/bulkimport-assets`, quindi specifica `bulkimport-assets` nel campo **[!UICONTROL Cartella di origine]**.
-   >* Se durante la creazione dell’applicazione di Dropbox hai selezionato **App folder** (Cartella app), la cartella che contiene le risorse è già presente in `https://www.dropbox.com/home/Apps/BulkImportAppFolderScope/bulkimport-assets`, quindi specifica `bulkimport-assets` nel campo **[!UICONTROL Cartella di origine]**, dove `BulkImportAppFolderScope` fa riferimento al nome dell’applicazione. In questo caso, `Apps` viene aggiunto automaticamente dopo `home`.
+   >* Se si seleziona **Cartella app** durante la creazione dell&#39;applicazione Dropbox e la cartella contenente le risorse esiste in `https://www.dropbox.com/home/Apps/BulkImportAppFolderScope/bulkimport-assets`, specificare `bulkimport-assets` nel campo **[!UICONTROL Cartella Source]**, dove `BulkImportAppFolderScope` fa riferimento al nome dell&#39;applicazione. `Apps` viene aggiunto automaticamente dopo `home` in questo caso.
 
 1. (Facoltativo) Seleziona l’opzione **[!UICONTROL Elimina il file di origine dopo l’importazione]** per eliminare i file originali dall’archivio dati di origine dopo l’importazione in [!DNL Experience Manager Assets].
 1. Seleziona la **[!UICONTROL Modalità di importazione]**. Seleziona **[!UICONTROL Ignora]**, **[!UICONTROL Sostituisci]** o **[!UICONTROL Crea versione]**. La modalità Ignora è l’impostazione predefinita e, in questa modalità, l’importazione di una risorsa viene ignorata se esiste già.
@@ -157,7 +157,7 @@ Per creare una configurazione di importazione in blocco in [!DNL Experience Mana
 
 ### Gestione dei nomi dei file durante l’importazione in blocco {#filename-handling-bulkimport-assets-view}
 
-Quando importi risorse o cartelle in blocco, [!DNL Experience Manager Assets] importa l’intera struttura di ciò che esiste nell’origine di importazione. [!DNL Experience Manager] segue le regole predefinite per i caratteri speciali nei nomi delle risorse e delle cartelle; pertanto, questi nomi di file devono essere bonificati. Sia per il nome della cartella che per quello della risorsa, il titolo definito dall’utente rimane invariato e viene memorizzato in `jcr:title`.
+Quando si importano risorse o cartelle in blocco, [!DNL Experience Manager Assets] importa l&#39;intera struttura di ciò che esiste nell&#39;origine di importazione. [!DNL Experience Manager] segue le regole predefinite per i caratteri speciali nei nomi delle risorse e delle cartelle; pertanto, questi nomi di file devono essere bonificati. Sia per il nome della cartella che per quello della risorsa, il titolo definito dall’utente rimane invariato e viene memorizzato in `jcr:title`.
 
 Durante l’importazione in blocco, [!DNL Experience Manager] cerca le cartelle esistenti per evitare di reimportare le risorse e le cartelle e verifica inoltre le regole di bonifica applicate nella cartella principale in cui avviene l’importazione. Se le regole di bonifica vengono applicate nella cartella principale, le stesse regole vengono applicate all’origine di importazione. Per le nuove importazioni, per gestire i nomi file di risorse e cartelle vengono applicate le seguenti regole di bonifica.
 
@@ -165,15 +165,18 @@ Per ulteriori informazioni sui nomi non consentiti, sulla gestione dei nomi dell
 
 ## Visualizzare le configurazioni di importazione in blocco esistenti {#view-import-configuration}
 
-Per visualizzare le importazioni in blocco esistenti, seleziona l’opzione **[!UICONTROL Importazioni in blocco]** nel riquadro a sinistra. Viene visualizzata la pagina Importazioni in blocco con l’elenco di **[!UICONTROL Importazioni eseguite]**. <br>È inoltre possibile visualizzare le **[!UICONTROL Importazioni salvate]** e le **[!UICONTROL Importazioni pianificate]** dall’opzione a discesa.
+Per visualizzare le importazioni in blocco esistenti, seleziona l’opzione **[!UICONTROL Importazioni in blocco]** nel riquadro a sinistra. Viene visualizzata la pagina Importazioni in blocco con l&#39;elenco di **[!UICONTROL Importazioni eseguite]**. <br>
+Puoi anche visualizzare le **[!UICONTROL Importazioni salvate]** e le **[!UICONTROL Importazioni pianificate]** dall&#39;opzione a discesa.
 
 ![Salvare la configurazione dell’importazione in blocco](assets/bulk-import-options.png)
 
-<!-- If you select to save and run the import, the import configuration displays in the **[!UICONTROL Executed Imports]** tab.
+<!-- 
+If you select to save and run the import, the import configuration displays in the **[!UICONTROL Executed Imports]** tab.
 
 ![Save bulk import configuration](assets/bulk-import-executed.png)
 
-If you schedule an import, it displays in the **[!UICONTROL Scheduled Imports]** tab.  -->
+If you schedule an import, it displays in the **[!UICONTROL Scheduled Imports]** tab.  
+-->
 
 ## Modificare la configurazione dell’importazione in blocco {#edit-import-configuration}
 

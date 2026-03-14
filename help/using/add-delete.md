@@ -3,10 +3,10 @@ title: Caricare risorse nell’archivio
 description: Carica le risorse in [!DNL Assets Essentials], visualizza lo stato di caricamento e risolvi eventuali problemi.
 role: User
 exl-id: a85a4455-4456-48af-aee9-f05300677605
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: b3c726122425c9a89a5d6c0ac35b652d20d8e0b9
 workflow-type: tm+mt
-source-wordcount: '829'
-ht-degree: 100%
+source-wordcount: '846'
+ht-degree: 98%
 
 ---
 
@@ -19,8 +19,10 @@ Per caricare una o più risorse o una cartella contenente risorse, puoi utilizza
 * Trascina risorse o cartelle nell’interfaccia utente e segui le istruzioni visualizzate.
 * Fai clic sull’opzione **[!UICONTROL Aggiungi risorse]** nella barra degli strumenti e aggiungi alcuni file nella finestra di dialogo di caricamento.
 
-<!-- TBD: Update this GIF
-![Asset and nested folder upload demo](assets/do-not-localize/upload-assets.gif) -->
+<!-- 
+TBD: Update this GIF
+![Asset and nested folder upload demo](assets/do-not-localize/upload-assets.gif) 
+-->
 
 Puoi utilizzare uno di questi metodi per caricare le risorse dopo aver creato una cartella. Per creare una cartella vuota, fai clic su **[!UICONTROL Crea cartella]** nella barra degli strumenti. [!DNL Assets Essentials] offre una potente funzionalità di ricerca full-text ma puoi anche utilizzare le cartelle per organizzare meglio le risorse.
 
@@ -48,9 +50,9 @@ Per visualizzare un sottoinsieme di risorse in base all’avanzamento o allo sta
 
 *Figura: Filtrare le risorse da caricare in base allo stato o all’avanzamento del caricamento.*
 
-Non appena caricate, le risorse vengono elaborate da [!DNL Assets Essentials] per generare miniature ed elaorare i metadati. Per molte risorse, l’elaborazione richiede un po’ di tempo. Se non vedi una miniatura e sulla miniatura segnaposto compare un messaggio di elaborazione, controlla nuovamente la cartella dopo qualche minuto. Durante l’elaborazione, [!DNL Assets Essentials] genera anche le rappresentazioni, aggiunge tag avanzati e indicizza i dettagli della risorsa che verranno usati per le ricerche.
+Non appena caricate, le risorse vengono elaborate da [!DNL Assets Essentials] per generare miniature ed elaborare i metadati. Per molte risorse, l’elaborazione richiede un po’ di tempo. Se non vedi una miniatura e sulla miniatura segnaposto compare un messaggio di elaborazione, controlla nuovamente la cartella dopo qualche minuto. Durante l’elaborazione, [!DNL Assets Essentials] genera anche le rappresentazioni, aggiunge tag avanzati e indicizza i dettagli della risorsa che verranno usati per le ricerche.
 
-![Le risorse vengono elaborate al momento del caricamento e nelle relative sezioni compare la dicitura Elaborazione in corso](assets/upload-processing.png)
+![Le risorse vengono elaborate al momento del caricamento e nelle relative sezioni viene visualizzata la dicitura Elaborazione in corso](assets/upload-processing.png)
 
 *Figura: Sezioni delle risorse caricate, con la dicitura “Elaborazione in corso”.*
 
@@ -104,4 +106,4 @@ Gli utenti possono eliminare singole risorse o cartelle che non sono più necess
 
 * Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
 
-* Contatta il [Servizio clienti](https://experienceleague.adobe.com/it?support-solution=General&amp;lang=it#support)
+* Contatta il [Servizio clienti](https://experienceleague.adobe.com/it?support-solution=General#support)

@@ -3,21 +3,21 @@ title: Introduzione a [!DNL Assets Essentials]
 description: Gestisci le tue risorse con Experience Manager Assets Essentials, uno strumento leggero per la gestione delle risorse digitali che funziona nelle applicazioni Experience Cloud.
 role: User,Leader
 exl-id: 43ddf11c-36d3-4643-80c9-b7dd5d199450
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: 2ad90f931f84bf8e0ceb51e4e6450d36a7b31a03
 workflow-type: tm+mt
-source-wordcount: '621'
-ht-degree: 100%
+source-wordcount: '660'
+ht-degree: 97%
 
 ---
 
 # Panoramica di [!DNL Adobe Experience Manager Assets Essentials] {#assets-essentials}
 
-<!-- TBD: Update this banner to remove Beta label. 
+<!-- 
+TBD: Update this banner to remove Beta label. 
 ![Banner image for beta docs](assets/do-not-localize/banner-image-beta-docs.png)
-
 -->
 
-Adobe offre una solida soluzione di gestione delle risorse digitali (DAM) che consente di ottenere il massimo dalle risorse digitali. Adobe Experience Manager Assets Essentials è la soluzione Adobe leggera per la gestione delle risorse per archiviare, gestire, scoprire e utilizzare le risorse digitali.
+Adobe offre una solida soluzione di gestione delle risorse digitali (DAM) che consente di ottenere il massimo dalle risorse digitali. Adobe Experience Manager Assets Essentials è la soluzione Adobe leggera per la gestione delle risorse per archiviare, gestire, individuare e utilizzare le risorse digitali.
 
 ## Cos’è Assets Essentials? {#assets-essemtials-overview}
 
@@ -75,13 +75,13 @@ Per ulteriori informazioni, consulta [Integrazioni con altre soluzioni Adobe](in
 
 **Piattaforma basata su cloud**
 
-Basato sull’infrastruttura cloud di Adobe, Assets Essentials consente alle organizzazioni di concentrarsi sulle esigenze aziendali relative alla creazione, gestione e distribuzione delle risorse digitali. Inoltre, Adobe garantisce che la soluzione sia disponibile, sicura, scalabile e sempre aggiornata, con innovazioni di prodotto fornite in automatico tramite frequenti aggiornamenti.
+Basato sull’infrastruttura cloud di Adobe, Assets Essentials consente alle organizzazioni di concentrarsi sulle esigenze business relative alla creazione, gestione e distribuzione delle risorse digitali. Inoltre, Adobe garantisce che la soluzione sia disponibile, sicura, scalabile e sempre aggiornata, con innovazioni di prodotto fornite in automatico tramite frequenti aggiornamenti.
 
 **Funzionalità che crescono assieme a te**
 
 Inizia subito a usare Assets Essentials per sfruttare le funzionalità principali per la gestione delle risorse digitali tra i vari team.
 
-Quando le tue esigenze aziendali aumentano e hai bisogno di supporto per soddisfare requisiti avanzati di gestione delle risorse digitali, quali personalizzazioni, estensibilità e integrazioni, automazione, Dynamic Media e Brand Portal, Adobe offre anche [Adobe Experience Manager Assets as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=it).
+Quando le tue esigenze business aumentano e hai bisogno di supporto per soddisfare requisiti avanzati di gestione delle risorse digitali, quali personalizzazioni, estensibilità e integrazioni, automazione, Dynamic Media e Brand Portal, Adobe offre anche [Adobe Experience Manager Assets as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=it).
 
 
 ## Passaggi successivi {#next-steps}
@@ -90,7 +90,7 @@ Quando le tue esigenze aziendali aumentano e hai bisogno di supporto per soddisf
 
 * Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
 
-* Contatta il [Servizio clienti](https://experienceleague.adobe.com/it?support-solution=General&amp;lang=it#support)
+* Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&lang=it#support)
 
 
 >[!MORELIKETHIS]

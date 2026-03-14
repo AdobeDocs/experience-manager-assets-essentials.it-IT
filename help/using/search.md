@@ -3,10 +3,10 @@ title: Cercare e individuare le risorse in [!DNL Assets Essentials]
 description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 461773235cb2d27d334b5ceb23f959dc9a848716
+source-git-commit: 2ad90f931f84bf8e0ceb51e4e6450d36a7b31a03
 workflow-type: tm+mt
-source-wordcount: '2019'
-ht-degree: 98%
+source-wordcount: '2217'
+ht-degree: 95%
 
 ---
 
@@ -14,24 +14,24 @@ ht-degree: 98%
 <table>
     <tr>
         <td>
-            <img src="assets/new.gif" width="20px" height="25px" alt="nuovo">
+            <img src="assets/new.gif" width="20px" height="25px" alt="novità">
             <a href="https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b>Dynamic Media Prime e Ultimate</b></a>
         </td>
         <td>
-            <img src="assets/new.gif" width="20px" height="25px" alt="nuovo">
-            <a href="https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b>AEM Assets Ultimate</b></a>
+            <img src="assets/new.gif" width="20px" height="25px" alt="novità">
+            <a href="https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b>AEM Assets Ultimate</b></a>/
         </td>
         <td>
-            <img src="assets/new.gif" width="20px" height="25px" alt="nuovo">
+            <img src="assets/new.gif" width="20px" height="25px" alt="novità">
             <a href="http://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/integrate-aem-assets-edge-delivery-services"><b>Integrazione di AEM Assets con Edge Delivery Services</b></a>
         </td>
         <td>
-            <img src="assets/new.gif" width="20px" height="25px" alt="nuovo">
+            <img src="assets/new.gif" width="20px" height="25px" alt="novità">
             <a href="https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Estensibilità interfaccia utente</b></a>
         </td>
           <td>
-            <img src="assets/new.gif" width="20px" height="25px" alt="nuovo">
-            <a href="https://experienceleague.adobe.com/it/docs/experience-manager-assets-essentials/help/custom-search-filters"><b>Filtri di ricerca personalizzati</b></a>
+            <img src="assets/new.gif" width="20px" height="25px" alt="novità">
+            <a href="https://experienceleague.adobe.com/it/docs/experience-manager-assets-essentials/help/custom-search-filters"><b>Personalizzare i filtri di ricerca</b></a>
         </td>
     </tr>
     <tr>
@@ -61,7 +61,7 @@ ht-degree: 98%
 >abstract="Per cercare le risorse, puoi specificare una parola chiave nella barra di ricerca o filtrare le risorse in base al loro stato, al tipo di file, al tipo MIME, alla dimensione e alle date di creazione, modifica e scadenza. Oltre ai filtri standard, puoi anche applicare filtri personalizzati. Puoi salvare i risultati filtrati come Ricerca salvata o Raccolta avanzata."
 >additional-url="https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=it#manage-smart-collection" text="Creare Raccolte avanzate"
 
-[!DNL Assets Essentials] fornisce una funzione di ricerca efficace e attiva per impostazione predefinita. Si tratta di una ricerca full-text completa. La potente funzionalità di ricerca consente di trovare rapidamente la risorsa appropriata e velocizza le attività relative ai contenuti. [!DNL Assets Essentials] consente di effettuare ricerche full-text, anche nei metadati, quali tag avanzati, titolo, data di creazione e copyright.
+[!DNL Assets Essentials] fornisce una funzione di ricerca efficace e attiva per impostazione predefinita. Si tratta di una ricerca full-text completa. La potente funzionalità di ricerca consente di individuare rapidamente la risorsa appropriata e velocizza le attività relative ai contenuti. [!DNL Assets Essentials] consente di eseguire ricerche full-text, anche nei metadati, quali tag avanzati, titolo, data di creazione e copyright.
 
 Per cercare le risorse, effettua le operazioni seguenti:
 
@@ -179,7 +179,7 @@ Per generare nuove risorse tramite [!DNL Adobe Firefly]:
 
    ![Integrazione di Firefly](assets/firefly-integration.png)
 
-   Le nuove risorse sono state generate correttamente. È, inoltre, possibile modificare la descrizione dell’immagine immettendo il nuovo prompt di testo nella casella Descrizione. [Scopri come scrivere un prompt IA corretto per generare contenuti straordinari e rilevanti.](https://helpx.adobe.com/it/firefly/using/tips-and-tricks.html) In alternativa, è possibile [modificare l’immagine con varie altre funzionalità, ad esempio cambiando lo stile, le dimensioni dell’immagine e altro ancora.](https://helpx.adobe.com/it/firefly/using/text-to-image.html)
+   Le nuove risorse sono state generate correttamente. È inoltre possibile modificare la descrizione dell&#39;immagine digitando il nuovo prompt di testo nella casella descrizione. [Scopri come scrivere un buon prompt di intelligenza artificiale per generare contenuti straordinari e rilevanti.](https://helpx.adobe.com/it/firefly/using/tips-and-tricks.html) In alternativa, è possibile [modificare l&#39;immagine con varie altre funzionalità, ad esempio la modifica dello stile, delle dimensioni dell&#39;immagine e altro ancora.](https://helpx.adobe.com/it/firefly/using/text-to-image.html)
 
    ![Integrazione di Firefly](assets/bugatti-type-57.png)
 
@@ -213,7 +213,8 @@ Per salvare una ricerca, cerca le risorse, applica uno o più filtri e fai clic 
 
 ![Crea raccolta avanzata](assets/create-smart-collection.png)
 
-<!-- TBD: Search behavior. Full-text search. Ranking and rank boosts. Hidden assets.
+<!--
+TBD: Search behavior. Full-text search. Ranking and rank boosts. Hidden assets.
 Report poor UX that users can only save a filtered search and not a simple search.
 .
 Are other supported files fully indexed and support full-text search? Eg. audio/videos files can at best have metadata indexed.
@@ -279,7 +280,7 @@ Per configurare la pagina Home Cerca prima, esegui i passaggi seguenti:
 
 1. Accedi alla sezione **[!UICONTROL Immagine di sfondo e logo]** nella **[!UICONTROL pagina Home]**.
 1. Fai clic su **[!UICONTROL Sostituisci]** per sfogliare le immagini dell’archivio delle risorse esistenti.
-1. Fai clic su **[!UICONTROL Salva]**. Visualizza l’[anteprima](#preview-configured-homepage) delle modifiche per esaminarle.
+1. Fai clic su **[!UICONTROL Salva]**. [Anteprima](#preview-configured-homepage) delle modifiche per esaminarle.
 
 ### Visualizzare l’anteprima della pagina Home configurata {#preview-configured-homepage}
 
@@ -293,7 +294,7 @@ Per configurare la pagina Home Cerca prima, esegui i passaggi seguenti:
 
 ## Ricerca contestuale {#contextual-search}
 
-Puoi anche cercare le risorse disponibili nell’archivio definendo prompt di testo. Experience Manager Assets trasforma automaticamente i prompt di testo in filtri di ricerca e visualizza i risultati della ricerca. È possibile visualizzare e modificare i filtri automatici utilizzando il riquadro Filtri per limitare ulteriormente i risultati della ricerca.
+Puoi anche cercare le risorse disponibili nell’archivio definendo prompt di testo. Experience Manager Assets trasforma automaticamente questi prompt di testo in filtri di ricerca e ne visualizza i risultati. È possibile visualizzare e modificare i filtri automatici utilizzando il riquadro Filtri per limitare ulteriormente i risultati della ricerca.
 
 ### Accedere alla ricerca contestuale {#access-contextual-search}
 
@@ -368,7 +369,7 @@ Gli amministratori possono inoltre disabilitare la ricerca contestuale per gli u
 
 1. Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Impostazioni generali]**.
 
-1. Nella sezione [!UICONTROL Ricerca contestuale], disabilita l’interruttore **[!UICONTROL Abilita la ricerca contestuale per l’organizzazione]** per disabilitare la funzione di ricerca contestuale per tutti gli utenti dell’organizzazione.
+1. Nella sezione [!UICONTROL Ricerca contestuale], disabilita il pulsante di attivazione **[!UICONTROL Abilita la ricerca contestuale per l’organizzazione]** per disabilitare la funzione di ricerca contestuale per tutti gli utenti dell’organizzazione.
 
 ### Feedback sulla ricerca contestuale {#contextual-search-feedback}
 
@@ -385,5 +386,5 @@ Per fornire un feedback sulla funzione di ricerca contestuale, fai clic sull’i
 
 * Fornisci feedback sulla documentazione utilizzando [!UICONTROL Modifica questa pagina], ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema], ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibili sulla barra laterale a destra.
 
-* Contatta il [Servizio clienti](https://experienceleague.adobe.com/it?support-solution=General&lang=it#support)
+* Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&lang=it#support)
 
