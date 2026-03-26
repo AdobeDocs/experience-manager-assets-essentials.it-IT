@@ -7,4 +7,4 @@ ht-degree: 0%
 ---
 # ARCHIVIATO
 
-Questo archivio è stato migrato a <https://github.com/Adobe-Enterprise-Docs/experience-manager-assets-essentials.en>
+Questo archivio è stato migrato a <https://github.com/Adobe-Enterprise-Docs/experience-manager-assets-essentials.it-IT>
