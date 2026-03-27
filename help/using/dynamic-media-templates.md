@@ -6,8 +6,8 @@ role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
 source-git-commit: 8bf4babf2fefb8735b14eb4d4cb08205c54a77bb
 workflow-type: tm+mt
-source-wordcount: '2810'
-ht-degree: 2%
+source-wordcount: '3000'
+ht-degree: 6%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 2%
 >abstract="Crea e personalizza banner di immagini e testo all’istante, con un’interfaccia WYSIWYG di facile utilizzo e incorpora l’URL di Dynamic Media in qualsiasi applicazione di prime o terze parti, per promuovere esperienze altamente coinvolgenti. Provalo."
 >additional-url="https://images-tv.adobe.com/mpcv3/4477/b74738ca-888c-4a37-9a9e-14fabd68ee45_1738206841.854x480at800_h264.mp4" text="Guarda il video"
 
-Crea modelli Dynamic Media tramite un editor di modelli WYSIWYG e includi più immagini e livelli di testo per creare rapidamente banner e volantini e utilizzarli nelle applicazioni a valle. Puoi anche aggiungere parametri alle immagini e ai livelli di testo inclusi nel modello e utilizzare [URL Dynamic Media](https://experienceleague.adobe.com/it/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media) per aggiornare i valori per tali livelli in tempo reale.
+Crea modelli Dynamic Media tramite un editor di modelli WYSIWYG e includi più immagini e livelli di testo per creare rapidamente banner e volantini e utilizzarli nelle applicazioni a valle. Puoi anche aggiungere parametri alle immagini e ai livelli di testo inclusi nel modello e utilizzare [URL Dynamic Media](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media) per aggiornare i valori per tali livelli in tempo reale.
 
 Alcune delle caratteristiche principali includono:
 
@@ -34,7 +34,7 @@ Alcune delle caratteristiche principali includono:
 
 Alcuni dei vantaggi principali dei modelli Dynamic Media includono:
 
-* **Ottimizza Personalization 1:1:** Personalizza il contenuto per i segnali dei clienti in tempo reale.
+* **Ottimizzare 1:1 Personalization:** Personalizzare il contenuto ai segnali dei clienti in tempo reale.
 * **Riduzione dello sforzo manuale:** Automatizzazione e accelerazione della creazione e della gestione dei contenuti.
 * **Assicurare Esperienze omnicanale coerenti:** Mantenere la coerenza del brand tra i canali.
 * **Riutilizzare il contenuto in modo efficace:** evitare contenuti monouso e scalare con modelli dinamici con parametri.
@@ -109,7 +109,7 @@ Fai clic su ![modello per creare rapidamente i volantini](/help/using/assets/sho
 
 Per aggiungere immagini all’area di lavoro, effettua le seguenti operazioni:
 
-1. Fai clic su ![crea un banner in poco tempo](/help/using/assets/add-image.svg) per visualizzare il pannello [Selettore risorse](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/manage/asset-selector/overview-asset-selector). Il pannello mostra le immagini dell’istanza di AEM Assets che sono sincronizzate con Dynamic Media.
+1. Fai clic su ![crea un banner in poco tempo](/help/using/assets/add-image.svg) per visualizzare il pannello [Selettore risorse](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/asset-selector/overview-asset-selector). Il pannello mostra le immagini dell’istanza di AEM Assets che sono sincronizzate con Dynamic Media.
 1. Sfoglia il pannello o usa le parole chiave nella barra di ricerca per trovare un’immagine specifica.
 1. Trascina e rilascia un’immagine nell’area di lavoro per utilizzarla. Vedere il [**[!UICONTROL pannello Proprietà]**](#reposition-resize-delete-a-layer) per ridimensionare o riposizionare un livello nell&#39;area di lavoro.
    ![crea un banner in pochi secondi](/help/using/assets/add-image-to-canvas.png)
@@ -166,7 +166,7 @@ Per modificare un livello testo o immagine, consulta le seguenti azioni di modif
 
 Formatta il testo con il carattere, le dimensioni, il colore, lo stile e l&#39;allineamento desiderati (nel livello) modificandone i valori nei rispettivi campi nella sezione **[!UICONTROL Testo]** del pannello.
 
-**[!UICONTROL Ridimensionamento automatico del testo]** Assicurarsi di includere **[!UICONTROL Ridimensionamento automatico del testo]** ([Adattamento al testo](https://experienceleague.adobe.com/it/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/http-protocol-reference/text-formatting/r-copy-fitting)) per adattarlo in modo ottimale a qualsiasi testo nell&#39;area designata, modificandone in modo intelligente la dimensione e la lunghezza del carattere. Questa funzionalità impedisce l&#39;overflow del testo o riduce al minimo gli spazi in eccesso nella parte inferiore.
+**[!UICONTROL Ridimensionamento automatico del testo]** Assicurarsi di includere **[!UICONTROL Ridimensionamento automatico del testo]** ([Adattamento al testo](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/http-protocol-reference/text-formatting/r-copy-fitting)) per adattarlo in modo ottimale a qualsiasi testo nell&#39;area designata, modificandone in modo intelligente la dimensione e la lunghezza del carattere. Questa funzionalità impedisce l&#39;overflow del testo o riduce al minimo gli spazi in eccesso nella parte inferiore.
 ![creazione contenuto in pochissimo tempo](/help/using/assets/smart-text-resize.png)
 
 ### Livelli parametrizzati {#parameterise-a-layer}
@@ -189,19 +189,19 @@ Le proprietà con parametri possono essere incluse come parametri URL nell’URL
 **Parametri immagine:**
 
 **X:** includere per spostare il livello orizzontalmente lungo la sua linea centrale, parallelamente all&#39;asse X del piano del modello, modificando il valore del parametro nell&#39;URL.
-**Y:** includere per spostare il livello verticalmente lungo la linea centrale, parallelamente all&#39;asse Y del piano del modello, modificando il valore del parametro nell&#39;URL.
+**Y:** Includere per spostare il livello verticalmente lungo la linea centrale, parallelamente all&#39;asse Y del piano del modello, modificando il valore del parametro nell&#39;URL.
 **Larghezza:** Includere per regolare la larghezza del livello modificando il valore del parametro nell&#39;URL.
 **Altezza:** Includere per regolare l&#39;altezza del livello modificando il valore del parametro nell&#39;URL.
 **Nascondi:** Includi per nascondere o mostrare il livello nel modello utilizzando 0 (mostra) e 1 (nascondi).
-**Source:** Includi per sostituire l&#39;immagine del livello con una nuova immagine modificando il percorso dell&#39;immagine nel valore del parametro nell&#39;URL.
+**Source:** Includere per sostituire l&#39;immagine del livello con una nuova immagine modificando il percorso dell&#39;immagine nel valore del parametro nell&#39;URL.
 
 **Parametri di formattazione del testo:**
 
 Includi i seguenti parametri per modificare il testo, il relativo font, colore e dimensione, dall’URL aggiornando i valori dei parametri nell’URL.
 
 **Testo:** Includere per aggiornare il testo dall&#39;URL.
-**Famiglia font:** Includere per aggiornare il font del testo dall&#39;URL.
-**Dimensione carattere:** Includere per aggiornare la dimensione del carattere del testo dall&#39;URL.
+**Famiglia di font:** Includere per aggiornare il font del testo dall&#39;URL.
+**Dimensione font:** Includere per aggiornare la dimensione font del testo dall&#39;URL.
 **Colore testo:** Includere per aggiornare il colore del carattere del testo dall&#39;URL.
 
 ### Raggruppare i livelli per controllarne contemporaneamente la visibilità{#group-layers}
@@ -247,7 +247,7 @@ I parametri selezionati nella pagina **[!UICONTROL Anteprima]** diventano i para
 
 Per copiare l’URL del modello pubblicato visualizzato nell’anteprima:
 
-1. Fare clic su **[!UICONTROL Copia URL]**. Viene visualizzata la finestra di dialogo **[!UICONTROL Copia URL]**. Seleziona e copia l’URL visualizzato. Il primo parametro nell&#39;URL inizia dopo un punto interrogativo **(?)** e una coppia chiave-valore iniziano con **$** e terminano con **&amp;**. La chiave e il valore sono separati da un segno di uguale **(=)**, con la chiave a sinistra e il valore a destra.
+1. Fare clic su **[!UICONTROL Copia URL]**. Viene visualizzata la finestra di dialogo **[!UICONTROL Copia URL]**. Seleziona e copia l’URL visualizzato. Il primo parametro nell&#39;URL inizia dopo un punto interrogativo **(?)** e una coppia chiave-valore inizia con **$** e termina con **&amp;**. La chiave e il valore sono separati da un segno di uguale **(=)**, con la chiave a sinistra e il valore a destra.
 1. Incolla questo URL nella scheda del browser e visualizza il modello live. Personalizza il modello in tempo reale aggiornando il valore del parametro richiesto (valore della chiave) nell&#39;URL direttamente come mostrato nel [passaggio 2](#preview-and-publish-template-and-copy-template-deliver-url) della sezione **Anteprima e pubblicazione**.
 1. Utilizza questo URL per accelerare il merchandising dei tuoi prodotti o servizi. Puoi condividere questo URL con i clienti o integrarlo nel tuo sito web o in qualsiasi applicazione di terze parti a valle per visualizzare il banner e aggiornarlo in tempo reale per riflettere le offerte in corso.
 
@@ -287,5 +287,5 @@ Modifica il modello seguendo questi passaggi:
 
 ## Consulta anche
 
-1. Esplora [Dynamic Media e le relative funzionalità](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media)
+1. Esplora [Dynamic Media e le relative funzionalità](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media)
 1. Esplora [Dynamic Media con funzionalità OpenAPI](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview)

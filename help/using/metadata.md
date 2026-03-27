@@ -53,7 +53,7 @@ I tag avanzati contengono anche un punteggio di affidabilità in percentuale. In
 
 ## Aggiungere o aggiornare le parole chiave {#manually-tag}
 
-Puoi aggiungere più tag alle risorse, oltre ai tag avanzati che vengono aggiunti automaticamente utilizzando servizio intelligente [!DNL Adobe Sensei]. Apri una risorsa per l’anteprima, fai clic su [!UICONTROL Tag] e digita le parole chiave desiderate nel campo [!UICONTROL Parole chiave]. Per aggiungere il tag, premete Invio. [!DNL Assets Essentials] indicizza la parola chiave quasi in tempo reale e il tuo team può presto cercare le risorse aggiornate utilizzando le nuove parole chiave.
+Puoi aggiungere più tag alle risorse, oltre ai tag avanzati che vengono aggiunti automaticamente utilizzando servizio intelligente [!DNL Adobe Sensei]. Apri una risorsa per l’anteprima, fai clic su [!UICONTROL Tag] e digita le parole chiave desiderate nel campo [!UICONTROL Parole chiave]. Per aggiungere il tag, premi Invio. [!DNL Assets Essentials] indicizza la parola chiave quasi in tempo reale e il tuo team può presto cercare le risorse aggiornate utilizzando le nuove parole chiave.
 
 Dalla sezione [!UICONTROL Tag avanzati] puoi anche rimuovere i tag aggiunti automaticamente da [!DNL Assets Essentials] a tutte le risorse caricate.
 
@@ -128,10 +128,10 @@ Di seguito è riportata una panoramica di ciascun tipo di proprietà e della rel
 | Casella di selezione | Aggiungi un valore booleano. Memorizzato come TRUE o FALSE dopo il salvataggio di un valore. |
 | Data | Aggiungi un componente data. |
 | Elenchi a discesa | Aggiungi un elenco a discesa. |
-| Stato | Aggiungere la proprietà di stato del repository (mappata al repository:state) |
+| Stato | Aggiungi la proprietà dello stato del repository (mappata al repository:state) |
 | Stato risorsa | Aggiungi la proprietà predefinita Stato risorsa (mappata a dam:assetStatus) |
 | Tag | Aggiungere un tag dai valori archiviati in Gestione tassonomia (mappato a xcm:tags). |
-| Parole chiave | Aggiungi parole chiave in formato libero (mappate a dc:subject). |
+| Parole chiave | Aggiungere parole chiave in formato libero (mappate a dc:subject). |
 | Tag avanzati | Migliora le funzionalità di ricerca aggiungendo automaticamente tag di metadati. |
 | Collegamento | Aggiungi per abilitare URL esterni. Una volta configurato nel modulo metadati, il componente URL può essere mappato a una specifica proprietà di metadati nella pagina dell’editor di metadati. Questo [modulo metadati può essere assegnato alle cartelle](#assign-metadata-form-folder). |
 
@@ -213,13 +213,13 @@ Per visualizzare i tag principali configurati, passa alla pagina dei dettagli de
 
 ## Passaggi successivi {#next-steps}
 
-* [Guarda un video per gestire i moduli di metadati negli Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=it)
+* [Guarda un video su come gestire i moduli di metadati in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=it)
 
 * Fornisci feedback sui prodotti utilizzando l’opzione [!UICONTROL Feedback] disponibile nell’interfaccia utente di Assets Essentials
 
 * Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
 
-* Contatta il [Servizio clienti](https://experienceleague.adobe.com/it?support-solution=General&lang=it#support)
+* Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&lang=it#support)
 
 <!-- 
 TBD: Cannot create a form using the second option. Documenting only the first option for now.

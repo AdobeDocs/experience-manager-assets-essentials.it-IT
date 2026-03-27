@@ -4,8 +4,8 @@ description: Scopri come gestire i tag in Assets Essentials. I tag consentono di
 exl-id: da9e8d56-c190-4006-9579-c3c8401c5e5f
 source-git-commit: eef4aec6f67700d0a5b096577b9637d96949b488
 workflow-type: tm+mt
-source-wordcount: '1748'
-ht-degree: 100%
+source-wordcount: '1770'
+ht-degree: 97%
 
 ---
 
@@ -35,11 +35,11 @@ L’assegnazione tag offre molti vantaggi, ad esempio:
 
 * I tag gestiti in Assets as a Cloud Service rimangono sincronizzati con i tag gestiti in Assets Essentials garantendo la governance e l’integrità dei metadati.
 
-Per poter applicare tag alle risorse, è necessario prima creare uno spazio dei nomi, quindi creare e aggiungervi i tag. È possibile anche creare dei tag e aggiungerli a uno spazio dei nomi esistente. Tutti i tag creati a livello di radice vengono aggiunti automaticamente allo spazio dei nomi Tag standard. È possibilie quindi aggiungere il campo Tag al modulo dei metadati in modo che venga visualizzato nella pagina dei dettagli della risorsa. Dopo aver configurato queste impostazioni, puoi iniziare ad applicare i tag alle risorse.
+Per poter applicare tag alle risorse, è necessario prima creare uno spazio dei nomi, quindi creare e aggiungervi i tag. È possibile anche creare dei tag e aggiungerli a uno spazio dei nomi esistente. Tutti i tag creati a livello di radice vengono aggiunti automaticamente allo spazio dei nomi Tag standard. È possibile quindi aggiungere il campo Tag al modulo metadati in modo che venga visualizzato nella pagina dei dettagli della risorsa. Dopo aver configurato queste impostazioni, puoi iniziare ad applicare i tag alle risorse.
 
 >[!NOTE]
 >
->È necessario aggiungere il campo Tag al modulo dei metadati solo se non si utilizza il modulo dei metadati predefinito.
+>È necessario aggiungere il campo Tag al modulo metadati solo se non si utilizza il modulo metadati predefinito.
 
 ![Gestione dell’assegnazione tag](assets/tagging-taxonomy-management.png)
 
@@ -129,9 +129,9 @@ Per eliminare i tag, effettua le seguenti operazioni:
 
 ## Aggiungere il componente Tag al modulo Metadati {#add-tags-to-metadata-form}
 
-Il componente Tag viene aggiunto al modulo metadati `default` automaticamente. Puoi progettare un [modulo metadati](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=it#metadata-forms) utilizzando un modello o da zero. Se non utilizzi un modello di modulo Metadati esistente, puoi modificare il modulo Metadati e aggiungere il componente Tag. La mappatura della proprietà dei metadati viene compilata automaticamente e non può essere modificata in questo momento. Gli utenti di [!DNL Assets as a Cloud Service] possono aggiornare la mappatura per memorizzare i valori dei tag utilizzando spazi dei nomi personalizzati ed esporre solo sottoinsiemi di gerarchie utilizzando percorsi principali.
+Il componente Tag viene aggiunto al modulo metadati `default` automaticamente. Puoi progettare un [modulo metadati](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=it#metadata-forms) utilizzando un modello o da zero. Se non utilizzi un modello per moduli Metadati esistente, puoi modificare il modulo Metadati e aggiungere il componente Tag. La mappatura della proprietà dei metadati viene compilata automaticamente e non può essere modificata in questo momento. [!DNL Assets as a Cloud Service] gli utenti possono aggiornare la mappatura per memorizzare i valori dei tag utilizzando spazi dei nomi personalizzati ed esporre solo sottoinsiemi di gerarchie utilizzando percorsi principali.
 
-Guarda questo video rapido per vedere come aggiungere il componente Tag al modulo di metadati:
+Guarda questo video rapido per vedere come aggiungere il componente Tag al modulo metadati:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420452)
 
@@ -148,7 +148,7 @@ I tag modificati in Assets Essentials vengono applicati anche in Assets as a Clo
 
 ## Aggiungere tag nell’elenco Bloccati {#blocklist-essentials}
 
-[!DNL Assets Essentials] consente di definire l’elenco Bloccati per le parole che non devono essere aggiunte come tag avanzati alle risorse quando vengono caricate nell’archivio. Questa funzionalità consente di mantenere la conformità al marchio e di ridurre gli sforzi nella moderazione dei tag avanzati.
+[!DNL Assets Essentials] consente di definire un elenco Bloccati per le parole che non devono essere aggiunte come tag avanzati alle risorse che vengono caricate nell’archivio. Questa funzionalità consente di mantenere la conformità al marchio e di ridurre il lavoro associato alla moderazione dei tag avanzati.
 
 <!--
 ### Block smart tags for single asset {#block-smart-tags-for-single-asset}

@@ -4,7 +4,7 @@ description: L’area di lavoro personale è una pagina che offre moduli visivi 
 exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
 source-git-commit: 21db2f77de3245f6fa40964b64ec8ac2c45d13e9
 workflow-type: tm+mt
-source-wordcount: '741'
+source-wordcount: '743'
 ht-degree: 100%
 
 ---
@@ -84,7 +84,7 @@ Tutti i widget vengono visualizzati per impostazione predefinita, ma è possibil
 
 1. Fai clic su **[!UICONTROL Area di lavoro personale]** disponibile nel riquadro di navigazione a sinistra e fai clic su **[!UICONTROL Personalizza]**.
 
-1. Disattiva l’interruttore per il widget che non è necessario visualizzare nell’area di lavoro. Puoi anche trascinare un widget in una posizione appropriata per aggiornare l’ordine di visualizzazione nell’area di lavoro.
+1. Disattiva il pulsante di attivazione per il widget che non è necessario visualizzare nell’area di lavoro. Puoi anche trascinare un widget in una posizione appropriata per aggiornare l’ordine di visualizzazione nell’area di lavoro.
 
 1. Per salvare le modifiche, fai clic su **[!UICONTROL Completati]**.
 

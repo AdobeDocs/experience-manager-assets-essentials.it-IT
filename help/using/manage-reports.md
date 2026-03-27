@@ -3,9 +3,9 @@ title: Gestire i rapporti in Assets Essentials
 description: Accedi ai dati nella sezione dei rapporti di Assets Essentials per valutare l’utilizzo di prodotti e funzionalità e ottenere informazioni approfondite sulle metriche di successo chiave.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 810bb62cd5eb664e36a6ea267050dd025828e900
-workflow-type: ht
-source-wordcount: '1226'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '1243'
+ht-degree: 96%
 
 ---
 
@@ -125,7 +125,7 @@ L’ambiente AEM Assets Essentials offre funzionalità di reporting complete tra
 ## Visualizzare e scaricare il rapporto esistente {#View-and-download-existing-report}
 
 I rapporti esistenti vengono visualizzati nella scheda **Rapporti eseguiti**. Fai clic su **Rapporti** e seleziona **Rapporti eseguiti** per visualizzare tutti i rapporti creati con lo stato **Completati**, indicando che sono pronti per il download. Per scaricare il rapporto in formato CSV o eliminarlo, seleziona la riga del rapporto e seleziona **Scarica CSV** o **Elimina**.
-![visualizzare e scaricare i rapporti esistenti](/help/using/assets/view-download-existing-report.png)
+![visualizza e scarica i report esistenti](/help/using/assets/view-download-existing-report.png)
 
 ## Pianificare un rapporto {#schedule-report}
 
@@ -151,7 +151,7 @@ Per pianificare un rapporto, effettua le seguenti operazioni:
 ## Visualizzare rapporti pianificati {#view-scheduled-reports}
 
 I rapporti pianificati vengono visualizzati nella scheda **Rapporti pianificati** in modo ben organizzato. Tutti i rapporti completati per ogni rapporto pianificato vengono memorizzati in una singola cartella di rapporto. Fai clic su ![espandi comprimi](/help/using/assets/expand-icon1.svg) per visualizzare i rapporti completati. Ad esempio, se hai pianificato un rapporto giornaliero, tutti i rapporti completati sono raggruppati in un’unica cartella. Questa organizzazione semplifica sia la navigazione che la reperibilità dei rapporti. Per visualizzare i rapporti pianificati, fai clic su **Rapporti** e quindi su **Rapporti pianificati**. Vengono visualizzati tutti i rapporti pianificati con il relativo stato in corso o completato. I rapporti completati sono pronti per il download.
-![rapporti pianificati](/help/using/assets/scheduled-reports-tab.png)
+![report pianificato](/help/using/assets/scheduled-reports-tab.png)
 
 ## Modificare e annullare i rapporti pianificati {#edit-cancel-scheduled-reports}
 
@@ -163,14 +163,14 @@ I rapporti pianificati vengono visualizzati nella scheda **Rapporti pianificati*
 
 ### Riprendi pianificazione {#resume-schedule}
 
-Per riprendere la pianificazione annullata, seleziona la riga del rapporto e fai clic su **Riprendi pianificazione**. Quando viene ripresa, le voci di runtime successive vengono nuovamente visualizzate e lo stato è su In corso.
+Per riprendere la pianificazione annullata, seleziona la riga del rapporto e fai clic su **Riprendi pianificazione**. Quando viene ripresa, le voci di runtime successive vengono nuovamente visualizzate e lo stato è Continua.
 ![riprendi pianificazione](/help/using/assets/resume-schedule.png)
 
 >[!NOTE]
 >
 > Se si riprende un rapporto annullato prima della data di fine pianificata, vengono generati automaticamente i rapporti dalla data di annullamento alla data di ripresa.
 
-## Visualizzare gli insight {#view-live-statistics}
+## Visualizzare gli approfondimenti {#view-live-statistics}
 
 >[!CONTEXTUALHELP]
 >id="assets_reports"
@@ -205,9 +205,9 @@ Fai clic su **[!UICONTROL Insight]** nel riquadro di navigazione a sinistra per 
    ![Insights](assets/insights2.png)
    -->
 
-* **Conteggio risorse per dimensione:** suddivide il numero totale delle risorse nell’ambiente Assets Essentials in intervalli di dimensioni diversi, evidenziando il conteggio e la percentuale delle risorse in ciascun intervallo di dimensioni, rappresentate utilizzando un grafico ad anello.
+* **Numero di risorse per dimensione:** suddivide il numero totale di risorse nell’ambiente Assets Essentials in intervalli di dimensioni diversi, evidenziando il conteggio e la percentuale delle risorse in ciascun intervallo di dimensioni, rappresentate utilizzando un grafico ad anello.
   ![insights-assets-count-by-size](/help/using/assets/insights-assets-count-by-size.svg)
 
-* **Conteggio risorse per tipo di risorsa:** suddivide il numero totale delle risorse nell’ambiente Assets Essentials, evidenziando il conteggio e la percentuale delle risorse in base ai relativi tipi di file, rappresentati da un grafico ad anello.
+* **Numero di risorse per tipo di risorsa:** suddivide il numero totale di risorse nell’ambiente Assets Essentials, evidenziando il conteggio e la percentuale delle risorse in base ai relativi tipi di file, rappresentati da un grafico ad anello.
   ![insights-assets-count-by-size](/help/using/assets/insights-assest-count-by-asset-type1.svg)
 

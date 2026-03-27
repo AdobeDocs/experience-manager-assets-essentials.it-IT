@@ -4,8 +4,8 @@ description: Modifica le immagini utilizzando le opzioni basate su [!DNL Adobe E
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: 53f638e0dc934f2a4134acb89713b5d4828c8d1f
-workflow-type: ht
-source-wordcount: '1182'
+workflow-type: tm+mt
+source-wordcount: '1258'
 ht-degree: 100%
 
 ---
@@ -151,7 +151,7 @@ The brush samples the retouched area and makes the repaired pixels blend seamles
 
 <!-- 
 TBD: See if we should give backlinks to PS docs for these concepts.
-For more information about how Spot Healing works in Photoshop, see [retouching and repairing photos](https://helpx.adobe.com/it/photoshop/using/retouching-repairing-images.html). 
+For more information about how Spot Healing works in Photoshop, see [retouching and repairing photos](https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html). 
 -->
 <!--
 ### Crop and straighten images {#crop-straighten-images-using-photoshop-express}
@@ -194,7 +194,7 @@ TBD: Insert a video of the available social media options.
 
 * Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
 
-* Contatta il [Servizio clienti](https://experienceleague.adobe.com/it?support-solution=General&amp;lang=it#support)
+* Contatta il [Servizio clienti](https://experienceleague.adobe.com/it?support-solution=General#support)
 
 >[!MORELIKETHIS]
 >
