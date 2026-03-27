@@ -6,8 +6,8 @@ role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
 source-git-commit: 8bf4babf2fefb8735b14eb4d4cb08205c54a77bb
 workflow-type: tm+mt
-source-wordcount: '2810'
-ht-degree: 2%
+source-wordcount: '3000'
+ht-degree: 6%
 
 ---
 
@@ -34,7 +34,7 @@ Alcune delle caratteristiche principali includono:
 
 Alcuni dei vantaggi principali dei modelli Dynamic Media includono:
 
-* **Ottimizza Personalization 1:1:** Personalizza il contenuto per i segnali dei clienti in tempo reale.
+* **Ottimizzare 1:1 Personalization:** Personalizzare il contenuto ai segnali dei clienti in tempo reale.
 * **Riduzione dello sforzo manuale:** Automatizzazione e accelerazione della creazione e della gestione dei contenuti.
 * **Assicurare Esperienze omnicanale coerenti:** Mantenere la coerenza del brand tra i canali.
 * **Riutilizzare il contenuto in modo efficace:** evitare contenuti monouso e scalare con modelli dinamici con parametri.
@@ -189,19 +189,19 @@ Le proprietà con parametri possono essere incluse come parametri URL nell’URL
 **Parametri immagine:**
 
 **X:** includere per spostare il livello orizzontalmente lungo la sua linea centrale, parallelamente all&#39;asse X del piano del modello, modificando il valore del parametro nell&#39;URL.
-**Y:** includere per spostare il livello verticalmente lungo la linea centrale, parallelamente all&#39;asse Y del piano del modello, modificando il valore del parametro nell&#39;URL.
+**Y:** Includere per spostare il livello verticalmente lungo la linea centrale, parallelamente all&#39;asse Y del piano del modello, modificando il valore del parametro nell&#39;URL.
 **Larghezza:** Includere per regolare la larghezza del livello modificando il valore del parametro nell&#39;URL.
 **Altezza:** Includere per regolare l&#39;altezza del livello modificando il valore del parametro nell&#39;URL.
 **Nascondi:** Includi per nascondere o mostrare il livello nel modello utilizzando 0 (mostra) e 1 (nascondi).
-**Source:** Includi per sostituire l&#39;immagine del livello con una nuova immagine modificando il percorso dell&#39;immagine nel valore del parametro nell&#39;URL.
+**Source:** Includere per sostituire l&#39;immagine del livello con una nuova immagine modificando il percorso dell&#39;immagine nel valore del parametro nell&#39;URL.
 
 **Parametri di formattazione del testo:**
 
 Includi i seguenti parametri per modificare il testo, il relativo font, colore e dimensione, dall’URL aggiornando i valori dei parametri nell’URL.
 
 **Testo:** Includere per aggiornare il testo dall&#39;URL.
-**Famiglia font:** Includere per aggiornare il font del testo dall&#39;URL.
-**Dimensione carattere:** Includere per aggiornare la dimensione del carattere del testo dall&#39;URL.
+**Famiglia di font:** Includere per aggiornare il font del testo dall&#39;URL.
+**Dimensione font:** Includere per aggiornare la dimensione font del testo dall&#39;URL.
 **Colore testo:** Includere per aggiornare il colore del carattere del testo dall&#39;URL.
 
 ### Raggruppare i livelli per controllarne contemporaneamente la visibilità{#group-layers}
@@ -247,7 +247,7 @@ I parametri selezionati nella pagina **[!UICONTROL Anteprima]** diventano i para
 
 Per copiare l’URL del modello pubblicato visualizzato nell’anteprima:
 
-1. Fare clic su **[!UICONTROL Copia URL]**. Viene visualizzata la finestra di dialogo **[!UICONTROL Copia URL]**. Seleziona e copia l’URL visualizzato. Il primo parametro nell&#39;URL inizia dopo un punto interrogativo **(?)** e una coppia chiave-valore iniziano con **$** e terminano con **&amp;**. La chiave e il valore sono separati da un segno di uguale **(=)**, con la chiave a sinistra e il valore a destra.
+1. Fare clic su **[!UICONTROL Copia URL]**. Viene visualizzata la finestra di dialogo **[!UICONTROL Copia URL]**. Seleziona e copia l’URL visualizzato. Il primo parametro nell&#39;URL inizia dopo un punto interrogativo **(?)** e una coppia chiave-valore inizia con **$** e termina con **&amp;**. La chiave e il valore sono separati da un segno di uguale **(=)**, con la chiave a sinistra e il valore a destra.
 1. Incolla questo URL nella scheda del browser e visualizza il modello live. Personalizza il modello in tempo reale aggiornando il valore del parametro richiesto (valore della chiave) nell&#39;URL direttamente come mostrato nel [passaggio 2](#preview-and-publish-template-and-copy-template-deliver-url) della sezione **Anteprima e pubblicazione**.
 1. Utilizza questo URL per accelerare il merchandising dei tuoi prodotti o servizi. Puoi condividere questo URL con i clienti o integrarlo nel tuo sito web o in qualsiasi applicazione di terze parti a valle per visualizzare il banner e aggiornarlo in tempo reale per riflettere le offerte in corso.
 

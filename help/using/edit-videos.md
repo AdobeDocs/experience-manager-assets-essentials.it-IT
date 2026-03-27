@@ -5,14 +5,14 @@ role: User
 exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
 source-git-commit: a9ef92194f55da9ad5352adf4251c85e3abcdcd1
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '841'
 ht-degree: 24%
 
 ---
 
 # Modifica video in [!DNL Assets Essentials] {#edit-videos}
 
-La creazione di varianti di contenuti video è semplice per gli utenti di Assets, grazie alle [!DNL Adobe Express] azioni rapide incorporate per i video. Le azioni rapide in [!DNL Assets Essentials] con tecnologia [!DNL Adobe Express] forniscono opzioni di modifica video intuitive, tra cui ritaglia video, ridimensiona video, taglia video e converti video in GIF.
+La creazione di varianti di contenuti video è semplice per gli utenti di Assets, grazie alle [!DNL Adobe Express] azioni rapide incorporate per i video. Le azioni rapide in [!DNL Assets Essentials] con tecnologia [!DNL Adobe Express] forniscono opzioni di modifica video intuitive, tra cui ritaglia video, ridimensiona video, ritaglia video e converti video in GIF.
 
 Per modificare un video, vai ai dettagli del video e fai clic su [!UICONTROL Modifica video]. In alternativa, seleziona la risorsa e fai clic su Dettagli, quindi fai clic sull&#39;icona ![forbici](assets/do-not-localize/cut.svg) disponibile nel riquadro a destra. Dopo aver modificato un video, puoi salvarlo come nuova versione o come nuova risorsa.
 
@@ -46,7 +46,7 @@ Puoi eliminare parti indesiderate dal video utilizzando [!DNL Adobe Express] azi
 
 ### Ridimensiona video {#resize-video-using-express}
 
-Il contenuto video finale in DAM deve spesso essere ridimensionato per la distribuzione a canali specifici. [!DNL Assets Essentials] ti consente di ridimensionare facilmente i video per adattarli alle dimensioni richieste dai canali social più comuni e puoi anche ridimensionarli per adattarli a risoluzioni personalizzate. Per ridimensionare il video utilizzando [!DNL Assets Essentials], eseguire i passaggi seguenti:
+Il contenuto video finale in DAM deve spesso essere ridimensionato per la distribuzione a canali specifici. [!DNL Assets Essentials] consente di ridimensionare facilmente i video per adattarli alle dimensioni richieste dai canali social più diffusi e di adattarli alle risoluzioni personalizzate. Per ridimensionare il video utilizzando [!DNL Assets Essentials], eseguire i passaggi seguenti:
 
 1. Seleziona un video e fai clic su **[!UICONTROL Modifica]**.
 2. Fai clic su **[!UICONTROL Ridimensiona video]** dalle azioni rapide disponibili nel riquadro a sinistra.
@@ -74,7 +74,7 @@ Il video ritagliato è disponibile per il download. Puoi salvare la risorsa modi
 
 ### Converti video in GIF {#convert-mp4-to-gif-using-express}
 
-È possibile convertire rapidamente un video MP4 in un formato GIF utilizzando Adobe Express. Esegui i passaggi seguenti:
+Con Adobe Express è possibile convertire rapidamente un video MP4 in formato GIF. Esegui i passaggi seguenti:
 
 1. Seleziona un video e fai clic su **[!UICONTROL Modifica]**.
 2. Fare clic su **[!UICONTROL Converti in GIF]** dalle azioni rapide disponibili nel riquadro a sinistra.
@@ -104,9 +104,9 @@ Il video è disponibile in formato GIF per il download. Puoi salvare la risorsa 
 
 * Fornisci feedback sulla documentazione utilizzando [!UICONTROL Modifica questa pagina], ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema], ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale a destra.
 
-* Contatta l’[Assistenza clienti](https://experienceleague.adobe.com/i?support-solution=General#support).
+* Contatta l’[Assistenza clienti](https://experienceleague.adobe.com/it?support-solution=General#support).
 
 >[!MORELIKETHIS]
 >
->* [Modifica immagini negli Assets Essentials](/help/using/edit-images.md)
+>* [Modificare le immagini in Assets Essentials](/help/using/edit-images.md)
 >* [Anteprima di una risorsa](/help/using/navigate-view.md#preview-assets)
