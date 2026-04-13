@@ -4,7 +4,7 @@ description: Scopri come creare modelli Dynamic Media utilizzando un editor di m
 hide: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: 8bf4babf2fefb8735b14eb4d4cb08205c54a77bb
+source-git-commit: b0b103b91ca4f4c657fd6d6f526be5f5b05dc156
 workflow-type: tm+mt
 source-wordcount: '3000'
 ht-degree: 6%
@@ -179,7 +179,7 @@ Per parametrizzare un livello:
 1. Attiva **[!UICONTROL Includi parametro]** per parametrizzare una proprietà. Vedi [questo](#parameterisation-options-or-allowed-parameters) per conoscere il comportamento della proprietà dopo la parametrizzazione.
 1. **Facoltativo:** Rinominare il nome del parametro. Il nome di un parametro è seguito da un suffisso. Per un livello selezionato, tutte le relative proprietà con parametri condividono lo stesso nome di livello seguito da un suffisso variabile. Rinominate il nome del livello seguendo la convenzione di denominazione semantica in modo che, quando includete il parametro nell&#39;URL, il nome del parametro spieghi da solo il contenuto o lo scopo del livello.
 1. Fai clic su **[!UICONTROL Salva]**.
-   ![creazione immediata dei contenuti](/help/using/assets/parameterise-a-layer.png)
+   ![creazione immediata di contenuti](/help/using/assets/parameterise-a-layer.png)
 Per passare dal pannello Parametri di un&#39;immagine al livello testo, selezionare il livello nell&#39;area di lavoro e fare clic su **[!UICONTROL Parametri]**.
 
 #### Opzione del pannello Parametri {#parameterisation-options-or-allowed-parameters}
@@ -189,19 +189,19 @@ Le proprietà con parametri possono essere incluse come parametri URL nell’URL
 **Parametri immagine:**
 
 **X:** includere per spostare il livello orizzontalmente lungo la sua linea centrale, parallelamente all&#39;asse X del piano del modello, modificando il valore del parametro nell&#39;URL.
-**Y:** Includere per spostare il livello verticalmente lungo la linea centrale, parallelamente all&#39;asse Y del piano del modello, modificando il valore del parametro nell&#39;URL.
+**Y:** includere per spostare il livello verticalmente lungo la linea centrale, parallelamente all&#39;asse Y del piano del modello, modificando il valore del parametro nell&#39;URL.
 **Larghezza:** Includere per regolare la larghezza del livello modificando il valore del parametro nell&#39;URL.
 **Altezza:** Includere per regolare l&#39;altezza del livello modificando il valore del parametro nell&#39;URL.
 **Nascondi:** Includi per nascondere o mostrare il livello nel modello utilizzando 0 (mostra) e 1 (nascondi).
-**Source:** Includere per sostituire l&#39;immagine del livello con una nuova immagine modificando il percorso dell&#39;immagine nel valore del parametro nell&#39;URL.
+**Source:** Includi per sostituire l&#39;immagine del livello con una nuova immagine modificando il percorso dell&#39;immagine nel valore del parametro nell&#39;URL.
 
 **Parametri di formattazione del testo:**
 
 Includi i seguenti parametri per modificare il testo, il relativo font, colore e dimensione, dall’URL aggiornando i valori dei parametri nell’URL.
 
 **Testo:** Includere per aggiornare il testo dall&#39;URL.
-**Famiglia di font:** Includere per aggiornare il font del testo dall&#39;URL.
-**Dimensione font:** Includere per aggiornare la dimensione font del testo dall&#39;URL.
+**Famiglia font:** Includere per aggiornare il font del testo dall&#39;URL.
+**Dimensione carattere:** Includere per aggiornare la dimensione del carattere del testo dall&#39;URL.
 **Colore testo:** Includere per aggiornare il colore del carattere del testo dall&#39;URL.
 
 ### Raggruppare i livelli per controllarne contemporaneamente la visibilità{#group-layers}
@@ -232,7 +232,7 @@ Per visualizzare in anteprima e pubblicare il modello e copiare l’URL di conse
 1. Selezionare dall&#39;elenco il parametro Nascondi per [livelli raggruppati](#group-layers) per visualizzarli o nasconderli nel modello.
 1. **Facoltativo:** Modificare il valore del parametro **[!UICONTROL Hide]** tra 0 e 1 e fare clic su **[!UICONTROL Aggiorna]** per visualizzare le modifiche. I livelli con lo stesso parametro Nascondi (Hide) vengono nascosti o visualizzati insieme. Allo stesso modo, potete controllare la visibilità dei livelli dall&#39;URL.
 
-   ![creazione rapida di contenuti](/help/using/assets/dm-templates-publish-status.png)
+   ![creazione rapida di contenuto](/help/using/assets/dm-templates-publish-status.png)
 Puoi anche attivare **[!UICONTROL Includi tutti i parametri]** per modificare tutti i valori dei parametri visualizzati e visualizzare gli aggiornamenti nell&#39;anteprima del modello.
    <br>
 1. Per pubblicare il modello nella pagina di anteprima, fai clic su **[!UICONTROL Pubblica]** e conferma la pubblicazione. Viene visualizzato il messaggio Pubblica completata e lo stato di pubblicazione viene aggiornato a Pubblicato.
