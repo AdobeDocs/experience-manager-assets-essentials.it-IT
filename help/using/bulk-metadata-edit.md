@@ -2,35 +2,44 @@
 title: Modifica in blocco dei metadati in Assets Essentials
 description: Scopri come aggiornare contemporaneamente un set predefinito di campi di metadati standard per più risorse disponibili su Assets Essentials.
 exl-id: 17185160-6c51-4581-a716-77b365ef3dd9
-source-git-commit: 461773235cb2d27d334b5ceb23f959dc9a848716
+TQID: https://experienceleague.adobe.com/zfRAzwQWEhdCwSVuWKDz-ndudFtv-mIhmjzyNkg8sOQ
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '508'
-ht-degree: 4%
+source-wordcount: 649
+ht-degree: 28%
 
 ---
-
 
 <table>
     <tr>
         <td>
-            <img src="assets/new2.gif" width="20px" height="25px" alt="nuovo">
+            <img src="assets/new2.gif" width="20px" height="25px" alt="novità">
             <a href="https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b>Dynamic Media Prime e Ultimate</b></a>
         </td>
         <td>
-            <img src="assets/new2.gif" width="20px" height="25px" alt="nuovo">
-            <a href="https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b>AEM Assets Ultimate</b></a>
+            <img src="assets/new2.gif" width="20px" height="25px" alt="novità">
+            <a href="https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b>AEM Assets Ultimate</b></a>/
         </td>
         <td>
-            <img src="assets/new2.gif" width="20px" height="25px" alt="nuovo">
+            <img src="assets/new2.gif" width="20px" height="25px" alt="novità">
             <a href="http://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/integrate-aem-assets-edge-delivery-services"><b>Integrazione di AEM Assets con Edge Delivery Services</b></a>
         </td>
         <td>
-            <img src="assets/new2.gif" width="20px" height="25px" alt="nuovo">
+            <img src="assets/new2.gif" width="20px" height="25px" alt="novità">
             <a href="https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Estensibilità interfaccia utente</b></a>
         </td>
           <td>
-            <img src="assets/new2.gif" width="20px" height="25px" alt="nuovo">
-            <a href="https://experienceleague.adobe.com/it/docs/experience-manager-assets-essentials/help/custom-search-filters"><b>Filtri di ricerca personalizzati</b></a>
+            <img src="assets/new2.gif" width="20px" height="25px" alt="novità">
+            <a href="https://experienceleague.adobe.com/it/docs/experience-manager-assets-essentials/help/custom-search-filters"><b>Personalizzare i filtri di ricerca</b></a>
         </td>
     </tr>
     <tr>
@@ -71,7 +80,6 @@ Per modificare in blocco i metadati di più risorse contemporaneamente, esegui i
    * **Parole chiave:** Aggiungi termini o stringhe di testo specifici che forniscano informazioni di alto livello sulle risorse per migliorarne la reperibilità. Aggiungete una parola chiave e premete Invio o Ritorna per aggiungerne un&#39;altra all&#39;elenco.
    * **Tag:** Fai clic sull&#39;icona ![tag](/help/using/assets/tags-icon.svg) per selezionare i tag tra le opzioni disponibili. I tag forniscono informazioni più specifiche sulle risorse e ne migliorano la reperibilità. I tag già applicati alle risorse selezionate vengono visualizzati nel pannello **Proprietà**. Se non riesci a trovare i tag rilevanti, creali e assegnali alle risorse selezionate. Consulta [Gestire i tag in Assets Essentials](/help/using/tagging-management.md) per informazioni dettagliate sulla creazione e l&#39;assegnazione di tag alle risorse.
    * Fai clic su **Salva** per applicare gli aggiornamenti dei metadati di cui sopra alle risorse selezionate. Una volta salvati, le parole chiave e i tag vengono aggiunti, mentre i dettagli aggiornati per Stato, Data di scadenza e Autore sostituiscono quelli esistenti.
-
      ![save-bulk-metadata-edit-properties](/help/using/assets/save-bulk-metadata-edit-properties2.png)
 
      >[!NOTE]

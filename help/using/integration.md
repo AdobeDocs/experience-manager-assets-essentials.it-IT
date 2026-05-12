@@ -3,10 +3,19 @@ title: Integrazione con altre soluzioni Adobe
 description: '[!DNL Assets Essentials] si integra con altre soluzioni Adobe e offre un''esperienza incorporata direttamente dall''applicazione nativa.'
 role: User
 exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
-source-git-commit: 2ad90f931f84bf8e0ceb51e4e6450d36a7b31a03
+TQID: https://experienceleague.adobe.com/TFjf7jmmlN5iuoWzFg32WqfNuLMIdf29d-SkrO6Ar58
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2:
+  - id: ae478996-b206-4712-9b0c-dc78a2644453
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '491'
-ht-degree: 85%
+source-wordcount: 491
+ht-degree: 92%
 
 ---
 
@@ -22,7 +31,7 @@ L’esperienza [!DNL Assets Essentials] incorporata può integrarsi con le segue
 
 * **[!DNL Adobe Journey Optimizer]**: [[!DNL Adobe Journey Optimizer]](https://business.adobe.com/it/products/journey-optimizer/adobe-journey-optimizer.html) semplifica la gestione dei percorsi dei clienti, offrendo campagne omnicanale con informazioni approfondite e decisioning intelligente. Durante la progettazione dei messaggi tramite [!DNL Journey Optimizer], puoi accedere all’archivio di [!DNL Assets Essentials] direttamente dall’interfaccia di [!DNL Journey Optimizer]. Gli utenti possono accedere alle risorse utilizzando l’interfaccia utente incorporata di [!DNL Assets Essentials]. Consulta l’[articolo Utilizzo di [!DNL Assets Essentials] &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=it) o il [video tutorial su come creare contenuti e-mail](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=it).
 
-* **[!DNL Adobe Workfront]**: [[!DNL Adobe Workfront]](https://www.workfront.com/) è un’applicazione per la gestione dell’intero ciclo di vita del lavoro, tutto in un’unica posizione. L’integrazione nativa tra [!DNL Adobe Workfront] e [!DNL Assets Essentials] consente alle organizzazioni di velocizzare le attività relative ai contenuti e il time-to-market, grazie a un collegamento intrinseco tra il lavoro e la gestione delle risorse. Nel contesto della gestione del proprio lavoro, gli utenti possono accedere ai documenti e alle immagini necessari all&#39;interno della stessa soluzione. [!DNL Assets Essentials] è disponibile come componente aggiuntivo che i nuovi clienti di [!DNL Workfront] possono acquistare separatamente. Consulta [Configurare e utilizzare l’integrazione di [!DNL Workfront] e [!DNL Essentials] &#x200B;](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm).
+* **[!DNL Adobe Workfront]**: [[!DNL Adobe Workfront]](https://www.workfront.com/) è un’applicazione per la gestione dell’intero ciclo di vita del lavoro, tutto in un’unica posizione. L’integrazione nativa tra [!DNL Adobe Workfront] e [!DNL Assets Essentials] consente alle organizzazioni di velocizzare le attività relative ai contenuti e il time-to-market, grazie a un collegamento intrinseco tra il lavoro e la gestione delle risorse. Nel contesto di gestione del lavoro, gli utenti possono accedere ai documenti e alle immagini necessari utilizzando la stessa soluzione. [!DNL Assets Essentials] è disponibile come componente aggiuntivo, che i nuovi clienti di [!DNL Workfront] possono acquistare separatamente. Consulta [Configurare e utilizzare l’integrazione di [!DNL Workfront] e [!DNL Essentials] &#x200B;](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm).
 
   [Guarda un video per configurare l’integrazione di Adobe Workfront e Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=it)
 

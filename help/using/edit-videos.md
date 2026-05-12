@@ -3,10 +3,15 @@ title: Modificare i video
 description: Modifica i video utilizzando  [!DNL Adobe Express] opzioni basate su e salva i video aggiornati come versioni.
 role: User
 exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
-source-git-commit: a9ef92194f55da9ad5352adf4251c85e3abcdcd1
+TQID: https://experienceleague.adobe.com/j9r915ua9GXUoTHdbSBHWxnHm-FIhCwvIuKOp91AFCg
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '841'
-ht-degree: 24%
+source-wordcount: 841
+ht-degree: 27%
 
 ---
 
@@ -46,7 +51,7 @@ Puoi eliminare parti indesiderate dal video utilizzando [!DNL Adobe Express] azi
 
 ### Ridimensiona video {#resize-video-using-express}
 
-Il contenuto video finale in DAM deve spesso essere ridimensionato per la distribuzione a canali specifici. [!DNL Assets Essentials] consente di ridimensionare facilmente i video per adattarli alle dimensioni richieste dai canali social più diffusi e di adattarli alle risoluzioni personalizzate. Per ridimensionare il video utilizzando [!DNL Assets Essentials], eseguire i passaggi seguenti:
+Il contenuto video finale in DAM deve spesso essere ridimensionato per la distribuzione a canali specifici. [!DNL Assets Essentials] ti consente di ridimensionare facilmente i video per adattarli alle dimensioni richieste dai canali social più comuni e puoi anche ridimensionarli per adattarli a risoluzioni personalizzate. Per ridimensionare il video utilizzando [!DNL Assets Essentials], eseguire i passaggi seguenti:
 
 1. Seleziona un video e fai clic su **[!UICONTROL Modifica]**.
 2. Fai clic su **[!UICONTROL Ridimensiona video]** dalle azioni rapide disponibili nel riquadro a sinistra.

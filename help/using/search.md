@@ -3,13 +3,22 @@ title: Cercare e individuare le risorse in [!DNL Assets Essentials]
 description: Cerca e individua le risorse in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 2ad90f931f84bf8e0ceb51e4e6450d36a7b31a03
+TQID: https://experienceleague.adobe.com/V--WXU30ed6P-HWqE1rquXPupmJwImyYfARZ006RpDg
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '2217'
-ht-degree: 95%
+source-wordcount: 2217
+ht-degree: 98%
 
 ---
-
 
 <table>
     <tr>
@@ -61,7 +70,7 @@ ht-degree: 95%
 >abstract="Per cercare le risorse, puoi specificare una parola chiave nella barra di ricerca o filtrare le risorse in base al loro stato, al tipo di file, al tipo MIME, alla dimensione e alle date di creazione, modifica e scadenza. Oltre ai filtri standard, puoi anche applicare filtri personalizzati. Puoi salvare i risultati filtrati come Ricerca salvata o Raccolta avanzata."
 >additional-url="https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=it#manage-smart-collection" text="Creare Raccolte avanzate"
 
-[!DNL Assets Essentials] fornisce una funzione di ricerca efficace e attiva per impostazione predefinita. Si tratta di una ricerca full-text completa. La potente funzionalità di ricerca consente di individuare rapidamente la risorsa appropriata e velocizza le attività relative ai contenuti. [!DNL Assets Essentials] consente di eseguire ricerche full-text, anche nei metadati, quali tag avanzati, titolo, data di creazione e copyright.
+[!DNL Assets Essentials] fornisce una funzione di ricerca efficace e attiva per impostazione predefinita. Si tratta di una ricerca full-text completa. La potente funzionalità di ricerca consente di trovare rapidamente la risorsa appropriata e velocizza le attività relative ai contenuti. [!DNL Assets Essentials] consente di effettuare ricerche full-text, anche nei metadati, quali tag avanzati, titolo, data di creazione e copyright.
 
 Per cercare le risorse, effettua le operazioni seguenti:
 
@@ -179,7 +188,7 @@ Per generare nuove risorse tramite [!DNL Adobe Firefly]:
 
    ![Integrazione di Firefly](assets/firefly-integration.png)
 
-   Le nuove risorse sono state generate correttamente. È inoltre possibile modificare la descrizione dell&#39;immagine digitando il nuovo prompt di testo nella casella descrizione. [Scopri come scrivere un buon prompt di intelligenza artificiale per generare contenuti straordinari e rilevanti.](https://helpx.adobe.com/it/firefly/using/tips-and-tricks.html) In alternativa, è possibile [modificare l&#39;immagine con varie altre funzionalità, ad esempio la modifica dello stile, delle dimensioni dell&#39;immagine e altro ancora.](https://helpx.adobe.com/it/firefly/using/text-to-image.html)
+   Le nuove risorse sono state generate correttamente. È, inoltre, possibile modificare la descrizione dell’immagine immettendo il nuovo prompt di testo nella casella Descrizione. [Scopri come scrivere un buon prompt di intelligenza artificiale per generare contenuti straordinari e rilevanti.](https://helpx.adobe.com/it/firefly/using/tips-and-tricks.html) In alternativa, è possibile [modificare l&#39;immagine con varie altre funzionalità, ad esempio la modifica dello stile, delle dimensioni dell&#39;immagine e altro ancora.](https://helpx.adobe.com/it/firefly/using/text-to-image.html)
 
    ![Integrazione di Firefly](assets/bugatti-type-57.png)
 
@@ -280,7 +289,7 @@ Per configurare la pagina Home Cerca prima, esegui i passaggi seguenti:
 
 1. Accedi alla sezione **[!UICONTROL Immagine di sfondo e logo]** nella **[!UICONTROL pagina Home]**.
 1. Fai clic su **[!UICONTROL Sostituisci]** per sfogliare le immagini dell’archivio delle risorse esistenti.
-1. Fai clic su **[!UICONTROL Salva]**. [Anteprima](#preview-configured-homepage) delle modifiche per esaminarle.
+1. Fai clic su **[!UICONTROL Salva]**. Visualizza l’[anteprima](#preview-configured-homepage) delle modifiche per esaminarle.
 
 ### Visualizzare l’anteprima della pagina Home configurata {#preview-configured-homepage}
 

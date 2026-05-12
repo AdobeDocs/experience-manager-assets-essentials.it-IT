@@ -2,10 +2,19 @@
 title: Gestire i rapporti in Assets Essentials
 description: Accedi ai dati nella sezione dei rapporti di Assets Essentials per valutare l’utilizzo di prodotti e funzionalità e ottenere informazioni approfondite sulle metriche di successo chiave.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 810bb62cd5eb664e36a6ea267050dd025828e900
+TQID: https://experienceleague.adobe.com/fTzTJd0JhjMbexn1ffynNQM7wx-nX-8Os1Y-c79FKdo
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '1243'
-ht-degree: 96%
+source-wordcount: 1243
+ht-degree: 99%
 
 ---
 
@@ -125,7 +134,7 @@ L’ambiente AEM Assets Essentials offre funzionalità di reporting complete tra
 ## Visualizzare e scaricare il rapporto esistente {#View-and-download-existing-report}
 
 I rapporti esistenti vengono visualizzati nella scheda **Rapporti eseguiti**. Fai clic su **Rapporti** e seleziona **Rapporti eseguiti** per visualizzare tutti i rapporti creati con lo stato **Completati**, indicando che sono pronti per il download. Per scaricare il rapporto in formato CSV o eliminarlo, seleziona la riga del rapporto e seleziona **Scarica CSV** o **Elimina**.
-![visualizza e scarica i report esistenti](/help/using/assets/view-download-existing-report.png)
+![visualizzare e scaricare i rapporti esistenti](/help/using/assets/view-download-existing-report.png)
 
 ## Pianificare un rapporto {#schedule-report}
 
@@ -151,7 +160,7 @@ Per pianificare un rapporto, effettua le seguenti operazioni:
 ## Visualizzare rapporti pianificati {#view-scheduled-reports}
 
 I rapporti pianificati vengono visualizzati nella scheda **Rapporti pianificati** in modo ben organizzato. Tutti i rapporti completati per ogni rapporto pianificato vengono memorizzati in una singola cartella di rapporto. Fai clic su ![espandi comprimi](/help/using/assets/expand-icon1.svg) per visualizzare i rapporti completati. Ad esempio, se hai pianificato un rapporto giornaliero, tutti i rapporti completati sono raggruppati in un’unica cartella. Questa organizzazione semplifica sia la navigazione che la reperibilità dei rapporti. Per visualizzare i rapporti pianificati, fai clic su **Rapporti** e quindi su **Rapporti pianificati**. Vengono visualizzati tutti i rapporti pianificati con il relativo stato in corso o completato. I rapporti completati sono pronti per il download.
-![report pianificato](/help/using/assets/scheduled-reports-tab.png)
+![rapporti pianificati](/help/using/assets/scheduled-reports-tab.png)
 
 ## Modificare e annullare i rapporti pianificati {#edit-cancel-scheduled-reports}
 
@@ -163,7 +172,7 @@ I rapporti pianificati vengono visualizzati nella scheda **Rapporti pianificati*
 
 ### Riprendi pianificazione {#resume-schedule}
 
-Per riprendere la pianificazione annullata, seleziona la riga del rapporto e fai clic su **Riprendi pianificazione**. Quando viene ripresa, le voci di runtime successive vengono nuovamente visualizzate e lo stato è Continua.
+Per riprendere la pianificazione annullata, seleziona la riga del rapporto e fai clic su **Riprendi pianificazione**. Quando viene ripresa, le voci di runtime successive vengono nuovamente visualizzate e lo stato è su In corso.
 ![riprendi pianificazione](/help/using/assets/resume-schedule.png)
 
 >[!NOTE]
@@ -192,7 +201,7 @@ Fai clic su **[!UICONTROL Insight]** nel riquadro di navigazione a sinistra per 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
 * **Utilizzo archiviazione**: utilizzo dell’archiviazione, in byte, per l’ambiente di Assets Essentials rappresentato da un grafico a barre.
-  ![utilizzo archiviazione](/help/using/assets/insights-storage-usage1.svg)
+  ![&#x200B; utilizzo archiviazione](/help/using/assets/insights-storage-usage1.svg)
   <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
