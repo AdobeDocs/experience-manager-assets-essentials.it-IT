@@ -3,10 +3,14 @@ title: Rinominare e raggruppare le risorse rinominare in [!DNL Assets Essentials
 description: Scopri come rinominare in blocco le risorse utilizzando la nuova interfaccia utente di Assets (Assets Essentials). Consente di rinominare più risorse contemporaneamente.
 role: User
 exl-id: 5d18950f-1863-46c0-83d7-079ae95a6320
-source-git-commit: 631156a70271b6f480264e2c604314f09a820fc9
+TQID: https://experienceleague.adobe.com/NEmoIDy8etw5vhpxRbf9RyVnT1TKfoOvK4tpPrGHP-Q
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '440'
-ht-degree: 17%
+source-wordcount: 458
+ht-degree: 20%
 
 ---
 
@@ -26,7 +30,7 @@ Per rinominare una risorsa o una cartella, effettua le seguenti operazioni:
 
 ## Ridenominazione in blocco di risorse basate su IA {#rename-bulk-assets-using-ai}
 
-[!DNL Assets Essentials] consente di rinominare più risorse contemporaneamente utilizzando AI. La funzionalità di ridenominazione collettiva di IA può essere applicata solo ai file, non alle cartelle. È possibile selezionare più file contemporaneamente e rinominarli tutti insieme.
+[!DNL Assets Essentials] consente di rinominare più risorse contemporaneamente utilizzando AI. La funzionalità di ridenominazione collettiva di IA può essere applicata solo ai file, non alle cartelle. Puoi selezionare più file contemporaneamente e rinominarli tutti insieme.
 
 Segui i passaggi seguenti per rinominare contemporaneamente la maggior parte delle risorse utilizzando i prompt generati da IA:
 
@@ -49,7 +53,7 @@ Di seguito sono riportati alcuni esempi di utilizzo dell’intelligenza artifici
 * Prefisso con 00, 01 e così via e suffisso con la data odierna.
 * Modificate tutti i file in &quot;my-file&quot; e aggiungete un numero incrementale.
 * Rimuovere il prefisso e il suffisso, mantenendo solo la parte centrale del nome.
-* Aggiungi ai file il prefisso 001, 002, ecc. e tradurre in inglese.
+* Aggiungi ai file il prefisso 001, 002 e così via e traduci in inglese.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440975)
 
@@ -67,5 +71,5 @@ Di seguito sono riportati alcuni esempi di utilizzo dell’intelligenza artifici
 
 * Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
 
-* Contatta il [Servizio clienti](https://experienceleague.adobe.com/it?support-solution=General&lang=it#support)
+* Contatta il [Servizio clienti](https://experienceleague.adobe.com/it?support-solution=General#support)
 

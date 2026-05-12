@@ -4,10 +4,14 @@ description: Scopri come correlare le risorse digitali che condividono alcuni at
 role: User
 feature: Collaboration,Asset Management
 solution: Experience Manager, Experience Manager Assets
-source-git-commit: 0aaeb09d90d8155d62a7b057d04e82568091a0ab
+exl-id: db3c30e4-a0c2-4686-a291-36a959fc3d05
+TQID: https://experienceleague.adobe.com/BIGrPj6x-EjokkE23Kg4gYU-2QA1PAUikAA1tvMZv1k
+product_v2: id: d09181b5-a36a-43de-ba01-36641440bc43id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '534'
-ht-degree: 9%
+source-wordcount: 566
+ht-degree: 11%
 
 ---
 
@@ -40,7 +44,7 @@ Grazie a questa funzione, è possibile condividere un file PDF a bassa risoluzio
 
 1. Fai clic su **[!UICONTROL Seleziona]**. A seconda della relazione scelta al passaggio 3, la risorsa correlata viene elencata in una categoria appropriata nella sezione **[!UICONTROL Relazioni risorse]**. Se ad esempio la risorsa correlata è il file di origine della risorsa corrente, verrà elencata in **[!UICONTROL Source]**.
 
-   ![Esempio di relazione Assets](assets/asset-relations-example.png)
+   ![Esempio di relazione risorse](assets/asset-relations-example.png)
 
 1. Fai clic su **[!UICONTROL Annulla correlazione]** ![annulla correlazione risorse](assets/do-not-localize/link-unrelate-icon.png) disponibili per tutte le risorse correlate in ogni sezione ([!UICONTROL Source], [!UICONTROL Derivato] e [!UICONTROL Altro]) per annullare la correlazione di una risorsa.
 
@@ -48,7 +52,7 @@ Grazie a questa funzione, è possibile condividere un file PDF a bassa risoluzio
 
 La creazione di relazioni origine/derivate tra risorse utilizzando la funzione risorse correlate è utile anche nei flussi di lavoro di traduzione. Quando esegui un flusso di lavoro di traduzione su una risorsa derivata, [!DNL Experience Manager Assets] recupera automaticamente qualsiasi risorsa a cui il file di origine fa riferimento e la include per la traduzione. In questo modo, la risorsa a cui fa riferimento la risorsa sorgente viene tradotta insieme alle risorse sorgente e derivate. Se il file di origine è correlato a un&#39;altra risorsa, [!DNL Experience Manager Assets] recupera la risorsa di riferimento e la include per la traduzione.
 
-Vedi [Tradurre le risorse in AEM](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/admin/translate-assets).
+Vedi [Tradurre le risorse in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/admin/translate-assets).
 
 ## Passaggi successivi {#next-steps}
 
@@ -61,5 +65,5 @@ Vedi [Tradurre le risorse in AEM](https://experienceleague.adobe.com/it/docs/exp
 >[!MORELIKETHIS]
 >
 >* [Visualizzare le versioni di una risorsa](manage-organize.md#view-versions)
->* [Traduci risorse in AEM](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
+>* [Traduci risorse in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
 >* [Formati di file supportati nella visualizzazione Assets](supported-file-formats.md).

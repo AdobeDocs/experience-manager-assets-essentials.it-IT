@@ -2,10 +2,14 @@
 title: Integrare Assets Essentials con Adobe Workfront
 description: Integra Assets Essentials con l’applicazione Adobe Workfront in modo da poter accedere all’archivio Assets Essentials all’interno dell’applicazione Workfront.
 exl-id: 9605fa3a-d454-48b5-9f84-b384eb1ad493
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+TQID: https://experienceleague.adobe.com/VpoSSKnrDT7do5QtUolcbPiw4lsO2DEbgLGvJxUslaw
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 100%
+source-wordcount: 570
+ht-degree: 93%
 
 ---
 
@@ -39,14 +43,14 @@ Per aggiungere utenti ai profili di prodotto Workfront:
 
 1. Per rimuovere un utente da un gruppo, fai clic sul gruppo, seleziona un utente esistente, quindi seleziona **[!UICONTROL Rimuovi utente]**.
 
-Per ulteriori informazioni su come creare utenti e amministratori di sistema in Workfront con Adobe Admin Console, consulta [Gestione degli utenti in Adobe Admin Console](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FAdd_users%2FCreate_and_manage_users%2Fadmin-console.htm&amp;_LANG=enus).
+Per ulteriori informazioni su come creare utenti e amministratori di sistema in Workfront con Adobe Admin Console, consulta [Gestione degli utenti in Adobe Admin Console](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FAdd_users%2FCreate_and_manage_users%2Fadmin-console.htm&_LANG=enus).
 
 ## Aggiungere utenti ai profili di prodotto di Assets Essentials {#add-workfront-users-assets-essentials-product-profiles}
 
 Assegna gli utenti Workfront a uno dei seguenti profili di prodotto Assets Essentials:
 
 * Gli utenti di **[!DNL Assets Essentials]** hanno accesso all’interfaccia utente completa di Assets Essentials. Questi utenti possono caricare, organizzare, assegnare tag e trovare risorse digitali nell’applicazione Assets Essentials. Inoltre, gli utenti possono accedere all’esperienza di selezione delle risorse incorporate nell’applicazione [!DNL Adobe Workfront].
-* Gli utenti consumer di **[!DNL Assets Essentials]** hanno accesso all’esperienza di selezione delle risorse incorporata nell’applicazione [!DNL Adobe Workfront]. 
+* **[!DNL Assets Essentials]- Utenti consumer**: hanno accesso all’esperienza di selezione delle risorse incorporata nell’applicazione [!DNL Adobe Workfront].
 
 Inoltre, esistono Amministratori del profilo di prodotto di **[!DNL Assets Essentials]** che forniscono accesso amministrativo all’applicazione.
 
@@ -54,14 +58,14 @@ Per ulteriori informazioni su come assegnare gli utenti ai profili di prodotto A
 
 ## Configurare l’integrazione di Experience Manager Assets Essentials {#configure-assets-essentials-integration}
 
-Dopo aver aggiunto gli utenti ai profili di prodotto Workfront e Assets Essentials tramite Admin Console, puoi [configurare l’integrazione di Experience Manager Assets Essentials con Adobe Workfront](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm).
+Dopo aver aggiunto gli utenti ai profili di prodotto Workfront e Assets Essentials tramite Admin Console, puoi [configurare l’integrazione di Experience Manager Assets Essentials con Adobe Workfront](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm).
 
 Dopo aver configurato l’integrazione, puoi:
 
-* [Collegare risorse e cartelle da Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Flink-to-aem.htm&amp;_LANG=enus)
+* [Collegare risorse e cartelle da Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Flink-to-aem.htm&_LANG=enus)
 
-* [Inviare un documento alle funzioni di base di Experience Manager Assets](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fsend-to-aem.htm&amp;_LANG=enus)
+* [Inviare un documento alle funzioni di base di Experience Manager Assets](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fsend-to-aem.htm&_LANG=enus)
 
-* [Prova di una risorsa collegata per Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fproof-linked-asset-aem.htm)
+* [Prova di una risorsa collegata per Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fproof-linked-asset-aem.htm)
 
-* [Visualizzare o scaricare una risorsa collegata da Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fview-download-asset.htm)
+* [Visualizzare o scaricare una risorsa collegata da Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fview-download-asset.htm)

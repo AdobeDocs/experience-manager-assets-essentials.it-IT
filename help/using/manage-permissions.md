@@ -2,10 +2,13 @@
 title: Come gestire le autorizzazioni per le cartelle in AEM Assets Essentials?
 description: Assets Essentials consente agli amministratori di gestire i livelli di accesso per le cartelle disponibili nell’archivio. Crea gruppi di utenti e assegna le autorizzazioni a tali gruppi per gestire i livelli di accesso. In qualità di amministratore, puoi anche delegare i privilegi di gestione delle autorizzazioni ai gruppi di utenti a livello di cartella.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: ec723ae4222254c64e8ddc2e03f8a523203f9f8a
+TQID: https://experienceleague.adobe.com/fWLQ3XI2WVIbouGb7QXznoGhEoB-pHiHw-8P-Fo4128
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '1700'
-ht-degree: 97%
+source-wordcount: 1700
+ht-degree: 98%
 
 ---
 
@@ -32,7 +35,7 @@ Aggiungi gli amministratori per l’applicazione Assets Essentials in modo che p
 
 Per aggiungere gli amministratori:
 
-1. Accedi a [Admin Console](https://adminconsole.adobe.com) per la tua organizzazione, fai clic su **[!UICONTROL Prodotti]** nella barra superiore, quindi su **[!UICONTROL AEM Assets Essentials]**, infine sull&#39;ambiente [!DNL Assets Essentials]. [!DNL Assets Essentials] dispone di tre profili prodotto che rappresentano il livello di accesso per amministratori, utenti standard e consumer.
+1. Accedi ad [Admin Console](https://adminconsole.adobe.com) per la tua organizzazione, fai clic su **[!UICONTROL Prodotti]** nella barra superiore, quindi su **[!UICONTROL AEM Assets Essentials]**, infine sull’ambiente [!DNL Assets Essentials]. [!DNL Assets Essentials] dispone di tre profili prodotto che rappresentano il livello di accesso per amministratori, utenti standard e utenti consumer.
 
    ![Profilo amministratore di Admin Console](assets/admin-console-admin-profile.png)
 
@@ -81,7 +84,7 @@ Puoi assegnare le seguenti autorizzazioni ai gruppi di utenti o agli utenti. Ado
 
 | Nome autorizzazione | Descrizione |
 |-----|------|
-| Può visualizzare | <ul><li>Accesso in lettura per visualizzare e sfogliare le cartelle </li><li>Visualizzare l’anteprima delle risorse</li><li>Scaricare le risorse</li><li>Copiare le risorse</li><li>Condividere collegamenti alle risorse</li><ul> |
+| Può visualizzare | <ul><li>Accesso in lettura per visualizzare e sfogliare le cartelle </li><li>Visualizzare l’anteprima delle risorse</li><li>Scarica risorse</li><li>Copiare le risorse</li><li>Condividere collegamenti alle risorse</li><ul> |
 | Può modificare | <ul><li>Tutti i privilegi disponibili per le autorizzazioni Può visualizzare </li><li>Creare cartelle</li><li>Rimuovere cartelle</li><li>Rinominare le cartelle</li><li>Creare le risorse</li><li>Aggiornare le risorse</li><li>Rimuovere le risorse</li><li>Spostare le risorse</li><li>Rinominare le risorse</li><ul> |
 | Proprietario | <ul><li>Tutti i privilegi disponibili per le autorizzazioni Può modificare</li><li>Gestire le autorizzazioni per una cartella e le relative sottocartelle</li>Questa autorizzazione consente agli amministratori di delegare i privilegi di amministratore ad altri utenti per una cartella e le relative sottocartelle.<ul> |
 | Nega accesso | Rimuovere le autorizzazioni Può visualizzare, Può modificare e Proprietario per una cartella e le relative sottocartelle. |
@@ -188,7 +191,7 @@ Crea i seguenti gruppi di utenti in Admin Console:
 * Team legale
 
 Il diagramma seguente illustra la gerarchia delle cartelle e le autorizzazioni assegnate a ciascun gruppo di utenti:
-![Assegna autorizzazioni](assets/use-case-permissions-management.png)
+![Assegnare le autorizzazioni](assets/use-case-permissions-management.png)
 
 Di seguito sono riportati i livelli di accesso per tutti i gruppi di utenti nella gerarchia delle cartelle:
 
@@ -214,4 +217,4 @@ Di seguito sono riportati i livelli di accesso per tutti i gruppi di utenti nell
 
 * Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
 
-* Contatta il [Servizio clienti](https://experienceleague.adobe.com/it?support-solution=General&lang=it#support)
+* Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&lang=it#support)
