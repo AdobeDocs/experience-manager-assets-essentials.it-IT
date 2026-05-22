@@ -3,8 +3,8 @@ title: Amministrare Experience Manager Assets Essentials
 description: Configura l’accesso all’applicazione Assets Essentials utilizzando Admin Console, quindi gestisci le attività che possono essere eseguite dopo aver effettuato l’accesso all’applicazione Assets Essentials.
 exl-id: ffd65741-21b7-47cd-9779-63a7903879e6
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: tm+mt
-source-wordcount: '1382'
+workflow-type: ht
+source-wordcount: '1417'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 100%
 ## Panoramica {#overview}
 
 
-Il provisioning di [!DNL Adobe Experience Manager Assets Essentials] viene eseguito da Adobe per i propri clienti. Come parte del provisioning, [!DNL Assets Essentials] viene aggiunto a un’organizzazione del cliente in [!DNL Adobe Admin Console]. Gli amministratori utilizzano [!DNL Admin Console] per gestire i diritti utente alla soluzione [!DNL Assets Essentials] e assegnare gli amministratori dell’applicazione per configurare le autorizzazioni e i moduli di metadati in [!DNL Assets Essentials].
+Il provisioning di [!DNL Adobe Experience Manager Assets Essentials] viene eseguito da Adobe per i propri clienti. Come parte del provisioning, [!DNL Assets Essentials] viene aggiunto a un’organizzazione del cliente in [!DNL Adobe Admin Console]. Gli amministratori utilizzano [!DNL Admin Console] per gestire i diritti utente alla soluzione [!DNL Assets Essentials] e assegnare gli amministratori dell’applicazione per configurare le autorizzazioni e i moduli metadati in [!DNL Assets Essentials].
 
 Il diagramma di flusso di dati seguente illustra la sequenza di attività che un amministratore deve eseguire per configurare e gestire Assets Essentials:
 
@@ -59,7 +59,7 @@ Per aggiungere utenti ai profili di prodotto:
 
    ![Profilo amministratore di Admin Console](assets/assets-essentials-instance.png)
 
-   [!DNL Assets Essentials] dispone di tre profili prodotto che rappresentano il livello di accesso per amministratori, utenti standard e consumer.
+   [!DNL Assets Essentials] dispone di tre profili prodotto che rappresentano il livello di accesso per amministratori, utenti standard e utenti consumer.
 
    ![Profilo amministratore di Admin Console](assets/admin-console-admin-profile.png)
 
@@ -73,7 +73,7 @@ Per aggiungere utenti ai profili di prodotto:
 
    >[!NOTE]
    >
-   >Per eseguire attività amministrative nell’applicazione Assets Essentials, in Admin Console devi aggiungere un utente al profilo di prodotto per amministratori di Assets Essentials. Queste attività includono [creare una struttura di cartelle](#create-folder-structure), [gestire le autorizzazioni per le cartelle](#manage-permissions-for-folders) e [configurare i moduli di metadati](#metadata-forms).
+   >Per eseguire attività amministrative nell’applicazione Assets Essentials, in Admin Console devi aggiungere un utente al profilo di prodotto per amministratori di Assets Essentials. Queste attività includono [creare una struttura di cartelle](#create-folder-structure), [gestire le autorizzazioni per le cartelle](#manage-permissions-for-folders) e [configurare i moduli metadati](#metadata-forms).
 
 ### Aggiungere gruppi di utenti {#add-user-groups}
 
@@ -104,7 +104,7 @@ Dopo aver eseguito le attività di Admin Console, ora puoi eseguire le seguenti 
 
 * [Gestione delle autorizzazioni per le cartelle](#manage-permissions-for-folders)
 
-* [Configurare i moduli di metadati](#metadata-forms)
+* [Configurare i moduli metadati](#metadata-forms)
 
 >[!NOTE]
 >
@@ -143,27 +143,27 @@ Assets Essentials consente agli amministratori di gestire i livelli di accesso p
 
 Per ulteriori informazioni, consulta [Gestione delle autorizzazioni per le cartelle](manage-permissions.md).
 
-### Configurare i moduli di metadati {#metadata-forms}
+### Configurare i moduli metadati {#metadata-forms}
 
-Per impostazione predefinita, Assets Essentials fornisce molti campi di metadati standard. Spesso le organizzazioni hanno l’esigenza di aggiungere altri metadati, specifici per l’azienda. I moduli di metadati consentono alle aziende di aggiungere campi di metadati personalizzati alla pagina [!UICONTROL Dettagli] di una risorsa. I metadati specifici per l’azienda migliorano la governance e l’individuazione delle risorse. Puoi creare nuovi moduli o riutilizzare quelli esistenti.
+Per impostazione predefinita, Assets Essentials fornisce molti campi di metadati standard. Spesso le organizzazioni hanno l’esigenza di aggiungere altri metadati, specifici per l’azienda. I moduli metadati consentono alle aziende di aggiungere campi di metadati personalizzati alla pagina [!UICONTROL Dettagli] di una risorsa. I metadati specifici per l’azienda migliorano la governance e l’individuazione delle risorse. Puoi creare nuovi moduli o riutilizzare quelli esistenti.
 
-Puoi configurare i moduli di metadati per diversi tipi di risorse (diversi tipi MIME). Utilizza un modulo con lo stesso nome del tipo MIME del file. Le funzioni di base confrontano automaticamente il tipo MIME delle risorse caricate con il nome del modulo e aggiornano i metadati delle risorse caricate in base ai campi del modulo.
+Puoi configurare i moduli metadati per diversi tipi di risorse (diversi tipi MIME). Utilizza un modulo con lo stesso nome del tipo MIME del file. Le funzioni di base confrontano automaticamente il tipo MIME delle risorse caricate con il nome del modulo e aggiornano i metadati delle risorse caricate in base ai campi del modulo.
 
-Ad esempio, se è presente un modulo di metadati denominato `PDF` o `pdf`, i documenti PDF caricati contengono i campi di metadati definiti in tale modulo.
+Ad esempio, se è presente un modulo metadati denominato `PDF` o `pdf`, i documenti PDF caricati contengono i campi di metadati definiti in tale modulo.
 
-Assets Essentials utilizza la seguente sequenza per cercare i nomi dei moduli di metadati esistenti per applicare i campi di metadati alle risorse caricate di un particolare tipo:
+Assets Essentials utilizza la seguente sequenza per cercare i nomi dei moduli metadati esistenti per applicare i campi di metadati alle risorse caricate di un particolare tipo:
 
 Sottotipo MIME > Tipo MIME > Modulo `default` > Modulo fornito con il prodotto
 
-Ad esempio, se è presente un modulo di metadati denominato `PDF` o `pdf`, i documenti PDF caricati contengono i campi di metadati definiti in tale modulo. Se non esiste un modulo di metadati denominato `PDF` o `pdf`, Assets Essentials verifica se è presente un modulo di metadati denominato `application`. Se è presente un modulo metadati denominato `application`, i documenti PDF caricati contengono campi di metadati definiti nel modulo. Se Assets Essentials non trova un modulo di metadati corrispondente, cerca il modulo metadati `default` per applicare ai documenti PDF caricati i campi metadati definiti nel modulo. Se nessuno di questi passaggi funziona, Assets Essentials applica a tutti i documenti PDF caricati i campi di metadati definiti nel modulo fornito con il prodotto.
+Ad esempio, se è presente un modulo metadati denominato `PDF` o `pdf`, i documenti PDF caricati contengono i campi di metadati definiti in tale modulo. Se non esiste un modulo metadati denominato `PDF` o `pdf`, Assets Essentials verifica se è presente un modulo metadati denominato `application`. Se è presente un modulo metadati denominato `application`, i documenti PDF caricati contengono campi di metadati definiti nel modulo. Se Assets Essentials non trova un modulo di metadati corrispondente, cerca il modulo metadati `default` per applicare ai documenti PDF caricati i campi metadati definiti nel modulo. Se nessuno di questi passaggi funziona, Assets Essentials applica a tutti i documenti PDF caricati i campi di metadati definiti nel modulo fornito con il prodotto.
 
 >[!IMPORTANT]
 >
->Un nuovo modulo di metadati per un tipo di file specifico sostituisce interamente quello predefinito fornito da [!DNL Assets Essentials]. Se elimini o rinomini un modulo di metadati, i campi di metadati predefiniti diventano di nuovo disponibili per le nuove risorse.
+>Un nuovo modulo metadati per un tipo di file specifico sostituisce interamente quello predefinito fornito da [!DNL Assets Essentials]. Se elimini o rinomini un modulo metadati, i campi di metadati predefiniti diventano di nuovo disponibili per le nuove risorse.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341275)
 
-Per ulteriori informazioni su moduli di metadati, consulta [Moduli di metadati in Assets Essentials](metadata.md#metadata-forms).
+Per ulteriori informazioni su moduli metadati, consulta [Moduli metadati in Assets Essentials](metadata.md#metadata-forms).
 
 ## Prossimi passaggi
 
