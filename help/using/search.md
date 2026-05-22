@@ -16,7 +16,7 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 2217
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 98%
         </td>
         <td>
             <img src="assets/new.gif" width="20px" height="25px" alt="novità">
-            <a href="https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b>AEM Assets Ultimate</b></a>/
+            <a href="https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b>AEM Assets Ultimate</b></a>
         </td>
         <td>
             <img src="assets/new.gif" width="20px" height="25px" alt="novità">
@@ -36,7 +36,7 @@ ht-degree: 98%
         </td>
         <td>
             <img src="assets/new.gif" width="20px" height="25px" alt="novità">
-            <a href="https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Estensibilità interfaccia utente</b></a>
+            <a href="https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Estensibilità dell’ interfaccia utente</b></a>
         </td>
           <td>
             <img src="assets/new.gif" width="20px" height="25px" alt="novità">
@@ -188,7 +188,7 @@ Per generare nuove risorse tramite [!DNL Adobe Firefly]:
 
    ![Integrazione di Firefly](assets/firefly-integration.png)
 
-   Le nuove risorse sono state generate correttamente. È, inoltre, possibile modificare la descrizione dell’immagine immettendo il nuovo prompt di testo nella casella Descrizione. [Scopri come scrivere un buon prompt di intelligenza artificiale per generare contenuti straordinari e rilevanti.](https://helpx.adobe.com/it/firefly/using/tips-and-tricks.html) In alternativa, è possibile [modificare l&#39;immagine con varie altre funzionalità, ad esempio la modifica dello stile, delle dimensioni dell&#39;immagine e altro ancora.](https://helpx.adobe.com/it/firefly/using/text-to-image.html)
+   Le nuove risorse sono state generate correttamente. È, inoltre, possibile modificare la descrizione dell’immagine immettendo il nuovo prompt di testo nella casella Descrizione. [Scopri come scrivere un prompt IA corretto per generare contenuti straordinari e rilevanti.](https://helpx.adobe.com/it/firefly/using/tips-and-tricks.html) In alternativa, puoi [modificare l’immagine con varie altre funzionalità, ad esempio cambiando lo stile, le dimensioni dell’immagine e altro ancora.](https://helpx.adobe.com/it/firefly/using/text-to-image.html)
 
    ![Integrazione di Firefly](assets/bugatti-type-57.png)
 
@@ -389,7 +389,7 @@ Per fornire un feedback sulla funzione di ricerca contestuale, fai clic sull’i
 
 ## Passaggi successivi {#next-steps}
 
-* [Guarda un video per cercare le risorse in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html?lang=it)
+* [Guarda un video su come ricercare le risorse in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html?lang=it)
 
 * Fornisci feedback sui prodotti utilizzando l’opzione [!UICONTROL Feedback] disponibile nell’interfaccia utente di Assets Essentials
 

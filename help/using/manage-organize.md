@@ -17,7 +17,7 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 1240
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -180,7 +180,7 @@ Per aggiungere al modulo il campo di metadati Data di scadenza, trascina nel mod
 
 ## Passaggi successivi {#next-steps}
 
-* [Guarda un video per gestire le risorse in Assets Essentials](https://experienceleague.adobe.com/it/docs/experience-manager-learn/assets-essentials/basics/managing)
+* [Guarda un video su come gestire le risorse in Assets Essentials](https://experienceleague.adobe.com/it/docs/experience-manager-learn/assets-essentials/basics/managing)
 
 * Fornisci feedback sui prodotti utilizzando l’opzione [!UICONTROL Feedback] disponibile nell’interfaccia utente di Assets Essentials
 

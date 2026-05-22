@@ -20,7 +20,7 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 2195
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -141,10 +141,10 @@ Di seguito è riportata una panoramica di ciascun tipo di proprietà e della rel
 | Casella di selezione | Aggiungi un valore booleano. Memorizzato come TRUE o FALSE dopo il salvataggio di un valore. |
 | Data | Aggiungi un componente data. |
 | Elenchi a discesa | Aggiungi un elenco a discesa. |
-| Stato | Aggiungi la proprietà dello stato del repository (mappata al repository:state) |
-| Stato risorsa | Aggiungi la proprietà predefinita Stato risorsa (mappata a dam:assetStatus) |
-| Tag | Aggiungere un tag dai valori archiviati in Gestione tassonomia (mappato a xcm:tags). |
-| Parole chiave | Aggiungere parole chiave in formato libero (mappate a dc:subject). |
+| Stato | Aggiungi la proprietà dello stato dell’archivio (mappata su repo :state) |
+| Stato risorsa | Aggiungi la proprietà predefinita Stato risorsa (mappata su DAM:assetStatus) |
+| Tag | Aggiungi un tag dai valori archiviati in Gestione tassonomia (mappato su xcm:tags). |
+| Parole chiave | Aggiungi parole chiave in formato libero (mappate su dc:subject). |
 | Tag avanzati | Migliora le funzionalità di ricerca aggiungendo automaticamente tag di metadati. |
 | Collegamento | Aggiungi per abilitare URL esterni. Una volta configurato nel modulo metadati, il componente URL può essere mappato a una specifica proprietà di metadati nella pagina dell’editor di metadati. Questo [modulo metadati può essere assegnato alle cartelle](#assign-metadata-form-folder). |
 
@@ -226,7 +226,7 @@ Per visualizzare i tag principali configurati, passa alla pagina dei dettagli de
 
 ## Passaggi successivi {#next-steps}
 
-* [Guarda un video su come gestire i moduli di metadati in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=it)
+* [Guarda un video su come gestire i moduli metadati in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=it)
 
 * Fornisci feedback sui prodotti utilizzando l’opzione [!UICONTROL Feedback] disponibile nell’interfaccia utente di Assets Essentials
 

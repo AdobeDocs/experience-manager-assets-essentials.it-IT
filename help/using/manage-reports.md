@@ -14,7 +14,7 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 1243
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -201,12 +201,12 @@ Fai clic su **[!UICONTROL Insight]** nel riquadro di navigazione a sinistra per 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
 * **Utilizzo archiviazione**: utilizzo dell’archiviazione, in byte, per l’ambiente di Assets Essentials rappresentato da un grafico a barre.
-  ![&#x200B; utilizzo archiviazione](/help/using/assets/insights-storage-usage1.svg)
+  ![utilizzo archiviazione](/help/using/assets/insights-storage-usage1.svg)
   <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
-* **Ricerche principali**: visualizza i termini più cercati e il numero di volte in cui tali termini sono stati cercati nell’ambiente Assets Essentials negli ultimi 30 giorni o 12 mesi rappresentato in formato tabulare.
+* **Principali ricerche**: visualizza i termini più cercati e il numero di volte in cui tali termini sono stati cercati nell’ambiente Assets Essentials negli ultimi 30 giorni o 12 mesi rappresentati in formato tabulare.
   ![utilizzo archiviazione](/help/using/assets/insights-top-search.svg)
 
   <!--

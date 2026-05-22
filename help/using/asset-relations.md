@@ -1,6 +1,6 @@
 ---
-title: Relazioni risorse
-description: Scopri come correlare le risorse digitali che condividono alcuni attributi comuni. Crea inoltre relazioni derivate dall’origine tra risorse digitali utilizzando le relazioni tra risorse.
+title: Relazioni risorsa
+description: Scopri come correlare le risorse digitali che condividono alcuni attributi comuni. Crea inoltre relazioni origine/derivata tra risorse digitali utilizzando le relazioni tra risorse.
 role: User
 feature: Collaboration,Asset Management
 solution: Experience Manager, Experience Manager Assets
@@ -14,48 +14,48 @@ role_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 566
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
-# Relazioni risorse {#related-assets}
+# Relazioni risorsa {#related-assets}
 
-[!DNL Adobe Experience Manager Assets] consente di correlare manualmente le risorse in base alle esigenze dell&#39;organizzazione utilizzando la funzionalità risorse correlate. Ad esempio, puoi correlare un file di licenza con una risorsa o un’immagine o un video su un argomento simile. Puoi correlare risorse che condividono alcuni attributi comuni. È inoltre possibile utilizzare la funzione per creare relazioni di origine/derivate tra le risorse. Se ad esempio si dispone di un file PDF generato da un file INDD, è possibile correlare il file PDF al relativo file INDD di origine.
+[!DNL Adobe Experience Manager Assets] consente di correlare manualmente le risorse in base alle esigenze dell’organizzazione utilizzando la funzionalità risorse correlate. Ad esempio, puoi correlare un file di licenza a una risorsa o a un’immagine o un video su un argomento simile. Puoi correlare risorse che condividono alcuni attributi comuni. Puoi anche utilizzare la funzione per creare relazioni origine/derivata tra risorse. Se ad esempio disponi di un file PDF generato da un file INDD, puoi correlare il file PDF al relativo file INDD di origine.
 
 Grazie a questa funzione, è possibile condividere un file PDF a bassa risoluzione o un file JPG con fornitori o agenzie e rendere disponibile il file INDD ad alta risoluzione solo su richiesta.
 
 >[!NOTE]
 >
->Solo gli utenti con autorizzazioni di modifica per le risorse possono correlare e scollegare le risorse.
+>Solo gli utenti con autorizzazioni di modifica delle risorse possono correlare e scollegare le risorse.
 
 ## Passaggi per correlare le risorse {#steps-to-relate-assets}
 
-1. Dall&#39;interfaccia [!DNL Experience Manager], apri la pagina **[!UICONTROL Proprietà]** per una risorsa da correlare.
+1. Dall’interfaccia [!DNL Experience Manager], apri la pagina **[!UICONTROL Proprietà]** per una risorsa da correlare.
 
-   ![apri la pagina Proprietà di una risorsa per correlarla](assets/asset-properties-relate-assets.png)
+   ![Aprire la pagina Proprietà di una risorsa per correlarla](assets/asset-properties-relate-assets.png)
 
-1. Per correlare un&#39;altra risorsa alla risorsa selezionata, fare clic su **[!UICONTROL Relazioni risorse]** ![correlare risorse](assets/do-not-localize/link-relate.png).
+1. Per correlare un’altra risorsa alla risorsa selezionata, fai clic su **[!UICONTROL Relazioni risorsa]** ![Correla risorse](assets/do-not-localize/link-relate.png).
 1. Effettua una delle seguenti operazioni:
 
-   * Per correlare il file di origine della risorsa, selezionare **[!UICONTROL Aggiungi Source]** dall&#39;elenco. È possibile associare una sola risorsa come origine.
-   * Per correlare un file derivato, selezionare **[!UICONTROL Aggiungi derivato]** dall&#39;elenco. È possibile associare più risorse in questa categoria.
-   * Per creare una relazione bidirezionale tra le risorse, seleziona **[!UICONTROL Aggiungi altro]** dall&#39;elenco. È possibile associare più risorse in questa categoria.
+   * Per correlare il file di origine della risorsa, seleziona **[!UICONTROL Aggiungi origine]** dall’elenco. Puoi associare una sola risorsa come origine.
+   * Per correlare un file derivato, seleziona **[!UICONTROL Aggiungi derivato]** dall’elenco. È possibile associare più risorse in questa categoria.
+   * Per creare una relazione bidirezionale tra le risorse, seleziona **[!UICONTROL Aggiungi altro]** dall’elenco. È possibile associare più risorse in questa categoria.
 
-1. Dalla schermata **[!UICONTROL Seleziona Assets]**, individua il percorso della risorsa da correlare e selezionala. È possibile selezionare una o più risorse tenendo premuto il tasto Maiusc mentre si fa clic su, che può includere uno dei [formati di file supportati in Assets View](supported-file-formats.md).
+1. Dalla schermata **[!UICONTROL Seleziona risorse]**, individua il percorso della risorsa da correlare e selezionala. Puoi selezionare una o più risorse tenendo premuto il tasto Maiusc mentre fai clic; la selezione può includere uno qualsiasi dei [formati di file supportati nella vista Risorse](supported-file-formats.md).
 
-   ![aggiungi risorsa correlata](assets/add-related-asset.png)
+   ![Aggiungere risorsa correlata](assets/add-related-asset.png)
 
-1. Fai clic su **[!UICONTROL Seleziona]**. A seconda della relazione scelta al passaggio 3, la risorsa correlata viene elencata in una categoria appropriata nella sezione **[!UICONTROL Relazioni risorse]**. Se ad esempio la risorsa correlata è il file di origine della risorsa corrente, verrà elencata in **[!UICONTROL Source]**.
+1. Fai clic su **[!UICONTROL Seleziona]**. In base alla relazione scelta nel passaggio 3, la risorsa correlata viene elencata nella categoria pertinente all’interno della sezione **[!UICONTROL Relazioni risorsa]**. Se ad esempio la risorsa correlata è il file di origine della risorsa corrente, verrà elencata in **[!UICONTROL Origine]**.
 
    ![Esempio di relazione risorse](assets/asset-relations-example.png)
 
-1. Fai clic su **[!UICONTROL Annulla correlazione]** ![annulla correlazione risorse](assets/do-not-localize/link-unrelate-icon.png) disponibili per tutte le risorse correlate in ogni sezione ([!UICONTROL Source], [!UICONTROL Derivato] e [!UICONTROL Altro]) per annullare la correlazione di una risorsa.
+1. Fai clic su **[!UICONTROL Annulla correlazione]** ![Annulla correlazione risorse](assets/do-not-localize/link-unrelate-icon.png) disponibili per tutte le risorse correlate in ogni sezione ([!UICONTROL Origine], [!UICONTROL Derivata] e [!UICONTROL Altro]) per annullare la correlazione di una risorsa.
 
-## Tradurre le risorse correlate {#translating-related-assets}
+## Tradurre risorse correlate {#translating-related-assets}
 
-La creazione di relazioni origine/derivate tra risorse utilizzando la funzione risorse correlate è utile anche nei flussi di lavoro di traduzione. Quando esegui un flusso di lavoro di traduzione su una risorsa derivata, [!DNL Experience Manager Assets] recupera automaticamente qualsiasi risorsa a cui il file di origine fa riferimento e la include per la traduzione. In questo modo, la risorsa a cui fa riferimento la risorsa sorgente viene tradotta insieme alle risorse sorgente e derivate. Se il file di origine è correlato a un&#39;altra risorsa, [!DNL Experience Manager Assets] recupera la risorsa di riferimento e la include per la traduzione.
+La creazione di relazioni di tipo origine/derivata tra risorse utilizzando la funzione risorse correlate è utile anche nei flussi di lavoro di traduzione. Quando esegui un flusso di lavoro di traduzione su una risorsa derivata, [!DNL Experience Manager Assets] recupera automaticamente qualsiasi risorsa a cui il file di origine fa riferimento e la include per la traduzione. In questo modo, la risorsa a cui fa riferimento la risorsa di origine viene tradotta insieme alle risorse di origine e quelle derivate. Se il file di origine è correlato a un’altra risorsa, [!DNL Experience Manager Assets] recupera la risorsa di riferimento e la include per la traduzione.
 
-Vedi [Tradurre le risorse in AEM](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/admin/translate-assets).
+Consulta [Tradurre risorse in AEM](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/admin/translate-assets).
 
 ## Passaggi successivi {#next-steps}
 
@@ -68,5 +68,5 @@ Vedi [Tradurre le risorse in AEM](https://experienceleague.adobe.com/it/docs/exp
 >[!MORELIKETHIS]
 >
 >* [Visualizzare le versioni di una risorsa](manage-organize.md#view-versions)
->* [Traduci risorse in AEM](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
->* [Formati di file supportati nella visualizzazione Assets](supported-file-formats.md).
+>* [Tradurre risorse in AEM](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
+>* [Formati di file supportati nella vista Risorse](supported-file-formats.md).

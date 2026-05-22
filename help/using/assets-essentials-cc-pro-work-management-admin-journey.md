@@ -15,7 +15,7 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 917
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -59,7 +59,7 @@ I percorsi di documentazione sono progettati in base ai principi delle best prac
 
 ## Prerequisiti
 
-* [Accesso a Adobe Admin Console per le soluzioni Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html?lang=it)
+* [Accesso ad Adobe Admin Console per soluzioni di Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html?lang=it)
 
 * [Accesso a Adobe Admin Console per l’implementazione di Creative Cloud for enterprise](https://helpx.adobe.com/it/enterprise/admin-guide.html)
 

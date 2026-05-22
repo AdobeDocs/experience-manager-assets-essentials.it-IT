@@ -18,7 +18,7 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 660
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -107,4 +107,4 @@ Quando le tue esigenze business aumentano e hai bisogno di supporto per soddisfa
 
 >[!MORELIKETHIS]
 >
->* Pagina dei tutorial su[[!DNL Assets Essentials] &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=it)
+>* Pagina dei tutorial su[[!DNL Assets Essentials] ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=it)

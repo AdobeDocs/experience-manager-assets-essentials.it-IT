@@ -25,7 +25,7 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 3041
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -445,7 +445,7 @@ Inoltre, l’estensione [!DNL Adobe Asset Link] per Creative Cloud (Photoshop, I
 
 * Al termine del processo di provisioning, Adobe implementa automaticamente Assets Essentials. Gli amministratori non devono eseguire alcun passaggio aggiuntivo per implementare Assets Essentials tramite l’interfaccia utente di [!DNL Cloud Manager]. L’implementazione automatica sarà disponibile per gli ambienti per i quali è stato eseguito il provisioning dopo il 6 gennaio 2022.
 * In Adobe Exchange sono disponibili nuove versioni dei plug-in Creative Cloud che funzionano con Assets Essentials: [Adobe Asset Link per Adobe XD v. 2.1.0](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9) e [Adobe Asset Link for Photoshop/InDesign/Illustrator v. 3.1.65](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html).
-* Vari bug e miglioramenti dei prodotti, tra cui problemi noti precedenti (dopo il caricamento, le cartelle ora vengono visualizzate correttamente nella struttura di navigazione a sinistra<!-- CQ-4337638 -->, il caricamento mediante trascinamento della selezione consente di selezionare la cartella corrente o una sottocartella al momento del rilascio per il caricamento).
+* Vari bug e miglioramenti dei prodotti, tra cui problemi noti precedenti (le cartelle ora vengono visualizzate correttamente nella struttura di navigazione a sinistra dopo il caricamento<!-- CQ-4337638 -->; il caricamento tramite trascinamento consente di selezionare la cartella corrente o qualsiasi sottocartella al momento del rilascio).
 
 <!-- CQ-4327753 -->
 

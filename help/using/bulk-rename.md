@@ -1,5 +1,5 @@
 ---
-title: Rinominare e raggruppare le risorse rinominare in [!DNL Assets Essentials]
+title: Ridenominazione singola e in blocco delle risorse in  [!DNL Assets Essentials]
 description: Scopri come rinominare in blocco le risorse utilizzando la nuova interfaccia utente di Assets (Assets Essentials). Consente di rinominare più risorse contemporaneamente.
 role: User
 exl-id: 5d18950f-1863-46c0-83d7-079ae95a6320
@@ -13,11 +13,11 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 458
-ht-degree: 20%
+ht-degree: 100%
 
 ---
 
-# Rinomina risorsa o cartella in [!DNL Assets Essentials] {#rename-single-asset-or-folder}
+# Rinominare risorse o cartelle in [!DNL Assets Essentials] {#rename-single-asset-or-folder}
 
 La ridenominazione può contribuire a migliorare l’organizzazione, la classificazione e l’identificazione delle risorse senza modificarne il contenuto o la posizione. [!DNL Assets Essentials] consente di rinominare la risorsa o la cartella selezionata.
 
@@ -27,48 +27,48 @@ Per rinominare una risorsa o una cartella, effettua le seguenti operazioni:
 
 1. Per rinominare una risorsa o una cartella, utilizza uno dei seguenti modi:
 
-   * Seleziona la risorsa o la cartella e fai clic su ![icona Rinomina](assets/do-not-localize/rename-icon.png) **[!UICONTROL Rinomina]** nel menu principale.
+   * Seleziona la risorsa o la cartella e fai clic sull’![icona](assets/do-not-localize/rename-icon.png) **[!UICONTROL Rinomina]** nel menu principale.
    * Fai clic su altre opzioni `...` nella risorsa o cartella e seleziona **[!UICONTROL Rinomina]**.
-   * Fai clic sul titolo di una risorsa o cartella per rinominarla. Menziona il nuovo testo nella casella di testo **Rinomina risorsa** e fai clic su **Salva**. Questa funzionalità è disponibile nelle viste griglia, galleria, cascata ed elenco.
+   * Fai clic sul titolo di una risorsa o di una cartella per rinominarla. Menziona il nuovo testo nella casella di testo **Rinomina risorsa** e fai clic su **Salva**. Questa funzionalità è disponibile nelle viste griglia, galleria, cascata ed elenco.
 
-## Ridenominazione in blocco di risorse basate su IA {#rename-bulk-assets-using-ai}
+## Ridenominazione in blocco di risorse basata su IA {#rename-bulk-assets-using-ai}
 
-[!DNL Assets Essentials] consente di rinominare più risorse contemporaneamente utilizzando AI. La funzionalità di ridenominazione collettiva di IA può essere applicata solo ai file, non alle cartelle. Puoi selezionare più file contemporaneamente e rinominarli tutti insieme.
+[!DNL Assets Essentials] consente di rinominare più risorse contemporaneamente utilizzando l’intelligenza artificiale. La funzionalità di ridenominazione in blocco basata su IA può essere applicata solo ai file, non alle cartelle. Puoi selezionare più file contemporaneamente e rinominarli tutti insieme.
 
 Segui i passaggi seguenti per rinominare contemporaneamente la maggior parte delle risorse utilizzando i prompt generati da IA:
 
-1. Seleziona più risorse e fai clic su **[!UICONTROL Rinomina in blocco]** nel menu principale.
+1. Seleziona più risorse e fai clic su **[!UICONTROL Ridenominazione in blocco]** nel menu principale.
 
-1. Aggiungi il prompt che descrive come rinominare le risorse selezionate. Consulta [alcuni esempi che illustrano la rinomina collettiva di IA](#examples-ai-bulk-rename).
+1. Aggiungi il prompt che descrive come rinominare le risorse selezionate. Consulta [alcuni esempi che illustrano la Ridenominazione in blocco basata su IA](#examples-ai-bulk-rename).
 
-1. Fai clic su **[!UICONTROL Esegui]** per consentire ad IA di rinominare le risorse come indicato nel prompt.
+1. Fai clic su **[!UICONTROL Esegui]** per consentire all’intelligenza artificiale di rinominare le risorse come indicato nel prompt.
 
-1. [Facoltativo] Fai clic sull&#39;icona ![Annulla](assets/do-not-localize/undo.svg) per annullare o annullare l&#39;ultima azione eseguita.
+1. [Facoltativo] Fai clic sull’icona ![Annulla](assets/do-not-localize/undo.svg) per tornare indietro o annullare l’ultima azione eseguita.
 
 1. Controlla le modifiche nella colonna [!UICONTROL Anteprima nuovo nome] e fai clic su **[!UICONTROL Salva]**.
 
-   ![Ridenominazione collettiva IA](assets/ai-bulk-rename.png)
+   ![Ridenominazione in blocco basata su IA](assets/ai-bulk-rename.png)
 
-## Alcuni esempi che illustrano la ridenominazione in blocco di IA {#examples-ai-bulk-rename}
+## Alcuni esempi che illustrano la ridenominazione in blocco basata su IA {#examples-ai-bulk-rename}
 
-Di seguito sono riportati alcuni esempi di utilizzo dell’intelligenza artificiale per rinominare le risorse in blocco in base a un prompt di intelligenza artificiale:
+Di seguito sono riportati alcuni esempi di utilizzo dell’intelligenza artificiale per rinominare in blocco le risorse in base a un prompt di intelligenza artificiale:
 
-* Prefisso con 00, 01 e così via e suffisso con la data odierna.
-* Modificate tutti i file in &quot;my-file&quot; e aggiungete un numero incrementale.
-* Rimuovere il prefisso e il suffisso, mantenendo solo la parte centrale del nome.
-* Aggiungi ai file il prefisso 001, 002 e così via e traduci in inglese.
+* Prefisso con 00, 01, ecc. e suffisso con data odierna.
+* Cambia tutti i file in ‘my-file’ e aggiungi un numero incrementale.
+* Rimuovi il prefisso e il suffisso, tieni la parte centrale del nome.
+* Aggiungi ai file il prefisso 001, 002 ecc. e traduci in inglese.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440975)
 
 >[!NOTE]
 >
-> * Non è possibile convertire le emoticon in testo.
-> * Utilizza un nome univoco per evitare messaggi di avviso durante la ridenominazione delle risorse. Puoi riprovare con un nuovo nome.
+> * Non è possibile convertire emoji in testo.
+> * Utilizza un nome univoco per evitare messaggi di avvertenza durante la ridenominazione delle risorse. Puoi comunque riprovare con un nuovo nome.
 > * È inoltre possibile convertire caratteri Unicode o non alfanumerici in testo.
 
 ## Passaggi successivi {#next-steps}
 
-* [Guarda un video su come gestire i moduli di metadati in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=it)
+* [Guarda un video su come gestire i moduli metadati in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=it)
 
 * Fornisci feedback sui prodotti utilizzando l’opzione [!UICONTROL Feedback] disponibile nell’interfaccia utente di Assets Essentials
 

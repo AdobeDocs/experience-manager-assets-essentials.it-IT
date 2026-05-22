@@ -76,7 +76,7 @@ Hiding CC Libraries (considered beta) as per PM feedback.
 | CC Libraries | − | − | − | − | − | ✓ | ✓ |
 | PDF | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
 | PSD e PSB | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
-| AI e INDD | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
+| IA e INDD | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
 | Altri file binari | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
 
 
@@ -111,7 +111,7 @@ Hiding CC Libraries (considered beta) as per PM feedback.
 | Video | ✓ | − | ✓ | ✓ | ✓ |
 | CC Libraries | ✓ | − | − | − | − |
 | PDF | ✓ | − | ✓ | ✓ | ✓ |
-| AI e INDD | ✓ | − | ✓ | ✓ | ✓ |
+| IA e INDD | ✓ | − | ✓ | ✓ | ✓ |
 | PSD e PSB | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Altri file binari | ✓ | − | ✓ | ✓ | ✓ |
 
