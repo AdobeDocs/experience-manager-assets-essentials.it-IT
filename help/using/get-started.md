@@ -4,20 +4,14 @@ description: Accesso, esperienza di accesso, casi di utilizzo supportati e probl
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
 TQID: https://experienceleague.adobe.com/jZWd3neYHmifmT7YVTMymgAfMK88N-9220D4Ek-7rjY
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-feature_v2:
-  - id: ae478996-b206-4712-9b0c-dc78a2644453
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: da3860b0-d637-47df-bef0-273751180266
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: ae478996-b206-4712-9b0c-dc78a2644453
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: da3860b0-d637-47df-bef0-273751180266
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 445
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -59,12 +53,12 @@ Di seguito sono indicate le varie attività di gestione delle risorse digitali (
 |-----|------|
 | Sfogliare e visualizzare le risorse | <ul> <li>[Sfogliare l’archivio](/help/using/navigate-view.md#view-assets-and-details) </li> <li> [Visualizzare in anteprima una risorsa](/help/using/navigate-view.md#preview-assets) <li> [Visualizzare le rappresentazioni di una risorsa](/help/using/add-delete.md#renditions) </li> <li>[Visualizzare le versioni di una risorsa](/help/using/manage-organize.md#view-versions)</li></ul> |
 | Aggiungere nuove risorse | <ul> <li>[Caricare nuove risorse e cartelle](/help/using/add-delete.md#add-assets)</li> <li>[Monitorare l’avanzamento del caricamento e gestire i caricamenti](/help/using/add-delete.md#upload-progress)</li> <li>[Risolvere i duplicati](/help/using/add-delete.md#resolve-upload-fails)</li> </ul> |
-| Aggiornare le risorse o le informazioni correlate | <ul> <li>[Modificare le immagini](/help/using/edit-images.md)</li> <li>[Creare le versioni](/help/using/manage-organize.md#create-versions) e [visualizzare le versioni](/help/using/manage-organize.md#view-versions)</li> <li>[Modificare le immagini](/help/using/edit-images.md)</li> </ul> |
-| Modificare le risorse | <ul> <li>[Modifiche nel browser con Adobe Photoshop Express](/help/using/edit-images.md)</li> <li>[Ritagliare in base a un profilo social media](/help/using/edit-images.md#crop-straighten-images)</li> <li>[Visualizzare e gestire le versioni](/help/using/manage-organize.md#view-versions)</li> <li>[Utilizzare [!DNL Adobe Asset Link]](/help/using/integration.md#integrations)</ul></ul> |
+| Aggiornare le risorse o le informazioni correlate | <ul> <li>[Modificare le immagini](/help/using/edit-images.md)</li> <li>[Creare](/help/using/manage-organize.md#create-versions) e [visualizzare le versioni](/help/using/manage-organize.md#view-versions)</li> <li>[Modificare le immagini](/help/using/edit-images.md)</li> </ul> |
+| Modificare le risorse | <ul> <li>[Modifiche nel browser con Adobe Photoshop Express](/help/using/edit-images.md)</li> <li>[Ritagliare per un profilo social media](/help/using/edit-images.md#crop-straighten-images)</li> <li>[Visualizzare e gestire le versioni](/help/using/manage-organize.md#view-versions)</li> <li>[Utilizzare [!DNL Adobe Asset Link]](/help/using/integration.md#integrations)</ul></ul> |
 | Cercare le risorse nell’archivio | <ul> <li>[Ricerca in una cartella specifica](/help/using/search.md#refine-search-results)</li> <li>[Ricerche salvate](/help/using/search.md#saved-search)</li> <li>[Cercare le risorse visualizzate di recente](/help/using/search.md)</li> <li>[Ricerca testuale](/help/using/search.md) |
 | Scaricare le risorse | <ul> <li> [Visualizzare in anteprima una risorsa](/help/using/navigate-view.md#preview-assets) </li> <li> [Scaricare le risorse](/help/using/manage-organize.md#download) <li> [Scaricare le rappresentazioni](/help/using/add-delete.md#renditions) </li></ul> |
 | Operazioni relative ai metadati | <ul> <li>[Visualizzare i metadati nel dettaglio](/help/using/metadata.md) </li> <li> [Aggiornare i metadati](/help/using/metadata.md#update-metadata)</li> <li> [Creare un nuovo modulo metadati](/help/using/metadata.md#metadata-forms) </li> </ul> |
-| Integrazione con altre soluzioni | <ul> <li>[Utilizzare il selettore risorse in [!DNL Adobe Journey Optimizer]](/help/using/integration.md)</li> <li>[[!DNL Adobe Asset Link] per [!DNL Creative Cloud]](/help/using/integration.md)</li> <li>[Integrazione con [!DNL Adobe Workfront]](/help/using/integration.md)</li> </ul> |
+| Integrazione con altre soluzioni | <ul> <li>[Utilizzare il selettore risorse in  [!DNL Adobe Journey Optimizer]](/help/using/integration.md)</li> <li>[[!DNL Adobe Asset Link]  per  [!DNL Creative Cloud]](/help/using/integration.md)</li> <li>[Integrazione con [!DNL Adobe Workfront]](/help/using/integration.md)</li> </ul> |
 
 ## Passaggi successivi {#next-steps}
 
@@ -74,7 +68,7 @@ Di seguito sono indicate le varie attività di gestione delle risorse digitali (
 
 * Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
 
-* Contatta il [Servizio clienti](https://experienceleague.adobe.com/it?support-solution=General&lang=it#support)
+* Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&lang=it#support)
 
 
 <!--

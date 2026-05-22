@@ -5,22 +5,13 @@ role: User,Leader,Admin,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 TQID: https://experienceleague.adobe.com/cW9-sni2SVQ0vjs4FXwXHxjMQOM8FvQIgJD2-8KDrlc
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
-  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-  - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: bbbea26f-9621-49eb-9ab8-e06fb3bbce8cid: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: f8667931-f646-4dd3-af2a-b9d0cb8098ad
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 2195
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -141,10 +132,10 @@ Di seguito è riportata una panoramica di ciascun tipo di proprietà e della rel
 | Casella di selezione | Aggiungi un valore booleano. Memorizzato come TRUE o FALSE dopo il salvataggio di un valore. |
 | Data | Aggiungi un componente data. |
 | Elenchi a discesa | Aggiungi un elenco a discesa. |
-| Stato | Aggiungi la proprietà dello stato del repository (mappata al repository:state) |
-| Stato risorsa | Aggiungi la proprietà predefinita Stato risorsa (mappata a dam:assetStatus) |
-| Tag | Aggiungere un tag dai valori archiviati in Gestione tassonomia (mappato a xcm:tags). |
-| Parole chiave | Aggiungere parole chiave in formato libero (mappate a dc:subject). |
+| Stato | Aggiungi la proprietà dello stato dell’archivio (mappata su repo :state) |
+| Stato risorsa | Aggiungi la proprietà predefinita Stato risorsa (mappata su DAM:assetStatus) |
+| Tag | Aggiungi un tag dai valori archiviati in Gestione tassonomia (mappato su xcm:tags). |
+| Parole chiave | Aggiungi parole chiave in formato libero (mappate su dc:subject). |
 | Tag avanzati | Migliora le funzionalità di ricerca aggiungendo automaticamente tag di metadati. |
 | Collegamento | Aggiungi per abilitare URL esterni. Una volta configurato nel modulo metadati, il componente URL può essere mappato a una specifica proprietà di metadati nella pagina dell’editor di metadati. Questo [modulo metadati può essere assegnato alle cartelle](#assign-metadata-form-folder). |
 
@@ -226,13 +217,13 @@ Per visualizzare i tag principali configurati, passa alla pagina dei dettagli de
 
 ## Passaggi successivi {#next-steps}
 
-* [Guarda un video su come gestire i moduli di metadati in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=it)
+* [Guarda un video su come gestire i moduli metadati in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=it)
 
 * Fornisci feedback sui prodotti utilizzando l’opzione [!UICONTROL Feedback] disponibile nell’interfaccia utente di Assets Essentials
 
 * Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
 
-* Contatta il [Servizio clienti](https://experienceleague.adobe.com/it?support-solution=General&lang=it#support)
+* Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&lang=it#support)
 
 <!-- 
 TBD: Cannot create a form using the second option. Documenting only the first option for now.

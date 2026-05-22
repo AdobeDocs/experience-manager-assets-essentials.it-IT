@@ -4,16 +4,13 @@ description: Modifica le immagini utilizzando le opzioni basate su [!DNL Adobe E
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 TQID: https://experienceleague.adobe.com/DAhAV4RClHSyCj-NgVALulD0gzddSip5f56LsUq0bHU
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 1258
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -73,7 +70,7 @@ Utilizzando alcune azioni rapide di [!DNL Adobe Express], è facile trasformare 
 1. Fai clic su **[!UICONTROL Ritaglia immagine]** dal riquadro a sinistra.
 2. Trascina le maniglie agli angoli dell’immagine per creare il ritaglio desiderato.
 3. Fai clic su **[!UICONTROL Applica]**.
-   ![Salva immagine con Adobe Express](/help/using/assets/adobe-express-crop-image.png)
+   ![Salvare un’immagine con Adobe Express](/help/using/assets/adobe-express-crop-image.png)
 L’immagine ritagliata è disponibile per il download. Puoi salvare la risorsa modificata come nuova versione della stessa risorsa oppure salvarla come nuova risorsa.
 
 #### Convertire da JPEG in PNG {#Convert-JPEG-to-PNG}
@@ -93,8 +90,8 @@ Puoi convertire rapidamente un’immagine JPEG in formato PNG utilizzando Adobe 
 
 Gli utenti con i diritti di Express possono utilizzare l’editor di Express incorporato dall’interfaccia utente di Assets Essentials per modificare facilmente i contenuti e crearne di nuovi con GenAI da Adobe Firefly. Questa funzione migliora il riutilizzo dei contenuti e ne accelera la velocità. Puoi anche utilizzare elementi predefiniti per migliorare la risorsa o eseguire azioni rapide per modificare l’immagine con pochi clic.
 
-![express nell&#39;interfaccia utente di essentials](/help/using/assets/express-in-essentials-ui.jpg)
-Per modificare le immagini nell’editor incorporato di Adobe Express, effettua le seguenti operazioni:
+![Express nell’interfaccia utente di Essentials](/help/using/assets/express-in-essentials-ui.jpg)
+Per modificare le immagini utilizzando l’editor incorporato di Adobe Express, effettua le seguenti operazioni:
 
 1. Passa all’interfaccia utente di AEM Assets Essentials utilizzando il collegamento [Interfaccia utente di AEM Assets Essentials](https://experience.adobe.com/#/assets) e seleziona l’archivio appropriato.
 1. Fai clic su **Risorse**, immetti una cartella e seleziona un’immagine.
@@ -159,7 +156,7 @@ The brush samples the retouched area and makes the repaired pixels blend seamles
 
 <!-- 
 TBD: See if we should give backlinks to PS docs for these concepts.
-For more information about how Spot Healing works in Photoshop, see [retouching and repairing photos](https://helpx.adobe.com/it/photoshop/using/retouching-repairing-images.html). 
+For more information about how Spot Healing works in Photoshop, see [retouching and repairing photos](https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html). 
 -->
 <!--
 ### Crop and straighten images {#crop-straighten-images-using-photoshop-express}
