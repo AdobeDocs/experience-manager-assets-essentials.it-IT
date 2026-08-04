@@ -4,14 +4,10 @@ description: '[!DNL Assets Essentials] si integra con altre soluzioni Adobe e of
 role: User
 exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
 TQID: https://experienceleague.adobe.com/TFjf7jmmlN5iuoWzFg32WqfNuLMIdf29d-SkrO6Ar58
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-feature_v2:
-  - id: ae478996-b206-4712-9b0c-dc78a2644453
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: ae478996-b206-4712-9b0c-dc78a2644453
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 491
@@ -47,7 +43,7 @@ Integra AEM Assets con l’authoring basato su documenti per Edge Delivery Servi
 
 * Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
 
-* Contatta il [Servizio clienti](https://experienceleague.adobe.com/it?support-solution=General&lang=it#support)
+* Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&lang=it#support)
 
 <!-- 
 TBD: Hiding this link till GA. Do not even include the beta mention as discussed with Greg. Beta is done with customers selected by the Accounts team. It is not an open Beta program. At GA, document this.
