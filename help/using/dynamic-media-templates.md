@@ -5,13 +5,11 @@ hide: true
 hidefromtoc: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: 4c176db86c9f3219f2cb63edda71435a2aa76850
+source-git-commit: 10c0e2375ba16dfeeeeca8f0b816ca366254dd67
 workflow-type: tm+mt
-source-wordcount: '3000'
+source-wordcount: '3017'
 ht-degree: 99%
-
 ---
-
 # Modelli Dynamic Media{#dynamic-media-templates}
 
 | [Best practice per la ricerca](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices) | [Best practice per i metadati](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices) | [Content Hub](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview) | [Documentazione di AEM Assets per sviluppatori](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
@@ -35,7 +33,7 @@ Ecco alcune delle funzioni principali:
 
 Alcuni dei vantaggi principali dei modelli di Dynamic Media includono:
 
-* **Ottimizzazione 1:1 Personalizzazione:** adatta il contenuto ai segnali dei clienti in tempo reale.
+* **Ottimizza Personalization 1:1:** Personalizza il contenuto per i segnali dei clienti in tempo reale.
 * **Riduzione delle attività manuali:** automatizza e accelera la creazione e la gestione dei contenuti.
 * **Garanzia di esperienze omnicanale coerenti:** per mantenere la coerenza del brand su tutti i canali.
 * **Riutilizzo efficace dei contenuti:** evita contenuti usa e getta e sfrutta la scalabilità di modelli dinamici basati su parametri.
@@ -76,7 +74,7 @@ Per creare un’area di lavoro vuota, esegui i passaggi seguenti:
 
 1. Fai clic su **[!UICONTROL Crea modello]** per salvare il modello in Risorse Dynamic Media oppure passa a una cartella e fai clic su **[!UICONTROL Crea modello]** per salvare il modello in tale cartella. Viene visualizzata la finestra di dialogo **[!UICONTROL Nuovo modello]**.
    ![come creare modelli dinamici personalizzabili in tempo reale](/help/using/assets/new-template.png)
-Per [creare una cartella](/help/using/add-delete.md) in **[!UICONTROL Risorse Dynamic Media]**, crea una cartella in **[!UICONTROL Risorse]**. La struttura di cartelle in **[!UICONTROL Risorse]** viene replicata in **[!UICONTROL Risorse Dynamic Media]**.
+   Per [creare una cartella](/help/using/add-delete.md) in **[!UICONTROL Risorse Dynamic Media]**, crea una cartella in **[!UICONTROL Risorse]**. La struttura di cartelle in **[!UICONTROL Risorse]** viene replicata in **[!UICONTROL Risorse Dynamic Media]**.
 1. Specifica un nome modello, definisci la larghezza e l’altezza dell’area di lavoro e fai clic su **[!UICONTROL Crea]**. Viene visualizzata un’area di lavoro vuota con opzioni di menu su entrambi i lati da utilizzare per la creazione del modello. Passa il puntatore del mouse sulle opzioni di menu per visualizzarne la descrizione comando.
    ![modello personalizzabile in tempo reale](/help/using/assets/blank-canvas-page.png)
 
@@ -181,7 +179,7 @@ Per parametrizzare un livello:
 1. **Facoltativo:** rinominare il nome del parametro. Il nome di un parametro è seguito da un suffisso. Per un livello selezionato, tutte le relative proprietà con parametri condividono lo stesso nome di livello seguito da un suffisso variabile. Rinomina il livello seguendo una convenzione di denominazione semantica: in questo modo, quando includerai il parametro nell’URL, il suo nome spiegherà chiaramente il contenuto o la funzione del livello stesso.
 1. Fai clic su **[!UICONTROL Salva]**.
    ![Creazione immediata di contenuti](/help/using/assets/parameterise-a-layer.png)
-Per passare dal pannello Parametri di un’immagine al livello testo, seleziona il livello nell’area di lavoro e fai clic su **[!UICONTROL Parametri]**.
+   Per passare dal pannello Parametri di un’immagine al livello testo, seleziona il livello nell’area di lavoro e fai clic su **[!UICONTROL Parametri]**.
 
 #### Opzione del pannello Parametri {#parameterisation-options-or-allowed-parameters}
 
