@@ -55,4 +55,4 @@ Se sei un dipendente di Adobe e vuoi fornire un contributo, ti chiediamo di util
 
 ## Informazioni sulla piattaforma di authoring GitHub e su Markdown di Adobe
 
-Per ulteriori informazioni su come utilizzare la piattaforma di authoring GitHub, consulta la [Guida per i collaboratori alla documentazione di Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Per ulteriori informazioni su come utilizzare la piattaforma di authoring GitHub, consulta la [Guida per i collaboratori alla documentazione di Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=it).
