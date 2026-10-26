@@ -5,16 +5,17 @@ exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
 TQID: https://experienceleague.adobe.com/fWLQ3XI2WVIbouGb7QXznoGhEoB-pHiHw-8P-Fo4128
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
+    internal-label: Leader
+source-git-commit: 8c5846e522315e4494bfd41caedbcc83e44637fe
 workflow-type: tm+mt
-source-wordcount: 1700
+source-wordcount: '1700'
 ht-degree: 100%
-
 ---
-
 # Gestione delle autorizzazioni per le cartelle {#manage-permissions}
 
 >[!CONTEXTUALHELP]
@@ -54,7 +55,7 @@ Per aggiungere gli amministratori:
 
 Crea gruppi di utenti e assegna le autorizzazioni a tali gruppi per gestire i livelli di accesso alle cartelle nell’archivio Assets Essentials. In seguito potrai assegnare gli utenti desiderati ai gruppi di utenti.
 
-![Aggiungere utenti a gruppi e profili di prodotto](assets/user-groups-product-profiles.svg)
+![Aggiungere utenti a gruppi e profili di prodotto](assets/user-group-product-profiles.png)
 
 Puoi aggiungere utenti ai gruppi di utenti (1) e [utenti ai profili di prodotto di Assets Essentials (2)](#add-admin-users). Tuttavia, non è possibile aggiungere gruppi di utenti direttamente ai profili di prodotto di Assets Essentials (3).
 
@@ -87,8 +88,8 @@ Puoi assegnare le seguenti autorizzazioni ai gruppi di utenti o agli utenti. Ado
 
 | Nome autorizzazione | Descrizione |
 |-----|------|
-| Può visualizzare | <ul><li>Accesso in lettura per visualizzare e sfogliare le cartelle </li><li>Visualizzare l’anteprima delle risorse</li><li>Scarica risorse</li><li>Copiare le risorse</li><li>Condividere collegamenti alle risorse</li><ul> |
-| Può modificare | <ul><li>Tutti i privilegi disponibili per le autorizzazioni Può visualizzare </li><li>Creare cartelle</li><li>Rimuovere cartelle</li><li>Rinominare le cartelle</li><li>Creare le risorse</li><li>Aggiornare le risorse</li><li>Rimuovere le risorse</li><li>Spostare le risorse</li><li>Rinominare le risorse</li><ul> |
+| Può visualizzare | <ul><li>Accesso in lettura per visualizzare e sfogliare le cartelle </li><li>Visualizzare l’anteprima delle risorse</li><li>Scaricare le risorse</li><li>Copiare le risorse</li><ul> |
+| Può modificare | <ul><li>Tutti i privilegi disponibili per le autorizzazioni Può visualizzare </li><li>Creare cartelle</li><li>Rimuovere cartelle</li><li>Rinominare le cartelle</li><li>Creare le risorse</li><li>Aggiornare le risorse</li><li>Rimuovere le risorse</li><li>Spostare le risorse</li><li>Rinominare le risorse</li><li>Condividere collegamenti alle risorse</li><ul> |
 | Proprietario | <ul><li>Tutti i privilegi disponibili per le autorizzazioni Può modificare</li><li>Gestire le autorizzazioni per una cartella e le relative sottocartelle</li>Questa autorizzazione consente agli amministratori di delegare i privilegi di amministratore ad altri utenti per una cartella e le relative sottocartelle.<ul> |
 | Nega accesso | Rimuovere le autorizzazioni Può visualizzare, Può modificare e Proprietario per una cartella e le relative sottocartelle. |
 
@@ -104,13 +105,13 @@ Ad esempio, se assegni le autorizzazioni `Can View` per una cartella a un super 
 
 Se devi fornire le autorizzazioni di modifica per la cartella `Marketing` solo al reparto marketing della tua organizzazione e le autorizzazioni di visualizzazione ad altri, puoi assegnare le autorizzazioni `Can View` al super gruppo `All Authenticated Users` e le autorizzazioni `Can Edit` al relativo sottogruppo `Marketing`.
 
-![Assegnare le autorizzazioni](assets/permissions-management-groups.svg)
+![Assegnare le autorizzazioni](assets/permissions-management-group.png)
 
 **Ereditarietà delle autorizzazioni**
 
 Assets Essentials utilizza l’ereditarietà delle autorizzazioni, che consente alla cartella secondaria di ereditare le autorizzazioni impostate per la cartella principale. Ad esempio, se la cartella principale ha le autorizzazioni `Can View` per il gruppo `All Authenticated Users` e la cartella secondaria ha le autorizzazioni `Can Edit` per il gruppo di utenti `Marketing`, questo consente a tutti gli utenti autenticati di avere le autorizzazioni di visualizzazione per la cartella secondaria e al gruppo di utenti `Marketing` di disporre di quelle di modifica per la cartella secondaria. Il gruppo di utenti `Marketing` dispone delle autorizzazioni di modifica per ulteriori livelli di cartelle nella cartella secondaria (Marketing).
 
-![Assegnare le autorizzazioni](assets/permissions-inheritance.svg)
+![Assegnare le autorizzazioni](assets/permission-inheritance.png)
 
 >[!NOTE]
 >
@@ -206,9 +207,9 @@ Di seguito sono riportati i livelli di accesso per tutti i gruppi di utenti nell
 
 * /progetti: tutti gli utenti possono visualizzare le cartelle e le relative sottocartelle in base all’ereditarietà delle autorizzazioni. Il gruppo utenti del Team di project manager dispone delle seguenti autorizzazioni:
 
-   * Autorizzazioni di modifica
+  * Autorizzazioni di modifica
 
-   * Autorizzazioni di proprietario: consente di gestire le autorizzazioni per una cartella e le relative sottocartelle.
+  * Autorizzazioni di proprietario: consente di gestire le autorizzazioni per una cartella e le relative sottocartelle.
 
 * /progetti/progetto-x: tutti gli utenti possono visualizzare le cartelle e le relative sottocartelle. Il gruppo utenti Team di project manager dispone delle autorizzazioni di modifica e può gestire le autorizzazioni per una cartella e le relative sottocartelle (autorizzazioni di proprietario). Il gruppo utenti del Team del progetto X dispone di autorizzazioni di modifica.
 
@@ -220,4 +221,4 @@ Di seguito sono riportati i livelli di accesso per tutti i gruppi di utenti nell
 
 * Fornisci feedback alla documentazione utilizzando [!UICONTROL Modifica questa pagina] ![modifica la pagina](assets/do-not-localize/edit-page.png) o [!UICONTROL Segnala un problema] ![crea un problema GitHub](assets/do-not-localize/github-issue.png) disponibile sulla barra laterale destra
 
-* Contatta il [Servizio clienti](https://experienceleague.adobe.com/it?support-solution=General&lang=it#support)
+* Contatta il [Servizio clienti](https://experienceleague.adobe.com/?support-solution=General&lang=it#support)
