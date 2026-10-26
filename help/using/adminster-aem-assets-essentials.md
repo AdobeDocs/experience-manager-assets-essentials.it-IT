@@ -7,7 +7,7 @@ product_v2:
     internal-label: Experience Manager
   - id: d09181b5-a36a-43de-ba01-36641440bc43
     internal-label: Experience Manager Assets
-source-git-commit: b4d4525733ecb7beeec9babd93b479a89760e820
+source-git-commit: f15fe91faf6a1f1341e4f4cda45bbe10bcd19544
 workflow-type: tm+mt
 source-wordcount: '1417'
 ht-degree: 100%
@@ -29,7 +29,7 @@ Il provisioning di [!DNL Adobe Experience Manager Assets Essentials] viene esegu
 
 Il diagramma di flusso di dati seguente illustra la sequenza di attività che un amministratore deve eseguire per configurare e gestire Assets Essentials:
 
-![Flusso di amministrazione di Assets Essentials](assets/permissions-management-cce-next.svg)
+![Flusso di amministrazione di Assets Essentials](assets/permission-management-cce-next.png)
 
 ## Accedere a Admin Console {#access-admin-console}
 
@@ -84,7 +84,7 @@ Crea dei gruppi di utenti, quindi assegna gli utenti ai gruppi. Questi gruppi di
 
 Puoi aggiungere utenti ai gruppi di utenti (1) e [utenti ai profili di prodotto di Assets Essentials (2)](#add-admin-users). Tuttavia, non è possibile aggiungere gruppi di utenti direttamente ai profili di prodotto di Assets Essentials (3).
 
-![Aggiungere utenti a gruppi e profili di prodotto](assets/user-groups-product-profiles.svg)
+![Aggiungere utenti a gruppi e profili di prodotto](assets/user-group-product-profiles.png)
 
 Per informazioni su come gestire i gruppi di utenti, consulta `Create user groups` e `Edit user groups` disponibili in [Gestione di gruppi di utenti](https://helpx.adobe.com/it/enterprise/using/user-groups.html).
 
@@ -136,7 +136,7 @@ Quando inizi a pianificare la creazione di una struttura di cartelle nell’arch
 
 Sono disponibili vari tipi di strutture di cartelle che puoi utilizzare nella tua organizzazione. Di seguito sono riportati alcuni esempi di tipiche strutture di cartelle:
 
-![Strutture di cartelle tipiche](assets/folder-structure.svg)
+![Strutture di cartelle tipiche](assets/folder-structure-new.png)
 
 ### Gestione delle autorizzazioni per le cartelle {#manage-permissions-for-folders}
 

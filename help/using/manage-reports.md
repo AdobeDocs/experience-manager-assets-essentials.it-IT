@@ -16,7 +16,7 @@ topic_v2:
     internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 10c0e2375ba16dfeeeeca8f0b816ca366254dd67
+source-git-commit: 8c5846e522315e4494bfd41caedbcc83e44637fe
 workflow-type: tm+mt
 source-wordcount: '1261'
 ht-degree: 100%
@@ -50,7 +50,7 @@ L’ambiente AEM Assets Essentials offre funzionalità di reporting complete tra
 **Per creare un rapporto:**
 
 1. Passa a **Rapporti** e fai clic su **Crea rapporto** (in alto a destra). La finestra di dialogo **crea rapporto** mostra i campi seguenti:
-   ![create-report](/help/using/assets/executed-reports1.svg)
+   ![create-report](/help/using/assets/executed-reports1.png)
 
    **Nella scheda Configurazione:**
 
@@ -152,7 +152,7 @@ Per pianificare un rapporto, effettua le seguenti operazioni:
    1. **Descrizione**: aggiungi una descrizione facoltativa al rapporto.
    1. **Seleziona il percorso della cartella:** seleziona il percorso di una cartella per generare un rapporto per le risorse che verranno caricate o scaricate in futuro da tale cartella specifica.
    1. Attiva/disattiva **Pianifica rapporto:** attiva/disattiva la pianificazione del rapporto per un momento successivo o per la sua occorrenza ripetuta.
-      ![pianifica rapporto](/help/using/assets/schedule-reports1.svg)
+      ![pianifica rapporto](/help/using/assets/schedule-reports1.png)
 
    1. **Scegli la frequenza:** specifica l’intervallo di generazione del rapporto (ad esempio giornaliero, settimanale, mensile, annuale o una volta) e imposta la data e l’ora di esecuzione del rapporto insieme alla data di fine per la ricorrenza. Per un rapporto una tantum, seleziona l’intervallo di date per il rapporto sul tipo di attività selezionato nell’ambiente AEM. Ad esempio, se hai bisogno di un rapporto sulle risorse scaricate dal 10 al 29 (date future) di un mese specifico, seleziona queste date nel campo **Seleziona intervallo date**.
 
@@ -196,21 +196,21 @@ Assets Essentials consente di visualizzare in tempo reale i dati del tuo ambient
 Fai clic su **[!UICONTROL Insight]** nel riquadro di navigazione a sinistra per visualizzare i seguenti grafici generati automaticamente:
 
 * **Download**: numero di risorse scaricate dall’ambiente Assets Essentials negli ultimi 30 giorni o 12 mesi rappresentato da un grafico a linee.
-  ![download](/help/using/assets/insights-downloads2341.svg)
+  ![download](/help/using/assets/insights-downloads2341.png)
 
 * **Caricamenti**: numero di risorse caricate nell’ambiente Assets Essentials negli ultimi 30 giorni o 12 mesi rappresentato da un grafico a linee.
-  ![caricamenti](/help/using/assets/insights-uplods2.svg)
+  ![caricamenti](/help/using/assets/insights-uplods2.png)
 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
 * **Utilizzo archiviazione**: utilizzo dell’archiviazione, in byte, per l’ambiente di Assets Essentials rappresentato da un grafico a barre.
-  ![utilizzo archiviazione](/help/using/assets/insights-storage-usage1.svg)
+  ![utilizzo archiviazione](/help/using/assets/insights-storage-usage1.png)
   <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
 * **Ricerche principali**: visualizza i termini più cercati e il numero di volte in cui tali termini sono stati cercati nell’ambiente Assets Essentials negli ultimi 30 giorni o 12 mesi rappresentato in formato tabulare.
-  ![utilizzo archiviazione](/help/using/assets/insights-top-search.svg)
+  ![utilizzo archiviazione](/help/using/assets/insights-top-search.png)
 
   <!--
    ![Insights](assets/insights1.png)
@@ -218,8 +218,8 @@ Fai clic su **[!UICONTROL Insight]** nel riquadro di navigazione a sinistra per 
    -->
 
 * **Numero di risorse per dimensione:** suddivide il numero totale di risorse nell’ambiente Assets Essentials in intervalli di dimensioni diversi, evidenziando il conteggio e la percentuale delle risorse in ciascun intervallo di dimensioni, rappresentate utilizzando un grafico ad anello.
-  ![insights-assets-count-by-size](/help/using/assets/insights-assets-count-by-size.svg)
+  ![insights-assets-count-by-size](/help/using/assets/insights-assets-count-by-size.png)
 
 * **Numero di risorse per tipo di risorsa:** suddivide il numero totale di risorse nell’ambiente Assets Essentials, evidenziando il conteggio e la percentuale delle risorse in base ai relativi tipi di file, rappresentati da un grafico ad anello.
-  ![insights-assets-count-by-size](/help/using/assets/insights-assest-count-by-asset-type1.svg)
+  ![insights-assets-count-by-size](/help/using/assets/insights-assest-count-by-asset-type1.png)
 

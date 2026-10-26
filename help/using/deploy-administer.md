@@ -17,7 +17,7 @@ topic_v2:
     internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 10c0e2375ba16dfeeeeca8f0b816ca366254dd67
+source-git-commit: 8c5846e522315e4494bfd41caedbcc83e44637fe
 workflow-type: tm+mt
 source-wordcount: '1365'
 ht-degree: 99%
@@ -29,7 +29,7 @@ Il provisioning di [!DNL Adobe Experience Manager Assets Essentials] viene esegu
 
 Il diagramma di flusso di dati seguente illustra la sequenza di attività che un amministratore deve eseguire per configurare e gestire Assets Essentials:
 
-![Implementare Assets Essentials](assets/deploy-assets-essentials.svg)
+![Implementare Assets Essentials](assets/deploy-assets-essentials.png)
 
 ## Accedere a Admin Console {#access-admin-console}
 
@@ -123,7 +123,7 @@ Crea una struttura di cartelle che sia adatta agli obiettivi aziendali dell’or
 
 Sono disponibili vari tipi di strutture di cartelle che puoi utilizzare nella tua organizzazione. Di seguito sono riportati alcuni esempi di tipiche strutture di cartelle:
 
-![Strutture di cartelle tipiche](assets/folder-structure.svg)
+![Strutture di cartelle tipiche](assets/folder-structure-new.png)
 
 >[!NOTE]
 >
