@@ -179,8 +179,8 @@ A differenza delle cartelle, una raccolta può includere risorse da posizioni di
 
 >[!MORELIKETHIS]
 >
->* Aiuto di [[!DNL Admin Console] ](https://helpx.adobe.com/it/enterprise/using/admin-console.html)
->* Aiuto di [[!DNL Cloud Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=it)
+>* Aiuto di [[!DNL Admin Console] &#x200B;](https://helpx.adobe.com/it/enterprise/using/admin-console.html)
+>* Aiuto di [[!DNL Cloud Manager] &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=it)
 >* [Documentazione di Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it)
 >* [Note sulla versione](release-notes.md)
 >* [Iniziare a utilizzare [!DNL Assets Essentials]](get-started.md)
